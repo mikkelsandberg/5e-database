@@ -1987,5 +1987,399 @@
       }
     ],
     "url": "/api/nonplayer-characters/scout"
+  },
+  {
+    "index": "spy",
+    "name": "Spy",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "any alignment",
+    "armor_class": 12,
+    "hit_points": 27,
+    "hit_dice": "6d8",
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 10,
+    "dexterity": 15,
+    "constitution": 10,
+    "intelligence": 12,
+    "wisdom": 14,
+    "charisma": 16,
+    "proficiencies": [
+      {
+        "name": "Skill: Deception",
+        "url": "/api/proficiencies/skill-deception",
+        "value": 5
+      },
+      {
+        "name": "Skill: Insight",
+        "url": "/api/proficiencies/skill-insight",
+        "value": 4
+      },
+      {
+        "name": "Skill: Investigation",
+        "url": "/api/proficiencies/skill-investigation",
+        "value": 5
+      },
+      {
+        "name": "Skill: Perception",
+        "url": "/api/proficiencies/skill-perception",
+        "value": 6
+      },
+      {
+        "name": "Skill: Persuasion",
+        "url": "/api/proficiencies/skill-persuasion",
+        "value": 5
+      },
+      {
+        "name": "Skill: Stealth",
+        "url": "/api/proficiencies/skill-stealth",
+        "value": 4
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 16
+    },
+    "languages": "any two languages",
+    "challenge_rating": 1,
+    "special_abilities": [
+      {
+        "name": "Cunning Action",
+        "desc": "On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action."
+      },
+      {
+        "name": "Sneak Attack (1/Turn)",
+        "desc": "The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "desc": "The spy makes two melee attacks.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Shortsword",
+                "count": 2,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "name": "Shortsword",
+        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d6+2"
+          }
+        ]
+      },
+      {
+        "name": "Hand Crossbow",
+        "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d6+2"
+          }
+        ]
+      }
+    ],
+    "url": "/api/nonplayer-characters/spy"
+  },
+  {
+    "index": "thug",
+    "name": "Thug",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "any non-good alignment",
+    "armor_class": 11,
+    "hit_points": 32,
+    "hit_dice": "5d8",
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 15,
+    "dexterity": 11,
+    "constitution": 14,
+    "intelligence": 10,
+    "wisdom": 10,
+    "charisma": 11,
+    "proficiencies": [
+      {
+        "name": "Skill: Intimidation",
+        "url": "/api/proficiencies/skill-intimidation",
+        "value": 2
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 10
+    },
+    "languages": "any one language (usually Common)",
+    "challenge_rating": 0.5,
+    "special_abilities": [
+      {
+        "name": "Pack Tactics",
+        "desc": "The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 ft. of the creature and the ally isn't incapacitated."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "desc": "The thug makes two melee attacks.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Mace",
+                "count": 2,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "name": "Mace",
+        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.",
+        "attack_bonus": 4,
+        "damage": [
+          {
+            "damage_type": {
+              "name": "Bludgeoning",
+              "url": "/api/damage-types/bludgeoning"
+            },
+            "damage_dice": "1d6+2"
+          }
+        ]
+      },
+      {
+        "name": "Heavy Crossbow",
+        "desc": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.",
+        "attack_bonus": 2,
+        "damage": [
+          {
+            "damage_type": {
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d10"
+          }
+        ]
+      }
+    ],
+    "url": "/api/nonplayer-characters/thug"
+  },
+  {
+    "index": "tribal-warrior",
+    "name": "Tribal Warrior",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "any alignment",
+    "armor_class": 12,
+    "hit_points": 11,
+    "hit_dice": "2d8",
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 13,
+    "dexterity": 11,
+    "constitution": 12,
+    "intelligence": 8,
+    "wisdom": 11,
+    "charisma": 8,
+    "proficiencies": [],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 10
+    },
+    "languages": "any one language",
+    "challenge_rating": 0.125,
+    "special_abilities": [
+      {
+        "name": "Pack Tactics",
+        "desc": "The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Spear",
+        "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.",
+        "attack_bonus": 3,
+        "damage": [
+          {
+            "choose": 1,
+            "type": "damage",
+            "from": [
+              {
+                "damage_type": {
+                  "name": "Piercing",
+                  "url": "/api/damage-types/piercing"
+                },
+                "damage_dice": "1d6+1"
+              },
+              {
+                "damage_type": {
+                  "name": "Piercing",
+                  "url": "/api/damage-types/piercing"
+                },
+                "damage_dice": "1d8+1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "url": "/api/nonplayer-characters/tribal-warrior"
+  },
+  {
+    "index": "veteran",
+    "name": "Veteran",
+    "size": "Medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "any alignment",
+    "armor_class": 17,
+    "hit_points": 58,
+    "hit_dice": "9d8",
+    "speed": {
+      "walk": "30 ft."
+    },
+    "strength": 16,
+    "dexterity": 13,
+    "constitution": 14,
+    "intelligence": 10,
+    "wisdom": 11,
+    "charisma": 10,
+    "proficiencies": [
+      {
+        "name": "Skill: Athletics",
+        "url": "/api/proficiencies/skill-athletics",
+        "value": 5
+      },
+      {
+        "name": "Skill: Perception",
+        "url": "/api/proficiencies/skill-perception",
+        "value": 2
+      }
+    ],
+    "damage_vulnerabilities": [],
+    "damage_resistances": [],
+    "damage_immunities": [],
+    "condition_immunities": [],
+    "senses": {
+      "passive_perception": 12
+    },
+    "languages": "any one language (usually Common)",
+    "challenge_rating": 3,
+    "actions": [
+      {
+        "name": "Multiattack",
+        "desc": "The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.",
+        "options": {
+          "choose": 1,
+          "from": [
+            [
+              {
+                "name": "Longsword",
+                "count": 2,
+                "type": "melee"
+              },
+              {
+                "name": "Shortsword",
+                "note": "If shortsword is drawn",
+                "count": 2,
+                "type": "melee"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "name": "Longsword",
+        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
+        "attack_bonus": 5,
+        "damage": [
+          {
+            "choose": 1,
+            "type": "damage",
+            "from": [
+              {
+                "damage_type": {
+                  "name": "Slashing",
+                  "url": "/api/damage-types/slashing"
+                },
+                "damage_dice": "1d8+3"
+              },
+              {
+                "damage_type": {
+                  "name": "Thunder",
+                  "url": "/api/damage-types/thunder"
+                },
+                "damage_dice": "1d10+3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shortsword",
+        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+        "attack_bonus": 5,
+        "damage": [
+          {
+            "damage_type": {
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d6+3"
+          }
+        ]
+      },
+      {
+        "name": "Heavy Crossbow",
+        "desc": "Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.",
+        "attack_bonus": 3,
+        "damage": [
+          {
+            "damage_type": {
+              "name": "Piercing",
+              "url": "/api/damage-types/piercing"
+            },
+            "damage_dice": "1d10+1"
+          }
+        ]
+      }
+    ],
+    "url": "/api/nonplayer-characters/veteran"
   }
 ]
