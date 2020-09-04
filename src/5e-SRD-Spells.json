@@ -2733,7 +2733,7 @@
     "name": "Contingency",
     "desc": [
       "Choose a spell of 5th level or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell--called the contingent spell--as part of casting contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with water breathing might stipulate that water breathing comes into effect when you are engulfed in water or a similar liquid.",
-      "The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to. and then contingency ends.",
+      "The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then contingency ends.",
       "The contingent spell takes effect only on you, even if it can normally target others. You can use only one contingency spell at a time. If you cast this spell again, the effect of another contingency spell on you ends. Also, contingency ends on you if its material component is ever not on your person."
     ],
     "range": "Self",
@@ -2980,46 +2980,6 @@
     "url": "/api/spells/create-food-and-water"
   },
   {
-    "index": "create-undead",
-    "name": "Create Undead",
-    "desc": [
-      "You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control. (The DM has game statistics for these creatures.)",
-      "As a bonus action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.",
-      "The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones."
-    ],
-    "higher_level": [
-      "When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies."
-    ],
-    "range": "10 feet",
-    "components": ["V", "S", "M"],
-    "material": "One clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse.",
-    "ritual": false,
-    "duration": "Instantaneous",
-    "concentration": false,
-    "casting_time": "1 minute",
-    "level": 6,
-    "school": {
-      "name": "Necromancy",
-      "url": "/api/magic-schools/necromancy"
-    },
-    "classes": [
-      {
-        "name": "Cleric",
-        "url": "/api/classes/cleric"
-      },
-      {
-        "name": "Warlock",
-        "url": "/api/classes/warlock"
-      },
-      {
-        "name": "Wizard",
-        "url": "/api/classes/wizard"
-      }
-    ],
-    "subclasses": [],
-    "url": "/api/spells/create-undead"
-  },
-  {
     "index": "create-or-destroy-water",
     "name": "Create or Destroy Water",
     "desc": [
@@ -3065,6 +3025,46 @@
       }
     ],
     "url": "/api/spells/create-or-destroy-water"
+  },
+  {
+    "index": "create-undead",
+    "name": "Create Undead",
+    "desc": [
+      "You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control. (The DM has game statistics for these creatures.)",
+      "As a bonus action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.",
+      "The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones."
+    ],
+    "higher_level": [
+      "When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies."
+    ],
+    "range": "10 feet",
+    "components": ["V", "S", "M"],
+    "material": "One clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse.",
+    "ritual": false,
+    "duration": "Instantaneous",
+    "concentration": false,
+    "casting_time": "1 minute",
+    "level": 6,
+    "school": {
+      "name": "Necromancy",
+      "url": "/api/magic-schools/necromancy"
+    },
+    "classes": [
+      {
+        "name": "Cleric",
+        "url": "/api/classes/cleric"
+      },
+      {
+        "name": "Warlock",
+        "url": "/api/classes/warlock"
+      },
+      {
+        "name": "Wizard",
+        "url": "/api/classes/wizard"
+      }
+    ],
+    "subclasses": [],
+    "url": "/api/spells/create-undead"
   },
   {
     "index": "creation",
@@ -5099,6 +5099,38 @@
     "url": "/api/spells/find-steed"
   },
   {
+    "index": "find-the-path",
+    "name": "Find the Path",
+    "desc": [
+      "This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you name a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a destination that isn't specific (such as \"a green dragon's lair\"), the spell fails.",
+      "For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. While you are traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination."
+    ],
+    "range": "Self",
+    "components": ["V", "S", "M"],
+    "material": "A set of divinatory tools--such as bones, ivory sticks, cards, teeth, or carved runes--worth 100gp and an object from the location you wish to find.",
+    "ritual": false,
+    "duration": "Up to 24 hours",
+    "concentration": true,
+    "casting_time": "1 minute",
+    "level": 6,
+    "school": {
+      "name": "Divination",
+      "url": "/api/magic-schools/divination"
+    },
+    "classes": [
+      {
+        "name": "Bard",
+        "url": "/api/classes/bard"
+      },
+      {
+        "name": "Cleric",
+        "url": "/api/classes/cleric"
+      }
+    ],
+    "subclasses": [],
+    "url": "/api/spells/find-the-path"
+  },
+  {
     "index": "find-traps",
     "name": "Find Traps",
     "desc": [
@@ -5137,38 +5169,6 @@
       }
     ],
     "url": "/api/spells/find-traps"
-  },
-  {
-    "index": "find-the-path",
-    "name": "Find the Path",
-    "desc": [
-      "This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you name a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a destination that isn't specific (such as \"a green dragon's lair\"), the spell fails.",
-      "For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. While you are traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination."
-    ],
-    "range": "Self",
-    "components": ["V", "S", "M"],
-    "material": "A set of divinatory tools--such as bones, ivory sticks, cards, teeth, or carved runes--worth 100gp and an object from the location you wish to find.",
-    "ritual": false,
-    "duration": "Up to 24 hours",
-    "concentration": true,
-    "casting_time": "1 minute",
-    "level": 6,
-    "school": {
-      "name": "Divination",
-      "url": "/api/magic-schools/divination"
-    },
-    "classes": [
-      {
-        "name": "Bard",
-        "url": "/api/classes/bard"
-      },
-      {
-        "name": "Cleric",
-        "url": "/api/classes/cleric"
-      }
-    ],
-    "subclasses": [],
-    "url": "/api/spells/find-the-path"
   },
   {
     "index": "finger-of-death",
@@ -5220,6 +5220,76 @@
     ],
     "subclasses": [],
     "url": "/api/spells/finger-of-death"
+  },
+  {
+    "index": "fireball",
+    "name": "Fireball",
+    "desc": [
+      "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.",
+      "The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried."
+    ],
+    "higher_level": [
+      "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd."
+    ],
+    "range": "150 feet",
+    "components": ["V", "S", "M"],
+    "material": "A tiny ball of bat guano and sulfur.",
+    "ritual": false,
+    "duration": "Instantaneous",
+    "concentration": false,
+    "casting_time": "1 action",
+    "level": 3,
+    "damage": {
+      "damage_type": {
+        "name": "Fire",
+        "url": "/api/damage-types/fire"
+      },
+      "damage_at_slot_level": {
+        "3": "8d6",
+        "4": "9d6",
+        "5": "10d6",
+        "6": "11d6",
+        "7": "12d6",
+        "8": "13d6",
+        "9": "14d6"
+      }
+    },
+    "dc": {
+      "dc_type": {
+        "name": "DEX",
+        "url": "/api/ability-scores/dex"
+      },
+      "dc_success": "half"
+    },
+    "area_of_effect": {
+      "type": "sphere",
+      "size": 20
+    },
+    "school": {
+      "name": "Evocation",
+      "url": "/api/magic-schools/evocation"
+    },
+    "classes": [
+      {
+        "name": "Sorcerer",
+        "url": "/api/classes/sorcerer"
+      },
+      {
+        "name": "Wizard",
+        "url": "/api/classes/wizard"
+      }
+    ],
+    "subclasses": [
+      {
+        "name": "Lore",
+        "url": "/api/subclasses/lore"
+      },
+      {
+        "name": "Fiend",
+        "url": "/api/subclasses/fiend"
+      }
+    ],
+    "url": "/api/spells/fireball"
   },
   {
     "index": "fire-bolt",
@@ -5366,76 +5436,6 @@
     ],
     "subclasses": [],
     "url": "/api/spells/fire-storm"
-  },
-  {
-    "index": "fireball",
-    "name": "Fireball",
-    "desc": [
-      "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.",
-      "The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried."
-    ],
-    "higher_level": [
-      "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd."
-    ],
-    "range": "150 feet",
-    "components": ["V", "S", "M"],
-    "material": "A tiny ball of bat guano and sulfur.",
-    "ritual": false,
-    "duration": "Instantaneous",
-    "concentration": false,
-    "casting_time": "1 action",
-    "level": 3,
-    "damage": {
-      "damage_type": {
-        "name": "Fire",
-        "url": "/api/damage-types/fire"
-      },
-      "damage_at_slot_level": {
-        "3": "8d6",
-        "4": "9d6",
-        "5": "10d6",
-        "6": "11d6",
-        "7": "12d6",
-        "8": "13d6",
-        "9": "14d6"
-      }
-    },
-    "dc": {
-      "dc_type": {
-        "name": "DEX",
-        "url": "/api/ability-scores/dex"
-      },
-      "dc_success": "half"
-    },
-    "area_of_effect": {
-      "type": "sphere",
-      "size": 20
-    },
-    "school": {
-      "name": "Evocation",
-      "url": "/api/magic-schools/evocation"
-    },
-    "classes": [
-      {
-        "name": "Sorcerer",
-        "url": "/api/classes/sorcerer"
-      },
-      {
-        "name": "Wizard",
-        "url": "/api/classes/wizard"
-      }
-    ],
-    "subclasses": [
-      {
-        "name": "Lore",
-        "url": "/api/subclasses/lore"
-      },
-      {
-        "name": "Fiend",
-        "url": "/api/subclasses/fiend"
-      }
-    ],
-    "url": "/api/spells/fireball"
   },
   {
     "index": "flame-blade",
