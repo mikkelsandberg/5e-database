@@ -48,7 +48,7 @@
             "label": "cleric-1",
             "type": "level",
             "name": "Cleric 1",
-            "url": "classes/cleric/levels/1"
+            "url": "levels/cleric-1"
           }
         ],
         "spell": {
@@ -63,7 +63,7 @@
             "label": "cleric-1",
             "type": "level",
             "name": "Cleric 1",
-            "url": "classes/cleric/levels/1"
+            "url": "levels/cleric-1"
           }
         ],
         "spell": {
@@ -78,7 +78,7 @@
             "label": "cleric-3",
             "type": "level",
             "name": "Cleric 3",
-            "url": "classes/cleric/levels/3"
+            "url": "levels/cleric-3"
           }
         ],
         "spell": {
@@ -93,7 +93,7 @@
             "label": "cleric-3",
             "type": "level",
             "name": "Cleric 3",
-            "url": "classes/cleric/levels/3"
+            "url": "levels/cleric-3"
           }
         ],
         "spell": {
@@ -108,7 +108,7 @@
             "label": "cleric-5",
             "type": "level",
             "name": "Cleric 5",
-            "url": "classes/cleric/levels/5"
+            "url": "levels/cleric-5"
           }
         ],
         "spell": {
@@ -123,7 +123,7 @@
             "label": "cleric-5",
             "type": "level",
             "name": "Cleric 5",
-            "url": "classes/cleric/levels/5"
+            "url": "levels/cleric-5"
           }
         ],
         "spell": {
@@ -138,7 +138,7 @@
             "label": "cleric-7",
             "type": "level",
             "name": "Cleric 7",
-            "url": "classes/cleric/levels/7"
+            "url": "levels/cleric-7"
           }
         ],
         "spell": {
@@ -153,7 +153,7 @@
             "label": "cleric-9",
             "type": "level",
             "name": "Cleric 9",
-            "url": "classes/cleric/levels/9"
+            "url": "levels/cleric-9"
           }
         ],
         "spell": {
@@ -168,7 +168,7 @@
             "label": "cleric-9",
             "type": "level",
             "name": "Cleric 9",
-            "url": "classes/cleric/levels/9"
+            "url": "levels/cleric-9"
           }
         ],
         "spell": {
@@ -200,7 +200,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-arctic",
@@ -221,7 +221,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-arctic",
@@ -242,7 +242,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-arctic",
@@ -263,7 +263,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-arctic",
@@ -284,7 +284,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-arctic",
@@ -305,7 +305,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-arctic",
@@ -326,7 +326,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-arctic",
@@ -347,7 +347,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-arctic",
@@ -368,7 +368,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-coast",
@@ -389,7 +389,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-coast",
@@ -410,7 +410,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-coast",
@@ -431,7 +431,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-coast",
@@ -452,7 +452,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-coast",
@@ -473,7 +473,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-coast",
@@ -494,7 +494,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-coast",
@@ -515,7 +515,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-coast",
@@ -536,7 +536,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-desert",
@@ -557,7 +557,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-desert",
@@ -578,7 +578,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-desert",
@@ -599,7 +599,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-desert",
@@ -620,7 +620,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-desert",
@@ -641,7 +641,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-desert",
@@ -662,7 +662,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-desert",
@@ -683,7 +683,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-desert",
@@ -704,7 +704,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-forest",
@@ -725,7 +725,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-forest",
@@ -746,7 +746,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-forest",
@@ -767,7 +767,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-forest",
@@ -788,7 +788,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-forest",
@@ -809,7 +809,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-forest",
@@ -830,7 +830,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-forest",
@@ -851,7 +851,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-forest",
@@ -872,7 +872,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-grassland",
@@ -893,7 +893,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-grassland",
@@ -914,7 +914,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-grassland",
@@ -935,7 +935,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-grassland",
@@ -956,7 +956,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-grassland",
@@ -977,7 +977,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-grassland",
@@ -998,7 +998,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-grassland",
@@ -1019,7 +1019,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-grassland",
@@ -1040,7 +1040,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-mountain",
@@ -1061,7 +1061,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-mountain",
@@ -1082,7 +1082,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-mountain",
@@ -1103,7 +1103,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-mountain",
@@ -1124,7 +1124,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-mountain",
@@ -1145,7 +1145,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-mountain",
@@ -1166,7 +1166,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-mountain",
@@ -1187,7 +1187,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-mountain",
@@ -1208,7 +1208,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-swamp",
@@ -1229,7 +1229,7 @@
             "label": "druid-3",
             "type": "level",
             "name": "Druid 3",
-            "url": "classes/druid/levels/3"
+            "url": "levels/druid-3"
           },
           {
             "label": "circle-of-the-land-swamp",
@@ -1250,7 +1250,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-swamp",
@@ -1271,7 +1271,7 @@
             "label": "druid-5",
             "type": "level",
             "name": "Druid 5",
-            "url": "classes/druid/levels/5"
+            "url": "levels/druid-5"
           },
           {
             "label": "circle-of-the-land-swamp",
@@ -1292,7 +1292,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-swamp",
@@ -1313,7 +1313,7 @@
             "label": "druid-7",
             "type": "level",
             "name": "Druid 7",
-            "url": "classes/druid/levels/7"
+            "url": "levels/druid-7"
           },
           {
             "label": "circle-of-the-land-swamp",
@@ -1334,7 +1334,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-swamp",
@@ -1355,7 +1355,7 @@
             "label": "druid-9",
             "type": "level",
             "name": "Druid 9",
-            "url": "classes/druid/levels/9"
+            "url": "levels/druid-9"
           },
           {
             "label": "circle-of-the-land-swamp",
@@ -1423,7 +1423,7 @@
             "label": "paladin-3",
             "type": "level",
             "name": "Paladin 3",
-            "url": "classes/paladin/levels/3"
+            "url": "levels/paladin-3"
           }
         ],
         "spell": {
@@ -1438,7 +1438,7 @@
             "label": "paladin-3",
             "type": "level",
             "name": "Paladin 3",
-            "url": "classes/paladin/levels/3"
+            "url": "levels/paladin-3"
           }
         ],
         "spell": {
@@ -1453,7 +1453,7 @@
             "label": "paladin-5",
             "type": "level",
             "name": "Paladin 5",
-            "url": "classes/paladin/levels/5"
+            "url": "levels/paladin-5"
           }
         ],
         "spell": {
@@ -1468,7 +1468,7 @@
             "label": "paladin-5",
             "type": "level",
             "name": "Paladin 5",
-            "url": "classes/paladin/levels/5"
+            "url": "levels/paladin-5"
           }
         ],
         "spell": {
@@ -1483,7 +1483,7 @@
             "label": "paladin-9",
             "type": "level",
             "name": "Paladin 9",
-            "url": "classes/paladin/levels/9"
+            "url": "levels/paladin-9"
           }
         ],
         "spell": {
@@ -1498,7 +1498,7 @@
             "label": "paladin-9",
             "type": "level",
             "name": "Paladin 9",
-            "url": "classes/paladin/levels/9"
+            "url": "levels/paladin-9"
           }
         ],
         "spell": {
@@ -1513,7 +1513,7 @@
             "label": "paladin-13",
             "type": "level",
             "name": "Paladin 13",
-            "url": "classes/paladin/levels/13"
+            "url": "levels/paladin-13"
           }
         ],
         "spell": {
@@ -1528,7 +1528,7 @@
             "label": "paladin-17",
             "type": "level",
             "name": "Paladin 17",
-            "url": "classes/paladin/levels/17"
+            "url": "levels/paladin-17"
           }
         ],
         "spell": {
@@ -1543,7 +1543,7 @@
             "label": "paladin-17",
             "type": "level",
             "name": "Paladin 17",
-            "url": "classes/paladin/levels/17"
+            "url": "levels/paladin-17"
           }
         ],
         "spell": {
@@ -1620,7 +1620,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
@@ -1635,7 +1635,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
@@ -1650,7 +1650,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
@@ -1665,7 +1665,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
@@ -1680,7 +1680,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
@@ -1695,7 +1695,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
@@ -1710,7 +1710,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
@@ -1725,7 +1725,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
@@ -1740,7 +1740,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
@@ -1755,7 +1755,7 @@
             "label": "warlock-1",
             "type": "level",
             "name": "Warlock 1",
-            "url": "classes/warlock/levels/1"
+            "url": "levels/warlock-1"
           }
         ],
         "spell": {
