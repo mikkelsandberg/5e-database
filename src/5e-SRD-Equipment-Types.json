@@ -1,0 +1,2328 @@
+[
+  {
+    "index": "weapon",
+    "name": "Weapon",
+    "equipment": [
+      {
+        "name": "Club",
+        "url": "equipment-items/club"
+      },
+      {
+        "name": "Dagger",
+        "url": "equipment-items/dagger"
+      },
+      {
+        "name": "Greatclub",
+        "url": "equipment-items/greatclub"
+      },
+      {
+        "name": "Handaxe",
+        "url": "equipment-items/handaxe"
+      },
+      {
+        "name": "Javelin",
+        "url": "equipment-items/javelin"
+      },
+      {
+        "name": "Light hammer",
+        "url": "equipment-items/light-hammer"
+      },
+      {
+        "name": "Mace",
+        "url": "equipment-items/mace"
+      },
+      {
+        "name": "Quarterstaff",
+        "url": "equipment-items/quarterstaff"
+      },
+      {
+        "name": "Sickle",
+        "url": "equipment-items/sickle"
+      },
+      {
+        "name": "Spear",
+        "url": "equipment-items/spear"
+      },
+      {
+        "name": "Crossbow, light",
+        "url": "equipment-items/crossbow-light"
+      },
+      {
+        "name": "Dart",
+        "url": "equipment-items/dart"
+      },
+      {
+        "name": "Shortbow",
+        "url": "equipment-items/shortbow"
+      },
+      {
+        "name": "Sling",
+        "url": "equipment-items/sling"
+      },
+      {
+        "name": "Battleaxe",
+        "url": "equipment-items/battleaxe"
+      },
+      {
+        "name": "Flail",
+        "url": "equipment-items/flail"
+      },
+      {
+        "name": "Glaive",
+        "url": "equipment-items/glaive"
+      },
+      {
+        "name": "Greataxe",
+        "url": "equipment-items/greataxe"
+      },
+      {
+        "name": "Greatsword",
+        "url": "equipment-items/greatsword"
+      },
+      {
+        "name": "Halberd",
+        "url": "equipment-items/halberd"
+      },
+      {
+        "name": "Lance",
+        "url": "equipment-items/lance"
+      },
+      {
+        "name": "Longsword",
+        "url": "equipment-items/longsword"
+      },
+      {
+        "name": "Maul",
+        "url": "equipment-items/maul"
+      },
+      {
+        "name": "Morningstar",
+        "url": "equipment-items/morningstar"
+      },
+      {
+        "name": "Pike",
+        "url": "equipment-items/pike"
+      },
+      {
+        "name": "Rapier",
+        "url": "equipment-items/rapier"
+      },
+      {
+        "name": "Scimitar",
+        "url": "equipment-items/scimitar"
+      },
+      {
+        "name": "Shortsword",
+        "url": "equipment-items/shortsword"
+      },
+      {
+        "name": "Trident",
+        "url": "equipment-items/trident"
+      },
+      {
+        "name": "War pick",
+        "url": "equipment-items/war-pick"
+      },
+      {
+        "name": "Warhammer",
+        "url": "equipment-items/warhammer"
+      },
+      {
+        "name": "Whip",
+        "url": "equipment-items/whip"
+      },
+      {
+        "name": "Blowgun",
+        "url": "equipment-items/blowgun"
+      },
+      {
+        "name": "Crossbow, hand",
+        "url": "equipment-items/crossbow-hand"
+      },
+      {
+        "name": "Crossbow, heavy",
+        "url": "equipment-items/crossbow-heavy"
+      },
+      {
+        "name": "Longbow",
+        "url": "equipment-items/longbow"
+      },
+      {
+        "name": "Net",
+        "url": "equipment-items/net"
+      }
+    ],
+    "url": "equipment-types/weapon"
+  },
+  {
+    "index": "armor",
+    "name": "Armor",
+    "equipment": [
+      {
+        "name": "Padded",
+        "url": "equipment-items/padded"
+      },
+      {
+        "name": "Leather",
+        "url": "equipment-items/leather"
+      },
+      {
+        "name": "Studded Leather",
+        "url": "equipment-items/studded-leather"
+      },
+      {
+        "name": "Hide",
+        "url": "equipment-items/hide"
+      },
+      {
+        "name": "Chain Shirt",
+        "url": "equipment-items/chain-shirt"
+      },
+      {
+        "name": "Scale Mail",
+        "url": "equipment-items/scale-mail"
+      },
+      {
+        "name": "Breastplate",
+        "url": "equipment-items/breastplate"
+      },
+      {
+        "name": "Half Plate",
+        "url": "equipment-items/half-plate"
+      },
+      {
+        "name": "Ring Mail",
+        "url": "equipment-items/ring-mail"
+      },
+      {
+        "name": "Chain Mail",
+        "url": "equipment-items/chain-mail"
+      },
+      {
+        "name": "Splint",
+        "url": "equipment-items/splint"
+      },
+      {
+        "name": "Plate",
+        "url": "equipment-items/plate"
+      },
+      {
+        "name": "Shield",
+        "url": "equipment-items/shield"
+      }
+    ],
+    "url": "equipment-types/armor"
+  },
+  {
+    "index": "adventuring-gear",
+    "name": "Adventuring Gear",
+    "equipment": [
+      {
+        "url": "equipment-items/abacus",
+        "name": "Abacus"
+      },
+      {
+        "url": "equipment-items/acid-vial",
+        "name": "Acid (vial)"
+      },
+      {
+        "url": "equipment-items/alchemists-fire-flask",
+        "name": "Alchemist's fire (flask)"
+      },
+      {
+        "url": "equipment-items/arrow",
+        "name": "Arrow"
+      },
+      {
+        "url": "equipment-items/blowgun-needle",
+        "name": "Blowgun needle"
+      },
+      {
+        "url": "equipment-items/crossbow-bolt",
+        "name": "Crossbow bolt"
+      },
+      {
+        "url": "equipment-items/sling-bullet",
+        "name": "Sling bullet"
+      },
+      {
+        "url": "equipment-items/amulet",
+        "name": "Amulet"
+      },
+      {
+        "url": "equipment-items/antitoxin-vial",
+        "name": "Antitoxin (vial)"
+      },
+      {
+        "url": "equipment-items/backpack",
+        "name": "Backpack"
+      },
+      {
+        "url": "equipment-items/ball-bearings-bag-of-1000",
+        "name": "Ball bearings (bag of 1,000)"
+      },
+      {
+        "url": "equipment-items/barrel",
+        "name": "Barrel"
+      },
+      {
+        "url": "equipment-items/basket",
+        "name": "Basket"
+      },
+      {
+        "url": "equipment-items/bedroll",
+        "name": "Bedroll"
+      },
+      {
+        "url": "equipment-items/bell",
+        "name": "Bell"
+      },
+      {
+        "url": "equipment-items/blanket",
+        "name": "Blanket"
+      },
+      {
+        "url": "equipment-items/block-and-tackle",
+        "name": "Block and tackle"
+      },
+      {
+        "url": "equipment-items/book",
+        "name": "Book"
+      },
+      {
+        "url": "equipment-items/bottle-glass",
+        "name": "Bottle, glass"
+      },
+      {
+        "url": "equipment-items/bucket",
+        "name": "Bucket"
+      },
+      {
+        "url": "equipment-items/caltrops",
+        "name": "Caltrops"
+      },
+      {
+        "url": "equipment-items/candle",
+        "name": "Candle"
+      },
+      {
+        "url": "equipment-items/case-crossbow-bolt",
+        "name": "Case, crossbow bolt"
+      },
+      {
+        "url": "equipment-items/case-map-or-scroll",
+        "name": "Case, map or scroll"
+      },
+      {
+        "url": "equipment-items/chain-10-feet",
+        "name": "Chain (10 feet)"
+      },
+      {
+        "url": "equipment-items/chalk-1-piece",
+        "name": "Chalk (1 piece)"
+      },
+      {
+        "url": "equipment-items/chest",
+        "name": "Chest"
+      },
+      {
+        "url": "equipment-items/clothes-common",
+        "name": "Clothes, common"
+      },
+      {
+        "url": "equipment-items/clothes-costume",
+        "name": "Clothes, costume"
+      },
+      {
+        "url": "equipment-items/clothes-fine",
+        "name": "Clothes, fine"
+      },
+      {
+        "url": "equipment-items/clothes-travelers",
+        "name": "Clothes, traveler's"
+      },
+      {
+        "url": "equipment-items/component-pouch",
+        "name": "Component pouch"
+      },
+      {
+        "url": "equipment-items/crowbar",
+        "name": "Crowbar"
+      },
+      {
+        "url": "equipment-items/emblem",
+        "name": "Emblem"
+      },
+      {
+        "url": "equipment-items/fishing-tackle",
+        "name": "Fishing tackle"
+      },
+      {
+        "url": "equipment-items/flask-or-tankard",
+        "name": "Flask or tankard"
+      },
+      {
+        "url": "equipment-items/grappling-hook",
+        "name": "Grappling hook"
+      },
+      {
+        "url": "equipment-items/hammer",
+        "name": "Hammer"
+      },
+      {
+        "url": "equipment-items/hammer-sledge",
+        "name": "Hammer, sledge"
+      },
+      {
+        "url": "equipment-items/holy-water-flask",
+        "name": "Holy water (flask)"
+      },
+      {
+        "url": "equipment-items/hourglass",
+        "name": "Hourglass"
+      },
+      {
+        "url": "equipment-items/hunting-trap",
+        "name": "Hunting trap"
+      },
+      {
+        "url": "equipment-items/ink-1-ounce-bottle",
+        "name": "Ink (1 ounce bottle)"
+      },
+      {
+        "url": "equipment-items/ink-pen",
+        "name": "Ink pen"
+      },
+      {
+        "url": "equipment-items/jug-or-pitcher",
+        "name": "Jug or pitcher"
+      },
+      {
+        "url": "equipment-items/climbers-kit",
+        "name": "Climber's Kit"
+      },
+      {
+        "url": "equipment-items/disguise-kit",
+        "name": "Disguise Kit"
+      },
+      {
+        "url": "equipment-items/forgery-kit",
+        "name": "Forgery Kit"
+      },
+      {
+        "url": "equipment-items/herbalism-kit",
+        "name": "Herbalism Kit"
+      },
+      {
+        "url": "equipment-items/healers-kit",
+        "name": "Healer's Kit"
+      },
+      {
+        "url": "equipment-items/mess-kit",
+        "name": "Mess Kit"
+      },
+      {
+        "url": "equipment-items/poisoners-kit",
+        "name": "Poisoner's Kit"
+      },
+      {
+        "url": "equipment-items/ladder-10-foot",
+        "name": "Ladder (10-foot)"
+      },
+      {
+        "url": "equipment-items/lamp",
+        "name": "Lamp"
+      },
+      {
+        "url": "equipment-items/lantern-bullseye",
+        "name": "Lantern, bullseye"
+      },
+      {
+        "url": "equipment-items/lantern-hooded",
+        "name": "Lantern, hooded"
+      },
+      {
+        "url": "equipment-items/lock",
+        "name": "Lock"
+      },
+      {
+        "url": "equipment-items/magnifying-glass",
+        "name": "Magnifying glass"
+      },
+      {
+        "url": "equipment-items/manacles",
+        "name": "Manacles"
+      },
+      {
+        "url": "equipment-items/mirror-steel",
+        "name": "Mirror, steel"
+      },
+      {
+        "url": "equipment-items/oil-flask",
+        "name": "Oil (flask)"
+      },
+      {
+        "url": "equipment-items/paper-one-sheet",
+        "name": "Paper (one sheet)"
+      },
+      {
+        "url": "equipment-items/parchment-one-sheet",
+        "name": "Parchment (one sheet)"
+      },
+      {
+        "url": "equipment-items/perfume-vial",
+        "name": "Perfume (vial)"
+      },
+      {
+        "url": "equipment-items/pick-miners",
+        "name": "Pick, miner's"
+      },
+      {
+        "url": "equipment-items/piton",
+        "name": "Piton"
+      },
+      {
+        "url": "equipment-items/poison-basic-vial",
+        "name": "Poison, basic (vial)"
+      },
+      {
+        "url": "equipment-items/pole-10-foot",
+        "name": "Pole (10-foot)"
+      },
+      {
+        "url": "equipment-items/pot-iron",
+        "name": "Pot, iron"
+      },
+      {
+        "url": "equipment-items/potion-of-healing",
+        "name": "Potion of healing"
+      },
+      {
+        "url": "equipment-items/pouch",
+        "name": "Pouch"
+      },
+      {
+        "url": "equipment-items/quiver",
+        "name": "Quiver"
+      },
+      {
+        "url": "equipment-items/ram-portable",
+        "name": "Ram, portable"
+      },
+      {
+        "url": "equipment-items/rations-1-day",
+        "name": "Rations (1 day)"
+      },
+      {
+        "url": "equipment-items/reliquary",
+        "name": "Reliquary"
+      },
+      {
+        "url": "equipment-items/robes",
+        "name": "Robes"
+      },
+      {
+        "url": "equipment-items/rope-hempen-50-feet",
+        "name": "Rope, hempen (50 feet)"
+      },
+      {
+        "url": "equipment-items/rope-silk-50-feet",
+        "name": "Rope, silk (50 feet)"
+      },
+      {
+        "url": "equipment-items/sack",
+        "name": "Sack"
+      },
+      {
+        "url": "equipment-items/scale-merchants",
+        "name": "Scale, merchant's"
+      },
+      {
+        "url": "equipment-items/sealing-wax",
+        "name": "Sealing wax"
+      },
+      {
+        "url": "equipment-items/shovel",
+        "name": "Shovel"
+      },
+      {
+        "url": "equipment-items/signal-whistle",
+        "name": "Signal whistle"
+      },
+      {
+        "url": "equipment-items/signet-ring",
+        "name": "Signet ring"
+      },
+      {
+        "url": "equipment-items/soap",
+        "name": "Soap"
+      },
+      {
+        "url": "equipment-items/spellbook",
+        "name": "Spellbook"
+      },
+      {
+        "url": "equipment-items/spike-iron",
+        "name": "Spike, iron"
+      },
+      {
+        "url": "equipment-items/spyglass",
+        "name": "Spyglass"
+      },
+      {
+        "url": "equipment-items/tent-two-person",
+        "name": "Tent, two-person"
+      },
+      {
+        "url": "equipment-items/tinderbox",
+        "name": "Tinderbox"
+      },
+      {
+        "url": "equipment-items/torch",
+        "name": "Torch"
+      },
+      {
+        "url": "equipment-items/vial",
+        "name": "Vial"
+      },
+      {
+        "url": "equipment-items/waterskin",
+        "name": "Waterskin"
+      },
+      {
+        "url": "equipment-items/whetstone",
+        "name": "Whetstone"
+      },
+      {
+        "url": "equipment-items/burglars-pack",
+        "name": "Burglar's Pack"
+      },
+      {
+        "url": "equipment-items/diplomats-pack",
+        "name": "Diplomat's Pack"
+      },
+      {
+        "url": "equipment-items/dungeoneers-pack",
+        "name": "Dungeoneer's Pack"
+      },
+      {
+        "url": "equipment-items/entertainers-pack",
+        "name": "Entertainer's Pack"
+      },
+      {
+        "url": "equipment-items/explorers-pack",
+        "name": "Explorer's Pack"
+      },
+      {
+        "url": "equipment-items/priests-pack",
+        "name": "Priest's Pack"
+      },
+      {
+        "url": "equipment-items/scholars-pack",
+        "name": "Scholar's Pack"
+      },
+      {
+        "url": "equipment-items/crystal",
+        "name": "Crystal"
+      },
+      {
+        "url": "equipment-items/orb",
+        "name": "Orb"
+      },
+      {
+        "url": "equipment-items/rod",
+        "name": "Rod"
+      },
+      {
+        "url": "equipment-items/staff",
+        "name": "Staff"
+      },
+      {
+        "url": "equipment-items/wand",
+        "name": "Wand"
+      },
+      {
+        "url": "equipment-items/sprig-of-mistletoe",
+        "name": "Sprig of mistletoe"
+      },
+      {
+        "url": "equipment-items/totem",
+        "name": "Totem"
+      },
+      {
+        "url": "equipment-items/wooden-staff",
+        "name": "Wooden staff"
+      },
+      {
+        "url": "equipment-items/yew-wand",
+        "name": "Yew wand"
+      }
+    ],
+    "url": "equipment-types/adventuring-gear"
+  },
+  {
+    "index": "ammunition",
+    "name": "Ammunition",
+    "equipment": [
+      {
+        "url": "equipment-items/arrow",
+        "name": "Arrow"
+      },
+      {
+        "url": "equipment-items/blowgun-needle",
+        "name": "Blowgun needle"
+      },
+      {
+        "url": "equipment-items/crossbow-bolt",
+        "name": "Crossbow bolt"
+      },
+      {
+        "url": "equipment-items/sling-bullet",
+        "name": "Sling bullet"
+      }
+    ],
+    "url": "equipment-types/ammunition"
+  },
+  {
+    "index": "tools",
+    "name": "Tools",
+    "equipment": [
+      {
+        "url": "equipment-items/alchemists-supplies",
+        "name": "Alchemist's supplies"
+      },
+      {
+        "url": "equipment-items/brewers-supplies",
+        "name": "Brewer's supplies"
+      },
+      {
+        "url": "equipment-items/calligraphers-supplies",
+        "name": "Calligrapher's supplies"
+      },
+      {
+        "url": "equipment-items/carpenters-tools",
+        "name": "Carpenter's tools"
+      },
+      {
+        "url": "equipment-items/cartographers-tools",
+        "name": "Cartographer's tools"
+      },
+      {
+        "url": "equipment-items/cobblers-tools",
+        "name": "Cobbler's tools"
+      },
+      {
+        "url": "equipment-items/cooks-utensils",
+        "name": "Cook's utensils"
+      },
+      {
+        "url": "equipment-items/glassblowers-tools",
+        "name": "Glassblower's tools"
+      },
+      {
+        "url": "equipment-items/jewelers-tools",
+        "name": "Jeweler's tools"
+      },
+      {
+        "url": "equipment-items/leatherworkers-tools",
+        "name": "Leatherworker's tools"
+      },
+      {
+        "url": "equipment-items/masons-tools",
+        "name": "Mason's tools"
+      },
+      {
+        "url": "equipment-items/painters-supplies",
+        "name": "Painter's supplies"
+      },
+      {
+        "url": "equipment-items/potters-tools",
+        "name": "Potter's tools"
+      },
+      {
+        "url": "equipment-items/smiths-tools",
+        "name": "Smith's tools"
+      },
+      {
+        "url": "equipment-items/tinkers-tools",
+        "name": "Tinker's tools"
+      },
+      {
+        "url": "equipment-items/weavers-tools",
+        "name": "Weaver's tools"
+      },
+      {
+        "url": "equipment-items/woodcarvers-tools",
+        "name": "Woodcarver's tools"
+      },
+      {
+        "url": "equipment-items/dice-set",
+        "name": "Dice set"
+      },
+      {
+        "url": "equipment-items/playing-card-set",
+        "name": "Playing card set"
+      },
+      {
+        "url": "equipment-items/bagpipes",
+        "name": "Bagpipes"
+      },
+      {
+        "url": "equipment-items/drum",
+        "name": "Drum"
+      },
+      {
+        "url": "equipment-items/dulcimer",
+        "name": "Dulcimer"
+      },
+      {
+        "url": "equipment-items/flute",
+        "name": "Flute"
+      },
+      {
+        "url": "equipment-items/lute",
+        "name": "Lute"
+      },
+      {
+        "url": "equipment-items/lyre",
+        "name": "Lyre"
+      },
+      {
+        "url": "equipment-items/horn",
+        "name": "Horn"
+      },
+      {
+        "url": "equipment-items/pan-flute",
+        "name": "Pan flute"
+      },
+      {
+        "url": "equipment-items/shawm",
+        "name": "Shawm"
+      },
+      {
+        "url": "equipment-items/viol",
+        "name": "Viol"
+      },
+      {
+        "url": "equipment-items/navigators-tools",
+        "name": "Navigator's tools"
+      },
+      {
+        "url": "equipment-items/thieves-tools",
+        "name": "Thieves' tools"
+      }
+    ],
+    "url": "equipment-types/tools"
+  },
+  {
+    "index": "mounts-and-vehicles",
+    "name": "Mounts and Vehicles",
+    "equipment": [
+      {
+        "url": "equipment-items/mule",
+        "name": "Mule"
+      },
+      {
+        "url": "equipment-items/elephant",
+        "name": "Elephant"
+      },
+      {
+        "url": "equipment-items/horse-draft",
+        "name": "Horse, draft"
+      },
+      {
+        "url": "equipment-items/horse-riding",
+        "name": "Horse, riding"
+      },
+      {
+        "url": "equipment-items/mastiff",
+        "name": "Mastiff"
+      },
+      {
+        "url": "equipment-items/pony",
+        "name": "Pony"
+      },
+      {
+        "url": "equipment-items/warhorse",
+        "name": "Warhorse"
+      },
+      {
+        "url": "equipment-items/barding-padded",
+        "name": "Barding: Padded"
+      },
+      {
+        "url": "equipment-items/barding-leather",
+        "name": "Barding: Leather"
+      },
+      {
+        "url": "equipment-items/barding-studded-leather",
+        "name": "Barding: Studded Leather"
+      },
+      {
+        "url": "equipment-items/barding-hide",
+        "name": "Barding: Hide"
+      },
+      {
+        "url": "equipment-items/barding-chain-shirt",
+        "name": "Barding: Chain shirt"
+      },
+      {
+        "url": "equipment-items/barding-scale-mail",
+        "name": "Barding: Scale mail"
+      },
+      {
+        "url": "equipment-items/barding-breastplate",
+        "name": "Barding: Breastplate"
+      },
+      {
+        "url": "equipment-items/barding-half-plate",
+        "name": "Barding: Half plate"
+      },
+      {
+        "url": "equipment-items/barding-ring-mail",
+        "name": "Barding: Ring mail"
+      },
+      {
+        "url": "equipment-items/barding-chain-mail",
+        "name": "Barding: Chain mail"
+      },
+      {
+        "url": "equipment-items/barding-splint",
+        "name": "Barding: Splint"
+      },
+      {
+        "url": "equipment-items/barding-plate",
+        "name": "Barding: Plate"
+      },
+      {
+        "url": "equipment-items/bit-and-bridle",
+        "name": "Bit and bridle"
+      },
+      {
+        "url": "equipment-items/carriage",
+        "name": "Carriage"
+      },
+      {
+        "url": "equipment-items/cart",
+        "name": "Cart"
+      },
+      {
+        "url": "equipment-items/chariot",
+        "name": "Chariot"
+      },
+      {
+        "url": "equipment-items/animal-feed-1-day",
+        "name": "Animal Feed (1 day)"
+      },
+      {
+        "url": "equipment-items/saddle-exotic",
+        "name": "Saddle, Exotic"
+      },
+      {
+        "url": "equipment-items/saddle-military",
+        "name": "Saddle, Military"
+      },
+      {
+        "url": "equipment-items/saddle-pack",
+        "name": "Saddle, Pack"
+      },
+      {
+        "url": "equipment-items/riding",
+        "name": "Riding"
+      },
+      {
+        "url": "equipment-items/saddlebags",
+        "name": "Saddlebags"
+      },
+      {
+        "url": "equipment-items/sled",
+        "name": "Sled"
+      },
+      {
+        "url": "equipment-items/stabling-1-day",
+        "name": "Stabling (1 day)"
+      },
+      {
+        "url": "equipment-items/wagon",
+        "name": "Wagon"
+      },
+      {
+        "url": "equipment-items/barding-padded",
+        "name": "Barding: Padded"
+      },
+      {
+        "url": "equipment-items/barding-leather",
+        "name": "Barding: Leather"
+      },
+      {
+        "url": "equipment-items/barding-studded-leather",
+        "name": "Barding: Studded Leather"
+      },
+      {
+        "url": "equipment-items/barding-hide",
+        "name": "Barding: Hide"
+      },
+      {
+        "url": "equipment-items/barding-chain-shirt",
+        "name": "Barding: Chain shirt"
+      },
+      {
+        "url": "equipment-items/barding-scale-mail",
+        "name": "Barding: Scale mail"
+      },
+      {
+        "url": "equipment-items/barding-breastplate",
+        "name": "Barding: Breastplate"
+      },
+      {
+        "url": "equipment-items/barding-half-plate",
+        "name": "Barding: Half plate"
+      },
+      {
+        "url": "equipment-items/barding-ring-mail",
+        "name": "Barding: Ring mail"
+      },
+      {
+        "url": "equipment-items/barding-chain-mail",
+        "name": "Barding: Chain mail"
+      },
+      {
+        "url": "equipment-items/barding-splint",
+        "name": "Barding: Splint"
+      },
+      {
+        "url": "equipment-items/barding-plate",
+        "name": "Barding: Plate"
+      },
+      {
+        "url": "equipment-items/bit-and-bridle",
+        "name": "Bit and bridle"
+      },
+      {
+        "url": "equipment-items/carriage",
+        "name": "Carriage"
+      },
+      {
+        "url": "equipment-items/cart",
+        "name": "Cart"
+      },
+      {
+        "url": "equipment-items/chariot",
+        "name": "Chariot"
+      },
+      {
+        "url": "equipment-items/animal-feed-1-day",
+        "name": "Animal Feed (1 day)"
+      },
+      {
+        "url": "equipment-items/saddle-exotic",
+        "name": "Saddle, Exotic"
+      },
+      {
+        "url": "equipment-items/saddle-military",
+        "name": "Saddle, Military"
+      },
+      {
+        "url": "equipment-items/saddle-pack",
+        "name": "Saddle, Pack"
+      },
+      {
+        "url": "equipment-items/riding",
+        "name": "Riding"
+      },
+      {
+        "url": "equipment-items/saddlebags",
+        "name": "Saddlebags"
+      },
+      {
+        "url": "equipment-items/sled",
+        "name": "Sled"
+      },
+      {
+        "url": "equipment-items/stabling-1-day",
+        "name": "Stabling (1 day)"
+      },
+      {
+        "url": "equipment-items/wagon",
+        "name": "Wagon"
+      },
+      {
+        "url": "equipment-items/galley",
+        "name": "Galley"
+      },
+      {
+        "url": "equipment-items/keelboat",
+        "name": "Keelboat"
+      },
+      {
+        "url": "equipment-items/longship",
+        "name": "Longship"
+      },
+      {
+        "url": "equipment-items/rowboat",
+        "name": "Rowboat"
+      },
+      {
+        "url": "equipment-items/sailing-ship",
+        "name": "Sailing ship"
+      },
+      {
+        "url": "equipment-items/warship",
+        "name": "Warship"
+      }
+    ],
+    "url": "equipment-types/mounts-and-vehicles"
+  },
+  {
+    "index": "simple-weapons",
+    "name": "Simple Weapons",
+    "equipment": [
+      {
+        "url": "equipment-items/club",
+        "name": "Club"
+      },
+      {
+        "url": "equipment-items/dagger",
+        "name": "Dagger"
+      },
+      {
+        "url": "equipment-items/greatclub",
+        "name": "Greatclub"
+      },
+      {
+        "url": "equipment-items/handaxe",
+        "name": "Handaxe"
+      },
+      {
+        "url": "equipment-items/javelin",
+        "name": "Javelin"
+      },
+      {
+        "url": "equipment-items/light-hammer",
+        "name": "Light hammer"
+      },
+      {
+        "url": "equipment-items/mace",
+        "name": "Mace"
+      },
+      {
+        "url": "equipment-items/quarterstaff",
+        "name": "Quarterstaff"
+      },
+      {
+        "url": "equipment-items/sickle",
+        "name": "Sickle"
+      },
+      {
+        "url": "equipment-items/spear",
+        "name": "Spear"
+      }
+    ],
+    "url": "equipment-types/simple-weapons"
+  },
+  {
+    "index": "martial-weapons",
+    "name": "Martial Weapons",
+    "equipment": [
+      {
+        "url": "equipment-items/battleaxe",
+        "name": "Battleaxe"
+      },
+      {
+        "url": "equipment-items/flail",
+        "name": "Flail"
+      },
+      {
+        "url": "equipment-items/glaive",
+        "name": "Glaive"
+      },
+      {
+        "url": "equipment-items/greataxe",
+        "name": "Greataxe"
+      },
+      {
+        "url": "equipment-items/greatsword",
+        "name": "Greatsword"
+      },
+      {
+        "url": "equipment-items/halberd",
+        "name": "Halberd"
+      },
+      {
+        "url": "equipment-items/lance",
+        "name": "Lance"
+      },
+      {
+        "url": "equipment-items/longsword",
+        "name": "Longsword"
+      },
+      {
+        "url": "equipment-items/maul",
+        "name": "Maul"
+      },
+      {
+        "url": "equipment-items/morningstar",
+        "name": "Morningstar"
+      },
+      {
+        "url": "equipment-items/pike",
+        "name": "Pike"
+      },
+      {
+        "url": "equipment-items/rapier",
+        "name": "Rapier"
+      },
+      {
+        "url": "equipment-items/scimitar",
+        "name": "Scimitar"
+      },
+      {
+        "url": "equipment-items/shortsword",
+        "name": "Shortsword"
+      },
+      {
+        "url": "equipment-items/trident",
+        "name": "Trident"
+      },
+      {
+        "url": "equipment-items/war-pick",
+        "name": "War pick"
+      },
+      {
+        "url": "equipment-items/warhammer",
+        "name": "Warhammer"
+      },
+      {
+        "url": "equipment-items/whip",
+        "name": "Whip"
+      },
+      {
+        "url": "equipment-items/blowgun",
+        "name": "Blowgun"
+      },
+      {
+        "url": "equipment-items/crossbow-hand",
+        "name": "Crossbow, hand"
+      },
+      {
+        "url": "equipment-items/crossbow-heavy",
+        "name": "Crossbow, heavy"
+      },
+      {
+        "url": "equipment-items/longbow",
+        "name": "Longbow"
+      },
+      {
+        "url": "equipment-items/net",
+        "name": "Net"
+      }
+    ],
+    "url": "equipment-types/martial-weapons"
+  },
+  {
+    "index": "simple-melee-weapons",
+    "name": "Simple Melee Weapons",
+    "equipment": [
+      {
+        "url": "equipment-items/club",
+        "name": "Club"
+      },
+      {
+        "url": "equipment-items/dagger",
+        "name": "Dagger"
+      },
+      {
+        "url": "equipment-items/greatclub",
+        "name": "Greatclub"
+      },
+      {
+        "url": "equipment-items/handaxe",
+        "name": "Handaxe"
+      },
+      {
+        "url": "equipment-items/javelin",
+        "name": "Javelin"
+      },
+      {
+        "url": "equipment-items/light-hammer",
+        "name": "Light hammer"
+      },
+      {
+        "url": "equipment-items/mace",
+        "name": "Mace"
+      },
+      {
+        "url": "equipment-items/quarterstaff",
+        "name": "Quarterstaff"
+      },
+      {
+        "url": "equipment-items/sickle",
+        "name": "Sickle"
+      },
+      {
+        "url": "equipment-items/spear",
+        "name": "Spear"
+      }
+    ],
+    "url": "equipment-types/simple-melee-weapons"
+  },
+  {
+    "index": "simple-ranged-weapons",
+    "name": "Simple Ranged Weapons",
+    "equipment": [
+      {
+        "url": "equipment-items/crossbow-light",
+        "name": "Crossbow, light"
+      },
+      {
+        "url": "equipment-items/dart",
+        "name": "Dart"
+      },
+      {
+        "url": "equipment-items/shortbow",
+        "name": "Shortbow"
+      },
+      {
+        "url": "equipment-items/sling",
+        "name": "Sling"
+      }
+    ],
+    "url": "equipment-types/simple-ranged-weapons"
+  },
+  {
+    "index": "martial-melee-weapons",
+    "name": "Martial Melee Weapons",
+    "equipment": [
+      {
+        "url": "equipment-items/battleaxe",
+        "name": "Battleaxe"
+      },
+      {
+        "url": "equipment-items/flail",
+        "name": "Flail"
+      },
+      {
+        "url": "equipment-items/glaive",
+        "name": "Glaive"
+      },
+      {
+        "url": "equipment-items/greataxe",
+        "name": "Greataxe"
+      },
+      {
+        "url": "equipment-items/greatsword",
+        "name": "Greatsword"
+      },
+      {
+        "url": "equipment-items/halberd",
+        "name": "Halberd"
+      },
+      {
+        "url": "equipment-items/lance",
+        "name": "Lance"
+      },
+      {
+        "url": "equipment-items/longsword",
+        "name": "Longsword"
+      },
+      {
+        "url": "equipment-items/maul",
+        "name": "Maul"
+      },
+      {
+        "url": "equipment-items/morningstar",
+        "name": "Morningstar"
+      },
+      {
+        "url": "equipment-items/pike",
+        "name": "Pike"
+      },
+      {
+        "url": "equipment-items/rapier",
+        "name": "Rapier"
+      },
+      {
+        "url": "equipment-items/scimitar",
+        "name": "Scimitar"
+      },
+      {
+        "url": "equipment-items/shortsword",
+        "name": "Shortsword"
+      },
+      {
+        "url": "equipment-items/trident",
+        "name": "Trident"
+      },
+      {
+        "url": "equipment-items/war-pick",
+        "name": "War pick"
+      },
+      {
+        "url": "equipment-items/warhammer",
+        "name": "Warhammer"
+      },
+      {
+        "url": "equipment-items/whip",
+        "name": "Whip"
+      }
+    ],
+    "url": "equipment-types/martial-melee-weapons"
+  },
+  {
+    "index": "martial-ranged-weapons",
+    "name": "Martial Ranged Weapons",
+    "equipment": [
+      {
+        "url": "equipment-items/blowgun",
+        "name": "Blowgun"
+      },
+      {
+        "url": "equipment-items/crossbow-hand",
+        "name": "Crossbow, hand"
+      },
+      {
+        "url": "equipment-items/crossbow-heavy",
+        "name": "Crossbow, heavy"
+      },
+      {
+        "url": "equipment-items/longbow",
+        "name": "Longbow"
+      },
+      {
+        "url": "equipment-items/net",
+        "name": "Net"
+      }
+    ],
+    "url": "equipment-types/martial-ranged-weapons"
+  },
+  {
+    "index": "light-armor",
+    "name": "Light Armor",
+    "equipment": [
+      {
+        "url": "equipment-items/padded",
+        "name": "Padded"
+      },
+      {
+        "url": "equipment-items/leather",
+        "name": "Leather"
+      },
+      {
+        "url": "equipment-items/studded-leather",
+        "name": "Studded Leather"
+      }
+    ],
+    "url": "equipment-types/light-armor"
+  },
+  {
+    "index": "medium-armor",
+    "name": "Medium Armor",
+    "equipment": [
+      {
+        "url": "equipment-items/hide",
+        "name": "Hide"
+      },
+      {
+        "url": "equipment-items/chain-shirt",
+        "name": "Chain Shirt"
+      },
+      {
+        "url": "equipment-items/scale-mail",
+        "name": "Scale Mail"
+      },
+      {
+        "url": "equipment-items/breastplate",
+        "name": "Breastplate"
+      },
+      {
+        "url": "equipment-items/half-plate",
+        "name": "Half Plate"
+      }
+    ],
+    "url": "equipment-types/medium-armor"
+  },
+  {
+    "index": "heavy-armor",
+    "name": "Heavy Armor",
+    "equipment": [
+      {
+        "url": "equipment-items/ring-mail",
+        "name": "Ring Mail"
+      },
+      {
+        "url": "equipment-items/chain-mail",
+        "name": "Chain Mail"
+      },
+      {
+        "url": "equipment-items/splint",
+        "name": "Splint"
+      },
+      {
+        "url": "equipment-items/plate",
+        "name": "Plate"
+      }
+    ],
+    "url": "equipment-types/heavy-armor"
+  },
+  {
+    "index": "shields",
+    "name": "Shields",
+    "equipment": [
+      {
+        "url": "equipment-items/shield",
+        "name": "Shield"
+      }
+    ],
+    "url": "equipment-types/shields"
+  },
+  {
+    "index": "standard-gear",
+    "name": "Standard Gear",
+    "equipment": [
+      {
+        "url": "equipment-items/abacus",
+        "name": "Abacus"
+      },
+      {
+        "url": "equipment-items/acid-vial",
+        "name": "Acid (vial)"
+      },
+      {
+        "url": "equipment-items/alchemists-fire-flask",
+        "name": "Alchemist's fire (flask)"
+      },
+      {
+        "url": "equipment-items/arrow",
+        "name": "Arrow"
+      },
+      {
+        "url": "equipment-items/blowgun-needle",
+        "name": "Blowgun needle"
+      },
+      {
+        "url": "equipment-items/crossbow-bolt",
+        "name": "Crossbow bolt"
+      },
+      {
+        "url": "equipment-items/sling-bullet",
+        "name": "Sling bullet"
+      },
+      {
+        "url": "equipment-items/antitoxin-vial",
+        "name": "Antitoxin (vial)"
+      },
+      {
+        "url": "equipment-items/backpack",
+        "name": "Backpack"
+      },
+      {
+        "url": "equipment-items/ball-bearings-bag-of-1000",
+        "name": "Ball bearings (bag of 1,000)"
+      },
+      {
+        "url": "equipment-items/barrel",
+        "name": "Barrel"
+      },
+      {
+        "url": "equipment-items/basket",
+        "name": "Basket"
+      },
+      {
+        "url": "equipment-items/bedroll",
+        "name": "Bedroll"
+      },
+      {
+        "url": "equipment-items/bell",
+        "name": "Bell"
+      },
+      {
+        "url": "equipment-items/blanket",
+        "name": "Blanket"
+      },
+      {
+        "url": "equipment-items/block-and-tackle",
+        "name": "Block and tackle"
+      },
+      {
+        "url": "equipment-items/book",
+        "name": "Book"
+      },
+      {
+        "url": "equipment-items/bottle-glass",
+        "name": "Bottle, glass"
+      },
+      {
+        "url": "equipment-items/bucket",
+        "name": "Bucket"
+      },
+      {
+        "url": "equipment-items/caltrops",
+        "name": "Caltrops"
+      },
+      {
+        "url": "equipment-items/candle",
+        "name": "Candle"
+      },
+      {
+        "url": "equipment-items/case-crossbow-bolt",
+        "name": "Case, crossbow bolt"
+      },
+      {
+        "url": "equipment-items/case-map-or-scroll",
+        "name": "Case, map or scroll"
+      },
+      {
+        "url": "equipment-items/chain-10-feet",
+        "name": "Chain (10 feet)"
+      },
+      {
+        "url": "equipment-items/chalk-1-piece",
+        "name": "Chalk (1 piece)"
+      },
+      {
+        "url": "equipment-items/chest",
+        "name": "Chest"
+      },
+      {
+        "url": "equipment-items/clothes-common",
+        "name": "Clothes, common"
+      },
+      {
+        "url": "equipment-items/clothes-costume",
+        "name": "Clothes, costume"
+      },
+      {
+        "url": "equipment-items/clothes-fine",
+        "name": "Clothes, fine"
+      },
+      {
+        "url": "equipment-items/clothes-travelers",
+        "name": "Clothes, traveler's"
+      },
+      {
+        "url": "equipment-items/component-pouch",
+        "name": "Component pouch"
+      },
+      {
+        "url": "equipment-items/crowbar",
+        "name": "Crowbar"
+      },
+      {
+        "url": "equipment-items/fishing-tackle",
+        "name": "Fishing tackle"
+      },
+      {
+        "url": "equipment-items/flask-or-tankard",
+        "name": "Flask or tankard"
+      },
+      {
+        "url": "equipment-items/grappling-hook",
+        "name": "Grappling hook"
+      },
+      {
+        "url": "equipment-items/hammer",
+        "name": "Hammer"
+      },
+      {
+        "url": "equipment-items/hammer-sledge",
+        "name": "Hammer, sledge"
+      },
+      {
+        "url": "equipment-items/holy-water-flask",
+        "name": "Holy water (flask)"
+      },
+      {
+        "url": "equipment-items/hourglass",
+        "name": "Hourglass"
+      },
+      {
+        "url": "equipment-items/hunting-trap",
+        "name": "Hunting trap"
+      },
+      {
+        "url": "equipment-items/ink-1-ounce-bottle",
+        "name": "Ink (1 ounce bottle)"
+      },
+      {
+        "url": "equipment-items/ink-pen",
+        "name": "Ink pen"
+      },
+      {
+        "url": "equipment-items/hourglass",
+        "name": "Hourglass"
+      },
+      {
+        "url": "equipment-items/hunting-trap",
+        "name": "Hunting trap"
+      },
+      {
+        "url": "equipment-items/ink-1-ounce-bottle",
+        "name": "Ink (1 ounce bottle)"
+      },
+      {
+        "url": "equipment-items/ink-pen",
+        "name": "Ink pen"
+      },
+      {
+        "url": "equipment-items/jug-or-pitcher",
+        "name": "Jug or pitcher"
+      },
+      {
+        "url": "equipment-items/ladder-10-foot",
+        "name": "Ladder (10-foot)"
+      },
+      {
+        "url": "equipment-items/lamp",
+        "name": "Lamp"
+      },
+      {
+        "url": "equipment-items/lantern-bullseye",
+        "name": "Lantern, bullseye"
+      },
+      {
+        "url": "equipment-items/lantern-hooded",
+        "name": "Lantern, hooded"
+      },
+      {
+        "url": "equipment-items/lock",
+        "name": "Lock"
+      },
+      {
+        "url": "equipment-items/magnifying-glass",
+        "name": "Magnifying glass"
+      },
+      {
+        "url": "equipment-items/manacles",
+        "name": "Manacles"
+      },
+      {
+        "url": "equipment-items/mirror-steel",
+        "name": "Mirror, steel"
+      },
+      {
+        "url": "equipment-items/oil-flask",
+        "name": "Oil (flask)"
+      },
+      {
+        "url": "equipment-items/paper-one-sheet",
+        "name": "Paper (one sheet)"
+      },
+      {
+        "url": "equipment-items/parchment-one-sheet",
+        "name": "Parchment (one sheet)"
+      },
+      {
+        "url": "equipment-items/perfume-vial",
+        "name": "Perfume (vial)"
+      },
+      {
+        "url": "equipment-items/pick-miners",
+        "name": "Pick, miner's"
+      },
+      {
+        "url": "equipment-items/piton",
+        "name": "Piton"
+      },
+      {
+        "url": "equipment-items/poison-basic-vial",
+        "name": "Poison, basic (vial)"
+      },
+      {
+        "url": "equipment-items/pole-10-foot",
+        "name": "Pole (10-foot)"
+      },
+      {
+        "url": "equipment-items/pot-iron",
+        "name": "Pot, iron"
+      },
+      {
+        "url": "equipment-items/potion-of-healing",
+        "name": "Potion of healing"
+      },
+      {
+        "url": "equipment-items/pouch",
+        "name": "Pouch"
+      },
+      {
+        "url": "equipment-items/quiver",
+        "name": "Quiver"
+      },
+      {
+        "url": "equipment-items/ram-portable",
+        "name": "Ram, portable"
+      },
+      {
+        "url": "equipment-items/rations-1-day",
+        "name": "Rations (1 day)"
+      },
+      {
+        "url": "equipment-items/robes",
+        "name": "Robes"
+      },
+      {
+        "url": "equipment-items/rope-hempen-50-feet",
+        "name": "Rope, hempen (50 feet)"
+      },
+      {
+        "url": "equipment-items/rope-silk-50-feet",
+        "name": "Rope, silk (50 feet)"
+      },
+      {
+        "url": "equipment-items/sack",
+        "name": "Sack"
+      },
+      {
+        "url": "equipment-items/scale-merchants",
+        "name": "Scale, merchant's"
+      },
+      {
+        "url": "equipment-items/sealing-wax",
+        "name": "Sealing wax"
+      },
+      {
+        "url": "equipment-items/shovel",
+        "name": "Shovel"
+      },
+      {
+        "url": "equipment-items/signal-whistle",
+        "name": "Signal whistle"
+      },
+      {
+        "url": "equipment-items/signet-ring",
+        "name": "Signet ring"
+      },
+      {
+        "url": "equipment-items/soap",
+        "name": "Soap"
+      },
+      {
+        "url": "equipment-items/spellbook",
+        "name": "Spellbook"
+      },
+      {
+        "url": "equipment-items/spike-iron",
+        "name": "Spike, iron"
+      },
+      {
+        "url": "equipment-items/spyglass",
+        "name": "Spyglass"
+      },
+      {
+        "url": "equipment-items/tent-two-person",
+        "name": "Tent, two-person"
+      },
+      {
+        "url": "equipment-items/tinderbox",
+        "name": "Tinderbox"
+      },
+      {
+        "url": "equipment-items/torch",
+        "name": "Torch"
+      },
+      {
+        "url": "equipment-items/vial",
+        "name": "Vial"
+      },
+      {
+        "url": "equipment-items/waterskin",
+        "name": "Waterskin"
+      },
+      {
+        "url": "equipment-items/whetstone",
+        "name": "Whetstone"
+      }
+    ],
+    "url": "equipment-types/standard-gear"
+  },
+  {
+    "index": "kits",
+    "name": "Kits",
+    "equipment": [
+      {
+        "url": "equipment-items/climbers-kit",
+        "name": "Climber's Kit"
+      },
+      {
+        "url": "equipment-items/disguise-kit",
+        "name": "Disguise Kit"
+      },
+      {
+        "url": "equipment-items/forgery-kit",
+        "name": "Forgery Kit"
+      },
+      {
+        "url": "equipment-items/herbalism-kit",
+        "name": "Herbalism Kit"
+      },
+      {
+        "url": "equipment-items/healers-kit",
+        "name": "Healer's Kit"
+      },
+      {
+        "url": "equipment-items/mess-kit",
+        "name": "Mess Kit"
+      },
+      {
+        "url": "equipment-items/poisoners-kit",
+        "name": "Poisoner's Kit"
+      }
+    ],
+    "url": "equipment-types/kits"
+  },
+  {
+    "index": "equipment-packs",
+    "name": "Equipment Packs",
+    "equipment": [
+      {
+        "url": "equipment-items/burglars-pack",
+        "name": "Burglar's Pack"
+      },
+      {
+        "url": "equipment-items/diplomats-pack",
+        "name": "Diplomat's Pack"
+      },
+      {
+        "url": "equipment-items/dungeoneers-pack",
+        "name": "Dungeoneer's Pack"
+      },
+      {
+        "url": "equipment-items/entertainers-pack",
+        "name": "Entertainer's Pack"
+      },
+      {
+        "url": "equipment-items/explorers-pack",
+        "name": "Explorer's Pack"
+      },
+      {
+        "url": "equipment-items/priests-pack",
+        "name": "Priest's Pack"
+      },
+      {
+        "url": "equipment-items/scholars-pack",
+        "name": "Scholar's Pack"
+      }
+    ],
+    "url": "equipment-types/equipment-packs"
+  },
+  {
+    "index": "artisans-tools",
+    "name": "Artisan's Tools",
+    "equipment": [
+      {
+        "url": "equipment-items/alchemists-supplies",
+        "name": "Alchemist's supplies"
+      },
+      {
+        "url": "equipment-items/brewers-supplies",
+        "name": "Brewer's supplies"
+      },
+      {
+        "url": "equipment-items/calligraphers-supplies",
+        "name": "Calligrapher's supplies"
+      },
+      {
+        "url": "equipment-items/carpenters-tools",
+        "name": "Carpenter's tools"
+      },
+      {
+        "url": "equipment-items/cartographers-tools",
+        "name": "Cartographer's tools"
+      },
+      {
+        "url": "equipment-items/cobblers-tools",
+        "name": "Cobbler's tools"
+      },
+      {
+        "url": "equipment-items/cooks-utensils",
+        "name": "Cook's utensils"
+      },
+      {
+        "url": "equipment-items/glassblowers-tools",
+        "name": "Glassblower's tools"
+      },
+      {
+        "url": "equipment-items/jewelers-tools",
+        "name": "Jeweler's tools"
+      },
+      {
+        "url": "equipment-items/leatherworkers-tools",
+        "name": "Leatherworker's tools"
+      },
+      {
+        "url": "equipment-items/masons-tools",
+        "name": "Mason's tools"
+      },
+      {
+        "url": "equipment-items/painters-supplies",
+        "name": "Painter's supplies"
+      },
+      {
+        "url": "equipment-items/potters-tools",
+        "name": "Potter's tools"
+      },
+      {
+        "url": "equipment-items/smiths-tools",
+        "name": "Smith's tools"
+      },
+      {
+        "url": "equipment-items/tinkers-tools",
+        "name": "Tinker's tools"
+      },
+      {
+        "url": "equipment-items/weavers-tools",
+        "name": "Weaver's tools"
+      },
+      {
+        "url": "equipment-items/woodcarvers-tools",
+        "name": "Woodcarver's tools"
+      }
+    ],
+    "url": "equipment-types/artisans-tools"
+  },
+  {
+    "index": "gaming-sets",
+    "name": "Gaming Sets",
+    "equipment": [
+      {
+        "url": "equipment-items/dice-set",
+        "name": "Dice set"
+      },
+      {
+        "url": "equipment-items/playing-card-set",
+        "name": "Playing card set"
+      }
+    ],
+    "url": "equipment-types/gaming-sets"
+  },
+  {
+    "index": "musical-instruments",
+    "name": "Musical Instruments",
+    "equipment": [
+      {
+        "url": "equipment-items/bagpipes",
+        "name": "Bagpipes"
+      },
+      {
+        "url": "equipment-items/drum",
+        "name": "Drum"
+      },
+      {
+        "url": "equipment-items/dulcimer",
+        "name": "Dulcimer"
+      },
+      {
+        "url": "equipment-items/flute",
+        "name": "Flute"
+      },
+      {
+        "url": "equipment-items/lute",
+        "name": "Lute"
+      },
+      {
+        "url": "equipment-items/lyre",
+        "name": "Lyre"
+      },
+      {
+        "url": "equipment-items/horn",
+        "name": "Horn"
+      },
+      {
+        "url": "equipment-items/pan-flute",
+        "name": "Pan flute"
+      },
+      {
+        "url": "equipment-items/shawm",
+        "name": "Shawm"
+      },
+      {
+        "url": "equipment-items/viol",
+        "name": "Viol"
+      }
+    ],
+    "url": "equipment-types/musical-instruments"
+  },
+  {
+    "index": "other-tools",
+    "name": "Other Tools",
+    "equipment": [
+      {
+        "url": "equipment-items/navigators-tools",
+        "name": "Navigator's tools"
+      },
+      {
+        "url": "equipment-items/thieves-tools",
+        "name": "Thieves' tools"
+      }
+    ],
+    "url": "equipment-types/other-tools"
+  },
+  {
+    "index": "mounts-and-other-animals",
+    "name": "Mounts and Other Animals",
+    "equipment": [
+      {
+        "url": "equipment-items/mule",
+        "name": "Mule"
+      },
+      {
+        "url": "equipment-items/elephant",
+        "name": "Elephant"
+      },
+      {
+        "url": "equipment-items/horse-draft",
+        "name": "Horse, draft"
+      },
+      {
+        "url": "equipment-items/horse-riding",
+        "name": "Horse, riding"
+      },
+      {
+        "url": "equipment-items/mastiff",
+        "name": "Mastiff"
+      },
+      {
+        "url": "equipment-items/pony",
+        "name": "Pony"
+      },
+      {
+        "url": "equipment-items/warhorse",
+        "name": "Warhorse"
+      }
+    ],
+    "url": "equipment-types/mounts-and-other-animals"
+  },
+  {
+    "index": "tack-harness-and-drawn-vehicles",
+    "name": "Tack, Harness, and Drawn Vehicles",
+    "equipment": [
+      {
+        "url": "equipment-items/barding-padded",
+        "name": "Barding: Padded"
+      },
+      {
+        "url": "equipment-items/barding-leather",
+        "name": "Barding: Leather"
+      },
+      {
+        "url": "equipment-items/barding-studded-leather",
+        "name": "Barding: Studded Leather"
+      },
+      {
+        "url": "equipment-items/barding-hide",
+        "name": "Barding: Hide"
+      },
+      {
+        "url": "equipment-items/barding-chain-shirt",
+        "name": "Barding: Chain shirt"
+      },
+      {
+        "url": "equipment-items/barding-scale-mail",
+        "name": "Barding: Scale mail"
+      },
+      {
+        "url": "equipment-items/barding-breastplate",
+        "name": "Barding: Breastplate"
+      },
+      {
+        "url": "equipment-items/barding-half-plate",
+        "name": "Barding: Half plate"
+      },
+      {
+        "url": "equipment-items/barding-ring-mail",
+        "name": "Barding: Ring mail"
+      },
+      {
+        "url": "equipment-items/barding-chain-mail",
+        "name": "Barding: Chain mail"
+      },
+      {
+        "url": "equipment-items/barding-splint",
+        "name": "Barding: Splint"
+      },
+      {
+        "url": "equipment-items/barding-plate",
+        "name": "Barding: Plate"
+      },
+      {
+        "url": "equipment-items/bit-and-bridle",
+        "name": "Bit and bridle"
+      },
+      {
+        "url": "equipment-items/carriage",
+        "name": "Carriage"
+      },
+      {
+        "url": "equipment-items/cart",
+        "name": "Cart"
+      },
+      {
+        "url": "equipment-items/chariot",
+        "name": "Chariot"
+      },
+      {
+        "url": "equipment-items/animal-feed-1-day",
+        "name": "Animal Feed (1 day)"
+      },
+      {
+        "url": "equipment-items/saddle-exotic",
+        "name": "Saddle, Exotic"
+      },
+      {
+        "url": "equipment-items/saddle-military",
+        "name": "Saddle, Military"
+      },
+      {
+        "url": "equipment-items/saddle-pack",
+        "name": "Saddle, Pack"
+      },
+      {
+        "url": "equipment-items/riding",
+        "name": "Riding"
+      },
+      {
+        "url": "equipment-items/saddlebags",
+        "name": "Saddlebags"
+      },
+      {
+        "url": "equipment-items/sled",
+        "name": "Sled"
+      },
+      {
+        "url": "equipment-items/stabling-1-day",
+        "name": "Stabling (1 day)"
+      },
+      {
+        "url": "equipment-items/wagon",
+        "name": "Wagon"
+      }
+    ],
+    "url": "equipment-types/tack-harness-and-drawn-vehicles"
+  },
+  {
+    "index": "land-vehicles",
+    "name": "Land Vehicles",
+    "equipment": [
+      {
+        "url": "equipment-items/carriage",
+        "name": "Carriage"
+      },
+      {
+        "url": "equipment-items/cart",
+        "name": "Cart"
+      },
+      {
+        "url": "equipment-items/chariot",
+        "name": "Chariot"
+      },
+      {
+        "url": "equipment-items/sled",
+        "name": "Sled"
+      },
+      {
+        "url": "equipment-items/wagon",
+        "name": "Wagon"
+      }
+    ],
+    "url": "equipment-types/land-vehicles"
+  },
+  {
+    "index": "waterborne-vehicles",
+    "name": "Waterborne Vehicles",
+    "equipment": [
+      {
+        "url": "equipment-items/galley",
+        "name": "Galley"
+      },
+      {
+        "url": "equipment-items/keelboat",
+        "name": "Keelboat"
+      },
+      {
+        "url": "equipment-items/longship",
+        "name": "Longship"
+      },
+      {
+        "url": "equipment-items/rowboat",
+        "name": "Rowboat"
+      },
+      {
+        "url": "equipment-items/sailing-ship",
+        "name": "Sailing ship"
+      },
+      {
+        "url": "equipment-items/warship",
+        "name": "Warship"
+      }
+    ],
+    "url": "equipment-types/waterborne-vehicles"
+  },
+  {
+    "index": "arcane-foci",
+    "name": "Arcane Foci",
+    "equipment": [
+      {
+        "url": "equipment-items/crystal",
+        "name": "Crystal"
+      },
+      {
+        "url": "equipment-items/orb",
+        "name": "Orb"
+      },
+      {
+        "url": "equipment-items/rod",
+        "name": "Rod"
+      },
+      {
+        "url": "equipment-items/staff",
+        "name": "Staff"
+      },
+      {
+        "url": "equipment-items/wand",
+        "name": "Wand"
+      }
+    ],
+    "url": "equipment-types/arcane-foci"
+  },
+  {
+    "index": "druidic-foci",
+    "name": "Druidic Foci",
+    "equipment": [
+      {
+        "url": "equipment-items/sprig-of-mistletoe",
+        "name": "Sprig of mistletoe"
+      },
+      {
+        "url": "equipment-items/totem",
+        "name": "Totem"
+      },
+      {
+        "url": "equipment-items/wooden-staff",
+        "name": "Wooden staff"
+      },
+      {
+        "url": "equipment-items/yew-wand",
+        "name": "Yew wand"
+      }
+    ],
+    "url": "equipment-types/druidic-foci"
+  },
+  {
+    "index": "holy-symbols",
+    "name": "Holy Symbols",
+    "equipment": [
+      {
+        "url": "equipment-items/amulet",
+        "name": "Amulet"
+      },
+      {
+        "url": "equipment-items/emblem",
+        "name": "Emblem"
+      },
+      {
+        "url": "equipment-items/reliquary",
+        "name": "Reliquary"
+      }
+    ],
+    "url": "equipment-types/holy-symbols"
+  }
+]

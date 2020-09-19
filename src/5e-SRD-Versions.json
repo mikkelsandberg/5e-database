@@ -1,0 +1,94 @@
+[
+  {
+    "name": "abilityScores",
+    "version": 1
+  },
+  {
+    "name": "classes",
+    "version": 1
+  },
+  {
+    "name": "conditions",
+    "version": 1
+  },
+  {
+    "name": "damageTypes",
+    "version": 1
+  },
+  {
+    "name": "equipmentTypes",
+    "version": 1
+  },
+  {
+    "name": "equipmentItems",
+    "version": 1
+  },
+  {
+    "name": "features",
+    "version": 1
+  },
+  {
+    "name": "languages",
+    "version": 1
+  },
+  {
+    "name": "levels",
+    "version": 1
+  },
+  {
+    "name": "magicSchools",
+    "version": 1
+  },
+  {
+    "name": "miscCreatures",
+    "version": 1
+  },
+  {
+    "name": "monsters",
+    "version": 1
+  },
+  {
+    "name": "nonplayerCharacters",
+    "version": 1
+  },
+  {
+    "name": "proficiencies",
+    "version": 1
+  },
+  {
+    "name": "races",
+    "version": 1
+  },
+  {
+    "name": "skills",
+    "version": 1
+  },
+  {
+    "name": "spellcastingTypes",
+    "version": 1
+  },
+  {
+    "name": "spells",
+    "version": 1
+  },
+  {
+    "name": "startingEquipmentItems",
+    "version": 1
+  },
+  {
+    "name": "subclasses",
+    "version": 1
+  },
+  {
+    "name": "subraces",
+    "version": 1
+  },
+  {
+    "name": "traits",
+    "version": 1
+  },
+  {
+    "name": "weaponTraits",
+    "version": 1
+  }
+]
