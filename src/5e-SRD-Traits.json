@@ -3,36 +3,44 @@
     "label": "darkvision",
     "races": [
       {
+        "label": "dwarf",
         "name": "Dwarf",
         "url": "races/dwarf"
       },
       {
+        "label": "elf",
         "name": "Elf",
         "url": "races/elf"
       },
       {
+        "label": "gnome",
         "name": "Gnome",
         "url": "races/gnome"
       },
       {
+        "label": "half-elf",
         "name": "Half-Elf",
         "url": "races/half-elf"
       },
       {
+        "label": "half-orc",
         "name": "Half-Orc",
         "url": "races/half-orc"
       }
     ],
     "subraces": [
       {
+        "label": "hill-dwarf",
         "name": "Hill Dwarf",
         "url": "subraces/hill-dwarf"
       },
       {
+        "label": "high-elf",
         "name": "High Elf",
         "url": "subraces/high-elf"
       },
       {
+        "label": "rock-gnome",
         "name": "Rock Gnome",
         "url": "subraces/rock-gnome"
       }
@@ -47,12 +55,14 @@
     "label": "dwarven-resilience",
     "races": [
       {
+        "label": "dwarf",
         "name": "Dwarf",
         "url": "races/dwarf"
       }
     ],
     "subraces": [
       {
+        "label": "hill-dwarf",
         "name": "Hill Dwarf",
         "url": "subraces/hill-dwarf"
       }
@@ -67,12 +77,14 @@
     "label": "dwarven-combat-training",
     "races": [
       {
+        "label": "dwarf",
         "name": "Dwarf",
         "url": "races/dwarf"
       }
     ],
     "subraces": [
       {
+        "label": "hill-dwarf",
         "name": "Hill Dwarf",
         "url": "subraces/hill-dwarf"
       }
@@ -87,12 +99,14 @@
     "label": "stonecunning",
     "races": [
       {
+        "label": "dwarf",
         "name": "Dwarf",
         "url": "races/dwarf"
       }
     ],
     "subraces": [
       {
+        "label": "hill-dwarf",
         "name": "Hill Dwarf",
         "url": "subraces/hill-dwarf"
       }
@@ -108,6 +122,7 @@
     "races": [],
     "subraces": [
       {
+        "label": "hill-dwarf",
         "name": "Hill Dwarf",
         "url": "subraces/hill-dwarf"
       }
@@ -122,12 +137,14 @@
     "label": "keen-senses",
     "races": [
       {
+        "label": "elf",
         "name": "Elf",
         "url": "races/elf"
       }
     ],
     "subraces": [
       {
+        "label": "high-elf",
         "name": "High Elf",
         "url": "subraces/high-elf"
       }
@@ -142,16 +159,19 @@
     "label": "fey-ancestry",
     "races": [
       {
+        "label": "elf",
         "name": "Elf",
         "url": "races/elf"
       },
       {
+        "label": "half-elf",
         "name": "Half-Elf",
         "url": "races/half-elf"
       }
     ],
     "subraces": [
       {
+        "label": "high-elf",
         "name": "High Elf",
         "url": "subraces/high-elf"
       }
@@ -166,12 +186,14 @@
     "label": "trance",
     "races": [
       {
+        "label": "elf",
         "name": "Elf",
         "url": "races/elf"
       }
     ],
     "subraces": [
       {
+        "label": "high-elf",
         "name": "High Elf",
         "url": "subraces/high-elf"
       }
@@ -186,12 +208,14 @@
     "label": "elf-weapon-training",
     "races": [
       {
+        "label": "elf",
         "name": "Elf",
         "url": "races/elf"
       }
     ],
     "subraces": [
       {
+        "label": "high-elf",
         "name": "High Elf",
         "url": "subraces/high-elf"
       }
@@ -207,6 +231,7 @@
     "races": [],
     "subraces": [
       {
+        "label": "high-elf",
         "name": "High Elf",
         "url": "subraces/high-elf"
       }
@@ -222,6 +247,7 @@
     "races": [],
     "subraces": [
       {
+        "label": "high-elf",
         "name": "High Elf",
         "url": "subraces/high-elf"
       }
@@ -236,12 +262,14 @@
     "label": "lucky",
     "races": [
       {
+        "label": "halfling",
         "name": "Halfling",
         "url": "races/halfling"
       }
     ],
     "subraces": [
       {
+        "label": "lightfoot-halfling",
         "name": "Lightfoot Halfling",
         "url": "subraces/lightfoot-halfling"
       }
@@ -256,12 +284,14 @@
     "label": "brave",
     "races": [
       {
+        "label": "halfling",
         "name": "Halfling",
         "url": "races/halfling"
       }
     ],
     "subraces": [
       {
+        "label": "lightfoot-halfling",
         "name": "Lightfoot Halfling",
         "url": "subraces/lightfoot-halfling"
       }
@@ -276,12 +306,14 @@
     "label": "halfling-nimbleness",
     "races": [
       {
+        "label": "halfling",
         "name": "Halfling",
         "url": "races/halfling"
       }
     ],
     "subraces": [
       {
+        "label": "lightfoot-halfling",
         "name": "Lightfoot Halfling",
         "url": "subraces/lightfoot-halfling"
       }
@@ -297,6 +329,7 @@
     "races": [],
     "subraces": [
       {
+        "label": "lightfoot-halfling",
         "name": "Lightfoot Halfling",
         "url": "subraces/lightfoot-halfling"
       }
@@ -311,6 +344,7 @@
     "label": "draconic-ancestry",
     "races": [
       {
+        "label": "dragonborn",
         "name": "Dragonborn",
         "url": "races/dragonborn"
       }
@@ -326,6 +360,7 @@
     "label": "breath-weapon",
     "races": [
       {
+        "label": "dragonborn",
         "name": "Dragonborn",
         "url": "races/dragonborn"
       }
@@ -343,6 +378,7 @@
     "label": "damage-resistance",
     "races": [
       {
+        "label": "dragonborn",
         "name": "Dragonborn",
         "url": "races/dragonborn"
       }
@@ -358,12 +394,14 @@
     "label": "gnome-cunning",
     "races": [
       {
+        "label": "gnome",
         "name": "Gnome",
         "url": "races/gnome"
       }
     ],
     "subraces": [
       {
+        "label": "rock-gnome",
         "name": "Rock Gnome",
         "url": "subraces/rock-gnome"
       }
@@ -379,6 +417,7 @@
     "races": [],
     "subraces": [
       {
+        "label": "rock-gnome",
         "name": "Rock Gnome",
         "url": "subraces/rock-gnome"
       }
@@ -394,6 +433,7 @@
     "races": [],
     "subraces": [
       {
+        "label": "rock-gnome",
         "name": "Rock Gnome",
         "url": "subraces/rock-gnome"
       }
@@ -412,6 +452,7 @@
     "label": "skill-versatility",
     "races": [
       {
+        "label": "half-elf",
         "name": "Half-Elf",
         "url": "races/half-elf"
       }
@@ -427,6 +468,7 @@
     "label": "menacing",
     "races": [
       {
+        "label": "half-orc",
         "name": "Half-Orc",
         "url": "races/half-orc"
       }
@@ -442,6 +484,7 @@
     "label": "relentless-endurance",
     "races": [
       {
+        "label": "half-orc",
         "name": "Half-Orc",
         "url": "races/half-orc"
       }
@@ -457,6 +500,7 @@
     "label": "savage-attacks",
     "races": [
       {
+        "label": "half-orc",
         "name": "Half-Orc",
         "url": "races/half-orc"
       }
@@ -472,6 +516,7 @@
     "label": "hellish-resistance",
     "races": [
       {
+        "label": "tiefling",
         "name": "Tiefling",
         "url": "races/tiefling"
       }
@@ -487,6 +532,7 @@
     "label": "infernal-legacy",
     "races": [
       {
+        "label": "tiefling",
         "name": "Tiefling",
         "url": "races/tiefling"
       }

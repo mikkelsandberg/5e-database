@@ -20,14 +20,16 @@
     "charisma": 11,
     "proficiencies": [
       {
+        "label": "skill-medicine",
         "name": "Skill: Medicine",
-        "url": "proficiencies/skill-medicine",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-medicine"
       },
       {
+        "label": "skill-religion",
         "name": "Skill: Religion",
-        "url": "proficiencies/skill-religion",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-religion"
       }
     ],
     "damage_vulnerabilities": [],
@@ -46,8 +48,9 @@
         "spellcasting": {
           "level": 1,
           "ability": {
+            "label": "5",
             "name": "WIS",
-            "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+            "url": "ability-scores/5"
           },
           "dc": 12,
           "modifier": 4,
@@ -64,32 +67,32 @@
             {
               "name": "Light",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/180"
+              "url": "spells/180"
             },
             {
               "name": "Sacred Flame",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/250"
+              "url": "spells/250"
             },
             {
               "name": "Thaumaturgy",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/291"
+              "url": "spells/291"
             },
             {
               "name": "Bless",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/29"
+              "url": "spells/29"
             },
             {
               "name": "Cure Wounds",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/70"
+              "url": "spells/70"
             },
             {
               "name": "Sanctuary",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/251"
+              "url": "spells/251"
             }
           ]
         }
@@ -103,6 +106,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -134,24 +138,28 @@
     "charisma": 16,
     "proficiencies": [
       {
+        "label": "saving-throw-int",
         "name": "Saving Throw: INT",
-        "url": "proficiencies/saving-throw-int",
-        "value": 9
+        "value": 9,
+        "url": "proficiencies/saving-throw-int"
       },
       {
+        "label": "saving-throw-wis",
         "name": "Saving Throw: WIS",
-        "url": "proficiencies/saving-throw-wis",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/saving-throw-wis"
       },
       {
+        "label": "skill-arcana",
         "name": "Skill: Arcana",
-        "url": "proficiencies/skill-arcana",
-        "value": 13
+        "value": 13,
+        "url": "proficiencies/skill-arcana"
       },
       {
+        "label": "skill-history",
         "name": "Skill: History",
-        "url": "proficiencies/skill-history",
-        "value": 13
+        "value": 13,
+        "url": "proficiencies/skill-history"
       }
     ],
     "damage_vulnerabilities": [],
@@ -177,8 +185,9 @@
         "spellcasting": {
           "level": 18,
           "ability": {
+            "label": "4",
             "name": "INT",
-            "url": "http://www.dnd5eapi.co/api/ability-scores/4"
+            "url": "ability-scores/4"
           },
           "dc": 17,
           "modifier": 9,
@@ -202,14 +211,14 @@
           "spells": [
             {
               "name": "Disguise Self",
-              "url": "http://www.dnd5eapi.co/api/spells/83",
+              "url": "spells/83",
               "usage": {
                 "type": "at will"
               }
             },
             {
               "name": "Invisibility",
-              "url": "http://www.dnd5eapi.co/api/spells/173",
+              "url": "spells/173",
               "usage": {
                 "type": "at will"
               }
@@ -217,130 +226,130 @@
             {
               "name": "Fire Bolt",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/116"
+              "url": "spells/116"
             },
             {
               "name": "Light",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/180"
+              "url": "spells/180"
             },
             {
               "name": "Mage Hand",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/187"
+              "url": "spells/187"
             },
             {
               "name": "Prestidigitation",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/227"
+              "url": "spells/227"
             },
             {
               "name": "Shocking Grasp",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/264"
+              "url": "spells/264"
             },
             {
               "name": "Detect Magic",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/79"
+              "url": "spells/79"
             },
             {
               "name": "Identify",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/166"
+              "url": "spells/166"
             },
             {
               "name": "Mage Armor",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/186",
+              "url": "spells/186",
               "note": "Cast on self before combat"
             },
             {
               "name": "Magic Missile",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/190"
+              "url": "spells/190"
             },
             {
               "name": "Detect Thoughts",
               "level": 2,
-              "url": "http://www.dnd5eapi.co/api/spells/81"
+              "url": "spells/81"
             },
             {
               "name": "Mirror Image",
               "level": 2,
-              "url": "http://www.dnd5eapi.co/api/spells/207"
+              "url": "spells/207"
             },
             {
               "name": "Misty Step",
               "level": 2,
-              "url": "http://www.dnd5eapi.co/api/spells/209"
+              "url": "spells/209"
             },
             {
               "name": "Counterspell",
               "level": 3,
-              "url": "http://www.dnd5eapi.co/api/spells/65"
+              "url": "spells/65"
             },
             {
               "name": "Fly",
               "level": 3,
-              "url": "http://www.dnd5eapi.co/api/spells/125"
+              "url": "spells/125"
             },
             {
               "name": "Lightning Bolt",
               "level": 3,
-              "url": "http://www.dnd5eapi.co/api/spells/181"
+              "url": "spells/181"
             },
             {
               "name": "Banishment",
               "level": 4,
-              "url": "http://www.dnd5eapi.co/api/spells/23"
+              "url": "spells/23"
             },
             {
               "name": "Fire Shield",
               "level": 4,
-              "url": "http://www.dnd5eapi.co/api/spells/117"
+              "url": "spells/117"
             },
             {
               "name": "Stoneskin",
               "level": 4,
-              "url": "http://www.dnd5eapi.co/api/spells/281",
+              "url": "spells/281",
               "note": "Cast on self before combat"
             },
             {
               "name": "Cone of Cold",
               "level": 5,
-              "url": "http://www.dnd5eapi.co/api/spells/51"
+              "url": "spells/51"
             },
             {
               "name": "Scrying",
               "level": 5,
-              "url": "http://www.dnd5eapi.co/api/spells/253"
+              "url": "spells/253"
             },
             {
               "name": "Wall of Force",
               "level": 5,
-              "url": "http://www.dnd5eapi.co/api/spells/306"
+              "url": "spells/306"
             },
             {
               "name": "Globe of Invulnerability",
               "level": 6,
-              "url": "http://www.dnd5eapi.co/api/spells/138"
+              "url": "spells/138"
             },
             {
               "name": "Teleport",
               "level": 7,
-              "url": "http://www.dnd5eapi.co/api/spells/289"
+              "url": "spells/289"
             },
             {
               "name": "Mind Blank",
               "level": 8,
-              "url": "http://www.dnd5eapi.co/api/spells/204",
+              "url": "spells/204",
               "note": "Cast on self before combat"
             },
             {
               "name": "Time Stop",
               "level": 9,
-              "url": "http://www.dnd5eapi.co/api/spells/293"
+              "url": "spells/293"
             }
           ]
         }
@@ -354,6 +363,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -385,34 +395,40 @@
     "charisma": 10,
     "proficiencies": [
       {
+        "label": "saving-throw-dex",
         "name": "Saving Throw: DEX",
-        "url": "proficiencies/saving-throw-dex",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/saving-throw-dex"
       },
       {
+        "label": "saving-throw-int",
         "name": "Saving Throw: INT",
-        "url": "proficiencies/saving-throw-int",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/saving-throw-int"
       },
       {
+        "label": "skill-acrobatics",
         "name": "Skill: Acrobatics",
-        "url": "proficiencies/skill-acrobatics",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-acrobatics"
       },
       {
+        "label": "skill-deception",
         "name": "Skill: Deception",
-        "url": "proficiencies/skill-deception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-deception"
       },
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 9
+        "value": 9,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -464,6 +480,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -472,6 +489,7 @@
           {
             "dc": {
               "dc_type": {
+                "label": "con",
                 "name": "CON",
                 "url": "ability-scores/con"
               },
@@ -479,6 +497,7 @@
               "success_type": "half"
             },
             "damage_type": {
+              "label": "poison",
               "name": "Poison",
               "url": "damage-types/poison"
             },
@@ -493,6 +512,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -501,6 +521,7 @@
           {
             "dc": {
               "dc_type": {
+                "label": "con",
                 "name": "CON",
                 "url": "ability-scores/con"
               },
@@ -508,6 +529,7 @@
               "success_type": "half"
             },
             "damage_type": {
+              "label": "poison",
               "name": "Poison",
               "url": "damage-types/poison"
             },
@@ -555,6 +577,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -569,6 +592,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -600,29 +624,34 @@
     "charisma": 14,
     "proficiencies": [
       {
+        "label": "saving-throw-str",
         "name": "Saving Throw: STR",
-        "url": "proficiencies/saving-throw-str",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/saving-throw-str"
       },
       {
+        "label": "saving-throw-dex",
         "name": "Saving Throw: DEX",
-        "url": "proficiencies/saving-throw-dex",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/saving-throw-dex"
       },
       {
+        "label": "saving-throw-wis",
         "name": "Saving Throw: WIS",
-        "url": "proficiencies/saving-throw-wis",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/saving-throw-wis"
       },
       {
+        "label": "skill-athletics",
         "name": "Skill: Athletics",
-        "url": "proficiencies/skill-athletics",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-athletics"
       },
       {
+        "label": "skill-deception",
         "name": "Skill: Deception",
-        "url": "proficiencies/skill-deception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-deception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -670,6 +699,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -684,6 +714,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -743,6 +774,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -790,6 +822,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -821,19 +854,22 @@
     "charisma": 14,
     "proficiencies": [
       {
+        "label": "skill-deception",
         "name": "Skill: Deception",
-        "url": "proficiencies/skill-deception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-deception"
       },
       {
+        "label": "skill-persuasion",
         "name": "Skill: Persuasion",
-        "url": "proficiencies/skill-persuasion",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-persuasion"
       },
       {
+        "label": "skill-religion",
         "name": "Skill: Religion",
-        "url": "proficiencies/skill-religion",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-religion"
       }
     ],
     "damage_vulnerabilities": [],
@@ -856,8 +892,9 @@
         "spellcasting": {
           "level": 4,
           "ability": {
+            "label": "5",
             "name": "WIS",
-            "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+            "url": "ability-scores/5"
           },
           "dc": 11,
           "modifier": 3,
@@ -875,42 +912,42 @@
             {
               "name": "Light",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/180"
+              "url": "spells/180"
             },
             {
               "name": "Sacred Flame",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/250"
+              "url": "spells/250"
             },
             {
               "name": "Thaumaturgy",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/291"
+              "url": "spells/291"
             },
             {
               "name": "Command",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/46"
+              "url": "spells/46"
             },
             {
               "name": "Inflict Wounds",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/170"
+              "url": "spells/170"
             },
             {
               "name": "Shield of Faith",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/262"
+              "url": "spells/262"
             },
             {
               "name": "Hold Person",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/161"
+              "url": "spells/161"
             },
             {
               "name": "Spiritual Weapon",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/278"
+              "url": "spells/278"
             }
           ]
         }
@@ -940,6 +977,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -971,14 +1009,16 @@
     "charisma": 10,
     "proficiencies": [
       {
+        "label": "skill-deception",
         "name": "Skill: Deception",
-        "url": "proficiencies/skill-deception",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-deception"
       },
       {
+        "label": "skill-religion",
         "name": "Skill: Religion",
-        "url": "proficiencies/skill-religion",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-religion"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1004,6 +1044,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -1035,19 +1076,22 @@
     "charisma": 11,
     "proficiencies": [
       {
+        "label": "skill-medicine",
         "name": "Skill: Medicine",
-        "url": "proficiencies/skill-medicine",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-medicine"
       },
       {
+        "label": "skill-nature",
         "name": "Skill: Nature",
-        "url": "proficiencies/skill-nature",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-nature"
       },
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1066,8 +1110,9 @@
         "spellcasting": {
           "level": 4,
           "ability": {
+            "label": "5",
             "name": "WIS",
-            "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+            "url": "ability-scores/5"
           },
           "dc": 12,
           "modifier": 4,
@@ -1085,47 +1130,47 @@
             {
               "name": "Druidcraft",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/94"
+              "url": "spells/94"
             },
             {
               "name": "Produce Flame",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/231"
+              "url": "spells/231"
             },
             {
               "name": "Shillelagh",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/263"
+              "url": "spells/263"
             },
             {
               "name": "Entangle",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/99"
+              "url": "spells/99"
             },
             {
               "name": "Longstrider",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/185"
+              "url": "spells/185"
             },
             {
               "name": "Speak with Animals",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/272"
+              "url": "spells/272"
             },
             {
               "name": "Thunderwave",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/292"
+              "url": "spells/292"
             },
             {
               "name": "Animal Messenger",
               "level": 2,
-              "url": "http://www.dnd5eapi.co/api/spells/7"
+              "url": "spells/7"
             },
             {
               "name": "Barkskin",
               "level": 2,
-              "url": "http://www.dnd5eapi.co/api/spells/24"
+              "url": "spells/24"
             }
           ]
         }
@@ -1143,6 +1188,7 @@
             "from": [
               {
                 "damage_type": {
+                  "label": "bludgeoning",
                   "name": "Bludgeoning",
                   "url": "damage-types/bludgeoning"
                 },
@@ -1150,6 +1196,7 @@
               },
               {
                 "damage_type": {
+                  "label": "bludgeoning",
                   "name": "Bludgeoning",
                   "url": "damage-types/bludgeoning"
                 },
@@ -1183,29 +1230,34 @@
     "charisma": 15,
     "proficiencies": [
       {
+        "label": "saving-throw-str",
         "name": "Saving Throw: STR",
-        "url": "proficiencies/saving-throw-str",
-        "value": 7
+        "value": 7,
+        "url": "proficiencies/saving-throw-str"
       },
       {
+        "label": "saving-throw-dex",
         "name": "Saving Throw: DEX",
-        "url": "proficiencies/saving-throw-dex",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/saving-throw-dex"
       },
       {
+        "label": "saving-throw-con",
         "name": "Saving Throw: CON",
-        "url": "proficiencies/saving-throw-con",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/saving-throw-con"
       },
       {
+        "label": "skill-athletics",
         "name": "Skill: Athletics",
-        "url": "proficiencies/skill-athletics",
-        "value": 10
+        "value": 10,
+        "url": "proficiencies/skill-athletics"
       },
       {
+        "label": "skill-intimidation",
         "name": "Skill: Intimidation",
-        "url": "proficiencies/skill-intimidation",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-intimidation"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1293,6 +1345,7 @@
             "from": [
               {
                 "damage_type": {
+                  "label": "piercing",
                   "name": "Piercing",
                   "url": "damage-types/piercing"
                 },
@@ -1300,6 +1353,7 @@
               },
               {
                 "damage_type": {
+                  "label": "piercing",
                   "name": "Piercing",
                   "url": "damage-types/piercing"
                 },
@@ -1316,6 +1370,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1354,9 +1409,10 @@
     "charisma": 10,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1380,6 +1436,7 @@
             "from": [
               {
                 "damage_type": {
+                  "label": "piercing",
                   "name": "Piercing",
                   "url": "damage-types/piercing"
                 },
@@ -1387,6 +1444,7 @@
               },
               {
                 "damage_type": {
+                  "label": "piercing",
                   "name": "Piercing",
                   "url": "damage-types/piercing"
                 },
@@ -1420,14 +1478,16 @@
     "charisma": 15,
     "proficiencies": [
       {
+        "label": "saving-throw-con",
         "name": "Saving Throw: CON",
-        "url": "proficiencies/saving-throw-con",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/saving-throw-con"
       },
       {
+        "label": "saving-throw-wis",
         "name": "Saving Throw: WIS",
-        "url": "proficiencies/saving-throw-wis",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/saving-throw-wis"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1469,6 +1529,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -1483,6 +1544,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -1531,24 +1593,28 @@
     "charisma": 11,
     "proficiencies": [
       {
+        "label": "saving-throw-int",
         "name": "Saving Throw: INT",
-        "url": "proficiencies/saving-throw-int",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/saving-throw-int"
       },
       {
+        "label": "saving-throw-wis",
         "name": "Saving Throw: WIS",
-        "url": "proficiencies/saving-throw-wis",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/saving-throw-wis"
       },
       {
+        "label": "skill-arcana",
         "name": "Skill: Arcana",
-        "url": "proficiencies/skill-arcana",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-arcana"
       },
       {
+        "label": "skill-history",
         "name": "Skill: History",
-        "url": "proficiencies/skill-history",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-history"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1567,8 +1633,9 @@
         "spellcasting": {
           "level": 9,
           "ability": {
+            "label": "4",
             "name": "INT",
-            "url": "http://www.dnd5eapi.co/api/ability-scores/4"
+            "url": "ability-scores/4"
           },
           "dc": 14,
           "modifier": 6,
@@ -1589,82 +1656,82 @@
             {
               "name": "Fire Bolt",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/116"
+              "url": "spells/116"
             },
             {
               "name": "Light",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/180"
+              "url": "spells/180"
             },
             {
               "name": "Mage Hand",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/187"
+              "url": "spells/187"
             },
             {
               "name": "Prestidigitation",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/227"
+              "url": "spells/227"
             },
             {
               "name": "Detect Magic",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/79"
+              "url": "spells/79"
             },
             {
               "name": "Mage Armor",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/186"
+              "url": "spells/186"
             },
             {
               "name": "Magic Missile",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/190"
+              "url": "spells/190"
             },
             {
               "name": "Shield",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/261"
+              "url": "spells/261"
             },
             {
               "name": "Misty Step",
               "level": 2,
-              "url": "http://www.dnd5eapi.co/api/spells/209"
+              "url": "spells/209"
             },
             {
               "name": "Suggestion",
               "level": 2,
-              "url": "http://www.dnd5eapi.co/api/spells/283"
+              "url": "spells/283"
             },
             {
               "name": "Counterspell",
               "level": 3,
-              "url": "http://www.dnd5eapi.co/api/spells/65"
+              "url": "spells/65"
             },
             {
               "name": "Fireball",
               "level": 3,
-              "url": "http://www.dnd5eapi.co/api/spells/119"
+              "url": "spells/119"
             },
             {
               "name": "Fly",
               "level": 3,
-              "url": "http://www.dnd5eapi.co/api/spells/125"
+              "url": "spells/125"
             },
             {
               "name": "Greater Invisibility",
               "level": 4,
-              "url": "http://www.dnd5eapi.co/api/spells/142"
+              "url": "spells/142"
             },
             {
               "name": "Ice Storm",
               "level": 4,
-              "url": "http://www.dnd5eapi.co/api/spells/165"
+              "url": "spells/165"
             },
             {
               "name": "Cone of Cold",
               "level": 5,
-              "url": "http://www.dnd5eapi.co/api/spells/51"
+              "url": "spells/51"
             }
           ]
         }
@@ -1678,6 +1745,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -1709,19 +1777,22 @@
     "charisma": 16,
     "proficiencies": [
       {
+        "label": "skill-deception",
         "name": "Skill: Deception",
-        "url": "proficiencies/skill-deception",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-deception"
       },
       {
+        "label": "skill-insight",
         "name": "Skill: Insight",
-        "url": "proficiencies/skill-insight",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-insight"
       },
       {
+        "label": "skill-persuasion",
         "name": "Skill: Persuasion",
-        "url": "proficiencies/skill-persuasion",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-persuasion"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1741,6 +1812,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1778,19 +1850,22 @@
     "charisma": 13,
     "proficiencies": [
       {
+        "label": "skill-medicine",
         "name": "Skill: Medicine",
-        "url": "proficiencies/skill-medicine",
-        "value": 7
+        "value": 7,
+        "url": "proficiencies/skill-medicine"
       },
       {
+        "label": "skill-persuasion",
         "name": "Skill: Persuasion",
-        "url": "proficiencies/skill-persuasion",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-persuasion"
       },
       {
+        "label": "skill-religion",
         "name": "Skill: Religion",
-        "url": "proficiencies/skill-religion",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-religion"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1813,8 +1888,9 @@
         "spellcasting": {
           "level": 5,
           "ability": {
+            "label": "5",
             "name": "WIS",
-            "url": "http://www.dnd5eapi.co/api/ability-scores/5"
+            "url": "ability-scores/5"
           },
           "dc": 13,
           "modifier": 5,
@@ -1833,52 +1909,52 @@
             {
               "name": "Light",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/180"
+              "url": "spells/180"
             },
             {
               "name": "Sacred Flame",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/250"
+              "url": "spells/250"
             },
             {
               "name": "Thaumaturgy",
               "level": 0,
-              "url": "http://www.dnd5eapi.co/api/spells/291"
+              "url": "spells/291"
             },
             {
               "name": "Cure Wounds",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/70"
+              "url": "spells/70"
             },
             {
               "name": "Guiding Bolt",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/147"
+              "url": "spells/147"
             },
             {
               "name": "Sanctuary",
               "level": 1,
-              "url": "http://www.dnd5eapi.co/api/spells/251"
+              "url": "spells/251"
             },
             {
               "name": "Lesser Restoration",
               "level": 2,
-              "url": "http://www.dnd5eapi.co/api/spells/178"
+              "url": "spells/178"
             },
             {
               "name": "Spiritual Weapon",
               "level": 2,
-              "url": "http://www.dnd5eapi.co/api/spells/278"
+              "url": "spells/278"
             },
             {
               "name": "Dispel Magic",
               "level": 3,
-              "url": "http://www.dnd5eapi.co/api/spells/86"
+              "url": "spells/86"
             },
             {
               "name": "Spirit Guardians",
               "level": 3,
-              "url": "http://www.dnd5eapi.co/api/spells/277"
+              "url": "spells/277"
             }
           ]
         }
@@ -1892,6 +1968,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1923,24 +2000,28 @@
     "charisma": 11,
     "proficiencies": [
       {
+        "label": "skill-nature",
         "name": "Skill: Nature",
-        "url": "proficiencies/skill-nature",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-nature"
       },
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-stealth"
       },
       {
+        "label": "skill-survival",
         "name": "Skill: Survival",
-        "url": "proficiencies/skill-survival",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-survival"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1989,6 +2070,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2003,6 +2085,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2034,34 +2117,40 @@
     "charisma": 16,
     "proficiencies": [
       {
+        "label": "skill-deception",
         "name": "Skill: Deception",
-        "url": "proficiencies/skill-deception",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-deception"
       },
       {
+        "label": "skill-insight",
         "name": "Skill: Insight",
-        "url": "proficiencies/skill-insight",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-insight"
       },
       {
+        "label": "skill-investigation",
         "name": "Skill: Investigation",
-        "url": "proficiencies/skill-investigation",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-investigation"
       },
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-persuasion",
         "name": "Skill: Persuasion",
-        "url": "proficiencies/skill-persuasion",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-persuasion"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2107,6 +2196,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2121,6 +2211,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2152,9 +2243,10 @@
     "charisma": 11,
     "proficiencies": [
       {
+        "label": "skill-intimidation",
         "name": "Skill: Intimidation",
-        "url": "proficiencies/skill-intimidation",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-intimidation"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2196,6 +2288,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -2210,6 +2303,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2267,6 +2361,7 @@
             "from": [
               {
                 "damage_type": {
+                  "label": "piercing",
                   "name": "Piercing",
                   "url": "damage-types/piercing"
                 },
@@ -2274,6 +2369,7 @@
               },
               {
                 "damage_type": {
+                  "label": "piercing",
                   "name": "Piercing",
                   "url": "damage-types/piercing"
                 },
@@ -2307,14 +2403,16 @@
     "charisma": 10,
     "proficiencies": [
       {
+        "label": "skill-athletics",
         "name": "Skill: Athletics",
-        "url": "proficiencies/skill-athletics",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-athletics"
       },
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2360,6 +2458,7 @@
             "from": [
               {
                 "damage_type": {
+                  "label": "slashing",
                   "name": "Slashing",
                   "url": "damage-types/slashing"
                 },
@@ -2367,6 +2466,7 @@
               },
               {
                 "damage_type": {
+                  "label": "thunder",
                   "name": "Thunder",
                   "url": "damage-types/thunder"
                 },
@@ -2383,6 +2483,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2397,6 +2498,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },

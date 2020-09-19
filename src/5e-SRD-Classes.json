@@ -9,79 +9,88 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-animal-handling",
-            "name": "Skill: Animal Handling"
+            "label": "skill-animal-handling",
+            "name": "Skill: Animal Handling",
+            "url": "proficiencies/skill-animal-handling"
           },
           {
-            "url": "proficiencies/skill-athletics",
-            "name": "Skill: Athletics"
+            "label": "skill-athletics",
+            "name": "Skill: Athletics",
+            "url": "proficiencies/skill-athletics"
           },
           {
-            "url": "proficiencies/skill-intimidation",
-            "name": "Skill: Intimidation"
+            "label": "skill-intimidation",
+            "name": "Skill: Intimidation",
+            "url": "proficiencies/skill-intimidation"
           },
           {
-            "url": "proficiencies/skill-nature",
-            "name": "Skill: Nature"
+            "label": "skill-nature",
+            "name": "Skill: Nature",
+            "url": "proficiencies/skill-nature"
           },
           {
-            "url": "proficiencies/skill-perception",
-            "name": "Skill: Perception"
+            "label": "skill-perception",
+            "name": "Skill: Perception",
+            "url": "proficiencies/skill-perception"
           },
           {
-            "url": "proficiencies/skill-survival",
-            "name": "Skill: Survival"
+            "label": "skill-survival",
+            "name": "Skill: Survival",
+            "url": "proficiencies/skill-survival"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "light-armor",
         "name": "Light armor",
         "url": "proficiencies/light-armor"
       },
       {
+        "label": "medium-armor",
         "name": "Medium armor",
         "url": "proficiencies/medium-armor"
       },
       {
+        "label": "shields",
         "name": "Shields",
         "url": "proficiencies/shields"
       },
       {
+        "label": "simple-weapons",
         "name": "Simple weapons",
         "url": "proficiencies/simple-weapons"
       },
       {
+        "label": "martial-weapons",
         "name": "Martial weapons",
         "url": "proficiencies/martial-weapons"
       }
     ],
     "saving_throws": [
       {
+        "label": "str",
         "name": "STR",
         "url": "ability-scores/str"
       },
       {
+        "label": "con",
         "name": "CON",
         "url": "ability-scores/con"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/barbarian",
-      "class": "Barbarian"
-    },
-    "class_levels": {
-      "url": "classes/barbarian/levels",
-      "class": "Barbarian"
-    },
+    "starting_equipment": "starting-equipment-items/barbarian",
+    "class_levels": "classes/barbarian/levels",
     "subclasses": [
       {
-        "url": "subclasses/berserker",
-        "name": "Berserker"
+        "label": "berserker",
+        "name": "Berserker",
+        "url": "subclasses/berserker"
       }
     ],
     "spellcasting": {},
+    "spells": "classes/barbarian/spells",
     "url": "classes/barbarian"
   },
   {
@@ -94,76 +103,94 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-acrobatics",
-            "name": "Skill: Acrobatics"
+            "label": "skill-acrobatics",
+            "name": "Skill: Acrobatics",
+            "url": "proficiencies/skill-acrobatics"
           },
           {
-            "url": "proficiencies/skill-animal-handling",
-            "name": "Skill: Animal Handling"
+            "label": "skill-animal-handling",
+            "name": "Skill: Animal Handling",
+            "url": "proficiencies/skill-animal-handling"
           },
           {
-            "url": "proficiencies/skill-arcana",
-            "name": "Skill: Arcana"
+            "label": "skill-arcana",
+            "name": "Skill: Arcana",
+            "url": "proficiencies/skill-arcana"
           },
           {
-            "url": "proficiencies/skill-athletics",
-            "name": "Skill: Athletics"
+            "label": "skill-athletics",
+            "name": "Skill: Athletics",
+            "url": "proficiencies/skill-athletics"
           },
           {
-            "url": "proficiencies/skill-deception",
-            "name": "Skill: Deception"
+            "label": "skill-deception",
+            "name": "Skill: Deception",
+            "url": "proficiencies/skill-deception"
           },
           {
-            "url": "proficiencies/skill-history",
-            "name": "Skill: History"
+            "label": "skill-history",
+            "name": "Skill: History",
+            "url": "proficiencies/skill-history"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-intimidation",
-            "name": "Skill: Intimidation"
+            "label": "skill-intimidation",
+            "name": "Skill: Intimidation",
+            "url": "proficiencies/skill-intimidation"
           },
           {
-            "url": "proficiencies/skill-investigation",
-            "name": "Skill: Investigation"
+            "label": "skill-investigation",
+            "name": "Skill: Investigation",
+            "url": "proficiencies/skill-investigation"
           },
           {
-            "url": "proficiencies/skill-medicine",
-            "name": "Skill: Medicine"
+            "label": "skill-medicine",
+            "name": "Skill: Medicine",
+            "url": "proficiencies/skill-medicine"
           },
           {
-            "url": "proficiencies/skill-nature",
-            "name": "Skill: Nature"
+            "label": "skill-nature",
+            "name": "Skill: Nature",
+            "url": "proficiencies/skill-nature"
           },
           {
-            "url": "proficiencies/skill-perception",
-            "name": "Skill: Perception"
+            "label": "skill-perception",
+            "name": "Skill: Perception",
+            "url": "proficiencies/skill-perception"
           },
           {
-            "url": "proficiencies/skill-performance",
-            "name": "Skill: Performance"
+            "label": "skill-performance",
+            "name": "Skill: Performance",
+            "url": "proficiencies/skill-performance"
           },
           {
-            "url": "proficiencies/skill-persuasion",
-            "name": "Skill: Persuasion"
+            "label": "skill-persuasion",
+            "name": "Skill: Persuasion",
+            "url": "proficiencies/skill-persuasion"
           },
           {
-            "url": "proficiencies/skill-religion",
-            "name": "Skill: Religion"
+            "label": "skill-religion",
+            "name": "Skill: Religion",
+            "url": "proficiencies/skill-religion"
           },
           {
-            "url": "proficiencies/skill-sleight-of-hand",
-            "name": "Skill: Sleight of Hand"
+            "label": "skill-sleight-of-hand",
+            "name": "Skill: Sleight of Hand",
+            "url": "proficiencies/skill-sleight-of-hand"
           },
           {
-            "url": "proficiencies/skill-stealth",
-            "name": "Skill: Stealth"
+            "label": "skill-stealth",
+            "name": "Skill: Stealth",
+            "url": "proficiencies/skill-stealth"
           },
           {
-            "url": "proficiencies/skill-survival",
-            "name": "Skill: Survival"
+            "label": "skill-survival",
+            "name": "Skill: Survival",
+            "url": "proficiencies/skill-survival"
           }
         ]
       },
@@ -172,102 +199,113 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/bagpipes",
-            "name": "Bagpipes"
+            "label": "bagpipes",
+            "name": "Bagpipes",
+            "url": "proficiencies/bagpipes"
           },
           {
-            "url": "proficiencies/drum",
-            "name": "Drum"
+            "label": "drum",
+            "name": "Drum",
+            "url": "proficiencies/drum"
           },
           {
-            "url": "proficiencies/dulcimer",
-            "name": "Dulcimer"
+            "label": "dulcimer",
+            "name": "Dulcimer",
+            "url": "proficiencies/dulcimer"
           },
           {
-            "url": "proficiencies/flute",
-            "name": "Flute"
+            "label": "flute",
+            "name": "Flute",
+            "url": "proficiencies/flute"
           },
           {
-            "url": "proficiencies/lute",
-            "name": "Lute"
+            "label": "lute",
+            "name": "Lute",
+            "url": "proficiencies/lute"
           },
           {
-            "url": "proficiencies/lyre",
-            "name": "Lyre"
+            "label": "lyre",
+            "name": "Lyre",
+            "url": "proficiencies/lyre"
           },
           {
-            "url": "proficiencies/horn",
-            "name": "Horn"
+            "label": "horn",
+            "name": "Horn",
+            "url": "proficiencies/horn"
           },
           {
-            "url": "proficiencies/pan-flute",
-            "name": "Pan flute"
+            "label": "pan-flute",
+            "name": "Pan flute",
+            "url": "proficiencies/pan-flute"
           },
           {
-            "url": "proficiencies/shawm",
-            "name": "Shawm"
+            "label": "shawm",
+            "name": "Shawm",
+            "url": "proficiencies/shawm"
           },
           {
-            "url": "proficiencies/viol",
-            "name": "Viol"
+            "label": "viol",
+            "name": "Viol",
+            "url": "proficiencies/viol"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "light-armor",
         "name": "Light armor",
         "url": "proficiencies/light-armor"
       },
       {
+        "label": "simple-weapons",
         "name": "Simple weapons",
         "url": "proficiencies/simple-weapons"
       },
       {
+        "label": "longswords",
         "name": "Longswords",
         "url": "proficiencies/longswords"
       },
       {
+        "label": "rapiers",
         "name": "Rapiers",
         "url": "proficiencies/rapiers"
       },
       {
+        "label": "shortswords",
         "name": "Shortswords",
         "url": "proficiencies/shortswords"
       },
       {
+        "label": "crossbows-hand",
         "name": "Crossbows, hand",
         "url": "proficiencies/crossbows-hand"
       }
     ],
     "saving_throws": [
       {
+        "label": "dex",
         "name": "DEX",
         "url": "ability-scores/dex"
       },
       {
+        "label": "cha",
         "name": "CHA",
         "url": "ability-scores/cha"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/bard",
-      "class": "Bard"
-    },
-    "class_levels": {
-      "url": "classes/bard/levels",
-      "class": "Bard"
-    },
+    "starting_equipment": "starting-equipment-items/bard",
+    "class_levels": "classes/bard/levels",
     "subclasses": [
       {
-        "url": "subclasses/lore",
-        "name": "Lore"
+        "label": "lore",
+        "name": "Lore",
+        "url": "subclasses/lore"
       }
     ],
-    "spellcasting": {
-      "url": "spellcasting-types/bard",
-      "class": "Bard"
-    },
+    "spellcasting": "spellcasting-types/bard",
+    "spells": "classes/bard/spells",
     "url": "classes/bard"
   },
   {
@@ -280,74 +318,78 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-history",
-            "name": "Skill: History"
+            "label": "skill-history",
+            "name": "Skill: History",
+            "url": "proficiencies/skill-history"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-medicine",
-            "name": "Skill: Medicine"
+            "label": "skill-medicine",
+            "name": "Skill: Medicine",
+            "url": "proficiencies/skill-medicine"
           },
           {
-            "url": "proficiencies/skill-persuasion",
-            "name": "Skill: Persuasion"
+            "label": "skill-persuasion",
+            "name": "Skill: Persuasion",
+            "url": "proficiencies/skill-persuasion"
           },
           {
-            "url": "proficiencies/skill-religion",
-            "name": "Skill: Religion"
+            "label": "skill-religion",
+            "name": "Skill: Religion",
+            "url": "proficiencies/skill-religion"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "light-armor",
         "name": "Light armor",
         "url": "proficiencies/light-armor"
       },
       {
+        "label": "medium-armor",
         "name": "Medium armor",
         "url": "proficiencies/medium-armor"
       },
       {
+        "label": "shields",
         "name": "Shields",
         "url": "proficiencies/shields"
       },
       {
+        "label": "simple-weapons",
         "name": "Simple weapons",
         "url": "proficiencies/simple-weapons"
       }
     ],
     "saving_throws": [
       {
+        "label": "wis",
         "name": "WIS",
         "url": "ability-scores/wis"
       },
       {
+        "label": "cha",
         "name": "CHA",
         "url": "ability-scores/cha"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/cleric",
-      "class": "Cleric"
-    },
-    "class_levels": {
-      "url": "classes/cleric/levels",
-      "class": "Cleric"
-    },
+    "starting_equipment": "starting-equipment-items/cleric",
+    "class_levels": "classes/cleric/levels",
     "subclasses": [
       {
-        "url": "subclasses/life",
-        "name": "Life"
+        "label": "life",
+        "name": "Life",
+        "url": "subclasses/life"
       }
     ],
-    "spellcasting": {
-      "url": "spellcasting-types/cleric",
-      "class": "Cleric"
-    },
+    "spellcasting": "spellcasting-types/cleric",
+    "spells": "classes/cleric/spells",
     "url": "classes/cleric"
   },
   {
@@ -360,126 +402,143 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-animal-handling",
-            "name": "Skill: Animal Handling"
+            "label": "skill-animal-handling",
+            "name": "Skill: Animal Handling",
+            "url": "proficiencies/skill-animal-handling"
           },
           {
-            "url": "proficiencies/skill-arcana",
-            "name": "Skill: Arcana"
+            "label": "skill-arcana",
+            "name": "Skill: Arcana",
+            "url": "proficiencies/skill-arcana"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-medicine",
-            "name": "Skill: Medicine"
+            "label": "skill-medicine",
+            "name": "Skill: Medicine",
+            "url": "proficiencies/skill-medicine"
           },
           {
-            "url": "proficiencies/skill-nature",
-            "name": "Skill: Nature"
+            "label": "skill-nature",
+            "name": "Skill: Nature",
+            "url": "proficiencies/skill-nature"
           },
           {
-            "url": "proficiencies/skill-perception",
-            "name": "Skill: Perception"
+            "label": "skill-perception",
+            "name": "Skill: Perception",
+            "url": "proficiencies/skill-perception"
           },
           {
-            "url": "proficiencies/skill-religion",
-            "name": "Skill: Religion"
+            "label": "skill-religion",
+            "name": "Skill: Religion",
+            "url": "proficiencies/skill-religion"
           },
           {
-            "url": "proficiencies/skill-survival",
-            "name": "Skill: Survival"
+            "label": "skill-survival",
+            "name": "Skill: Survival",
+            "url": "proficiencies/skill-survival"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "light-armor",
         "name": "Light armor",
         "url": "proficiencies/light-armor"
       },
       {
+        "label": "medium-armor",
         "name": "Medium armor",
         "url": "proficiencies/medium-armor"
       },
       {
+        "label": "shields",
         "name": "Shields",
         "url": "proficiencies/shields"
       },
       {
+        "label": "clubs",
         "name": "Clubs",
         "url": "proficiencies/clubs"
       },
       {
+        "label": "daggers",
         "name": "Daggers",
         "url": "proficiencies/daggers"
       },
       {
+        "label": "javelins",
         "name": "Javelins",
         "url": "proficiencies/javelins"
       },
       {
+        "label": "maces",
         "name": "Maces",
         "url": "proficiencies/maces"
       },
       {
+        "label": "quarterstaffs",
         "name": "Quarterstaffs",
         "url": "proficiencies/quarterstaffs"
       },
       {
+        "label": "sickles",
         "name": "Sickles",
         "url": "proficiencies/sickles"
       },
       {
+        "label": "spears",
         "name": "Spears",
         "url": "proficiencies/spears"
       },
       {
+        "label": "darts",
         "name": "Darts",
         "url": "proficiencies/darts"
       },
       {
+        "label": "slings",
         "name": "Slings",
         "url": "proficiencies/slings"
       },
       {
+        "label": "scimitars",
         "name": "Scimitars",
         "url": "proficiencies/scimitars"
       },
       {
+        "label": "herbalism-kit",
         "name": "Herbalism Kit",
         "url": "proficiencies/herbalism-kit"
       }
     ],
     "saving_throws": [
       {
+        "label": "int",
         "name": "INT",
         "url": "ability-scores/int"
       },
       {
+        "label": "wis",
         "name": "WIS",
         "url": "ability-scores/wis"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/druid",
-      "class": "Druid"
-    },
-    "class_levels": {
-      "url": "classes/druid/levels",
-      "class": "Druid"
-    },
+    "starting_equipment": "starting-equipment-items/druid",
+    "class_levels": "classes/druid/levels",
     "subclasses": [
       {
-        "url": "subclasses/land",
-        "name": "Land"
+        "label": "land",
+        "name": "Land",
+        "url": "subclasses/land"
       }
     ],
-    "spellcasting": {
-      "url": "spellcasting-types/druid",
-      "class": "Druid"
-    },
+    "spellcasting": "spellcasting-types/druid",
+    "spells": "classes/druid/spells",
     "url": "classes/druid"
   },
   {
@@ -492,83 +551,93 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-acrobatics",
-            "name": "Skill: Acrobatics"
+            "label": "skill-acrobatics",
+            "name": "Skill: Acrobatics",
+            "url": "proficiencies/skill-acrobatics"
           },
           {
-            "url": "proficiencies/skill-animal-handling",
-            "name": "Skill: Animal Handling"
+            "label": "skill-animal-handling",
+            "name": "Skill: Animal Handling",
+            "url": "proficiencies/skill-animal-handling"
           },
           {
-            "url": "proficiencies/skill-athletics",
-            "name": "Skill: Athletics"
+            "label": "skill-athletics",
+            "name": "Skill: Athletics",
+            "url": "proficiencies/skill-athletics"
           },
           {
-            "url": "proficiencies/skill-history",
-            "name": "Skill: History"
+            "label": "skill-history",
+            "name": "Skill: History",
+            "url": "proficiencies/skill-history"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-intimidation",
-            "name": "Skill: Intimidation"
+            "label": "skill-intimidation",
+            "name": "Skill: Intimidation",
+            "url": "proficiencies/skill-intimidation"
           },
           {
-            "url": "proficiencies/skill-perception",
-            "name": "Skill: Perception"
+            "label": "skill-perception",
+            "name": "Skill: Perception",
+            "url": "proficiencies/skill-perception"
           },
           {
-            "url": "proficiencies/skill-survival",
-            "name": "Skill: Survival"
+            "label": "skill-survival",
+            "name": "Skill: Survival",
+            "url": "proficiencies/skill-survival"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "all-armor",
         "name": "All armor",
         "url": "proficiencies/all-armor"
       },
       {
+        "label": "shields",
         "name": "Shields",
         "url": "proficiencies/shields"
       },
       {
+        "label": "simple-weapons",
         "name": "Simple weapons",
         "url": "proficiencies/simple-weapons"
       },
       {
+        "label": "martial-weapons",
         "name": "Martial weapons",
         "url": "proficiencies/martial-weapons"
       }
     ],
     "saving_throws": [
       {
+        "label": "str",
         "name": "STR",
         "url": "ability-scores/str"
       },
       {
+        "label": "con",
         "name": "CON",
         "url": "ability-scores/con"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/fighter",
-      "class": "Fighter"
-    },
-    "class_levels": {
-      "url": "classes/fighter/levels",
-      "class": "Fighter"
-    },
+    "starting_equipment": "starting-equipment-items/fighter",
+    "class_levels": "classes/fighter/levels",
     "subclasses": [
       {
-        "url": "subclasses/champion",
-        "name": "Champion"
+        "label": "champion",
+        "name": "Champion",
+        "url": "subclasses/champion"
       }
     ],
     "spellcasting": {},
+    "spells": "classes/fighter/spells",
     "url": "classes/fighter"
   },
   {
@@ -581,80 +650,99 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/alchemists-supplies",
-            "name": "Alchemist's supplies"
+            "label": "alchemists-supplies",
+            "name": "Alchemist's supplies",
+            "url": "proficiencies/alchemists-supplies"
           },
           {
-            "url": "proficiencies/brewers-supplies",
-            "name": "Brewer's supplies"
+            "label": "brewers-supplies",
+            "name": "Brewer's supplies",
+            "url": "proficiencies/brewers-supplies"
           },
           {
-            "url": "proficiencies/calligraphers-supplies",
-            "name": "Calligrapher's supplies"
+            "label": "calligraphers-supplies",
+            "name": "Calligrapher's supplies",
+            "url": "proficiencies/calligraphers-supplies"
           },
           {
-            "url": "proficiencies/carpenters-tools",
-            "name": "Carpenter's tools"
+            "label": "carpenters-tools",
+            "name": "Carpenter's tools",
+            "url": "proficiencies/carpenters-tools"
           },
           {
-            "url": "proficiencies/cartographers-tools",
-            "name": "Cartographer's tools"
+            "label": "cartographers-tools",
+            "name": "Cartographer's tools",
+            "url": "proficiencies/cartographers-tools"
           },
           {
-            "url": "proficiencies/cobblers-tools",
-            "name": "Cobbler's tools"
+            "label": "cobblers-tools",
+            "name": "Cobbler's tools",
+            "url": "proficiencies/cobblers-tools"
           },
           {
-            "url": "proficiencies/cooks-utensils",
-            "name": "Cook's utensils"
+            "label": "cooks-utensils",
+            "name": "Cook's utensils",
+            "url": "proficiencies/cooks-utensils"
           },
           {
-            "url": "proficiencies/glassblowers-tools",
-            "name": "Glassblower's tools"
+            "label": "glassblowers-tools",
+            "name": "Glassblower's tools",
+            "url": "proficiencies/glassblowers-tools"
           },
           {
-            "url": "proficiencies/jewelers-tools",
-            "name": "Jeweler's tools"
+            "label": "jewelers-tools",
+            "name": "Jeweler's tools",
+            "url": "proficiencies/jewelers-tools"
           },
           {
-            "url": "proficiencies/leatherworkers-tools",
-            "name": "Leatherworker's tools"
+            "label": "leatherworkers-tools",
+            "name": "Leatherworker's tools",
+            "url": "proficiencies/leatherworkers-tools"
           },
           {
-            "url": "proficiencies/masons-tools",
-            "name": "Mason's tools"
+            "label": "masons-tools",
+            "name": "Mason's tools",
+            "url": "proficiencies/masons-tools"
           },
           {
-            "url": "proficiencies/painters-supplies",
-            "name": "Painter's supplies"
+            "label": "painters-supplies",
+            "name": "Painter's supplies",
+            "url": "proficiencies/painters-supplies"
           },
           {
-            "url": "proficiencies/potters-tools",
-            "name": "Potter's tools"
+            "label": "potters-tools",
+            "name": "Potter's tools",
+            "url": "proficiencies/potters-tools"
           },
           {
-            "url": "proficiencies/smiths-tools",
-            "name": "Smith's tools"
+            "label": "smiths-tools",
+            "name": "Smith's tools",
+            "url": "proficiencies/smiths-tools"
           },
           {
-            "url": "proficiencies/tinkers-tools",
-            "name": "Tinker's tools"
+            "label": "tinkers-tools",
+            "name": "Tinker's tools",
+            "url": "proficiencies/tinkers-tools"
           },
           {
-            "url": "proficiencies/weavers-tools",
-            "name": "Weaver's tools"
+            "label": "weavers-tools",
+            "name": "Weaver's tools",
+            "url": "proficiencies/weavers-tools"
           },
           {
-            "url": "proficiencies/woodcarvers-tools",
-            "name": "Woodcarver's tools"
+            "label": "woodcarvers-tools",
+            "name": "Woodcarver's tools",
+            "url": "proficiencies/woodcarvers-tools"
           },
           {
-            "url": "proficiencies/disguise-kit",
-            "name": "Disguise kit"
+            "label": "disguise-kit",
+            "name": "Disguise kit",
+            "url": "proficiencies/disguise-kit"
           },
           {
-            "url": "proficiencies/forgery-kit",
-            "name": "Forgery kit"
+            "label": "forgery-kit",
+            "name": "Forgery kit",
+            "url": "proficiencies/forgery-kit"
           }
         ]
       },
@@ -663,44 +751,54 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/bagpipes",
-            "name": "Bagpipes"
+            "label": "bagpipes",
+            "name": "Bagpipes",
+            "url": "proficiencies/bagpipes"
           },
           {
-            "url": "proficiencies/drum",
-            "name": "Drum"
+            "label": "drum",
+            "name": "Drum",
+            "url": "proficiencies/drum"
           },
           {
-            "url": "proficiencies/dulcimer",
-            "name": "Dulcimer"
+            "label": "dulcimer",
+            "name": "Dulcimer",
+            "url": "proficiencies/dulcimer"
           },
           {
-            "url": "proficiencies/flute",
-            "name": "Flute"
+            "label": "flute",
+            "name": "Flute",
+            "url": "proficiencies/flute"
           },
           {
-            "url": "proficiencies/lute",
-            "name": "Lute"
+            "label": "lute",
+            "name": "Lute",
+            "url": "proficiencies/lute"
           },
           {
-            "url": "proficiencies/lyre",
-            "name": "Lyre"
+            "label": "lyre",
+            "name": "Lyre",
+            "url": "proficiencies/lyre"
           },
           {
-            "url": "proficiencies/horn",
-            "name": "Horn"
+            "label": "horn",
+            "name": "Horn",
+            "url": "proficiencies/horn"
           },
           {
-            "url": "proficiencies/pan-flute",
-            "name": "Pan flute"
+            "label": "pan-flute",
+            "name": "Pan flute",
+            "url": "proficiencies/pan-flute"
           },
           {
-            "url": "proficiencies/shawm",
-            "name": "Shawm"
+            "label": "shawm",
+            "name": "Shawm",
+            "url": "proficiencies/shawm"
           },
           {
-            "url": "proficiencies/viol",
-            "name": "Viol"
+            "label": "viol",
+            "name": "Viol",
+            "url": "proficiencies/viol"
           }
         ]
       },
@@ -709,67 +807,73 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-acrobatics",
-            "name": "Skill: Acrobatics"
+            "label": "skill-acrobatics",
+            "name": "Skill: Acrobatics",
+            "url": "proficiencies/skill-acrobatics"
           },
           {
-            "url": "proficiencies/skill-athletics",
-            "name": "Skill: Athletics"
+            "label": "skill-athletics",
+            "name": "Skill: Athletics",
+            "url": "proficiencies/skill-athletics"
           },
           {
-            "url": "proficiencies/skill-history",
-            "name": "Skill: History"
+            "label": "skill-history",
+            "name": "Skill: History",
+            "url": "proficiencies/skill-history"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-religion",
-            "name": "Skill: Religion"
+            "label": "skill-religion",
+            "name": "Skill: Religion",
+            "url": "proficiencies/skill-religion"
           },
           {
-            "url": "proficiencies/skill-stealth",
-            "name": "Skill: Stealth"
+            "label": "skill-stealth",
+            "name": "Skill: Stealth",
+            "url": "proficiencies/skill-stealth"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "simple-weapons",
         "name": "Simple weapons",
         "url": "proficiencies/simple-weapons"
       },
       {
+        "label": "shortswords",
         "name": "Shortswords",
         "url": "proficiencies/shortswords"
       }
     ],
     "saving_throws": [
       {
+        "label": "str",
         "name": "STR",
         "url": "ability-scores/str"
       },
       {
+        "label": "dex",
         "name": "DEX",
         "url": "ability-scores/dex"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/monk",
-      "class": "Monk"
-    },
-    "class_levels": {
-      "url": "classes/monk/levels",
-      "class": "Monk"
-    },
+    "starting_equipment": "starting-equipment-items/monk",
+    "class_levels": "classes/monk/levels",
     "subclasses": [
       {
-        "url": "subclasses/open-hand",
-        "name": "Open Hand"
+        "label": "open-hand",
+        "name": "Open Hand",
+        "url": "subclasses/open-hand"
       }
     ],
     "spellcasting": {},
+    "spells": "classes/monk/spells",
     "url": "classes/monk"
   },
   {
@@ -782,78 +886,83 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-athletics",
-            "name": "Skill: Athletics"
+            "label": "skill-athletics",
+            "name": "Skill: Athletics",
+            "url": "proficiencies/skill-athletics"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-intimidation",
-            "name": "Skill: Intimidation"
+            "label": "skill-intimidation",
+            "name": "Skill: Intimidation",
+            "url": "proficiencies/skill-intimidation"
           },
           {
-            "url": "proficiencies/skill-medicine",
-            "name": "Skill: Medicine"
+            "label": "skill-medicine",
+            "name": "Skill: Medicine",
+            "url": "proficiencies/skill-medicine"
           },
           {
-            "url": "proficiencies/skill-persuasion",
-            "name": "Skill: Persuasion"
+            "label": "skill-persuasion",
+            "name": "Skill: Persuasion",
+            "url": "proficiencies/skill-persuasion"
           },
           {
-            "url": "proficiencies/skill-religion",
-            "name": "Skill: Religion"
+            "label": "skill-religion",
+            "name": "Skill: Religion",
+            "url": "proficiencies/skill-religion"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "all-armor",
         "name": "All armor",
         "url": "proficiencies/all-armor"
       },
       {
+        "label": "shields",
         "name": "Shields",
         "url": "proficiencies/shields"
       },
       {
+        "label": "simple-weapons",
         "name": "Simple weapons",
         "url": "proficiencies/simple-weapons"
       },
       {
+        "label": "martial-weapons",
         "name": "Martial weapons",
         "url": "proficiencies/martial-weapons"
       }
     ],
     "saving_throws": [
       {
+        "label": "wis",
         "name": "WIS",
         "url": "ability-scores/wis"
       },
       {
+        "label": "cha",
         "name": "CHA",
         "url": "ability-scores/cha"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/paladin",
-      "class": "Paladin"
-    },
-    "class_levels": {
-      "url": "classes/paladin/levels",
-      "class": "Paladin"
-    },
+    "starting_equipment": "starting-equipment-items/paladin",
+    "class_levels": "classes/paladin/levels",
     "subclasses": [
       {
-        "url": "subclasses/devotion",
-        "name": "Devotion"
+        "label": "devotion",
+        "name": "Devotion",
+        "url": "subclasses/devotion"
       }
     ],
-    "spellcasting": {
-      "url": "spellcasting-types/paladin",
-      "class": "Paladin"
-    },
+    "spellcasting": "spellcasting-types/paladin",
+    "spells": "classes/paladin/spells",
     "url": "classes/paladin"
   },
   {
@@ -866,90 +975,98 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-animal-handling",
-            "name": "Skill: Animal Handling"
+            "label": "skill-animal-handling",
+            "name": "Skill: Animal Handling",
+            "url": "proficiencies/skill-animal-handling"
           },
           {
-            "url": "proficiencies/skill-athletics",
-            "name": "Skill: Athletics"
+            "label": "skill-athletics",
+            "name": "Skill: Athletics",
+            "url": "proficiencies/skill-athletics"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-investigation",
-            "name": "Skill: Investigation"
+            "label": "skill-investigation",
+            "name": "Skill: Investigation",
+            "url": "proficiencies/skill-investigation"
           },
           {
-            "url": "proficiencies/skill-nature",
-            "name": "Skill: Nature"
+            "label": "skill-nature",
+            "name": "Skill: Nature",
+            "url": "proficiencies/skill-nature"
           },
           {
-            "url": "proficiencies/skill-perception",
-            "name": "Skill: Perception"
+            "label": "skill-perception",
+            "name": "Skill: Perception",
+            "url": "proficiencies/skill-perception"
           },
           {
-            "url": "proficiencies/skill-stealth",
-            "name": "Skill: Stealth"
+            "label": "skill-stealth",
+            "name": "Skill: Stealth",
+            "url": "proficiencies/skill-stealth"
           },
           {
-            "url": "proficiencies/skill-survival",
-            "name": "Skill: Survival"
+            "label": "skill-survival",
+            "name": "Skill: Survival",
+            "url": "proficiencies/skill-survival"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "light-armor",
         "name": "Light armor",
         "url": "proficiencies/light-armor"
       },
       {
+        "label": "medium-armor",
         "name": "Medium armor",
         "url": "proficiencies/medium-armor"
       },
       {
+        "label": "shields",
         "name": "Shields",
         "url": "proficiencies/shields"
       },
       {
+        "label": "simple-weapons",
         "name": "Simple weapons",
         "url": "proficiencies/simple-weapons"
       },
       {
+        "label": "martial-weapons",
         "name": "Martial weapons",
         "url": "proficiencies/martial-weapons"
       }
     ],
     "saving_throws": [
       {
+        "label": "str",
         "name": "STR",
         "url": "ability-scores/str"
       },
       {
+        "label": "dex",
         "name": "DEX",
         "url": "ability-scores/dex"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/ranger",
-      "class": "Ranger"
-    },
-    "class_levels": {
-      "url": "classes/ranger/levels",
-      "class": "Ranger"
-    },
+    "starting_equipment": "starting-equipment-items/ranger",
+    "class_levels": "classes/ranger/levels",
     "subclasses": [
       {
-        "url": "subclasses/hunter",
-        "name": "Hunter"
+        "label": "hunter",
+        "name": "Hunter",
+        "url": "subclasses/hunter"
       }
     ],
-    "spellcasting": {
-      "url": "spellcasting-types/ranger",
-      "class": "Ranger"
-    },
+    "spellcasting": "spellcasting-types/ranger",
+    "spells": "classes/ranger/spells",
     "url": "classes/ranger"
   },
   {
@@ -962,107 +1079,123 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-acrobatics",
-            "name": "Skill: Acrobatics"
+            "label": "skill-acrobatics",
+            "name": "Skill: Acrobatics",
+            "url": "proficiencies/skill-acrobatics"
           },
           {
-            "url": "proficiencies/skill-athletics",
-            "name": "Skill: Athletics"
+            "label": "skill-athletics",
+            "name": "Skill: Athletics",
+            "url": "proficiencies/skill-athletics"
           },
           {
-            "url": "proficiencies/skill-deception",
-            "name": "Skill: Deception"
+            "label": "skill-deception",
+            "name": "Skill: Deception",
+            "url": "proficiencies/skill-deception"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-intimidation",
-            "name": "Skill: Intimidation"
+            "label": "skill-intimidation",
+            "name": "Skill: Intimidation",
+            "url": "proficiencies/skill-intimidation"
           },
           {
-            "url": "proficiencies/skill-investigation",
-            "name": "Skill: Investigation"
+            "label": "skill-investigation",
+            "name": "Skill: Investigation",
+            "url": "proficiencies/skill-investigation"
           },
           {
-            "url": "proficiencies/skill-perception",
-            "name": "Skill: Perception"
+            "label": "skill-perception",
+            "name": "Skill: Perception",
+            "url": "proficiencies/skill-perception"
           },
           {
-            "url": "proficiencies/skill-performance",
-            "name": "Skill: Performance"
+            "label": "skill-performance",
+            "name": "Skill: Performance",
+            "url": "proficiencies/skill-performance"
           },
           {
-            "url": "proficiencies/skill-persuasion",
-            "name": "Skill: Persuasion"
+            "label": "skill-persuasion",
+            "name": "Skill: Persuasion",
+            "url": "proficiencies/skill-persuasion"
           },
           {
-            "url": "proficiencies/skill-sleight-of-hand",
-            "name": "Skill: Sleight of Hand"
+            "label": "skill-sleight-of-hand",
+            "name": "Skill: Sleight of Hand",
+            "url": "proficiencies/skill-sleight-of-hand"
           },
           {
-            "url": "proficiencies/skill-stealth",
-            "name": "Skill: Stealth"
+            "label": "skill-stealth",
+            "name": "Skill: Stealth",
+            "url": "proficiencies/skill-stealth"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "light-armor",
         "name": "Light armor",
         "url": "proficiencies/light-armor"
       },
       {
+        "label": "simple-weapons",
         "name": "Simple weapons",
         "url": "proficiencies/simple-weapons"
       },
       {
+        "label": "longswords",
         "name": "Longswords",
         "url": "proficiencies/longswords"
       },
       {
+        "label": "rapiers",
         "name": "Rapiers",
         "url": "proficiencies/rapiers"
       },
       {
+        "label": "shortswords",
         "name": "Shortswords",
         "url": "proficiencies/shortswords"
       },
       {
+        "label": "crossbows-hand",
         "name": "Crossbows, hand",
         "url": "proficiencies/crossbows-hand"
       },
       {
+        "label": "thieves-tools",
         "name": "Thieves' Tools",
         "url": "proficiencies/thieves-tools"
       }
     ],
     "saving_throws": [
       {
+        "label": "dex",
         "name": "DEX",
         "url": "ability-scores/dex"
       },
       {
+        "label": "int",
         "name": "INT",
         "url": "ability-scores/int"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/rogue",
-      "class": "Rogue"
-    },
-    "class_levels": {
-      "url": "classes/rogue/levels",
-      "class": "Rogue"
-    },
+    "starting_equipment": "starting-equipment-items/rogue",
+    "class_levels": "classes/rogue/levels",
     "subclasses": [
       {
-        "url": "subclasses/thief",
-        "name": "Thief"
+        "label": "thief",
+        "name": "Thief",
+        "url": "subclasses/thief"
       }
     ],
     "spellcasting": {},
+    "spells": "classes/rogue/spells",
     "url": "classes/rogue"
   },
   {
@@ -1075,78 +1208,83 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-arcana",
-            "name": "Skill: Arcana"
+            "label": "skill-arcana",
+            "name": "Skill: Arcana",
+            "url": "proficiencies/skill-arcana"
           },
           {
-            "url": "proficiencies/skill-deception",
-            "name": "Skill: Deception"
+            "label": "skill-deception",
+            "name": "Skill: Deception",
+            "url": "proficiencies/skill-deception"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-intimidation",
-            "name": "Skill: Intimidation"
+            "label": "skill-intimidation",
+            "name": "Skill: Intimidation",
+            "url": "proficiencies/skill-intimidation"
           },
           {
-            "url": "proficiencies/skill-persuasion",
-            "name": "Skill: Persuasion"
+            "label": "skill-persuasion",
+            "name": "Skill: Persuasion",
+            "url": "proficiencies/skill-persuasion"
           },
           {
-            "url": "proficiencies/skill-religion",
-            "name": "Skill: Religion"
+            "label": "skill-religion",
+            "name": "Skill: Religion",
+            "url": "proficiencies/skill-religion"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "daggers",
         "name": "Daggers",
         "url": "proficiencies/daggers"
       },
       {
+        "label": "quarterstaffs",
         "name": "Quarterstaffs",
         "url": "proficiencies/quarterstaffs"
       },
       {
+        "label": "darts",
         "name": "Darts",
         "url": "proficiencies/darts"
       },
       {
+        "label": "slings",
         "name": "Slings",
         "url": "proficiencies/slings"
       }
     ],
     "saving_throws": [
       {
+        "label": "con",
         "name": "CON",
         "url": "ability-scores/con"
       },
       {
+        "label": "cha",
         "name": "CHA",
         "url": "ability-scores/cha"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/sorcerer",
-      "class": "Sorcerer"
-    },
-    "class_levels": {
-      "url": "classes/sorcerer/levels",
-      "class": "Sorcerer"
-    },
+    "starting_equipment": "starting-equipment-items/sorcerer",
+    "class_levels": "classes/sorcerer/levels",
     "subclasses": [
       {
-        "url": "subclasses/draconic",
-        "name": "Draconic"
+        "label": "draconic",
+        "name": "Draconic",
+        "url": "subclasses/draconic"
       }
     ],
-    "spellcasting": {
-      "url": "spellcasting-types/sorcerer",
-      "class": "Sorcerer"
-    },
+    "spellcasting": "spellcasting-types/sorcerer",
+    "spells": "classes/sorcerer/spells",
     "url": "classes/sorcerer"
   },
   {
@@ -1159,74 +1297,78 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-arcana",
-            "name": "Skill: Arcana"
+            "label": "skill-arcana",
+            "name": "Skill: Arcana",
+            "url": "proficiencies/skill-arcana"
           },
           {
-            "url": "proficiencies/skill-deception",
-            "name": "Skill: Deception"
+            "label": "skill-deception",
+            "name": "Skill: Deception",
+            "url": "proficiencies/skill-deception"
           },
           {
-            "url": "proficiencies/skill-history",
-            "name": "Skill: History"
+            "label": "skill-history",
+            "name": "Skill: History",
+            "url": "proficiencies/skill-history"
           },
           {
-            "url": "proficiencies/skill-intimidation",
-            "name": "Skill: Intimidation"
+            "label": "skill-intimidation",
+            "name": "Skill: Intimidation",
+            "url": "proficiencies/skill-intimidation"
           },
           {
-            "url": "proficiencies/skill-investigation",
-            "name": "Skill: Investigation"
+            "label": "skill-investigation",
+            "name": "Skill: Investigation",
+            "url": "proficiencies/skill-investigation"
           },
           {
-            "url": "proficiencies/skill-nature",
-            "name": "Skill: Nature"
+            "label": "skill-nature",
+            "name": "Skill: Nature",
+            "url": "proficiencies/skill-nature"
           },
           {
-            "url": "proficiencies/skill-religion",
-            "name": "Skill: Religion"
+            "label": "skill-religion",
+            "name": "Skill: Religion",
+            "url": "proficiencies/skill-religion"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "light-armor",
         "name": "Light armor",
         "url": "proficiencies/light-armor"
       },
       {
+        "label": "simple-weapons",
         "name": "Simple weapons",
         "url": "proficiencies/simple-weapons"
       }
     ],
     "saving_throws": [
       {
+        "label": "wis",
         "name": "WIS",
         "url": "ability-scores/wis"
       },
       {
+        "label": "cha",
         "name": "CHA",
         "url": "ability-scores/cha"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/warlock",
-      "class": "Warlock"
-    },
-    "class_levels": {
-      "url": "classes/warlock/levels",
-      "class": "Warlock"
-    },
+    "starting_equipment": "starting-equipment-items/warlock",
+    "class_levels": "classes/warlock/levels",
     "subclasses": [
       {
-        "url": "subclasses/fiend",
-        "name": "Fiend"
+        "label": "fiend",
+        "name": "Fiend",
+        "url": "subclasses/fiend"
       }
     ],
-    "spellcasting": {
-      "url": "spellcasting-types/warlock",
-      "class": "Warlock"
-    },
+    "spellcasting": "spellcasting-types/warlock",
+    "spells": "classes/warlock/spells",
     "url": "classes/warlock"
   },
   {
@@ -1239,78 +1381,83 @@
         "type": "proficiencies",
         "from": [
           {
-            "url": "proficiencies/skill-arcana",
-            "name": "Skill: Arcana"
+            "label": "skill-arcana",
+            "name": "Skill: Arcana",
+            "url": "proficiencies/skill-arcana"
           },
           {
-            "url": "proficiencies/skill-history",
-            "name": "Skill: History"
+            "label": "skill-history",
+            "name": "Skill: History",
+            "url": "proficiencies/skill-history"
           },
           {
-            "url": "proficiencies/skill-insight",
-            "name": "Skill: Insight"
+            "label": "skill-insight",
+            "name": "Skill: Insight",
+            "url": "proficiencies/skill-insight"
           },
           {
-            "url": "proficiencies/skill-investigation",
-            "name": "Skill: Investigation"
+            "label": "skill-investigation",
+            "name": "Skill: Investigation",
+            "url": "proficiencies/skill-investigation"
           },
           {
-            "url": "proficiencies/skill-medicine",
-            "name": "Skill: Medicine"
+            "label": "skill-medicine",
+            "name": "Skill: Medicine",
+            "url": "proficiencies/skill-medicine"
           },
           {
-            "url": "proficiencies/skill-religion",
-            "name": "Skill: Religion"
+            "label": "skill-religion",
+            "name": "Skill: Religion",
+            "url": "proficiencies/skill-religion"
           }
         ]
       }
     ],
     "proficiencies": [
       {
+        "label": "daggers",
         "name": "Daggers",
         "url": "proficiencies/daggers"
       },
       {
+        "label": "quarterstaffs",
         "name": "Quarterstaffs",
         "url": "proficiencies/quarterstaffs"
       },
       {
+        "label": "darts",
         "name": "Darts",
         "url": "proficiencies/darts"
       },
       {
+        "label": "slings",
         "name": "Slings",
         "url": "proficiencies/slings"
       }
     ],
     "saving_throws": [
       {
+        "label": "int",
         "name": "INT",
         "url": "ability-scores/int"
       },
       {
+        "label": "wis",
         "name": "WIS",
         "url": "ability-scores/wis"
       }
     ],
-    "starting_equipment": {
-      "url": "starting-equipment-items/wizard",
-      "class": "Wizard"
-    },
-    "class_levels": {
-      "url": "classes/wizard/levels",
-      "class": "Wizard"
-    },
+    "starting_equipment": "starting-equipment-items/wizard",
+    "class_levels": "classes/wizard/levels",
     "subclasses": [
       {
-        "url": "subclasses/evocation",
-        "name": "Evocation"
+        "label": "evocation",
+        "name": "Evocation",
+        "url": "subclasses/evocation"
       }
     ],
-    "spellcasting": {
-      "url": "spellcasting-types/wizard",
-      "class": "Wizard"
-    },
+    "spellcasting": "spellcasting-types/wizard",
+    "spells": "classes/wizard/spells",
     "url": "classes/wizard"
   }
 ]

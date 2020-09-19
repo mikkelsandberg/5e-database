@@ -5,9 +5,10 @@
     "speed": 25,
     "ability_bonuses": [
       {
+        "label": "con",
         "name": "CON",
-        "url": "ability-scores/con",
-        "bonus": 2
+        "bonus": 2,
+        "url": "ability-scores/con"
       }
     ],
     "ability_bonus_options": {},
@@ -17,20 +18,24 @@
     "size_description": "Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.",
     "starting_proficiencies": [
       {
-        "url": "proficiencies/battleaxes",
-        "name": "Battleaxes"
+        "label": "battleaxes",
+        "name": "Battleaxes",
+        "url": "proficiencies/battleaxes"
       },
       {
-        "url": "proficiencies/handaxes",
-        "name": "Handaxes"
+        "label": "handaxes",
+        "name": "Handaxes",
+        "url": "proficiencies/handaxes"
       },
       {
-        "url": "proficiencies/light-hammers",
-        "name": "Light hammers"
+        "label": "light-hammers",
+        "name": "Light hammers",
+        "url": "proficiencies/light-hammers"
       },
       {
-        "url": "proficiencies/warhammers",
-        "name": "Warhammers"
+        "label": "warhammers",
+        "name": "Warhammers",
+        "url": "proficiencies/warhammers"
       }
     ],
     "starting_proficiency_options": {
@@ -38,53 +43,63 @@
       "type": "proficiencies",
       "from": [
         {
-          "url": "proficiencies/smiths-tools",
-          "name": "Smith's tools"
+          "label": "smiths-tools",
+          "name": "Smith's tools",
+          "url": "proficiencies/smiths-tools"
         },
         {
-          "url": "proficiencies/brewers-supplies",
-          "name": "Brewer's supplies"
+          "label": "brewers-supplies",
+          "name": "Brewer's supplies",
+          "url": "proficiencies/brewers-supplies"
         },
         {
-          "url": "proficiencies/masons-tools",
-          "name": "Mason's tools"
+          "label": "masons-tools",
+          "name": "Mason's tools",
+          "url": "proficiencies/masons-tools"
         }
       ]
     },
     "languages": [
       {
-        "url": "languages/common",
-        "name": "Common"
+        "label": "common",
+        "name": "Common",
+        "url": "languages/common"
       },
       {
-        "url": "languages/dwarvish",
-        "name": "Dwarvish"
+        "label": "dwarvish",
+        "name": "Dwarvish",
+        "url": "languages/dwarvish"
       }
     ],
     "language_options": {},
     "language_desc": "You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.",
     "traits": [
       {
+        "label": "darkvision",
         "name": "Darkvision",
         "url": "traits/darkvision"
       },
       {
+        "label": "dwarven-resilience",
         "name": "Dwarven Resilience",
         "url": "traits/dwarven-resilience"
       },
       {
+        "label": "stonecunning",
         "name": "Stonecunning",
         "url": "traits/stonecunning"
       },
       {
+        "label": "dwarven-combat-training",
         "name": "Dwarven Combat Training",
         "url": "traits/dwarven-combat-training"
       }
     ],
     "subraces": [
       {
-        "url": "subraces/hill-dwarf",
-        "name": "Hill Dwarf"
+        "label": "hill-dwarf",
+        "name": "Hill Dwarf",
+        "url": "subraces/hill-dwarf"
       }
     ],
     "url": "races/dwarf"
@@ -95,9 +110,10 @@
     "speed": 30,
     "ability_bonuses": [
       {
+        "label": "dex",
         "name": "DEX",
-        "url": "ability-scores/dex",
-        "bonus": 2
+        "bonus": 2,
+        "url": "ability-scores/dex"
       }
     ],
     "ability_bonus_options": {},
@@ -107,41 +123,48 @@
     "size_description": "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.",
     "starting_proficiencies": [
       {
-        "url": "proficiencies/skill-perception",
-        "name": "Skill: Perception"
+        "label": "skill-perception",
+        "name": "Skill: Perception",
+        "url": "proficiencies/skill-perception"
       }
     ],
     "starting_proficiency_options": {},
     "languages": [
       {
-        "url": "languages/common",
-        "name": "Common"
+        "label": "common",
+        "name": "Common",
+        "url": "languages/common"
       },
       {
-        "url": "languages/elvish",
-        "name": "Elvish"
+        "label": "elvish",
+        "name": "Elvish",
+        "url": "languages/elvish"
       }
     ],
     "language_options": {},
     "language_desc": "You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.",
     "traits": [
       {
+        "label": "darkvision",
         "name": "Darkvision",
         "url": "traits/darkvision"
       },
       {
+        "label": "fey-ancestry",
         "name": "Fey Ancestry",
         "url": "traits/fey-ancestry"
       },
       {
+        "label": "trance",
         "name": "Trance",
         "url": "traits/trance"
       }
     ],
     "subraces": [
       {
-        "url": "subraces/high-elf",
-        "name": "High Elf"
+        "label": "high-elf",
+        "name": "High Elf",
+        "url": "subraces/high-elf"
       }
     ],
     "url": "races/elf"
@@ -152,9 +175,10 @@
     "speed": 25,
     "ability_bonuses": [
       {
+        "label": "dex",
         "name": "DEX",
-        "url": "ability-scores/dex",
-        "bonus": 2
+        "bonus": 2,
+        "url": "ability-scores/dex"
       }
     ],
     "ability_bonus_options": {},
@@ -166,34 +190,40 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "url": "languages/common",
-        "name": "Common"
+        "label": "common",
+        "name": "Common",
+        "url": "languages/common"
       },
       {
-        "url": "languages/halfling",
-        "name": "Halfling"
+        "label": "halfling",
+        "name": "Halfling",
+        "url": "languages/halfling"
       }
     ],
     "language_options": {},
     "language_desc": "You can speak, read, and write Common and Halfling. The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.",
     "traits": [
       {
+        "label": "brave",
         "name": "Brave",
         "url": "traits/brave"
       },
       {
+        "label": "halfling-nimbleness",
         "name": "Halfling Nimbleness",
         "url": "traits/halfling-nimbleness"
       },
       {
+        "label": "lucky",
         "name": "Lucky",
         "url": "traits/lucky"
       }
     ],
     "subraces": [
       {
-        "url": "subraces/lightfoot-halfling",
-        "name": "Lightfoot Halfling"
+        "label": "lightfoot-halfling",
+        "name": "Lightfoot Halfling",
+        "url": "subraces/lightfoot-halfling"
       }
     ],
     "url": "races/halfling"
@@ -204,34 +234,40 @@
     "speed": 30,
     "ability_bonuses": [
       {
+        "label": "str",
         "name": "STR",
-        "url": "ability-scores/str",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/str"
       },
       {
+        "label": "dex",
         "name": "DEX",
-        "url": "ability-scores/dex",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/dex"
       },
       {
+        "label": "con",
         "name": "CON",
-        "url": "ability-scores/con",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/con"
       },
       {
+        "label": "int",
         "name": "INT",
-        "url": "ability-scores/int",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/int"
       },
       {
+        "label": "wis",
         "name": "WIS",
-        "url": "ability-scores/wis",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/wis"
       },
       {
+        "label": "cha",
         "name": "CHA",
-        "url": "ability-scores/cha",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/cha"
       }
     ],
     "ability_bonus_options": {},
@@ -243,8 +279,9 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "url": "languages/common",
-        "name": "Common"
+        "label": "common",
+        "name": "Common",
+        "url": "languages/common"
       }
     ],
     "language_options": {
@@ -252,64 +289,79 @@
       "type": "languages",
       "from": [
         {
-          "url": "languages/dwarvish",
-          "name": "Dwarvish"
+          "label": "dwarvish",
+          "name": "Dwarvish",
+          "url": "languages/dwarvish"
         },
         {
-          "url": "languages/elvish",
-          "name": "Elvish"
+          "label": "elvish",
+          "name": "Elvish",
+          "url": "languages/elvish"
         },
         {
-          "url": "languages/giant",
-          "name": "Giant"
+          "label": "giant",
+          "name": "Giant",
+          "url": "languages/giant"
         },
         {
-          "url": "languages/gnomish",
-          "name": "Gnomish"
+          "label": "gnomish",
+          "name": "Gnomish",
+          "url": "languages/gnomish"
         },
         {
-          "url": "languages/goblin",
-          "name": "Goblin"
+          "label": "goblin",
+          "name": "Goblin",
+          "url": "languages/goblin"
         },
         {
-          "url": "languages/halfling",
-          "name": "Halfling"
+          "label": "halfling",
+          "name": "Halfling",
+          "url": "languages/halfling"
         },
         {
-          "url": "languages/orc",
-          "name": "Orc"
+          "label": "orc",
+          "name": "Orc",
+          "url": "languages/orc"
         },
         {
-          "url": "languages/abyssal",
-          "name": "Abyssal"
+          "label": "abyssal",
+          "name": "Abyssal",
+          "url": "languages/abyssal"
         },
         {
-          "url": "languages/celestial",
-          "name": "Celestial"
+          "label": "celestial",
+          "name": "Celestial",
+          "url": "languages/celestial"
         },
         {
-          "url": "languages/draconic",
-          "name": "Draconic"
+          "label": "draconic",
+          "name": "Draconic",
+          "url": "languages/draconic"
         },
         {
-          "url": "languages/deep-speech",
-          "name": "Deep Speech"
+          "label": "deep-speech",
+          "name": "Deep Speech",
+          "url": "languages/deep-speech"
         },
         {
-          "url": "languages/infernal",
-          "name": "Infernal"
+          "label": "infernal",
+          "name": "Infernal",
+          "url": "languages/infernal"
         },
         {
-          "url": "languages/primordial",
-          "name": "Primordial"
+          "label": "primordial",
+          "name": "Primordial",
+          "url": "languages/primordial"
         },
         {
-          "url": "languages/sylvan",
-          "name": "Sylvan"
+          "label": "sylvan",
+          "name": "Sylvan",
+          "url": "languages/sylvan"
         },
         {
-          "url": "languages/undercommon",
-          "name": "Undercommon"
+          "label": "undercommon",
+          "name": "Undercommon",
+          "url": "languages/undercommon"
         }
       ]
     },
@@ -324,14 +376,16 @@
     "speed": 30,
     "ability_bonuses": [
       {
+        "label": "str",
         "name": "STR",
-        "url": "ability-scores/str",
-        "bonus": 2
+        "bonus": 2,
+        "url": "ability-scores/str"
       },
       {
+        "label": "cha",
         "name": "CHA",
-        "url": "ability-scores/cha",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/cha"
       }
     ],
     "ability_bonus_options": {},
@@ -343,26 +397,31 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "url": "languages/common",
-        "name": "Common"
+        "label": "common",
+        "name": "Common",
+        "url": "languages/common"
       },
       {
-        "url": "languages/draconic",
-        "name": "Draconic"
+        "label": "draconic",
+        "name": "Draconic",
+        "url": "languages/draconic"
       }
     ],
     "language_options": {},
     "language_desc": "You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.",
     "traits": [
       {
+        "label": "draconic-ancestry",
         "name": "Draconic Ancestry",
         "url": "traits/draconic-ancestry"
       },
       {
+        "label": "breath-weapon",
         "name": "Breath Weapon",
         "url": "traits/breath-weapon"
       },
       {
+        "label": "damage-resistance",
         "name": "Damage Resistance",
         "url": "traits/damage-resistance"
       }
@@ -371,42 +430,52 @@
       "choose": 1,
       "from": [
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (Black)",
           "url": "traits/breath-weapon"
         },
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (Blue)",
           "url": "traits/breath-weapon"
         },
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (Brass)",
           "url": "traits/breath-weapon"
         },
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (Bronze)",
           "url": "traits/breath-weapon"
         },
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (Copper)",
           "url": "traits/breath-weapon"
         },
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (Gold)",
           "url": "traits/breath-weapon"
         },
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (Green)",
           "url": "traits/breath-weapon"
         },
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (Red)",
           "url": "traits/breath-weapon"
         },
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (Silver)",
           "url": "traits/breath-weapon"
         },
         {
+          "label": "breath-weapon",
           "name": "Breath Weapon (White)",
           "url": "traits/breath-weapon"
         }
@@ -422,9 +491,10 @@
     "speed": 25,
     "ability_bonuses": [
       {
+        "label": "int",
         "name": "INT",
-        "url": "ability-scores/int",
-        "bonus": 2
+        "bonus": 2,
+        "url": "ability-scores/int"
       }
     ],
     "ability_bonus_options": {},
@@ -436,22 +506,26 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "url": "languages/common",
-        "name": "Common"
+        "label": "common",
+        "name": "Common",
+        "url": "languages/common"
       },
       {
-        "url": "languages/gnomish",
-        "name": "Gnomish"
+        "label": "gnomish",
+        "name": "Gnomish",
+        "url": "languages/gnomish"
       }
     ],
     "language_options": {},
     "language_desc": "You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.",
     "traits": [
       {
+        "label": "darkvision",
         "name": "Darkvision",
         "url": "traits/darkvision"
       },
       {
+        "label": "gnome-cunning",
         "name": "Gnome Cunning",
         "url": "traits/gnome-cunning"
       }
@@ -459,8 +533,9 @@
     "trait_options": {},
     "subraces": [
       {
-        "url": "subraces/rock-gnome",
-        "name": "Rock Gnome"
+        "label": "rock-gnome",
+        "name": "Rock Gnome",
+        "url": "subraces/rock-gnome"
       }
     ],
     "url": "races/gnome"
@@ -471,9 +546,10 @@
     "speed": 30,
     "ability_bonuses": [
       {
+        "label": "cha",
         "name": "CHA",
-        "url": "ability-scores/cha",
-        "bonus": 2
+        "bonus": 2,
+        "url": "ability-scores/cha"
       }
     ],
     "ability_bonus_options": {
@@ -481,29 +557,34 @@
       "type": "ability_bonuses",
       "from": [
         {
+          "label": "str",
           "name": "STR",
-          "url": "ability-scores/str",
-          "bonus": 1
+          "bonus": 1,
+          "url": "ability-scores/str"
         },
         {
+          "label": "dex",
           "name": "DEX",
-          "url": "ability-scores/dex",
-          "bonus": 1
+          "bonus": 1,
+          "url": "ability-scores/dex"
         },
         {
+          "label": "con",
           "name": "CON",
-          "url": "ability-scores/con",
-          "bonus": 1
+          "bonus": 1,
+          "url": "ability-scores/con"
         },
         {
+          "label": "int",
           "name": "INT",
-          "url": "ability-scores/int",
-          "bonus": 1
+          "bonus": 1,
+          "url": "ability-scores/int"
         },
         {
+          "label": "wis",
           "name": "WIS",
-          "url": "ability-scores/wis",
-          "bonus": 1
+          "bonus": 1,
+          "url": "ability-scores/wis"
         }
       ]
     },
@@ -515,10 +596,12 @@
     "starting_proficiency_options": {},
     "languages": [
       {
+        "label": "common",
         "name": "Common",
         "url": "languages/common"
       },
       {
+        "label": "elvish",
         "name": "Elvish",
         "url": "languages/elvish"
       }
@@ -528,58 +611,72 @@
       "type": "languages",
       "from": [
         {
+          "label": "dwarvish",
           "name": "Dwarvish",
           "url": "languages/dwarvish"
         },
         {
+          "label": "giant",
           "name": "Giant",
           "url": "languages/giant"
         },
         {
+          "label": "gnomish",
           "name": "Gnomish",
           "url": "languages/gnomish"
         },
         {
+          "label": "goblin",
           "name": "Goblin",
           "url": "languages/goblin"
         },
         {
+          "label": "halfling",
           "name": "Halfling",
           "url": "languages/halfling"
         },
         {
+          "label": "orc",
           "name": "Orc",
           "url": "languages/orc"
         },
         {
+          "label": "abyssal",
           "name": "Abyssal",
           "url": "languages/abyssal"
         },
         {
+          "label": "celestial",
           "name": "Celestial",
           "url": "languages/celestial"
         },
         {
+          "label": "draconic",
           "name": "Draconic",
           "url": "languages/draconic"
         },
         {
+          "label": "deep-speech",
           "name": "Deep Speech",
           "url": "languages/deep-speech"
         },
         {
+          "label": "infernal",
           "name": "Infernal",
           "url": "languages/infernal"
         },
         {
+          "label": "primordial",
           "name": "Primordial",
           "url": "languages/primordial"
         },
         {
+          "label": "sylvan",
           "name": "Sylvan",
           "url": "languages/sylvan"
         },
         {
+          "label": "undercommon",
           "name": "Undercommon",
           "url": "languages/undercommon"
         }
@@ -588,14 +685,17 @@
     "language_desc": "You can speak, read, and write Common, Elvish, and one extra language of your choice.",
     "traits": [
       {
+        "label": "darkvision",
         "name": "Darkvision",
         "url": "traits/darkvision"
       },
       {
+        "label": "fey-ancestry",
         "name": "Fey Ancestry",
         "url": "traits/fey-ancestry"
       },
       {
+        "label": "skill-versatility",
         "name": "Skill Versatility",
         "url": "traits/skill-versatility"
       }
@@ -610,14 +710,16 @@
     "speed": 30,
     "ability_bonuses": [
       {
+        "label": "str",
         "name": "STR",
-        "url": "ability-scores/str",
-        "bonus": 2
+        "bonus": 2,
+        "url": "ability-scores/str"
       },
       {
+        "label": "con",
         "name": "CON",
-        "url": "ability-scores/con",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/con"
       }
     ],
     "ability_bonus_options": {},
@@ -627,6 +729,7 @@
     "size_description": "Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.",
     "starting_proficiencies": [
       {
+        "label": "skill-intimidation",
         "name": "Skill: Intimidation",
         "url": "proficiencies/skill-intimidation"
       }
@@ -634,26 +737,31 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "url": "languages/common",
-        "name": "Common"
+        "label": "common",
+        "name": "Common",
+        "url": "languages/common"
       },
       {
-        "url": "languages/orc",
-        "name": "Orcish"
+        "label": "orc",
+        "name": "Orcish",
+        "url": "languages/orc"
       }
     ],
     "language_options": {},
     "language_desc": "You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.",
     "traits": [
       {
+        "label": "darkvision",
         "name": "Darkvision",
         "url": "traits/darkvision"
       },
       {
+        "label": "savage-attacks",
         "name": "Savage Attacks",
         "url": "traits/savage-attacks"
       },
       {
+        "label": "relentless-endurance",
         "name": "Restless Endurance",
         "url": "traits/relentless-endurance"
       }
@@ -668,14 +776,16 @@
     "speed": 30,
     "ability_bonuses": [
       {
+        "label": "int",
         "name": "INT",
-        "url": "ability-scores/int",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/int"
       },
       {
+        "label": "cha",
         "name": "CHA",
-        "url": "ability-scores/cha",
-        "bonus": 2
+        "bonus": 2,
+        "url": "ability-scores/cha"
       }
     ],
     "ability_bonus_options": {},
@@ -687,26 +797,31 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "url": "languages/common",
-        "name": "Common"
+        "label": "common",
+        "name": "Common",
+        "url": "languages/common"
       },
       {
-        "url": "languages/abyssal",
-        "name": "Infernal"
+        "label": "abyssal",
+        "name": "Infernal",
+        "url": "languages/abyssal"
       }
     ],
     "language_options": {},
     "language_desc": "You can speak, read, and write Common and Infernal.",
     "traits": [
       {
+        "label": "darkvision",
         "name": "Darkvision",
         "url": "traits/darkvision"
       },
       {
+        "label": "hellish-resistance",
         "name": "Hellish Resistance",
         "url": "traits/hellish-resistance"
       },
       {
+        "label": "infernal-legacy",
         "name": "Infernal Legacy",
         "url": "traits/infernal-legacy"
       }

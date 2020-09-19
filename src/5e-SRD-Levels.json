@@ -6,10 +6,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "rage",
         "name": "Rage",
         "url": "features/rage"
       },
       {
+        "label": "barbarian-unarmored-defense",
         "name": "Unarmored Defense",
         "url": "features/barbarian-unarmored-defense"
       }
@@ -21,6 +23,7 @@
     },
     "label": "barbarian-1",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -34,10 +37,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "reckless-attack",
         "name": "Reckless Attack",
         "url": "features/reckless-attack"
       },
       {
+        "label": "danger-sense",
         "name": "Danger Sense",
         "url": "features/danger-sense"
       }
@@ -49,6 +54,7 @@
     },
     "label": "barbarian-2",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -62,6 +68,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "primal-path",
         "name": "Primal Path",
         "url": "features/primal-path"
       }
@@ -73,6 +80,7 @@
     },
     "label": "barbarian-3",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -86,6 +94,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "barbarian-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/barbarian-ability-score-improvement-1"
       }
@@ -97,6 +106,7 @@
     },
     "label": "barbarian-4",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -110,10 +120,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "barbarian-extra-attack",
         "name": "Extra Attack",
         "url": "features/barbarian-extra-attack"
       },
       {
+        "label": "fast-movement",
         "name": "Fast Movement",
         "url": "features/fast-movement"
       }
@@ -125,6 +137,7 @@
     },
     "label": "barbarian-5",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -145,6 +158,7 @@
     },
     "label": "barbarian-6",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -158,6 +172,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "feral-instinct",
         "name": "Feral Instinct",
         "url": "features/feral-instinct"
       }
@@ -170,6 +185,7 @@
     },
     "label": "barbarian-7",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -183,6 +199,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "barbarian-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/barbarian-ability-score-improvement-2"
       }
@@ -195,6 +212,7 @@
     },
     "label": "barbarian-8",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -208,6 +226,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "brutal-critical-1-die",
         "name": "Brutal Critical (1 die)",
         "url": "features/brutal-critical-1-die"
       }
@@ -220,6 +239,7 @@
     },
     "label": "barbarian-9",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -240,6 +260,7 @@
     },
     "label": "barbarian-10",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -253,6 +274,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "relentless-rage",
         "name": "Relentless Rage",
         "url": "features/relentless-rage"
       }
@@ -265,6 +287,7 @@
     },
     "label": "barbarian-11",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -278,6 +301,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "barbarian-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/barbarian-ability-score-improvement-3"
       }
@@ -289,6 +313,7 @@
     },
     "label": "barbarian-12",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -302,6 +327,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "brutal-critical-2-dice",
         "name": "Brutal Critical (2 dice)",
         "url": "features/brutal-critical-2-dice"
       }
@@ -313,6 +339,7 @@
     },
     "label": "barbarian-13",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -332,6 +359,7 @@
     },
     "label": "barbarian-14",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -345,6 +373,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "persistent-rage",
         "name": "Persistent Rage",
         "url": "features/persistent-rage"
       }
@@ -356,6 +385,7 @@
     },
     "label": "barbarian-15",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -369,6 +399,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "barbarian-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/barbarian-ability-score-improvement-4"
       }
@@ -380,6 +411,7 @@
     },
     "label": "barbarian-16",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -393,6 +425,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "brutal-critical-3-dice",
         "name": "Brutal Critical (3 dice)",
         "url": "features/brutal-critical-3-dice"
       }
@@ -404,6 +437,7 @@
     },
     "label": "barbarian-17",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -417,6 +451,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "indomitable-might",
         "name": "Indomitable Might",
         "url": "features/indomitable-might"
       }
@@ -428,6 +463,7 @@
     },
     "label": "barbarian-18",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -441,6 +477,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "barbarian-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/barbarian-ability-score-improvement-5"
       }
@@ -452,6 +489,7 @@
     },
     "label": "barbarian-19",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -465,6 +503,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "primal-champion",
         "name": "Primal Champion",
         "url": "features/primal-champion"
       }
@@ -476,6 +515,7 @@
     },
     "label": "barbarian-20",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
@@ -489,10 +529,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "spellcasting-bard",
         "name": "Spellcasting",
         "url": "features/spellcasting-bard"
       },
       {
+        "label": "bardic-inspiration-d6",
         "name": "Bardic Inspiration (d6)",
         "url": "features/bardic-inspiration-d6"
       }
@@ -519,6 +561,7 @@
     },
     "label": "bard-1",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -532,10 +575,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "jack-of-all-trades",
         "name": "Jack of All Trades",
         "url": "features/jack-of-all-trades"
       },
       {
+        "label": "song-of-rest-d6",
         "name": "Song of Rest (d6)",
         "url": "features/song-of-rest-d6"
       }
@@ -562,6 +607,7 @@
     },
     "label": "bard-2",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -574,12 +620,14 @@
     "prof_bonus": 2,
     "feature_choices": [
       {
+        "label": "bard-choose-expertise-1",
         "name": "Choose: Expertise 1",
         "url": "features/bard-choose-expertise-1"
       }
     ],
     "features": [
       {
+        "label": "bard-college",
         "name": "Bard College",
         "url": "features/bard-college"
       }
@@ -606,6 +654,7 @@
     },
     "label": "bard-3",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -619,6 +668,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bard-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/bard-ability-score-improvement-1"
       }
@@ -645,6 +695,7 @@
     },
     "label": "bard-4",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -658,10 +709,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bardic-inspiration-d8",
         "name": "Bardic Inspiration (d8)",
         "url": "features/bardic-inspiration-d8"
       },
       {
+        "label": "font-of-inspiration",
         "name": "Font of Inspiration",
         "url": "features/font-of-inspiration"
       }
@@ -688,6 +741,7 @@
     },
     "label": "bard-5",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -701,6 +755,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "countercharm",
         "name": "Countercharm",
         "url": "features/countercharm"
       }
@@ -727,6 +782,7 @@
     },
     "label": "bard-6",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -761,6 +817,7 @@
     },
     "label": "bard-7",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -774,6 +831,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bard-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/bard-ability-score-improvement-2"
       }
@@ -800,6 +858,7 @@
     },
     "label": "bard-8",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -813,6 +872,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "song-of-rest-d8",
         "name": "Song of Rest (d8)",
         "url": "features/song-of-rest-d8"
       }
@@ -839,6 +899,7 @@
     },
     "label": "bard-9",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -851,16 +912,19 @@
     "prof_bonus": 4,
     "feature_choices": [
       {
+        "label": "bard-choose-expertise-2",
         "name": "Choose: Expertise 2",
         "url": "features/bard-choose-expertise-2"
       }
     ],
     "features": [
       {
+        "label": "bardic-inspiration-d10",
         "name": "Bardic Inspiration (d10)",
         "url": "features/bardic-inspiration-d10"
       },
       {
+        "label": "magical-secrets-1",
         "name": "Magical Secrets 1",
         "url": "features/magical-secrets-1"
       }
@@ -887,6 +951,7 @@
     },
     "label": "bard-10",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -921,6 +986,7 @@
     },
     "label": "bard-11",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -934,6 +1000,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bard-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/bard-ability-score-improvement-3"
       }
@@ -960,6 +1027,7 @@
     },
     "label": "bard-12",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -973,6 +1041,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "song-of-rest-d10",
         "name": "Song of Rest (d10)",
         "url": "features/song-of-rest-d10"
       }
@@ -999,6 +1068,7 @@
     },
     "label": "bard-13",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -1012,6 +1082,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "magical-secrets-2",
         "name": "Magical Secrets 2",
         "url": "features/magical-secrets-2"
       }
@@ -1038,6 +1109,7 @@
     },
     "label": "bard-14",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -1051,6 +1123,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bardic-inspiration-d12",
         "name": "Bardic Inspiration (d12)",
         "url": "features/bardic-inspiration-d12"
       }
@@ -1077,6 +1150,7 @@
     },
     "label": "bard-15",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -1090,6 +1164,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bard-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/bard-ability-score-improvement-4"
       }
@@ -1116,6 +1191,7 @@
     },
     "label": "bard-16",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -1129,6 +1205,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "song-of-rest-d12",
         "name": "Song of Rest (d12)",
         "url": "features/song-of-rest-d12"
       }
@@ -1155,6 +1232,7 @@
     },
     "label": "bard-17",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -1168,6 +1246,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "magical-secrets-3",
         "name": "Magical Secrets 3",
         "url": "features/magical-secrets-3"
       }
@@ -1194,6 +1273,7 @@
     },
     "label": "bard-18",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -1207,6 +1287,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bard-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/bard-ability-score-improvement-5"
       }
@@ -1233,6 +1314,7 @@
     },
     "label": "bard-19",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -1246,6 +1328,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "superior-inspiration",
         "name": "Superior Inspiration",
         "url": "features/superior-inspiration"
       }
@@ -1272,6 +1355,7 @@
     },
     "label": "bard-20",
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
@@ -1285,14 +1369,17 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "spellcasting-cleric",
         "name": "Spellcasting",
         "url": "features/spellcasting-cleric"
       },
       {
+        "label": "divine-domain",
         "name": "Divine Domain",
         "url": "features/divine-domain"
       },
       {
+        "label": "domain-spells-1",
         "name": "Domain Spells 1",
         "url": "features/domain-spells-1"
       }
@@ -1316,6 +1403,7 @@
     },
     "label": "cleric-1",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1329,10 +1417,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "channel-divinity-1-rest",
         "name": "Channel Divinity (1/rest)",
         "url": "features/channel-divinity-1-rest"
       },
       {
+        "label": "channel-divinity-turn-undead",
         "name": "Channel Divinity: Turn Undead",
         "url": "features/channel-divinity-turn-undead"
       }
@@ -1356,6 +1446,7 @@
     },
     "label": "cleric-2",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1369,6 +1460,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "domain-spells-2",
         "name": "Domain Spells 2",
         "url": "features/domain-spells-2"
       }
@@ -1392,6 +1484,7 @@
     },
     "label": "cleric-3",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1405,6 +1498,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "cleric-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/cleric-ability-score-improvement-1"
       }
@@ -1428,6 +1522,7 @@
     },
     "label": "cleric-4",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1441,10 +1536,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "domain-spells-3",
         "name": "Domain Spells 3",
         "url": "features/domain-spells-3"
       },
       {
+        "label": "destroy-undead-cr-1-2-or-below",
         "name": "Destroy Undead (CR 1/2 or below)",
         "url": "features/destroy-undead-cr-1-2-or-below"
       }
@@ -1468,6 +1565,7 @@
     },
     "label": "cleric-5",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1481,6 +1579,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "channel-divinity-2-rest",
         "name": "Channel Divinity (2/rest)",
         "url": "features/channel-divinity-2-rest"
       }
@@ -1504,6 +1603,7 @@
     },
     "label": "cleric-6",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1517,6 +1617,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "domain-spells-4",
         "name": "Domain Spells 4",
         "url": "features/domain-spells-4"
       }
@@ -1540,6 +1641,7 @@
     },
     "label": "cleric-7",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1553,10 +1655,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "cleric-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/cleric-ability-score-improvement-2"
       },
       {
+        "label": "destroy-undead-cr-1-or-below",
         "name": "Destroy Undead (CR 1 or below)",
         "url": "features/destroy-undead-cr-1-or-below"
       }
@@ -1580,6 +1684,7 @@
     },
     "label": "cleric-8",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1593,6 +1698,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "domain-spells-5",
         "name": "Domain Spells 5",
         "url": "features/domain-spells-5"
       }
@@ -1616,6 +1722,7 @@
     },
     "label": "cleric-9",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1629,6 +1736,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "divine-intervention",
         "name": "Divine Intervention",
         "url": "features/divine-intervention"
       }
@@ -1652,6 +1760,7 @@
     },
     "label": "cleric-10",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1665,6 +1774,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "destroy-undead-cr-2-or-below",
         "name": "Destroy Undead (CR 2 or below)",
         "url": "features/destroy-undead-cr-2-or-below"
       }
@@ -1688,6 +1798,7 @@
     },
     "label": "cleric-11",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1701,6 +1812,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "cleric-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/cleric-ability-score-improvement-3"
       }
@@ -1724,6 +1836,7 @@
     },
     "label": "cleric-12",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1755,6 +1868,7 @@
     },
     "label": "cleric-13",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1768,6 +1882,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "destroy-undead-cr-3-or-below",
         "name": "Destroy Undead (CR 3 or below)",
         "url": "features/destroy-undead-cr-3-or-below"
       }
@@ -1791,6 +1906,7 @@
     },
     "label": "cleric-14",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1822,6 +1938,7 @@
     },
     "label": "cleric-15",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1835,6 +1952,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "cleric-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/cleric-ability-score-improvement-4"
       }
@@ -1858,6 +1976,7 @@
     },
     "label": "cleric-16",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1871,6 +1990,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "destroy-undead-cr-4-or-below",
         "name": "Destroy Undead (CR 4 or below)",
         "url": "features/destroy-undead-cr-4-or-below"
       }
@@ -1894,6 +2014,7 @@
     },
     "label": "cleric-17",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1907,6 +2028,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "channel-divinity-3-rest",
         "name": "Channel Divinity (3/rest)",
         "url": "features/channel-divinity-3-rest"
       }
@@ -1930,6 +2052,7 @@
     },
     "label": "cleric-18",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1943,6 +2066,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "cleric-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/cleric-ability-score-improvement-5"
       }
@@ -1966,6 +2090,7 @@
     },
     "label": "cleric-19",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -1979,6 +2104,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "divine-intervention-improvement",
         "name": "Divine Intervention Improvement",
         "url": "features/divine-intervention-improvement"
       }
@@ -2002,6 +2128,7 @@
     },
     "label": "cleric-20",
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
@@ -2015,10 +2142,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "spellcasting-druid",
         "name": "Spellcasting",
         "url": "features/spellcasting-druid"
       },
       {
+        "label": "druidic",
         "name": "Druidic",
         "url": "features/druidic"
       }
@@ -2042,6 +2171,7 @@
     },
     "label": "druid-1",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2055,10 +2185,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "wild-shape-cr-1-4-or-below-no-flying-or-swim-speed",
         "name": "Wild Shape (CR 1/4 or below, no flying or swim speed)",
         "url": "features/wild-shape-cr-1-4-or-below-no-flying-or-swim-speed"
       },
       {
+        "label": "druid-circle",
         "name": "Druid Circle",
         "url": "features/druid-circle"
       }
@@ -2082,6 +2214,7 @@
     },
     "label": "druid-2",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2113,6 +2246,7 @@
     },
     "label": "druid-3",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2126,10 +2260,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "wild-shape-cr-1-2-or-below-no-flying-speed",
         "name": "Wild Shape (CR 1/2 or below, no flying speed)",
         "url": "features/wild-shape-cr-1-2-or-below-no-flying-speed"
       },
       {
+        "label": "druid-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/druid-ability-score-improvement-1"
       }
@@ -2153,6 +2289,7 @@
     },
     "label": "druid-4",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2184,6 +2321,7 @@
     },
     "label": "druid-5",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2215,6 +2353,7 @@
     },
     "label": "druid-6",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2246,6 +2385,7 @@
     },
     "label": "druid-7",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2259,10 +2399,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "wild-shape-cr-1-or-below",
         "name": "Wild Shape (CR 1 or below)",
         "url": "features/wild-shape-cr-1-or-below"
       },
       {
+        "label": "druid-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/druid-ability-score-improvement-2"
       }
@@ -2286,6 +2428,7 @@
     },
     "label": "druid-8",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2317,6 +2460,7 @@
     },
     "label": "druid-9",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2348,6 +2492,7 @@
     },
     "label": "druid-10",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2379,6 +2524,7 @@
     },
     "label": "druid-11",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2392,6 +2538,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "druid-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/druid-ability-score-improvement-3"
       }
@@ -2415,6 +2562,7 @@
     },
     "label": "druid-12",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2446,6 +2594,7 @@
     },
     "label": "druid-13",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2477,6 +2626,7 @@
     },
     "label": "druid-14",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2508,6 +2658,7 @@
     },
     "label": "druid-15",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2521,6 +2672,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "druid-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/druid-ability-score-improvement-4"
       }
@@ -2544,6 +2696,7 @@
     },
     "label": "druid-16",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2575,6 +2728,7 @@
     },
     "label": "druid-17",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2588,10 +2742,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "druid-timeless-body",
         "name": "Timeless Body",
         "url": "features/druid-timeless-body"
       },
       {
+        "label": "beast-spells",
         "name": "Beast Spells",
         "url": "features/beast-spells"
       }
@@ -2615,6 +2771,7 @@
     },
     "label": "druid-18",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2628,6 +2785,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "druid-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/druid-ability-score-improvement-5"
       }
@@ -2651,6 +2809,7 @@
     },
     "label": "druid-19",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2664,6 +2823,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "archdruid",
         "name": "Archdruid",
         "url": "features/archdruid"
       }
@@ -2687,6 +2847,7 @@
     },
     "label": "druid-20",
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
@@ -2699,12 +2860,14 @@
     "prof_bonus": 2,
     "feature_choices": [
       {
+        "label": "fighter-choose-fighting-style",
         "name": "Choose: Fighting Style",
         "url": "features/fighter-choose-fighting-style"
       }
     ],
     "features": [
       {
+        "label": "second-wind",
         "name": "Second Wind",
         "url": "features/second-wind"
       }
@@ -2717,6 +2880,7 @@
     },
     "label": "fighter-1",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2730,6 +2894,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "action-surge-1-use",
         "name": "Action Surge (1 use)",
         "url": "features/action-surge-1-use"
       }
@@ -2742,6 +2907,7 @@
     },
     "label": "fighter-2",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2755,6 +2921,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "martial-archetype",
         "name": "Martial Archetype",
         "url": "features/martial-archetype"
       }
@@ -2767,6 +2934,7 @@
     },
     "label": "fighter-3",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2780,6 +2948,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "fighter-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/fighter-ability-score-improvement-1"
       }
@@ -2792,6 +2961,7 @@
     },
     "label": "fighter-4",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2805,6 +2975,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "extra-attack-1",
         "name": "Extra Attack (1)",
         "url": "features/extra-attack-1"
       }
@@ -2817,6 +2988,7 @@
     },
     "label": "fighter-5",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2830,6 +3002,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "fighter-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/fighter-ability-score-improvement-2"
       }
@@ -2842,6 +3015,7 @@
     },
     "label": "fighter-6",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2862,6 +3036,7 @@
     },
     "label": "fighter-7",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2875,6 +3050,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "fighter-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/fighter-ability-score-improvement-3"
       }
@@ -2887,6 +3063,7 @@
     },
     "label": "fighter-8",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2900,6 +3077,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "indomitable-1-use",
         "name": "Indomitable (1 use)",
         "url": "features/indomitable-1-use"
       }
@@ -2912,6 +3090,7 @@
     },
     "label": "fighter-9",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2932,6 +3111,7 @@
     },
     "label": "fighter-10",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2945,6 +3125,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "extra-attack-2",
         "name": "Extra Attack (2)",
         "url": "features/extra-attack-2"
       }
@@ -2957,6 +3138,7 @@
     },
     "label": "fighter-11",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2970,6 +3152,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "fighter-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/fighter-ability-score-improvement-4"
       }
@@ -2982,6 +3165,7 @@
     },
     "label": "fighter-12",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -2995,6 +3179,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "indomitable-2-uses",
         "name": "Indomitable (2 uses)",
         "url": "features/indomitable-2-uses"
       }
@@ -3007,6 +3192,7 @@
     },
     "label": "fighter-13",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -3020,6 +3206,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "fighter-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/fighter-ability-score-improvement-5"
       }
@@ -3032,6 +3219,7 @@
     },
     "label": "fighter-14",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -3052,6 +3240,7 @@
     },
     "label": "fighter-15",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -3065,6 +3254,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "fighter-ability-score-improvement-6",
         "name": "Ability Score Improvement 6",
         "url": "features/fighter-ability-score-improvement-6"
       }
@@ -3077,6 +3267,7 @@
     },
     "label": "fighter-16",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -3090,10 +3281,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "action-surge-2-uses",
         "name": "Action Surge (2 uses)",
         "url": "features/action-surge-2-uses"
       },
       {
+        "label": "indomitable-3-uses",
         "name": "Indomitable (3 uses)",
         "url": "features/indomitable-3-uses"
       }
@@ -3106,6 +3299,7 @@
     },
     "label": "fighter-17",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -3126,6 +3320,7 @@
     },
     "label": "fighter-18",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -3139,6 +3334,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "fighter-ability-score-improvement-7",
         "name": "Ability Score Improvement 7",
         "url": "features/fighter-ability-score-improvement-7"
       }
@@ -3151,6 +3347,7 @@
     },
     "label": "fighter-19",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -3164,6 +3361,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "extra-attack-3",
         "name": "Extra Attack (3)",
         "url": "features/extra-attack-3"
       }
@@ -3176,6 +3374,7 @@
     },
     "label": "fighter-20",
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
@@ -3189,10 +3388,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monk-unarmored-defense",
         "name": "Unarmored Defense",
         "url": "features/monk-unarmored-defense"
       },
       {
+        "label": "martial-arts",
         "name": "Martial Arts",
         "url": "features/martial-arts"
       }
@@ -3208,6 +3409,7 @@
     },
     "label": "monk-1",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3221,22 +3423,27 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "ki",
         "name": "Ki",
         "url": "features/ki"
       },
       {
+        "label": "flurry-of-blows",
         "name": "Flurry of Blows",
         "url": "features/flurry-of-blows"
       },
       {
+        "label": "patient-defense",
         "name": "Patient Defense",
         "url": "features/patient-defense"
       },
       {
+        "label": "step-of-the-wind",
         "name": "Step of the Wind",
         "url": "features/step-of-the-wind"
       },
       {
+        "label": "unarmored-movement-1",
         "name": "Unarmored Movement 1",
         "url": "features/unarmored-movement-1"
       }
@@ -3252,6 +3459,7 @@
     },
     "label": "monk-2",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3265,10 +3473,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monastic-tradition",
         "name": "Monastic Tradition",
         "url": "features/monastic-tradition"
       },
       {
+        "label": "deflect-missiles",
         "name": "Deflect Missiles",
         "url": "features/deflect-missiles"
       }
@@ -3284,6 +3494,7 @@
     },
     "label": "monk-3",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3297,10 +3508,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monk-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/monk-ability-score-improvement-1"
       },
       {
+        "label": "slow-fall",
         "name": "Slow Fall",
         "url": "features/slow-fall"
       }
@@ -3316,6 +3529,7 @@
     },
     "label": "monk-4",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3329,10 +3543,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monk-extra-attack",
         "name": "Extra Attack",
         "url": "features/monk-extra-attack"
       },
       {
+        "label": "stunning-strike",
         "name": "Stunning Strike",
         "url": "features/stunning-strike"
       }
@@ -3348,6 +3564,7 @@
     },
     "label": "monk-5",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3361,6 +3578,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "ki-empowered-strikes",
         "name": "Ki Empowered Strikes",
         "url": "features/ki-empowered-strikes"
       }
@@ -3376,6 +3594,7 @@
     },
     "label": "monk-6",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3389,10 +3608,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monk-evasion",
         "name": "Evasion",
         "url": "features/monk-evasion"
       },
       {
+        "label": "stillness-of-mind",
         "name": "Stillness of Mind",
         "url": "features/stillness-of-mind"
       }
@@ -3408,6 +3629,7 @@
     },
     "label": "monk-7",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3421,6 +3643,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monk-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/monk-ability-score-improvement-2"
       }
@@ -3436,6 +3659,7 @@
     },
     "label": "monk-8",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3449,6 +3673,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "unarmored-movement-2",
         "name": "Unarmored Movement 2",
         "url": "features/unarmored-movement-2"
       }
@@ -3464,6 +3689,7 @@
     },
     "label": "monk-9",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3477,6 +3703,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "purity-of-body",
         "name": "Purity of Body",
         "url": "features/purity-of-body"
       }
@@ -3492,6 +3719,7 @@
     },
     "label": "monk-10",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3515,6 +3743,7 @@
     },
     "label": "monk-11",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3528,6 +3757,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monk-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/monk-ability-score-improvement-3"
       }
@@ -3543,6 +3773,7 @@
     },
     "label": "monk-12",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3556,6 +3787,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "tongue-of-the-sun-and-moon",
         "name": "Tongue of the Sun and Moon",
         "url": "features/tongue-of-the-sun-and-moon"
       }
@@ -3571,6 +3803,7 @@
     },
     "label": "monk-13",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3584,6 +3817,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "diamond-soul",
         "name": "Diamond Soul",
         "url": "features/diamond-soul"
       }
@@ -3599,6 +3833,7 @@
     },
     "label": "monk-14",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3612,6 +3847,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monk-timeless-body",
         "name": "Timeless Body",
         "url": "features/monk-timeless-body"
       }
@@ -3627,6 +3863,7 @@
     },
     "label": "monk-15",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3640,6 +3877,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monk-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/monk-ability-score-improvement-4"
       }
@@ -3655,6 +3893,7 @@
     },
     "label": "monk-16",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3678,6 +3917,7 @@
     },
     "label": "monk-17",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3691,6 +3931,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "empty-body",
         "name": "Empty Body",
         "url": "features/empty-body"
       }
@@ -3706,6 +3947,7 @@
     },
     "label": "monk-18",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3719,6 +3961,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "monk-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/monk-ability-score-improvement-5"
       }
@@ -3734,6 +3977,7 @@
     },
     "label": "monk-19",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3747,6 +3991,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "perfect-self",
         "name": "Perfect Self",
         "url": "features/perfect-self"
       }
@@ -3762,6 +4007,7 @@
     },
     "label": "monk-20",
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
@@ -3775,10 +4021,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "divine-sense",
         "name": "Divine Sense",
         "url": "features/divine-sense"
       },
       {
+        "label": "lay-on-hands",
         "name": "Lay on Hands",
         "url": "features/lay-on-hands"
       }
@@ -3795,6 +4043,7 @@
     },
     "label": "paladin-1",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -3807,16 +4056,19 @@
     "prof_bonus": 2,
     "feature_choices": [
       {
+        "label": "paladin-choose-fighting-style",
         "name": "Choose: Fighting Style",
         "url": "features/paladin-choose-fighting-style"
       }
     ],
     "features": [
       {
+        "label": "spellcasting-paladin",
         "name": "Spellcasting",
         "url": "features/spellcasting-paladin"
       },
       {
+        "label": "divine-smite",
         "name": "Divine Smite",
         "url": "features/divine-smite"
       }
@@ -3833,6 +4085,7 @@
     },
     "label": "paladin-2",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -3846,18 +4099,22 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "divine-health",
         "name": "Divine Health",
         "url": "features/divine-health"
       },
       {
+        "label": "sacred-oath",
         "name": "Sacred Oath",
         "url": "features/sacred-oath"
       },
       {
+        "label": "oath-spells",
         "name": "Oath Spells",
         "url": "features/oath-spells"
       },
       {
+        "label": "channel-divinity",
         "name": "Channel Divinity",
         "url": "features/channel-divinity"
       }
@@ -3874,6 +4131,7 @@
     },
     "label": "paladin-3",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -3887,6 +4145,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "paladin-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/paladin-ability-score-improvement-1"
       }
@@ -3903,6 +4162,7 @@
     },
     "label": "paladin-4",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -3916,6 +4176,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "paladin-extra-attack",
         "name": "Extra Attack",
         "url": "features/paladin-extra-attack"
       }
@@ -3932,6 +4193,7 @@
     },
     "label": "paladin-5",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -3945,6 +4207,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "aura-of-protection",
         "name": "Aura of Protection",
         "url": "features/aura-of-protection"
       }
@@ -3961,6 +4224,7 @@
     },
     "label": "paladin-6",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -3985,6 +4249,7 @@
     },
     "label": "paladin-7",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -3998,6 +4263,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "paladin-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/paladin-ability-score-improvement-2"
       }
@@ -4014,6 +4280,7 @@
     },
     "label": "paladin-8",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4038,6 +4305,7 @@
     },
     "label": "paladin-9",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4051,6 +4319,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "aura-of-courage",
         "name": "Aura of Courage",
         "url": "features/aura-of-courage"
       }
@@ -4067,6 +4336,7 @@
     },
     "label": "paladin-10",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4080,6 +4350,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "improved-divine-smite",
         "name": "Improved Divine Smite",
         "url": "features/improved-divine-smite"
       }
@@ -4096,6 +4367,7 @@
     },
     "label": "paladin-11",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4109,6 +4381,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "paladin-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/paladin-ability-score-improvement-3"
       }
@@ -4125,6 +4398,7 @@
     },
     "label": "paladin-12",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4149,6 +4423,7 @@
     },
     "label": "paladin-13",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4162,6 +4437,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "cleansing-touch",
         "name": "Cleansing Touch",
         "url": "features/cleansing-touch"
       }
@@ -4178,6 +4454,7 @@
     },
     "label": "paladin-14",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4202,6 +4479,7 @@
     },
     "label": "paladin-15",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4215,6 +4493,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "paladin-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/paladin-ability-score-improvement-4"
       }
@@ -4231,6 +4510,7 @@
     },
     "label": "paladin-16",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4255,6 +4535,7 @@
     },
     "label": "paladin-17",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4268,6 +4549,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "aura-improvements",
         "name": "Aura improvements",
         "url": "features/aura-improvements"
       }
@@ -4284,6 +4566,7 @@
     },
     "label": "paladin-18",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4297,6 +4580,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "paladin-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/paladin-ability-score-improvement-5"
       }
@@ -4313,6 +4597,7 @@
     },
     "label": "paladin-19",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4337,6 +4622,7 @@
     },
     "label": "paladin-20",
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
@@ -4350,10 +4636,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "favored-enemy-1-type",
         "name": "Favored Enemy (1 type)",
         "url": "features/favored-enemy-1-type"
       },
       {
+        "label": "natural-explorer-1-terrain-type",
         "name": "Natural Explorer (1 terrain type)",
         "url": "features/natural-explorer-1-terrain-type"
       }
@@ -4372,6 +4660,7 @@
     },
     "label": "ranger-1",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4384,12 +4673,14 @@
     "prof_bonus": 2,
     "feature_choices": [
       {
+        "label": "ranger-choose-fighting-style",
         "name": "Choose: Fighting Style",
         "url": "features/ranger-choose-fighting-style"
       }
     ],
     "features": [
       {
+        "label": "spellcasting-ranger",
         "name": "Spellcasting",
         "url": "features/spellcasting-ranger"
       }
@@ -4408,6 +4699,7 @@
     },
     "label": "ranger-2",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4421,10 +4713,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "ranger-archetype",
         "name": "Ranger Archetype",
         "url": "features/ranger-archetype"
       },
       {
+        "label": "primeval-awareness",
         "name": "Primeval Awareness",
         "url": "features/primeval-awareness"
       }
@@ -4443,6 +4737,7 @@
     },
     "label": "ranger-3",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4456,6 +4751,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "ranger-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/ranger-ability-score-improvement-1"
       }
@@ -4474,6 +4770,7 @@
     },
     "label": "ranger-4",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4487,6 +4784,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "ranger-extra-attack",
         "name": "Extra Attack",
         "url": "features/ranger-extra-attack"
       }
@@ -4505,6 +4803,7 @@
     },
     "label": "ranger-5",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4518,10 +4817,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "favored-enemy-2-types",
         "name": "Favored Enemy (2 types)",
         "url": "features/favored-enemy-2-types"
       },
       {
+        "label": "natural-explorer-2-terrain-types",
         "name": "Natural Explorer (2 terrain types)",
         "url": "features/natural-explorer-2-terrain-types"
       }
@@ -4540,6 +4841,7 @@
     },
     "label": "ranger-6",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4566,6 +4868,7 @@
     },
     "label": "ranger-7",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4579,10 +4882,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "ranger-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/ranger-ability-score-improvement-2"
       },
       {
+        "label": "ranger-lands-stride",
         "name": "Land's Stride",
         "url": "features/ranger-lands-stride"
       }
@@ -4601,6 +4906,7 @@
     },
     "label": "ranger-8",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4627,6 +4933,7 @@
     },
     "label": "ranger-9",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4640,10 +4947,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "natural-explorer-3-terrain-types",
         "name": "Natural Explorer (3 terrain types)",
         "url": "features/natural-explorer-3-terrain-types"
       },
       {
+        "label": "hide-in-plain-sight",
         "name": "Hide in Plain Sight",
         "url": "features/hide-in-plain-sight"
       }
@@ -4662,6 +4971,7 @@
     },
     "label": "ranger-10",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4688,6 +4998,7 @@
     },
     "label": "ranger-11",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4701,6 +5012,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "ranger-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/ranger-ability-score-improvement-3"
       }
@@ -4719,6 +5031,7 @@
     },
     "label": "ranger-12",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4745,6 +5058,7 @@
     },
     "label": "ranger-13",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4758,10 +5072,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "favored-enemy-3-enemies",
         "name": "Favored Enemy (3 enemies)",
         "url": "features/favored-enemy-3-enemies"
       },
       {
+        "label": "vanish",
         "name": "Vanish",
         "url": "features/vanish"
       }
@@ -4780,6 +5096,7 @@
     },
     "label": "ranger-14",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4806,6 +5123,7 @@
     },
     "label": "ranger-15",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4819,6 +5137,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "ranger-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/ranger-ability-score-improvement-4"
       }
@@ -4837,6 +5156,7 @@
     },
     "label": "ranger-16",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4863,6 +5183,7 @@
     },
     "label": "ranger-17",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4876,6 +5197,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "feral-senses",
         "name": "Feral Senses",
         "url": "features/feral-senses"
       }
@@ -4894,6 +5216,7 @@
     },
     "label": "ranger-18",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4907,6 +5230,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "ranger-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/ranger-ability-score-improvement-5"
       }
@@ -4925,6 +5249,7 @@
     },
     "label": "ranger-19",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4938,6 +5263,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "foe-slayer",
         "name": "Foe Slayer",
         "url": "features/foe-slayer"
       }
@@ -4956,6 +5282,7 @@
     },
     "label": "ranger-20",
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
@@ -4968,16 +5295,19 @@
     "prof_bonus": 2,
     "feature_choices": [
       {
+        "label": "rogue-choose-expertise-1",
         "name": "Expertise 1",
         "url": "features/rogue-choose-expertise-1"
       }
     ],
     "features": [
       {
+        "label": "sneak-attack",
         "name": "Sneak Attack",
         "url": "features/sneak-attack"
       },
       {
+        "label": "thieves-cant",
         "name": "Thieves' Cant",
         "url": "features/thieves-cant"
       }
@@ -4991,6 +5321,7 @@
     },
     "label": "rogue-1",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5004,6 +5335,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "cunning-action",
         "name": "Cunning Action",
         "url": "features/cunning-action"
       }
@@ -5017,6 +5349,7 @@
     },
     "label": "rogue-2",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5030,6 +5363,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "roguish-archetype",
         "name": "Roguish Archetype",
         "url": "features/roguish-archetype"
       }
@@ -5043,6 +5377,7 @@
     },
     "label": "rogue-3",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5056,6 +5391,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "rogue-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/rogue-ability-score-improvement-1"
       }
@@ -5069,6 +5405,7 @@
     },
     "label": "rogue-4",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5082,6 +5419,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "uncanny-dodge",
         "name": "Uncanny Dodge",
         "url": "features/uncanny-dodge"
       }
@@ -5095,6 +5433,7 @@
     },
     "label": "rogue-5",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5107,6 +5446,7 @@
     "prof_bonus": 3,
     "feature_choices": [
       {
+        "label": "rogue-choose-expertise-2",
         "name": "Expertise 2",
         "url": "features/rogue-choose-expertise-2"
       }
@@ -5121,6 +5461,7 @@
     },
     "label": "rogue-6",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5134,6 +5475,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "rogue-evasion",
         "name": "Evasion",
         "url": "features/rogue-evasion"
       }
@@ -5147,6 +5489,7 @@
     },
     "label": "rogue-7",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5160,6 +5503,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "rogue-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/rogue-ability-score-improvement-2"
       }
@@ -5173,6 +5517,7 @@
     },
     "label": "rogue-8",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5194,6 +5539,7 @@
     },
     "label": "rogue-9",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5207,6 +5553,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "rogue-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/rogue-ability-score-improvement-3"
       }
@@ -5220,6 +5567,7 @@
     },
     "label": "rogue-10",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5233,6 +5581,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "reliable-talent",
         "name": "Reliable Talent",
         "url": "features/reliable-talent"
       }
@@ -5246,6 +5595,7 @@
     },
     "label": "rogue-11",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5259,6 +5609,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "rogue-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/rogue-ability-score-improvement-4"
       }
@@ -5272,6 +5623,7 @@
     },
     "label": "rogue-12",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5293,6 +5645,7 @@
     },
     "label": "rogue-13",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5306,6 +5659,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "blindsense",
         "name": "Blindsense",
         "url": "features/blindsense"
       }
@@ -5319,6 +5673,7 @@
     },
     "label": "rogue-14",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5332,6 +5687,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "slippery-mind",
         "name": "Slippery Mind",
         "url": "features/slippery-mind"
       }
@@ -5345,6 +5701,7 @@
     },
     "label": "rogue-15",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5358,6 +5715,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "rogue-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/rogue-ability-score-improvement-5"
       }
@@ -5371,6 +5729,7 @@
     },
     "label": "rogue-16",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5392,6 +5751,7 @@
     },
     "label": "rogue-17",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5405,6 +5765,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "elusive",
         "name": "Elusive",
         "url": "features/elusive"
       }
@@ -5418,6 +5779,7 @@
     },
     "label": "rogue-18",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5431,6 +5793,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "rogue-ability-score-improvement-6",
         "name": "Ability Score Improvement 6",
         "url": "features/rogue-ability-score-improvement-6"
       }
@@ -5444,6 +5807,7 @@
     },
     "label": "rogue-19",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5457,6 +5821,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "stroke-of-luck",
         "name": "Stroke of Luck",
         "url": "features/stroke-of-luck"
       }
@@ -5470,6 +5835,7 @@
     },
     "label": "rogue-20",
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
@@ -5483,10 +5849,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "spellcasting-sorcerer",
         "name": "Spellcasting",
         "url": "features/spellcasting-sorcerer"
       },
       {
+        "label": "sorcerous-origin",
         "name": "Sorcerous Origin",
         "url": "features/sorcerous-origin"
       }
@@ -5511,6 +5879,7 @@
     },
     "label": "sorcerer-1",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -5524,14 +5893,17 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "font-of-magic",
         "name": "Font of Magic",
         "url": "features/font-of-magic"
       },
       {
+        "label": "flexible-casting-creating-spell-slots",
         "name": "Flexible Casting: Creating Spell Slots",
         "url": "features/flexible-casting-creating-spell-slots"
       },
       {
+        "label": "flexible-casting-converting-spell-slot",
         "name": "Flexible Casting: Converting Spell Slot",
         "url": "features/flexible-casting-converting-spell-slot"
       }
@@ -5577,6 +5949,7 @@
     },
     "label": "sorcerer-2",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -5589,6 +5962,7 @@
     "prof_bonus": 2,
     "feature_choices": [
       {
+        "label": "choose-metamagic",
         "name": "Choose: Metamagic, First and Second",
         "url": "features/choose-metamagic"
       }
@@ -5635,6 +6009,7 @@
     },
     "label": "sorcerer-3",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -5648,6 +6023,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "sorcerer-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/sorcerer-ability-score-improvement-1"
       }
@@ -5693,6 +6069,7 @@
     },
     "label": "sorcerer-4",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -5746,6 +6123,7 @@
     },
     "label": "sorcerer-5",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -5799,6 +6177,7 @@
     },
     "label": "sorcerer-6",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -5852,6 +6231,7 @@
     },
     "label": "sorcerer-7",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -5865,6 +6245,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "sorcerer-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/sorcerer-ability-score-improvement-2"
       }
@@ -5910,6 +6291,7 @@
     },
     "label": "sorcerer-8",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -5963,6 +6345,7 @@
     },
     "label": "sorcerer-9",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -5975,6 +6358,7 @@
     "prof_bonus": 4,
     "feature_choices": [
       {
+        "label": "choose-additional-metamagic-1",
         "name": "Choose: Metamagic, Third",
         "url": "features/choose-additional-metamagic-1"
       }
@@ -6021,6 +6405,7 @@
     },
     "label": "sorcerer-10",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6074,6 +6459,7 @@
     },
     "label": "sorcerer-11",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6087,6 +6473,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "sorcerer-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/sorcerer-ability-score-improvement-3"
       }
@@ -6132,6 +6519,7 @@
     },
     "label": "sorcerer-12",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6185,6 +6573,7 @@
     },
     "label": "sorcerer-13",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6238,6 +6627,7 @@
     },
     "label": "sorcerer-14",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6291,6 +6681,7 @@
     },
     "label": "sorcerer-15",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6304,6 +6695,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "sorcerer-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/sorcerer-ability-score-improvement-4"
       }
@@ -6349,6 +6741,7 @@
     },
     "label": "sorcerer-16",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6361,6 +6754,7 @@
     "prof_bonus": 6,
     "feature_choices": [
       {
+        "label": "choose-additional-metamagic-2",
         "name": "Choose: Metamagic, Fourth",
         "url": "features/choose-additional-metamagic-2"
       }
@@ -6407,6 +6801,7 @@
     },
     "label": "sorcerer-17",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6460,6 +6855,7 @@
     },
     "label": "sorcerer-18",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6473,6 +6869,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "sorcerer-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/sorcerer-ability-score-improvement-5"
       }
@@ -6518,6 +6915,7 @@
     },
     "label": "sorcerer-19",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6531,6 +6929,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "sorcerous-restoration",
         "name": "Sorcerous Restoration",
         "url": "features/sorcerous-restoration"
       }
@@ -6576,6 +6975,7 @@
     },
     "label": "sorcerer-20",
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
@@ -6589,10 +6989,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "otherworldly-patron",
         "name": "Otherworldly Patron",
         "url": "features/otherworldly-patron"
       },
       {
+        "label": "pact-magic",
         "name": "Pact Magic",
         "url": "features/pact-magic"
       }
@@ -6619,6 +7021,7 @@
     },
     "label": "warlock-1",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6631,6 +7034,7 @@
     "prof_bonus": 2,
     "feature_choices": [
       {
+        "label": "choose-eldritch-invocations",
         "name": "Choose: Eldritch Invocations",
         "url": "features/choose-eldritch-invocations"
       }
@@ -6658,6 +7062,7 @@
     },
     "label": "warlock-2",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6670,6 +7075,7 @@
     "prof_bonus": 2,
     "feature_choices": [
       {
+        "label": "choose-pact-boon",
         "name": "Choose: Pact Boon",
         "url": "features/choose-pact-boon"
       }
@@ -6697,6 +7103,7 @@
     },
     "label": "warlock-3",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6710,6 +7117,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "warlock-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/warlock-ability-score-improvement-1"
       }
@@ -6736,6 +7144,7 @@
     },
     "label": "warlock-4",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6748,6 +7157,7 @@
     "prof_bonus": 3,
     "feature_choices": [
       {
+        "label": "choose-additional-eldritch-invocation-1",
         "name": "Choose: Additional Eldritch Invocation",
         "url": "features/choose-additional-eldritch-invocation-1"
       }
@@ -6775,6 +7185,7 @@
     },
     "label": "warlock-5",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6809,6 +7220,7 @@
     },
     "label": "warlock-6",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6821,6 +7233,7 @@
     "prof_bonus": 3,
     "feature_choices": [
       {
+        "label": "choose-additional-eldritch-invocation-2",
         "name": "Choose: Additional Eldritch Invocation",
         "url": "features/choose-additional-eldritch-invocation-2"
       }
@@ -6848,6 +7261,7 @@
     },
     "label": "warlock-7",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6861,6 +7275,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "warlock-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/warlock-ability-score-improvement-2"
       }
@@ -6887,6 +7302,7 @@
     },
     "label": "warlock-8",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6899,6 +7315,7 @@
     "prof_bonus": 4,
     "feature_choices": [
       {
+        "label": "choose-additional-eldritch-invocation-3",
         "name": "Choose: Additional Eldritch Invocation",
         "url": "features/choose-additional-eldritch-invocation-3"
       }
@@ -6926,6 +7343,7 @@
     },
     "label": "warlock-9",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6960,6 +7378,7 @@
     },
     "label": "warlock-10",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -6973,6 +7392,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "mystic-arcanum-6th-level",
         "name": "Mystic Arcanum (6th level)",
         "url": "features/mystic-arcanum-6th-level"
       }
@@ -6999,6 +7419,7 @@
     },
     "label": "warlock-11",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7011,12 +7432,14 @@
     "prof_bonus": 4,
     "feature_choices": [
       {
+        "label": "choose-additional-eldritch-invocation-4",
         "name": "Choose: Additional Eldritch Invocation",
         "url": "features/choose-additional-eldritch-invocation-4"
       }
     ],
     "features": [
       {
+        "label": "warlock-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/warlock-ability-score-improvement-3"
       }
@@ -7043,6 +7466,7 @@
     },
     "label": "warlock-12",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7056,6 +7480,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "mystic-arcanum-7th-level",
         "name": "Mystic Arcanum (7th level)",
         "url": "features/mystic-arcanum-7th-level"
       }
@@ -7082,6 +7507,7 @@
     },
     "label": "warlock-13",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7116,6 +7542,7 @@
     },
     "label": "warlock-14",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7128,12 +7555,14 @@
     "prof_bonus": 5,
     "feature_choices": [
       {
+        "label": "choose-additional-eldritch-invocation-5",
         "name": "Choose: Additional Eldritch Invocation",
         "url": "features/choose-additional-eldritch-invocation-5"
       }
     ],
     "features": [
       {
+        "label": "mystic-arcanum-8th-level",
         "name": "Mystic Arcanum (8th level)",
         "url": "features/mystic-arcanum-8th-level"
       }
@@ -7160,6 +7589,7 @@
     },
     "label": "warlock-15",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7173,6 +7603,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "warlock-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/warlock-ability-score-improvement-4"
       }
@@ -7199,6 +7630,7 @@
     },
     "label": "warlock-16",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7212,6 +7644,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "mystic-arcanum-9th-level",
         "name": "Mystic Arcanum (9th level)",
         "url": "features/mystic-arcanum-9th-level"
       }
@@ -7238,6 +7671,7 @@
     },
     "label": "warlock-17",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7250,6 +7684,7 @@
     "prof_bonus": 6,
     "feature_choices": [
       {
+        "label": "choose-additional-eldritch-invocation-6",
         "name": "Choose: Additional Eldritch Invocation",
         "url": "features/choose-additional-eldritch-invocation-6"
       }
@@ -7277,6 +7712,7 @@
     },
     "label": "warlock-18",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7290,6 +7726,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "warlock-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/warlock-ability-score-improvement-5"
       }
@@ -7316,6 +7753,7 @@
     },
     "label": "warlock-19",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7328,12 +7766,14 @@
     "prof_bonus": 6,
     "feature_choices": [
       {
+        "label": "choose-additional-eldritch-invocation-7",
         "name": "Choose: Additional Eldritch Invocation",
         "url": "features/choose-additional-eldritch-invocation-7"
       }
     ],
     "features": [
       {
+        "label": "eldritch-master",
         "name": "Eldritch Master",
         "url": "features/eldritch-master"
       }
@@ -7360,6 +7800,7 @@
     },
     "label": "warlock-20",
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
@@ -7373,10 +7814,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "spellcasting-wizard",
         "name": "Spellcasting",
         "url": "features/spellcasting-wizard"
       },
       {
+        "label": "arcane-recovery",
         "name": "Arcane Recovery",
         "url": "features/arcane-recovery"
       }
@@ -7398,6 +7841,7 @@
     },
     "label": "wizard-1",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7411,6 +7855,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "arcane-tradition",
         "name": "Arcane Tradition",
         "url": "features/arcane-tradition"
       }
@@ -7432,6 +7877,7 @@
     },
     "label": "wizard-2",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7461,6 +7907,7 @@
     },
     "label": "wizard-3",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7474,6 +7921,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "wizard-ability-score-improvement-1",
         "name": "Ability Score Improvement 1",
         "url": "features/wizard-ability-score-improvement-1"
       }
@@ -7495,6 +7943,7 @@
     },
     "label": "wizard-4",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7524,6 +7973,7 @@
     },
     "label": "wizard-5",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7553,6 +8003,7 @@
     },
     "label": "wizard-6",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7582,6 +8033,7 @@
     },
     "label": "wizard-7",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7595,6 +8047,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "wizard-ability-score-improvement-2",
         "name": "Ability Score Improvement 2",
         "url": "features/wizard-ability-score-improvement-2"
       }
@@ -7616,6 +8069,7 @@
     },
     "label": "wizard-8",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7645,6 +8099,7 @@
     },
     "label": "wizard-9",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7674,6 +8129,7 @@
     },
     "label": "wizard-10",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7703,6 +8159,7 @@
     },
     "label": "wizard-11",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7716,6 +8173,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "wizard-ability-score-improvement-3",
         "name": "Ability Score Improvement 3",
         "url": "features/wizard-ability-score-improvement-3"
       }
@@ -7737,6 +8195,7 @@
     },
     "label": "wizard-12",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7766,6 +8225,7 @@
     },
     "label": "wizard-13",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7795,6 +8255,7 @@
     },
     "label": "wizard-14",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7824,6 +8285,7 @@
     },
     "label": "wizard-15",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7837,6 +8299,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "wizard-ability-score-improvement-4",
         "name": "Ability Score Improvement 4",
         "url": "features/wizard-ability-score-improvement-4"
       }
@@ -7858,6 +8321,7 @@
     },
     "label": "wizard-16",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7887,6 +8351,7 @@
     },
     "label": "wizard-17",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7900,6 +8365,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "spell-mastery",
         "name": "Spell Mastery",
         "url": "features/spell-mastery"
       }
@@ -7921,6 +8387,7 @@
     },
     "label": "wizard-18",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7934,6 +8401,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "wizard-ability-score-improvement-5",
         "name": "Ability Score Improvement 5",
         "url": "features/wizard-ability-score-improvement-5"
       }
@@ -7955,6 +8423,7 @@
     },
     "label": "wizard-19",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -7968,6 +8437,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "signature-spell",
         "name": "Signature Spell",
         "url": "features/signature-spell"
       }
@@ -7989,6 +8459,7 @@
     },
     "label": "wizard-20",
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
@@ -8000,16 +8471,19 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "frenzy",
         "name": "Frenzy",
         "url": "features/frenzy"
       }
     ],
     "spellcasting": {},
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
     "subclass": {
+      "label": "berserker",
       "name": "Berserker",
       "url": "subclasses/berserker"
     },
@@ -8021,6 +8495,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "mindless-rage",
         "name": "Mindless Rage",
         "url": "features/mindless-rage"
       }
@@ -8028,10 +8503,12 @@
     "spellcasting": {},
     "label": "berserker-6",
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
     "subclass": {
+      "label": "berserker",
       "name": "Berserker",
       "url": "subclasses/berserker"
     },
@@ -8042,16 +8519,19 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "intimidating-presence",
         "name": "Intimidating Presence",
         "url": "features/intimidating-presence"
       }
     ],
     "spellcasting": {},
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
     "subclass": {
+      "label": "berserker",
       "name": "Berserker",
       "url": "subclasses/berserker"
     },
@@ -8063,16 +8543,19 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "retaliation",
         "name": "Retaliation",
         "url": "features/retaliation"
       }
     ],
     "spellcasting": {},
     "class": {
+      "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
     "subclass": {
+      "label": "berserker",
       "name": "Berserker",
       "url": "subclasses/berserker"
     },
@@ -8084,10 +8567,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bonus-proficiencies",
         "name": "Bonus Proficiencies",
         "url": "features/bonus-proficiencies"
       },
       {
+        "label": "cutting-words",
         "name": "Cutting Words",
         "url": "features/cutting-words"
       }
@@ -8097,10 +8582,12 @@
       "additional_magical_secrets_max_lvl": 0
     },
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
     "subclass": {
+      "label": "lore",
       "name": "Lore",
       "url": "subclasses/lore"
     },
@@ -8112,6 +8599,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "additional-magical-secrets",
         "name": "Additional Magical Secrets",
         "url": "features/additional-magical-secrets"
       }
@@ -8121,10 +8609,12 @@
       "additional_magical_secrets_max_lvl": 3
     },
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
     "subclass": {
+      "label": "lore",
       "name": "Lore",
       "url": "subclasses/lore"
     },
@@ -8136,6 +8626,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "peerless-skill",
         "name": "Peerless Skill",
         "url": "features/peerless-skill"
       }
@@ -8145,10 +8636,12 @@
       "additional_magical_secrets_max_lvl": 3
     },
     "class": {
+      "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
     "subclass": {
+      "label": "lore",
       "name": "Lore",
       "url": "subclasses/lore"
     },
@@ -8160,10 +8653,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bonus-proficiency",
         "name": "Bonus Proficiency",
         "url": "features/bonus-proficiency"
       },
       {
+        "label": "disciple-of-life",
         "name": "Disciple of Life",
         "url": "features/disciple-of-life"
       }
@@ -8171,10 +8666,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
     "subclass": {
+      "label": "life",
       "name": "Life",
       "url": "subclasses/life"
     },
@@ -8186,6 +8683,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "channel-divinity-preserve-life",
         "name": "Channel Divinity: Preserve Life",
         "url": "features/channel-divinity-preserve-life"
       }
@@ -8193,10 +8691,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
     "subclass": {
+      "label": "life",
       "name": "Life",
       "url": "subclasses/life"
     },
@@ -8208,6 +8708,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "blessed-healer",
         "name": "Blessed Healer",
         "url": "features/blessed-healer"
       }
@@ -8215,10 +8716,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
     "subclass": {
+      "label": "life",
       "name": "Life",
       "url": "subclasses/life"
     },
@@ -8230,6 +8733,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "divine-strike",
         "name": "Divine Strike",
         "url": "features/divine-strike"
       }
@@ -8237,10 +8741,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
     "subclass": {
+      "label": "life",
       "name": "Life",
       "url": "subclasses/life"
     },
@@ -8252,6 +8758,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "supreme-healing",
         "name": "Supreme Healing",
         "url": "features/supreme-healing"
       }
@@ -8259,10 +8766,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
     "subclass": {
+      "label": "life",
       "name": "Life",
       "url": "subclasses/life"
     },
@@ -8274,10 +8783,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "bonus-cantrip",
         "name": "Bonus Cantrip",
         "url": "features/bonus-cantrip"
       },
       {
+        "label": "natural-recovery",
         "name": "Natural Recovery",
         "url": "features/natural-recovery"
       }
@@ -8285,10 +8796,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
     "subclass": {
+      "label": "land",
       "name": "Land",
       "url": "subclasses/land"
     },
@@ -8300,6 +8813,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "druid-lands-stride",
         "name": "Land's Stride",
         "url": "features/druid-lands-stride"
       }
@@ -8307,10 +8821,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
     "subclass": {
+      "label": "land",
       "name": "Land",
       "url": "subclasses/land"
     },
@@ -8322,6 +8838,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "natures-ward",
         "name": "Nature's Ward",
         "url": "features/natures-ward"
       }
@@ -8329,10 +8846,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
     "subclass": {
+      "label": "land",
       "name": "Land",
       "url": "subclasses/land"
     },
@@ -8344,6 +8863,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "natures-sanctuary",
         "name": "Nature's Sanctuary",
         "url": "features/natures-sanctuary"
       }
@@ -8351,10 +8871,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
     "subclass": {
+      "label": "land",
       "name": "Land",
       "url": "subclasses/land"
     },
@@ -8366,6 +8888,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "improved-critical",
         "name": "Improved Critical",
         "url": "features/improved-critical"
       }
@@ -8373,10 +8896,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
     "subclass": {
+      "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
     },
@@ -8388,6 +8913,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "remarkable-athlete",
         "name": "Remarkable Athlete",
         "url": "features/remarkable-athlete"
       }
@@ -8395,10 +8921,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
     "subclass": {
+      "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
     },
@@ -8409,6 +8937,7 @@
     "level": 10,
     "feature_choices": [
       {
+        "label": "choose-additional-fighting-style",
         "name": "Choose: Additional Fighting Style",
         "url": "features/choose-additional-fighting-style"
       }
@@ -8417,10 +8946,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
     "subclass": {
+      "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
     },
@@ -8432,6 +8963,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "superior-critical",
         "name": "Superior Critical",
         "url": "features/superior-critical"
       }
@@ -8439,10 +8971,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
     "subclass": {
+      "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
     },
@@ -8454,6 +8988,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "survivor",
         "name": "Survivor",
         "url": "features/survivor"
       }
@@ -8461,10 +8996,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
     "subclass": {
+      "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
     },
@@ -8476,6 +9013,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "open-hand-technique",
         "name": "Open Hand Technique",
         "url": "features/open-hand-technique"
       }
@@ -8483,10 +9021,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
     "subclass": {
+      "label": "open-hand",
       "name": "Open Hand",
       "url": "subclasses/open-hand"
     },
@@ -8498,6 +9038,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "wholeness-of-body",
         "name": "Wholeness of Body",
         "url": "features/wholeness-of-body"
       }
@@ -8505,10 +9046,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
     "subclass": {
+      "label": "open-hand",
       "name": "Open Hand",
       "url": "subclasses/open-hand"
     },
@@ -8520,6 +9063,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "tranquility",
         "name": "Tranquility",
         "url": "features/tranquility"
       }
@@ -8527,10 +9071,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
     "subclass": {
+      "label": "open-hand",
       "name": "Open Hand",
       "url": "subclasses/open-hand"
     },
@@ -8542,6 +9088,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "quivering-palm",
         "name": "Quiverying Palm",
         "url": "features/quivering-palm"
       }
@@ -8549,10 +9096,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
     "subclass": {
+      "label": "open-hand",
       "name": "Open Hand",
       "url": "subclasses/open-hand"
     },
@@ -8564,6 +9113,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "channel-divinity",
         "name": "Channel Divinity",
         "url": "features/channel-divinity"
       }
@@ -8571,10 +9121,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
     "subclass": {
+      "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
     },
@@ -8586,6 +9138,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "aura-of-devotion",
         "name": "Aura of Devotion",
         "url": "features/aura-of-devotion"
       }
@@ -8595,10 +9148,12 @@
       "aura_range": 10
     },
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
     "subclass": {
+      "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
     },
@@ -8610,6 +9165,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "purity-of-spirit",
         "name": "Purity of Spirit",
         "url": "features/purity-of-spirit"
       }
@@ -8619,10 +9175,12 @@
       "aura_range": 10
     },
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
     "subclass": {
+      "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
     },
@@ -8638,10 +9196,12 @@
       "aura_range": 30
     },
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
     "subclass": {
+      "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
     },
@@ -8653,6 +9213,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "holy-nimbus",
         "name": "Holy Nimbus",
         "url": "features/holy-nimbus"
       }
@@ -8662,10 +9223,12 @@
       "aura_range": 30
     },
     "class": {
+      "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
     "subclass": {
+      "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
     },
@@ -8676,6 +9239,7 @@
     "level": 3,
     "feature_choices": [
       {
+        "label": "choose-hunters-prey",
         "name": "Choose: Hunter's Prey",
         "url": "features/choose-hunters-prey"
       }
@@ -8684,10 +9248,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
     "subclass": {
+      "label": "hunter",
       "name": "Hunter",
       "url": "subclasses/hunter"
     },
@@ -8698,6 +9264,7 @@
     "level": 7,
     "feature_choices": [
       {
+        "label": "choose-defensive-tactics",
         "name": "Choose: Defensive Tactics",
         "url": "features/choose-defensive-tactics"
       }
@@ -8706,10 +9273,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
     "subclass": {
+      "label": "hunter",
       "name": "Hunter",
       "url": "subclasses/hunter"
     },
@@ -8720,6 +9289,7 @@
     "level": 11,
     "feature_choices": [
       {
+        "label": "choose-multiattack",
         "name": "Choose: Multiattack",
         "url": "features/choose-multiattack"
       }
@@ -8728,10 +9298,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
     "subclass": {
+      "label": "hunter",
       "name": "Hunter",
       "url": "subclasses/hunter"
     },
@@ -8742,6 +9314,7 @@
     "level": 15,
     "feature_choices": [
       {
+        "label": "choose-superior-hunters-defense",
         "name": "Choose: Superior Hunter's Defense",
         "url": "features/choose-superior-hunters-defense"
       }
@@ -8750,10 +9323,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
     "subclass": {
+      "label": "hunter",
       "name": "Hunter",
       "url": "subclasses/hunter"
     },
@@ -8765,10 +9340,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "fast-hands",
         "name": "Fast Hands",
         "url": "features/fast-hands"
       },
       {
+        "label": "second-story-work",
         "name": "Second-Story Work",
         "url": "features/second-story-work"
       }
@@ -8776,10 +9353,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
     "subclass": {
+      "label": "thief",
       "name": "Thief",
       "url": "subclasses/thief"
     },
@@ -8791,6 +9370,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "supreme-sneak",
         "name": "Supreme Sneak",
         "url": "features/supreme-sneak"
       }
@@ -8798,10 +9378,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
     "subclass": {
+      "label": "thief",
       "name": "Thief",
       "url": "subclasses/thief"
     },
@@ -8813,6 +9395,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "use-magic-device",
         "name": "Use Magic Device",
         "url": "features/use-magic-device"
       }
@@ -8820,10 +9403,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
     "subclass": {
+      "label": "thief",
       "name": "Thief",
       "url": "subclasses/thief"
     },
@@ -8835,6 +9420,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "thiefs-reflexes",
         "name": "Thief's Reflexes",
         "url": "features/thiefs-reflexes"
       }
@@ -8842,10 +9428,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
     "subclass": {
+      "label": "thief",
       "name": "Thief",
       "url": "subclasses/thief"
     },
@@ -8856,12 +9444,14 @@
     "level": 1,
     "feature_choices": [
       {
+        "label": "choose-dragon-ancestor",
         "name": "Choose: Dragon Ancestor",
         "url": "features/choose-dragon-ancestor"
       }
     ],
     "features": [
       {
+        "label": "draconic-resilience",
         "name": "Draconic Resilience",
         "url": "features/draconic-resilience"
       }
@@ -8869,10 +9459,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
     "subclass": {
+      "label": "draconic",
       "name": "Draconic",
       "url": "subclasses/draconic"
     },
@@ -8884,6 +9476,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "elemental-affinity",
         "name": "Elemental Affinity",
         "url": "features/elemental-affinity"
       }
@@ -8891,10 +9484,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
     "subclass": {
+      "label": "draconic",
       "name": "Draconic",
       "url": "subclasses/draconic"
     },
@@ -8906,6 +9501,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "dragon-wings",
         "name": "Dragon Wings",
         "url": "features/dragon-wings"
       }
@@ -8913,10 +9509,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
     "subclass": {
+      "label": "draconic",
       "name": "Draconic",
       "url": "subclasses/draconic"
     },
@@ -8928,6 +9526,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "draconic-presence",
         "name": "Draconic Presence",
         "url": "features/draconic-presence"
       }
@@ -8935,10 +9534,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
     "subclass": {
+      "label": "draconic",
       "name": "Draconic",
       "url": "subclasses/draconic"
     },
@@ -8950,6 +9551,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "dark-ones-blessing",
         "name": "Dark One's Blessing",
         "url": "features/dark-ones-blessing"
       }
@@ -8957,10 +9559,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
     "subclass": {
+      "label": "fiend",
       "name": "The Fiend",
       "url": "subclasses/fiend"
     },
@@ -8972,6 +9576,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "dark-ones-own-luck",
         "name": "Dark One's Own Luck",
         "url": "features/dark-ones-own-luck"
       }
@@ -8979,10 +9584,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
     "subclass": {
+      "label": "fiend",
       "name": "The Fiend",
       "url": "subclasses/fiend"
     },
@@ -8994,6 +9601,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "fiendish-resilience",
         "name": "Fiendish Resilience",
         "url": "features/fiendish-resilience"
       }
@@ -9001,10 +9609,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
     "subclass": {
+      "label": "fiend",
       "name": "The Fiend",
       "url": "subclasses/fiend"
     },
@@ -9016,6 +9626,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "hurl-through-hell",
         "name": "Hurl Through Hell",
         "url": "features/hurl-through-hell"
       }
@@ -9023,10 +9634,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
     "subclass": {
+      "label": "fiend",
       "name": "Fiend",
       "url": "subclasses/fiend"
     },
@@ -9038,10 +9651,12 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "evocation-savant",
         "name": "Evocation Savant",
         "url": "features/evocation-savant"
       },
       {
+        "label": "sculpt-spells",
         "name": "Sculpt Spells",
         "url": "features/sculpt-spells"
       }
@@ -9049,10 +9664,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
     "subclass": {
+      "label": "evocation",
       "name": "Evocation",
       "url": "subclasses/evocation"
     },
@@ -9064,6 +9681,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "potent-cantrip",
         "name": "Potent Cantrip",
         "url": "features/potent-cantrip"
       }
@@ -9071,10 +9689,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
     "subclass": {
+      "label": "evocation",
       "name": "Evocation",
       "url": "subclasses/evocation"
     },
@@ -9086,6 +9706,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "empowered-evocation",
         "name": "Empowered Evocation",
         "url": "features/empowered-evocation"
       }
@@ -9093,10 +9714,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
     "subclass": {
+      "label": "evocation",
       "name": "Evocation",
       "url": "subclasses/evocation"
     },
@@ -9108,6 +9731,7 @@
     "feature_choices": [],
     "features": [
       {
+        "label": "overchannel",
         "name": "Overchannel",
         "url": "features/overchannel"
       }
@@ -9115,10 +9739,12 @@
     "spellcasting": {},
     "subclass_specific": {},
     "class": {
+      "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
     "subclass": {
+      "label": "evocation",
       "name": "Evocation",
       "url": "subclasses/evocation"
     },

@@ -21,14 +21,16 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-athletics",
         "name": "Skill: Athletics",
-        "url": "proficiencies/skill-athletics",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-athletics"
       },
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -64,6 +66,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -78,6 +81,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -135,6 +139,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -193,6 +198,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -240,6 +246,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -294,6 +301,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -349,6 +357,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -408,6 +417,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -483,6 +493,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -497,6 +508,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -528,14 +540,16 @@
     "charisma": 11,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -561,6 +575,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -602,9 +617,10 @@
     "charisma": 5,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -634,6 +650,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -680,6 +697,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -707,6 +725,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -739,9 +758,10 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -788,6 +808,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -802,6 +823,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -849,6 +871,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -881,14 +904,16 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -914,6 +939,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -963,6 +989,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -977,6 +1004,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1009,9 +1037,10 @@
     "charisma": 2,
     "proficiencies": [
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1038,6 +1067,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1070,9 +1100,10 @@
     "charisma": 5,
     "proficiencies": [
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1098,6 +1129,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1129,14 +1161,16 @@
     "charisma": 6,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1179,6 +1213,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1226,6 +1261,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -1257,14 +1293,16 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1294,6 +1332,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -1341,6 +1380,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1373,9 +1413,10 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1401,6 +1442,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1454,6 +1496,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -1468,6 +1511,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1521,6 +1565,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1535,6 +1580,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1591,6 +1637,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1598,6 +1645,7 @@
           },
           {
             "damage_type": {
+              "label": "poison",
               "name": "Poison",
               "url": "damage-types/poison"
             },
@@ -1630,14 +1678,16 @@
     "charisma": 3,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 1
+        "value": 1,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1684,14 +1734,16 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-athletics",
         "name": "Skill: Athletics",
-        "url": "proficiencies/skill-athletics",
-        "value": 9
+        "value": 9,
+        "url": "proficiencies/skill-athletics"
       },
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -1727,6 +1779,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1741,6 +1794,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -1817,6 +1871,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -1831,6 +1886,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -1890,6 +1946,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -1954,6 +2011,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -2003,6 +2061,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2035,9 +2094,10 @@
     "charisma": 3,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2058,6 +2118,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2072,6 +2133,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -2104,9 +2166,10 @@
     "charisma": 3,
     "proficiencies": [
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2133,6 +2196,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -2165,9 +2229,10 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2214,6 +2279,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2228,6 +2294,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -2260,9 +2327,10 @@
     "charisma": 10,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2309,6 +2377,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2323,6 +2392,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -2354,9 +2424,10 @@
     "charisma": 10,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2382,6 +2453,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -2396,6 +2468,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -2450,6 +2523,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -2482,14 +2556,16 @@
     "charisma": 3,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2520,6 +2596,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2581,6 +2658,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -2612,9 +2690,10 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2640,6 +2719,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2699,6 +2779,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2731,14 +2812,16 @@
     "charisma": 4,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2773,6 +2856,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -2816,14 +2900,16 @@
     "charisma": 10,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2854,6 +2940,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -2886,9 +2973,10 @@
     "charisma": 3,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -2909,6 +2997,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -2967,6 +3056,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3015,6 +3105,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3063,6 +3154,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -3098,6 +3190,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3156,6 +3249,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -3187,9 +3281,10 @@
     "charisma": 5,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -3220,6 +3315,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3252,9 +3348,10 @@
     "charisma": 4,
     "proficiencies": [
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 7
+        "value": 7,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -3290,6 +3387,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3359,6 +3457,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3366,6 +3465,7 @@
           },
           {
             "damage_type": {
+              "label": "poison",
               "name": "Poison",
               "url": "damage-types/poison"
             },
@@ -3402,9 +3502,10 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -3455,6 +3556,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3469,6 +3571,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -3518,6 +3621,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3549,14 +3653,16 @@
     "charisma": 5,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -3583,6 +3689,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3615,14 +3722,16 @@
     "charisma": 4,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 7
+        "value": 7,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -3658,6 +3767,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3715,6 +3825,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -3747,9 +3858,10 @@
     "charisma": 6,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -3775,6 +3887,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -3806,9 +3919,10 @@
     "charisma": 4,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -3839,6 +3953,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -3870,9 +3985,10 @@
     "charisma": 5,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -3898,6 +4014,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3929,9 +4046,10 @@
     "charisma": 6,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -3961,6 +4079,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -3992,9 +4111,10 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -4029,6 +4149,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4060,14 +4181,16 @@
     "charisma": 8,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -4105,6 +4228,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4119,6 +4243,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -4168,6 +4293,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4221,6 +4347,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4235,6 +4362,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -4266,9 +4394,10 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -4294,6 +4423,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4351,6 +4481,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -4383,14 +4514,16 @@
     "charisma": 4,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -4425,6 +4558,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -4469,14 +4603,16 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -4507,6 +4643,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -4539,14 +4676,16 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -4576,6 +4715,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4590,6 +4730,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -4622,9 +4763,10 @@
     "charisma": 6,
     "proficiencies": [
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -4659,6 +4801,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4708,6 +4851,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4740,9 +4884,10 @@
     "charisma": 7,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -4789,6 +4934,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4803,6 +4949,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -4850,6 +4997,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -4908,6 +5056,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4962,6 +5111,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -4994,9 +5144,10 @@
     "charisma": 6,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -5022,6 +5173,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -5053,9 +5205,10 @@
     "charisma": 4,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 2
+        "value": 2,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -5086,6 +5239,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -5139,6 +5293,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -5186,6 +5341,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -5217,14 +5373,16 @@
     "charisma": 8,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -5254,6 +5412,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -5268,6 +5427,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -5316,6 +5476,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -5385,9 +5546,10 @@
     "charisma": 2,
     "proficiencies": [
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -5422,6 +5584,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -5462,34 +5625,42 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "grappled",
         "name": "Grappled",
         "url": "conditions/grappled"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -5522,6 +5693,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -5563,34 +5735,42 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "grappled",
         "name": "Grappled",
         "url": "conditions/grappled"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -5615,6 +5795,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -5655,34 +5836,42 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "grappled",
         "name": "Grappled",
         "url": "conditions/grappled"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -5707,6 +5896,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -5747,34 +5937,42 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "grappled",
         "name": "Grappled",
         "url": "conditions/grappled"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -5799,6 +5997,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -5839,34 +6038,42 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "grappled",
         "name": "Grappled",
         "url": "conditions/grappled"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -5891,6 +6098,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -5931,34 +6139,42 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "grappled",
         "name": "Grappled",
         "url": "conditions/grappled"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -5991,6 +6207,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6030,34 +6247,42 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "grappled",
         "name": "Grappled",
         "url": "conditions/grappled"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -6086,6 +6311,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6126,34 +6352,42 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "grappled",
         "name": "Grappled",
         "url": "conditions/grappled"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -6177,6 +6411,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6217,30 +6452,37 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -6277,6 +6519,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6317,34 +6560,42 @@
     "damage_immunities": [],
     "condition_immunities": [
       {
+        "label": "charmed",
         "name": "Charmed",
         "url": "conditions/charmed"
       },
       {
+        "label": "frightened",
         "name": "Frightened",
         "url": "conditions/frightened"
       },
       {
+        "label": "grappled",
         "name": "Grappled",
         "url": "conditions/grappled"
       },
       {
+        "label": "paralyzed",
         "name": "Paralyzed",
         "url": "conditions/paralyzed"
       },
       {
+        "label": "petrified",
         "name": "Petrified",
         "url": "conditions/petrified"
       },
       {
+        "label": "prone",
         "name": "Prone",
         "url": "conditions/prone"
       },
       {
+        "label": "restrained",
         "name": "Restrained",
         "url": "conditions/restrained"
       },
       {
+        "label": "stunned",
         "name": "Stunned",
         "url": "conditions/stunned"
       }
@@ -6369,6 +6620,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6400,14 +6652,16 @@
     "charisma": 8,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 6
+        "value": 6,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -6438,6 +6692,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6452,6 +6707,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "slashing",
               "name": "Slashing",
               "url": "damage-types/slashing"
             },
@@ -6484,9 +6740,10 @@
     "charisma": 4,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -6516,6 +6773,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6569,6 +6827,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "bludgeoning",
               "name": "Bludgeoning",
               "url": "damage-types/bludgeoning"
             },
@@ -6600,14 +6859,16 @@
     "charisma": 3,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -6633,6 +6894,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6664,14 +6926,16 @@
     "charisma": 8,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 5
+        "value": 5,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -6707,6 +6971,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6724,6 +6989,7 @@
         },
         "dc": {
           "dc_type": {
+            "label": "dex",
             "name": "DEX",
             "url": "ability-scores/dex"
           },
@@ -6733,6 +6999,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "cold",
               "name": "Cold",
               "url": "damage-types/cold"
             },
@@ -6764,14 +7031,16 @@
     "charisma": 6,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 3
+        "value": 3,
+        "url": "proficiencies/skill-perception"
       },
       {
+        "label": "skill-stealth",
         "name": "Skill: Stealth",
-        "url": "proficiencies/skill-stealth",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "damage_vulnerabilities": [],
@@ -6801,6 +7070,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },
@@ -6832,9 +7102,10 @@
     "charisma": 8,
     "proficiencies": [
       {
+        "label": "skill-perception",
         "name": "Skill: Perception",
-        "url": "proficiencies/skill-perception",
-        "value": 4
+        "value": 4,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "damage_vulnerabilities": [],
@@ -6861,6 +7132,7 @@
         "damage": [
           {
             "damage_type": {
+              "label": "piercing",
               "name": "Piercing",
               "url": "damage-types/piercing"
             },

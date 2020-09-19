@@ -3,15 +3,17 @@
     "label": "hill-dwarf",
     "name": "Hill Dwarf",
     "race": {
-      "url": "races/dwarf",
-      "name": "Dwarf"
+      "label": "dwarf",
+      "name": "Dwarf",
+      "url": "races/dwarf"
     },
     "desc": "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.",
     "ability_bonuses": [
       {
+        "label": "wis",
         "name": "WIS",
-        "url": "ability-scores/wis",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/wis"
       }
     ],
     "ability_bonus_options": {},
@@ -21,8 +23,9 @@
     "language_options": {},
     "racial_traits": [
       {
-        "url": "traits/dwarven-toughness",
-        "name": "Dwarven Toughness"
+        "label": "dwarven-toughness",
+        "name": "Dwarven Toughness",
+        "url": "traits/dwarven-toughness"
       }
     ],
     "racial_trait_options": {},
@@ -32,34 +35,40 @@
     "label": "high-elf",
     "name": "High Elf",
     "race": {
-      "url": "races/elf",
-      "name": "Elf"
+      "label": "elf",
+      "name": "Elf",
+      "url": "races/elf"
     },
     "desc": "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races.",
     "ability_bonuses": [
       {
+        "label": "int",
         "name": "INT",
-        "url": "ability-scores/int",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/int"
       }
     ],
     "ability_bonus_options": {},
     "starting_proficiencies": [
       {
-        "url": "proficiencies/longswords",
-        "name": "Longswords"
+        "label": "longswords",
+        "name": "Longswords",
+        "url": "proficiencies/longswords"
       },
       {
-        "url": "proficiencies/shortswords",
-        "name": "Shortswords"
+        "label": "shortswords",
+        "name": "Shortswords",
+        "url": "proficiencies/shortswords"
       },
       {
-        "url": "proficiencies/shortbows",
-        "name": "Shortbows"
+        "label": "shortbows",
+        "name": "Shortbows",
+        "url": "proficiencies/shortbows"
       },
       {
-        "url": "proficiencies/longbows",
-        "name": "Longbows"
+        "label": "longbows",
+        "name": "Longbows",
+        "url": "proficiencies/longbows"
       }
     ],
     "starting_proficiency_options": {},
@@ -68,60 +77,74 @@
       "choose": 1,
       "from": [
         {
-          "url": "languages/dwarvish",
-          "name": "Dwarvish"
+          "label": "dwarvish",
+          "name": "Dwarvish",
+          "url": "languages/dwarvish"
         },
         {
-          "url": "languages/giant",
-          "name": "Giant"
+          "label": "giant",
+          "name": "Giant",
+          "url": "languages/giant"
         },
         {
-          "url": "languages/gnomish",
-          "name": "Gnomish"
+          "label": "gnomish",
+          "name": "Gnomish",
+          "url": "languages/gnomish"
         },
         {
-          "url": "languages/goblin",
-          "name": "Goblin"
+          "label": "goblin",
+          "name": "Goblin",
+          "url": "languages/goblin"
         },
         {
-          "url": "languages/halfling",
-          "name": "Halfling"
+          "label": "halfling",
+          "name": "Halfling",
+          "url": "languages/halfling"
         },
         {
-          "url": "languages/orc",
-          "name": "Orc"
+          "label": "orc",
+          "name": "Orc",
+          "url": "languages/orc"
         },
         {
-          "url": "languages/abyssal",
-          "name": "Abyssal"
+          "label": "abyssal",
+          "name": "Abyssal",
+          "url": "languages/abyssal"
         },
         {
-          "url": "languages/celestial",
-          "name": "Celestial"
+          "label": "celestial",
+          "name": "Celestial",
+          "url": "languages/celestial"
         },
         {
-          "url": "languages/draconic",
-          "name": "Draconic"
+          "label": "draconic",
+          "name": "Draconic",
+          "url": "languages/draconic"
         },
         {
-          "url": "languages/deep-speech",
-          "name": "Deep Speech"
+          "label": "deep-speech",
+          "name": "Deep Speech",
+          "url": "languages/deep-speech"
         },
         {
-          "url": "languages/infernal",
-          "name": "Infernal"
+          "label": "infernal",
+          "name": "Infernal",
+          "url": "languages/infernal"
         },
         {
-          "url": "languages/primordial",
-          "name": "Primordial"
+          "label": "primordial",
+          "name": "Primordial",
+          "url": "languages/primordial"
         },
         {
-          "url": "languages/sylvan",
-          "name": "Sylvan"
+          "label": "sylvan",
+          "name": "Sylvan",
+          "url": "languages/sylvan"
         },
         {
-          "url": "languages/undercommon",
-          "name": "Undercommon"
+          "label": "undercommon",
+          "name": "Undercommon",
+          "url": "languages/undercommon"
         }
       ],
       "type": "language"
@@ -131,52 +154,64 @@
       "choose": 1,
       "from": [
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Light"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Light",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Mage Hand"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Mage Hand",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Mending"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Mending",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Message"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Message",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Minor Illusion"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Minor Illusion",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Acid Splash"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Acid Splash",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Prestidigitation"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Prestidigitation",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Ray of Frost"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Ray of Frost",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Shocking Grasp"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Shocking Grasp",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: True Strike"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: True Strike",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Chill Touch"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Chill Touch",
+          "url": "traits/high-elf-cantrip"
         },
         {
-          "url": "traits/high-elf-cantrip",
-          "name": "High Elf Cantrip: Dancing Lights"
+          "label": "high-elf-cantrip",
+          "name": "High Elf Cantrip: Dancing Lights",
+          "url": "traits/high-elf-cantrip"
         }
       ],
       "type": "trait"
@@ -187,15 +222,17 @@
     "label": "lightfoot-halfling",
     "name": "Lightfoot Halfling",
     "race": {
-      "url": "races/halfling",
-      "name": "Halfling"
+      "label": "halfling",
+      "name": "Halfling",
+      "url": "races/halfling"
     },
     "desc": "As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.",
     "ability_bonuses": [
       {
+        "label": "cha",
         "name": "CHA",
-        "url": "ability-scores/cha",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/cha"
       }
     ],
     "ability_bonus_options": {},
@@ -205,8 +242,9 @@
     "language_options": {},
     "racial_traits": [
       {
-        "url": "traits/naturally-stealthy",
-        "name": "Naturally Stealthy"
+        "label": "naturally-stealthy",
+        "name": "Naturally Stealthy",
+        "url": "traits/naturally-stealthy"
       }
     ],
     "racial_trait_options": {},
@@ -216,36 +254,42 @@
     "label": "rock-gnome",
     "name": "Rock Gnome",
     "race": {
-      "url": "races/gnome",
-      "name": "Gnome"
+      "label": "gnome",
+      "name": "Gnome",
+      "url": "races/gnome"
     },
     "desc": "As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.",
     "ability_bonuses": [
       {
+        "label": "con",
         "name": "CON",
-        "url": "ability-scores/con",
-        "bonus": 1
+        "bonus": 1,
+        "url": "ability-scores/con"
       }
     ],
     "starting_proficiencies": [],
     "starting_proficiency_options": {},
     "languages": [
       {
-        "url": "languages/common",
-        "name": "Common"
+        "label": "common",
+        "name": "Common",
+        "url": "languages/common"
       },
       {
-        "url": "languages/gnomish",
-        "name": "Gnomish"
+        "label": "gnomish",
+        "name": "Gnomish",
+        "url": "languages/gnomish"
       }
     ],
     "language_options": {},
     "racial_traits": [
       {
+        "label": "artificers-lore",
         "name": "Artificer's Lore",
         "url": "traits/artificers-lore"
       },
       {
+        "label": "tinker",
         "name": "Tinker",
         "url": "traits/tinker"
       }

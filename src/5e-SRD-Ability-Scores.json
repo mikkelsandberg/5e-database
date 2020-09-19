@@ -9,8 +9,9 @@
     ],
     "skills": [
       {
-        "url": "skills/athletics",
-        "name": "Athletics"
+        "name": "Athletics",
+        "label": "athletics",
+        "url": "skills/athletics"
       }
     ],
     "url": "ability-scores/str"
@@ -25,16 +26,19 @@
     ],
     "skills": [
       {
-        "url": "skills/acrobatics",
-        "name": "Acrobatics"
+        "name": "Acrobatics",
+        "label": "acrobatics",
+        "url": "skills/acrobatics"
       },
       {
-        "url": "skills/sleight-of-hand",
-        "name": "Sleight of Hand"
+        "name": "Sleight of Hand",
+        "label": "sleight-of-hand",
+        "url": "skills/sleight-of-hand"
       },
       {
-        "url": "skills/stealth",
-        "name": "Stealth"
+        "name": "Stealth",
+        "label": "stealth",
+        "url": "skills/stealth"
       }
     ],
     "url": "ability-scores/dex"
@@ -60,24 +64,29 @@
     ],
     "skills": [
       {
-        "url": "skills/arcana",
-        "name": "Arcana"
+        "name": "Arcana",
+        "label": "arcana",
+        "url": "skills/arcana"
       },
       {
-        "url": "skills/history",
-        "name": "History"
+        "name": "History",
+        "label": "history",
+        "url": "skills/history"
       },
       {
-        "url": "skills/investigation",
-        "name": "Investigation"
+        "name": "Investigation",
+        "label": "investigation",
+        "url": "skills/investigation"
       },
       {
-        "url": "skills/nature",
-        "name": "Nature"
+        "name": "Nature",
+        "label": "nature",
+        "url": "skills/nature"
       },
       {
-        "url": "skills/religion",
-        "name": "Religion"
+        "name": "Religion",
+        "label": "religion",
+        "url": "skills/religion"
       }
     ],
     "url": "ability-scores/int"
@@ -92,24 +101,29 @@
     ],
     "skills": [
       {
-        "url": "skills/animal-handling",
-        "name": "Animal Handling"
+        "name": "Animal Handling",
+        "label": "animal-handling",
+        "url": "skills/animal-handling"
       },
       {
-        "url": "skills/insight",
-        "name": "Insight"
+        "name": "Insight",
+        "label": "insight",
+        "url": "skills/insight"
       },
       {
-        "url": "skills/medicine",
-        "name": "Medicine"
+        "name": "Medicine",
+        "label": "medicine",
+        "url": "skills/medicine"
       },
       {
-        "url": "skills/perception",
-        "name": "Perception"
+        "name": "Perception",
+        "label": "perception",
+        "url": "skills/perception"
       },
       {
-        "url": "skills/survival",
-        "name": "Survival"
+        "name": "Survival",
+        "label": "survival",
+        "url": "skills/survival"
       }
     ],
     "url": "ability-scores/wis"
@@ -124,20 +138,24 @@
     ],
     "skills": [
       {
-        "url": "skills/deception",
-        "name": "Deception"
+        "name": "Deception",
+        "label": "deception",
+        "url": "skills/deception"
       },
       {
-        "url": "skills/intimidation",
-        "name": "Intimidation"
+        "name": "Intimidation",
+        "label": "intimidation",
+        "url": "skills/intimidation"
       },
       {
-        "url": "skills/performance",
-        "name": "Performance"
+        "name": "Performance",
+        "label": "performance",
+        "url": "skills/performance"
       },
       {
-        "url": "skills/persuasion",
-        "name": "Persuasion"
+        "name": "Persuasion",
+        "label": "persuasion",
+        "url": "skills/persuasion"
       }
     ],
     "url": "ability-scores/cha"

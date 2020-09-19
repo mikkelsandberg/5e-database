@@ -4,150 +4,187 @@
     "name": "Weapon",
     "equipment": [
       {
+        "label": "club",
         "name": "Club",
         "url": "equipment-items/club"
       },
       {
+        "label": "dagger",
         "name": "Dagger",
         "url": "equipment-items/dagger"
       },
       {
+        "label": "greatclub",
         "name": "Greatclub",
         "url": "equipment-items/greatclub"
       },
       {
+        "label": "handaxe",
         "name": "Handaxe",
         "url": "equipment-items/handaxe"
       },
       {
+        "label": "javelin",
         "name": "Javelin",
         "url": "equipment-items/javelin"
       },
       {
+        "label": "light-hammer",
         "name": "Light hammer",
         "url": "equipment-items/light-hammer"
       },
       {
+        "label": "mace",
         "name": "Mace",
         "url": "equipment-items/mace"
       },
       {
+        "label": "quarterstaff",
         "name": "Quarterstaff",
         "url": "equipment-items/quarterstaff"
       },
       {
+        "label": "sickle",
         "name": "Sickle",
         "url": "equipment-items/sickle"
       },
       {
+        "label": "spear",
         "name": "Spear",
         "url": "equipment-items/spear"
       },
       {
+        "label": "crossbow-light",
         "name": "Crossbow, light",
         "url": "equipment-items/crossbow-light"
       },
       {
+        "label": "dart",
         "name": "Dart",
         "url": "equipment-items/dart"
       },
       {
+        "label": "shortbow",
         "name": "Shortbow",
         "url": "equipment-items/shortbow"
       },
       {
+        "label": "sling",
         "name": "Sling",
         "url": "equipment-items/sling"
       },
       {
+        "label": "battleaxe",
         "name": "Battleaxe",
         "url": "equipment-items/battleaxe"
       },
       {
+        "label": "flail",
         "name": "Flail",
         "url": "equipment-items/flail"
       },
       {
+        "label": "glaive",
         "name": "Glaive",
         "url": "equipment-items/glaive"
       },
       {
+        "label": "greataxe",
         "name": "Greataxe",
         "url": "equipment-items/greataxe"
       },
       {
+        "label": "greatsword",
         "name": "Greatsword",
         "url": "equipment-items/greatsword"
       },
       {
+        "label": "halberd",
         "name": "Halberd",
         "url": "equipment-items/halberd"
       },
       {
+        "label": "lance",
         "name": "Lance",
         "url": "equipment-items/lance"
       },
       {
+        "label": "longsword",
         "name": "Longsword",
         "url": "equipment-items/longsword"
       },
       {
+        "label": "maul",
         "name": "Maul",
         "url": "equipment-items/maul"
       },
       {
+        "label": "morningstar",
         "name": "Morningstar",
         "url": "equipment-items/morningstar"
       },
       {
+        "label": "pike",
         "name": "Pike",
         "url": "equipment-items/pike"
       },
       {
+        "label": "rapier",
         "name": "Rapier",
         "url": "equipment-items/rapier"
       },
       {
+        "label": "scimitar",
         "name": "Scimitar",
         "url": "equipment-items/scimitar"
       },
       {
+        "label": "shortsword",
         "name": "Shortsword",
         "url": "equipment-items/shortsword"
       },
       {
+        "label": "trident",
         "name": "Trident",
         "url": "equipment-items/trident"
       },
       {
+        "label": "war-pick",
         "name": "War pick",
         "url": "equipment-items/war-pick"
       },
       {
+        "label": "warhammer",
         "name": "Warhammer",
         "url": "equipment-items/warhammer"
       },
       {
+        "label": "whip",
         "name": "Whip",
         "url": "equipment-items/whip"
       },
       {
+        "label": "blowgun",
         "name": "Blowgun",
         "url": "equipment-items/blowgun"
       },
       {
+        "label": "crossbow-hand",
         "name": "Crossbow, hand",
         "url": "equipment-items/crossbow-hand"
       },
       {
+        "label": "crossbow-heavy",
         "name": "Crossbow, heavy",
         "url": "equipment-items/crossbow-heavy"
       },
       {
+        "label": "longbow",
         "name": "Longbow",
         "url": "equipment-items/longbow"
       },
       {
+        "label": "net",
         "name": "Net",
         "url": "equipment-items/net"
       }
@@ -159,54 +196,67 @@
     "name": "Armor",
     "equipment": [
       {
+        "label": "padded",
         "name": "Padded",
         "url": "equipment-items/padded"
       },
       {
+        "label": "leather",
         "name": "Leather",
         "url": "equipment-items/leather"
       },
       {
+        "label": "studded-leather",
         "name": "Studded Leather",
         "url": "equipment-items/studded-leather"
       },
       {
+        "label": "hide",
         "name": "Hide",
         "url": "equipment-items/hide"
       },
       {
+        "label": "chain-shirt",
         "name": "Chain Shirt",
         "url": "equipment-items/chain-shirt"
       },
       {
+        "label": "scale-mail",
         "name": "Scale Mail",
         "url": "equipment-items/scale-mail"
       },
       {
+        "label": "breastplate",
         "name": "Breastplate",
         "url": "equipment-items/breastplate"
       },
       {
+        "label": "half-plate",
         "name": "Half Plate",
         "url": "equipment-items/half-plate"
       },
       {
+        "label": "ring-mail",
         "name": "Ring Mail",
         "url": "equipment-items/ring-mail"
       },
       {
+        "label": "chain-mail",
         "name": "Chain Mail",
         "url": "equipment-items/chain-mail"
       },
       {
+        "label": "splint",
         "name": "Splint",
         "url": "equipment-items/splint"
       },
       {
+        "label": "plate",
         "name": "Plate",
         "url": "equipment-items/plate"
       },
       {
+        "label": "shield",
         "name": "Shield",
         "url": "equipment-items/shield"
       }
@@ -218,444 +268,554 @@
     "name": "Adventuring Gear",
     "equipment": [
       {
-        "url": "equipment-items/abacus",
-        "name": "Abacus"
+        "label": "abacus",
+        "name": "Abacus",
+        "url": "equipment-items/abacus"
       },
       {
-        "url": "equipment-items/acid-vial",
-        "name": "Acid (vial)"
+        "label": "acid-vial",
+        "name": "Acid (vial)",
+        "url": "equipment-items/acid-vial"
       },
       {
-        "url": "equipment-items/alchemists-fire-flask",
-        "name": "Alchemist's fire (flask)"
+        "label": "alchemists-fire-flask",
+        "name": "Alchemist's fire (flask)",
+        "url": "equipment-items/alchemists-fire-flask"
       },
       {
-        "url": "equipment-items/arrow",
-        "name": "Arrow"
+        "label": "arrow",
+        "name": "Arrow",
+        "url": "equipment-items/arrow"
       },
       {
-        "url": "equipment-items/blowgun-needle",
-        "name": "Blowgun needle"
+        "label": "blowgun-needle",
+        "name": "Blowgun needle",
+        "url": "equipment-items/blowgun-needle"
       },
       {
-        "url": "equipment-items/crossbow-bolt",
-        "name": "Crossbow bolt"
+        "label": "crossbow-bolt",
+        "name": "Crossbow bolt",
+        "url": "equipment-items/crossbow-bolt"
       },
       {
-        "url": "equipment-items/sling-bullet",
-        "name": "Sling bullet"
+        "label": "sling-bullet",
+        "name": "Sling bullet",
+        "url": "equipment-items/sling-bullet"
       },
       {
-        "url": "equipment-items/amulet",
-        "name": "Amulet"
+        "label": "amulet",
+        "name": "Amulet",
+        "url": "equipment-items/amulet"
       },
       {
-        "url": "equipment-items/antitoxin-vial",
-        "name": "Antitoxin (vial)"
+        "label": "antitoxin-vial",
+        "name": "Antitoxin (vial)",
+        "url": "equipment-items/antitoxin-vial"
       },
       {
-        "url": "equipment-items/backpack",
-        "name": "Backpack"
+        "label": "backpack",
+        "name": "Backpack",
+        "url": "equipment-items/backpack"
       },
       {
-        "url": "equipment-items/ball-bearings-bag-of-1000",
-        "name": "Ball bearings (bag of 1,000)"
+        "label": "ball-bearings-bag-of-1000",
+        "name": "Ball bearings (bag of 1,000)",
+        "url": "equipment-items/ball-bearings-bag-of-1000"
       },
       {
-        "url": "equipment-items/barrel",
-        "name": "Barrel"
+        "label": "barrel",
+        "name": "Barrel",
+        "url": "equipment-items/barrel"
       },
       {
-        "url": "equipment-items/basket",
-        "name": "Basket"
+        "label": "basket",
+        "name": "Basket",
+        "url": "equipment-items/basket"
       },
       {
-        "url": "equipment-items/bedroll",
-        "name": "Bedroll"
+        "label": "bedroll",
+        "name": "Bedroll",
+        "url": "equipment-items/bedroll"
       },
       {
-        "url": "equipment-items/bell",
-        "name": "Bell"
+        "label": "bell",
+        "name": "Bell",
+        "url": "equipment-items/bell"
       },
       {
-        "url": "equipment-items/blanket",
-        "name": "Blanket"
+        "label": "blanket",
+        "name": "Blanket",
+        "url": "equipment-items/blanket"
       },
       {
-        "url": "equipment-items/block-and-tackle",
-        "name": "Block and tackle"
+        "label": "block-and-tackle",
+        "name": "Block and tackle",
+        "url": "equipment-items/block-and-tackle"
       },
       {
-        "url": "equipment-items/book",
-        "name": "Book"
+        "label": "book",
+        "name": "Book",
+        "url": "equipment-items/book"
       },
       {
-        "url": "equipment-items/bottle-glass",
-        "name": "Bottle, glass"
+        "label": "bottle-glass",
+        "name": "Bottle, glass",
+        "url": "equipment-items/bottle-glass"
       },
       {
-        "url": "equipment-items/bucket",
-        "name": "Bucket"
+        "label": "bucket",
+        "name": "Bucket",
+        "url": "equipment-items/bucket"
       },
       {
-        "url": "equipment-items/caltrops",
-        "name": "Caltrops"
+        "label": "caltrops",
+        "name": "Caltrops",
+        "url": "equipment-items/caltrops"
       },
       {
-        "url": "equipment-items/candle",
-        "name": "Candle"
+        "label": "candle",
+        "name": "Candle",
+        "url": "equipment-items/candle"
       },
       {
-        "url": "equipment-items/case-crossbow-bolt",
-        "name": "Case, crossbow bolt"
+        "label": "case-crossbow-bolt",
+        "name": "Case, crossbow bolt",
+        "url": "equipment-items/case-crossbow-bolt"
       },
       {
-        "url": "equipment-items/case-map-or-scroll",
-        "name": "Case, map or scroll"
+        "label": "case-map-or-scroll",
+        "name": "Case, map or scroll",
+        "url": "equipment-items/case-map-or-scroll"
       },
       {
-        "url": "equipment-items/chain-10-feet",
-        "name": "Chain (10 feet)"
+        "label": "chain-10-feet",
+        "name": "Chain (10 feet)",
+        "url": "equipment-items/chain-10-feet"
       },
       {
-        "url": "equipment-items/chalk-1-piece",
-        "name": "Chalk (1 piece)"
+        "label": "chalk-1-piece",
+        "name": "Chalk (1 piece)",
+        "url": "equipment-items/chalk-1-piece"
       },
       {
-        "url": "equipment-items/chest",
-        "name": "Chest"
+        "label": "chest",
+        "name": "Chest",
+        "url": "equipment-items/chest"
       },
       {
-        "url": "equipment-items/clothes-common",
-        "name": "Clothes, common"
+        "label": "clothes-common",
+        "name": "Clothes, common",
+        "url": "equipment-items/clothes-common"
       },
       {
-        "url": "equipment-items/clothes-costume",
-        "name": "Clothes, costume"
+        "label": "clothes-costume",
+        "name": "Clothes, costume",
+        "url": "equipment-items/clothes-costume"
       },
       {
-        "url": "equipment-items/clothes-fine",
-        "name": "Clothes, fine"
+        "label": "clothes-fine",
+        "name": "Clothes, fine",
+        "url": "equipment-items/clothes-fine"
       },
       {
-        "url": "equipment-items/clothes-travelers",
-        "name": "Clothes, traveler's"
+        "label": "clothes-travelers",
+        "name": "Clothes, traveler's",
+        "url": "equipment-items/clothes-travelers"
       },
       {
-        "url": "equipment-items/component-pouch",
-        "name": "Component pouch"
+        "label": "component-pouch",
+        "name": "Component pouch",
+        "url": "equipment-items/component-pouch"
       },
       {
-        "url": "equipment-items/crowbar",
-        "name": "Crowbar"
+        "label": "crowbar",
+        "name": "Crowbar",
+        "url": "equipment-items/crowbar"
       },
       {
-        "url": "equipment-items/emblem",
-        "name": "Emblem"
+        "label": "emblem",
+        "name": "Emblem",
+        "url": "equipment-items/emblem"
       },
       {
-        "url": "equipment-items/fishing-tackle",
-        "name": "Fishing tackle"
+        "label": "fishing-tackle",
+        "name": "Fishing tackle",
+        "url": "equipment-items/fishing-tackle"
       },
       {
-        "url": "equipment-items/flask-or-tankard",
-        "name": "Flask or tankard"
+        "label": "flask-or-tankard",
+        "name": "Flask or tankard",
+        "url": "equipment-items/flask-or-tankard"
       },
       {
-        "url": "equipment-items/grappling-hook",
-        "name": "Grappling hook"
+        "label": "grappling-hook",
+        "name": "Grappling hook",
+        "url": "equipment-items/grappling-hook"
       },
       {
-        "url": "equipment-items/hammer",
-        "name": "Hammer"
+        "label": "hammer",
+        "name": "Hammer",
+        "url": "equipment-items/hammer"
       },
       {
-        "url": "equipment-items/hammer-sledge",
-        "name": "Hammer, sledge"
+        "label": "hammer-sledge",
+        "name": "Hammer, sledge",
+        "url": "equipment-items/hammer-sledge"
       },
       {
-        "url": "equipment-items/holy-water-flask",
-        "name": "Holy water (flask)"
+        "label": "holy-water-flask",
+        "name": "Holy water (flask)",
+        "url": "equipment-items/holy-water-flask"
       },
       {
-        "url": "equipment-items/hourglass",
-        "name": "Hourglass"
+        "label": "hourglass",
+        "name": "Hourglass",
+        "url": "equipment-items/hourglass"
       },
       {
-        "url": "equipment-items/hunting-trap",
-        "name": "Hunting trap"
+        "label": "hunting-trap",
+        "name": "Hunting trap",
+        "url": "equipment-items/hunting-trap"
       },
       {
-        "url": "equipment-items/ink-1-ounce-bottle",
-        "name": "Ink (1 ounce bottle)"
+        "label": "ink-1-ounce-bottle",
+        "name": "Ink (1 ounce bottle)",
+        "url": "equipment-items/ink-1-ounce-bottle"
       },
       {
-        "url": "equipment-items/ink-pen",
-        "name": "Ink pen"
+        "label": "ink-pen",
+        "name": "Ink pen",
+        "url": "equipment-items/ink-pen"
       },
       {
-        "url": "equipment-items/jug-or-pitcher",
-        "name": "Jug or pitcher"
+        "label": "jug-or-pitcher",
+        "name": "Jug or pitcher",
+        "url": "equipment-items/jug-or-pitcher"
       },
       {
-        "url": "equipment-items/climbers-kit",
-        "name": "Climber's Kit"
+        "label": "climbers-kit",
+        "name": "Climber's Kit",
+        "url": "equipment-items/climbers-kit"
       },
       {
-        "url": "equipment-items/disguise-kit",
-        "name": "Disguise Kit"
+        "label": "disguise-kit",
+        "name": "Disguise Kit",
+        "url": "equipment-items/disguise-kit"
       },
       {
-        "url": "equipment-items/forgery-kit",
-        "name": "Forgery Kit"
+        "label": "forgery-kit",
+        "name": "Forgery Kit",
+        "url": "equipment-items/forgery-kit"
       },
       {
-        "url": "equipment-items/herbalism-kit",
-        "name": "Herbalism Kit"
+        "label": "herbalism-kit",
+        "name": "Herbalism Kit",
+        "url": "equipment-items/herbalism-kit"
       },
       {
-        "url": "equipment-items/healers-kit",
-        "name": "Healer's Kit"
+        "label": "healers-kit",
+        "name": "Healer's Kit",
+        "url": "equipment-items/healers-kit"
       },
       {
-        "url": "equipment-items/mess-kit",
-        "name": "Mess Kit"
+        "label": "mess-kit",
+        "name": "Mess Kit",
+        "url": "equipment-items/mess-kit"
       },
       {
-        "url": "equipment-items/poisoners-kit",
-        "name": "Poisoner's Kit"
+        "label": "poisoners-kit",
+        "name": "Poisoner's Kit",
+        "url": "equipment-items/poisoners-kit"
       },
       {
-        "url": "equipment-items/ladder-10-foot",
-        "name": "Ladder (10-foot)"
+        "label": "ladder-10-foot",
+        "name": "Ladder (10-foot)",
+        "url": "equipment-items/ladder-10-foot"
       },
       {
-        "url": "equipment-items/lamp",
-        "name": "Lamp"
+        "label": "lamp",
+        "name": "Lamp",
+        "url": "equipment-items/lamp"
       },
       {
-        "url": "equipment-items/lantern-bullseye",
-        "name": "Lantern, bullseye"
+        "label": "lantern-bullseye",
+        "name": "Lantern, bullseye",
+        "url": "equipment-items/lantern-bullseye"
       },
       {
-        "url": "equipment-items/lantern-hooded",
-        "name": "Lantern, hooded"
+        "label": "lantern-hooded",
+        "name": "Lantern, hooded",
+        "url": "equipment-items/lantern-hooded"
       },
       {
-        "url": "equipment-items/lock",
-        "name": "Lock"
+        "label": "lock",
+        "name": "Lock",
+        "url": "equipment-items/lock"
       },
       {
-        "url": "equipment-items/magnifying-glass",
-        "name": "Magnifying glass"
+        "label": "magnifying-glass",
+        "name": "Magnifying glass",
+        "url": "equipment-items/magnifying-glass"
       },
       {
-        "url": "equipment-items/manacles",
-        "name": "Manacles"
+        "label": "manacles",
+        "name": "Manacles",
+        "url": "equipment-items/manacles"
       },
       {
-        "url": "equipment-items/mirror-steel",
-        "name": "Mirror, steel"
+        "label": "mirror-steel",
+        "name": "Mirror, steel",
+        "url": "equipment-items/mirror-steel"
       },
       {
-        "url": "equipment-items/oil-flask",
-        "name": "Oil (flask)"
+        "label": "oil-flask",
+        "name": "Oil (flask)",
+        "url": "equipment-items/oil-flask"
       },
       {
-        "url": "equipment-items/paper-one-sheet",
-        "name": "Paper (one sheet)"
+        "label": "paper-one-sheet",
+        "name": "Paper (one sheet)",
+        "url": "equipment-items/paper-one-sheet"
       },
       {
-        "url": "equipment-items/parchment-one-sheet",
-        "name": "Parchment (one sheet)"
+        "label": "parchment-one-sheet",
+        "name": "Parchment (one sheet)",
+        "url": "equipment-items/parchment-one-sheet"
       },
       {
-        "url": "equipment-items/perfume-vial",
-        "name": "Perfume (vial)"
+        "label": "perfume-vial",
+        "name": "Perfume (vial)",
+        "url": "equipment-items/perfume-vial"
       },
       {
-        "url": "equipment-items/pick-miners",
-        "name": "Pick, miner's"
+        "label": "pick-miners",
+        "name": "Pick, miner's",
+        "url": "equipment-items/pick-miners"
       },
       {
-        "url": "equipment-items/piton",
-        "name": "Piton"
+        "label": "piton",
+        "name": "Piton",
+        "url": "equipment-items/piton"
       },
       {
-        "url": "equipment-items/poison-basic-vial",
-        "name": "Poison, basic (vial)"
+        "label": "poison-basic-vial",
+        "name": "Poison, basic (vial)",
+        "url": "equipment-items/poison-basic-vial"
       },
       {
-        "url": "equipment-items/pole-10-foot",
-        "name": "Pole (10-foot)"
+        "label": "pole-10-foot",
+        "name": "Pole (10-foot)",
+        "url": "equipment-items/pole-10-foot"
       },
       {
-        "url": "equipment-items/pot-iron",
-        "name": "Pot, iron"
+        "label": "pot-iron",
+        "name": "Pot, iron",
+        "url": "equipment-items/pot-iron"
       },
       {
-        "url": "equipment-items/potion-of-healing",
-        "name": "Potion of healing"
+        "label": "potion-of-healing",
+        "name": "Potion of healing",
+        "url": "equipment-items/potion-of-healing"
       },
       {
-        "url": "equipment-items/pouch",
-        "name": "Pouch"
+        "label": "pouch",
+        "name": "Pouch",
+        "url": "equipment-items/pouch"
       },
       {
-        "url": "equipment-items/quiver",
-        "name": "Quiver"
+        "label": "quiver",
+        "name": "Quiver",
+        "url": "equipment-items/quiver"
       },
       {
-        "url": "equipment-items/ram-portable",
-        "name": "Ram, portable"
+        "label": "ram-portable",
+        "name": "Ram, portable",
+        "url": "equipment-items/ram-portable"
       },
       {
-        "url": "equipment-items/rations-1-day",
-        "name": "Rations (1 day)"
+        "label": "rations-1-day",
+        "name": "Rations (1 day)",
+        "url": "equipment-items/rations-1-day"
       },
       {
-        "url": "equipment-items/reliquary",
-        "name": "Reliquary"
+        "label": "reliquary",
+        "name": "Reliquary",
+        "url": "equipment-items/reliquary"
       },
       {
-        "url": "equipment-items/robes",
-        "name": "Robes"
+        "label": "robes",
+        "name": "Robes",
+        "url": "equipment-items/robes"
       },
       {
-        "url": "equipment-items/rope-hempen-50-feet",
-        "name": "Rope, hempen (50 feet)"
+        "label": "rope-hempen-50-feet",
+        "name": "Rope, hempen (50 feet)",
+        "url": "equipment-items/rope-hempen-50-feet"
       },
       {
-        "url": "equipment-items/rope-silk-50-feet",
-        "name": "Rope, silk (50 feet)"
+        "label": "rope-silk-50-feet",
+        "name": "Rope, silk (50 feet)",
+        "url": "equipment-items/rope-silk-50-feet"
       },
       {
-        "url": "equipment-items/sack",
-        "name": "Sack"
+        "label": "sack",
+        "name": "Sack",
+        "url": "equipment-items/sack"
       },
       {
-        "url": "equipment-items/scale-merchants",
-        "name": "Scale, merchant's"
+        "label": "scale-merchants",
+        "name": "Scale, merchant's",
+        "url": "equipment-items/scale-merchants"
       },
       {
-        "url": "equipment-items/sealing-wax",
-        "name": "Sealing wax"
+        "label": "sealing-wax",
+        "name": "Sealing wax",
+        "url": "equipment-items/sealing-wax"
       },
       {
-        "url": "equipment-items/shovel",
-        "name": "Shovel"
+        "label": "shovel",
+        "name": "Shovel",
+        "url": "equipment-items/shovel"
       },
       {
-        "url": "equipment-items/signal-whistle",
-        "name": "Signal whistle"
+        "label": "signal-whistle",
+        "name": "Signal whistle",
+        "url": "equipment-items/signal-whistle"
       },
       {
-        "url": "equipment-items/signet-ring",
-        "name": "Signet ring"
+        "label": "signet-ring",
+        "name": "Signet ring",
+        "url": "equipment-items/signet-ring"
       },
       {
-        "url": "equipment-items/soap",
-        "name": "Soap"
+        "label": "soap",
+        "name": "Soap",
+        "url": "equipment-items/soap"
       },
       {
-        "url": "equipment-items/spellbook",
-        "name": "Spellbook"
+        "label": "spellbook",
+        "name": "Spellbook",
+        "url": "equipment-items/spellbook"
       },
       {
-        "url": "equipment-items/spike-iron",
-        "name": "Spike, iron"
+        "label": "spike-iron",
+        "name": "Spike, iron",
+        "url": "equipment-items/spike-iron"
       },
       {
-        "url": "equipment-items/spyglass",
-        "name": "Spyglass"
+        "label": "spyglass",
+        "name": "Spyglass",
+        "url": "equipment-items/spyglass"
       },
       {
-        "url": "equipment-items/tent-two-person",
-        "name": "Tent, two-person"
+        "label": "tent-two-person",
+        "name": "Tent, two-person",
+        "url": "equipment-items/tent-two-person"
       },
       {
-        "url": "equipment-items/tinderbox",
-        "name": "Tinderbox"
+        "label": "tinderbox",
+        "name": "Tinderbox",
+        "url": "equipment-items/tinderbox"
       },
       {
-        "url": "equipment-items/torch",
-        "name": "Torch"
+        "label": "torch",
+        "name": "Torch",
+        "url": "equipment-items/torch"
       },
       {
-        "url": "equipment-items/vial",
-        "name": "Vial"
+        "label": "vial",
+        "name": "Vial",
+        "url": "equipment-items/vial"
       },
       {
-        "url": "equipment-items/waterskin",
-        "name": "Waterskin"
+        "label": "waterskin",
+        "name": "Waterskin",
+        "url": "equipment-items/waterskin"
       },
       {
-        "url": "equipment-items/whetstone",
-        "name": "Whetstone"
+        "label": "whetstone",
+        "name": "Whetstone",
+        "url": "equipment-items/whetstone"
       },
       {
-        "url": "equipment-items/burglars-pack",
-        "name": "Burglar's Pack"
+        "label": "burglars-pack",
+        "name": "Burglar's Pack",
+        "url": "equipment-items/burglars-pack"
       },
       {
-        "url": "equipment-items/diplomats-pack",
-        "name": "Diplomat's Pack"
+        "label": "diplomats-pack",
+        "name": "Diplomat's Pack",
+        "url": "equipment-items/diplomats-pack"
       },
       {
-        "url": "equipment-items/dungeoneers-pack",
-        "name": "Dungeoneer's Pack"
+        "label": "dungeoneers-pack",
+        "name": "Dungeoneer's Pack",
+        "url": "equipment-items/dungeoneers-pack"
       },
       {
-        "url": "equipment-items/entertainers-pack",
-        "name": "Entertainer's Pack"
+        "label": "entertainers-pack",
+        "name": "Entertainer's Pack",
+        "url": "equipment-items/entertainers-pack"
       },
       {
-        "url": "equipment-items/explorers-pack",
-        "name": "Explorer's Pack"
+        "label": "explorers-pack",
+        "name": "Explorer's Pack",
+        "url": "equipment-items/explorers-pack"
       },
       {
-        "url": "equipment-items/priests-pack",
-        "name": "Priest's Pack"
+        "label": "priests-pack",
+        "name": "Priest's Pack",
+        "url": "equipment-items/priests-pack"
       },
       {
-        "url": "equipment-items/scholars-pack",
-        "name": "Scholar's Pack"
+        "label": "scholars-pack",
+        "name": "Scholar's Pack",
+        "url": "equipment-items/scholars-pack"
       },
       {
-        "url": "equipment-items/crystal",
-        "name": "Crystal"
+        "label": "crystal",
+        "name": "Crystal",
+        "url": "equipment-items/crystal"
       },
       {
-        "url": "equipment-items/orb",
-        "name": "Orb"
+        "label": "orb",
+        "name": "Orb",
+        "url": "equipment-items/orb"
       },
       {
-        "url": "equipment-items/rod",
-        "name": "Rod"
+        "label": "rod",
+        "name": "Rod",
+        "url": "equipment-items/rod"
       },
       {
-        "url": "equipment-items/staff",
-        "name": "Staff"
+        "label": "staff",
+        "name": "Staff",
+        "url": "equipment-items/staff"
       },
       {
-        "url": "equipment-items/wand",
-        "name": "Wand"
+        "label": "wand",
+        "name": "Wand",
+        "url": "equipment-items/wand"
       },
       {
-        "url": "equipment-items/sprig-of-mistletoe",
-        "name": "Sprig of mistletoe"
+        "label": "sprig-of-mistletoe",
+        "name": "Sprig of mistletoe",
+        "url": "equipment-items/sprig-of-mistletoe"
       },
       {
-        "url": "equipment-items/totem",
-        "name": "Totem"
+        "label": "totem",
+        "name": "Totem",
+        "url": "equipment-items/totem"
       },
       {
-        "url": "equipment-items/wooden-staff",
-        "name": "Wooden staff"
+        "label": "wooden-staff",
+        "name": "Wooden staff",
+        "url": "equipment-items/wooden-staff"
       },
       {
-        "url": "equipment-items/yew-wand",
-        "name": "Yew wand"
+        "label": "yew-wand",
+        "name": "Yew wand",
+        "url": "equipment-items/yew-wand"
       }
     ],
     "url": "equipment-types/adventuring-gear"
@@ -665,20 +825,24 @@
     "name": "Ammunition",
     "equipment": [
       {
-        "url": "equipment-items/arrow",
-        "name": "Arrow"
+        "label": "arrow",
+        "name": "Arrow",
+        "url": "equipment-items/arrow"
       },
       {
-        "url": "equipment-items/blowgun-needle",
-        "name": "Blowgun needle"
+        "label": "blowgun-needle",
+        "name": "Blowgun needle",
+        "url": "equipment-items/blowgun-needle"
       },
       {
-        "url": "equipment-items/crossbow-bolt",
-        "name": "Crossbow bolt"
+        "label": "crossbow-bolt",
+        "name": "Crossbow bolt",
+        "url": "equipment-items/crossbow-bolt"
       },
       {
-        "url": "equipment-items/sling-bullet",
-        "name": "Sling bullet"
+        "label": "sling-bullet",
+        "name": "Sling bullet",
+        "url": "equipment-items/sling-bullet"
       }
     ],
     "url": "equipment-types/ammunition"
@@ -688,128 +852,159 @@
     "name": "Tools",
     "equipment": [
       {
-        "url": "equipment-items/alchemists-supplies",
-        "name": "Alchemist's supplies"
+        "label": "alchemists-supplies",
+        "name": "Alchemist's supplies",
+        "url": "equipment-items/alchemists-supplies"
       },
       {
-        "url": "equipment-items/brewers-supplies",
-        "name": "Brewer's supplies"
+        "label": "brewers-supplies",
+        "name": "Brewer's supplies",
+        "url": "equipment-items/brewers-supplies"
       },
       {
-        "url": "equipment-items/calligraphers-supplies",
-        "name": "Calligrapher's supplies"
+        "label": "calligraphers-supplies",
+        "name": "Calligrapher's supplies",
+        "url": "equipment-items/calligraphers-supplies"
       },
       {
-        "url": "equipment-items/carpenters-tools",
-        "name": "Carpenter's tools"
+        "label": "carpenters-tools",
+        "name": "Carpenter's tools",
+        "url": "equipment-items/carpenters-tools"
       },
       {
-        "url": "equipment-items/cartographers-tools",
-        "name": "Cartographer's tools"
+        "label": "cartographers-tools",
+        "name": "Cartographer's tools",
+        "url": "equipment-items/cartographers-tools"
       },
       {
-        "url": "equipment-items/cobblers-tools",
-        "name": "Cobbler's tools"
+        "label": "cobblers-tools",
+        "name": "Cobbler's tools",
+        "url": "equipment-items/cobblers-tools"
       },
       {
-        "url": "equipment-items/cooks-utensils",
-        "name": "Cook's utensils"
+        "label": "cooks-utensils",
+        "name": "Cook's utensils",
+        "url": "equipment-items/cooks-utensils"
       },
       {
-        "url": "equipment-items/glassblowers-tools",
-        "name": "Glassblower's tools"
+        "label": "glassblowers-tools",
+        "name": "Glassblower's tools",
+        "url": "equipment-items/glassblowers-tools"
       },
       {
-        "url": "equipment-items/jewelers-tools",
-        "name": "Jeweler's tools"
+        "label": "jewelers-tools",
+        "name": "Jeweler's tools",
+        "url": "equipment-items/jewelers-tools"
       },
       {
-        "url": "equipment-items/leatherworkers-tools",
-        "name": "Leatherworker's tools"
+        "label": "leatherworkers-tools",
+        "name": "Leatherworker's tools",
+        "url": "equipment-items/leatherworkers-tools"
       },
       {
-        "url": "equipment-items/masons-tools",
-        "name": "Mason's tools"
+        "label": "masons-tools",
+        "name": "Mason's tools",
+        "url": "equipment-items/masons-tools"
       },
       {
-        "url": "equipment-items/painters-supplies",
-        "name": "Painter's supplies"
+        "label": "painters-supplies",
+        "name": "Painter's supplies",
+        "url": "equipment-items/painters-supplies"
       },
       {
-        "url": "equipment-items/potters-tools",
-        "name": "Potter's tools"
+        "label": "potters-tools",
+        "name": "Potter's tools",
+        "url": "equipment-items/potters-tools"
       },
       {
-        "url": "equipment-items/smiths-tools",
-        "name": "Smith's tools"
+        "label": "smiths-tools",
+        "name": "Smith's tools",
+        "url": "equipment-items/smiths-tools"
       },
       {
-        "url": "equipment-items/tinkers-tools",
-        "name": "Tinker's tools"
+        "label": "tinkers-tools",
+        "name": "Tinker's tools",
+        "url": "equipment-items/tinkers-tools"
       },
       {
-        "url": "equipment-items/weavers-tools",
-        "name": "Weaver's tools"
+        "label": "weavers-tools",
+        "name": "Weaver's tools",
+        "url": "equipment-items/weavers-tools"
       },
       {
-        "url": "equipment-items/woodcarvers-tools",
-        "name": "Woodcarver's tools"
+        "label": "woodcarvers-tools",
+        "name": "Woodcarver's tools",
+        "url": "equipment-items/woodcarvers-tools"
       },
       {
-        "url": "equipment-items/dice-set",
-        "name": "Dice set"
+        "label": "dice-set",
+        "name": "Dice set",
+        "url": "equipment-items/dice-set"
       },
       {
-        "url": "equipment-items/playing-card-set",
-        "name": "Playing card set"
+        "label": "playing-card-set",
+        "name": "Playing card set",
+        "url": "equipment-items/playing-card-set"
       },
       {
-        "url": "equipment-items/bagpipes",
-        "name": "Bagpipes"
+        "label": "bagpipes",
+        "name": "Bagpipes",
+        "url": "equipment-items/bagpipes"
       },
       {
-        "url": "equipment-items/drum",
-        "name": "Drum"
+        "label": "drum",
+        "name": "Drum",
+        "url": "equipment-items/drum"
       },
       {
-        "url": "equipment-items/dulcimer",
-        "name": "Dulcimer"
+        "label": "dulcimer",
+        "name": "Dulcimer",
+        "url": "equipment-items/dulcimer"
       },
       {
-        "url": "equipment-items/flute",
-        "name": "Flute"
+        "label": "flute",
+        "name": "Flute",
+        "url": "equipment-items/flute"
       },
       {
-        "url": "equipment-items/lute",
-        "name": "Lute"
+        "label": "lute",
+        "name": "Lute",
+        "url": "equipment-items/lute"
       },
       {
-        "url": "equipment-items/lyre",
-        "name": "Lyre"
+        "label": "lyre",
+        "name": "Lyre",
+        "url": "equipment-items/lyre"
       },
       {
-        "url": "equipment-items/horn",
-        "name": "Horn"
+        "label": "horn",
+        "name": "Horn",
+        "url": "equipment-items/horn"
       },
       {
-        "url": "equipment-items/pan-flute",
-        "name": "Pan flute"
+        "label": "pan-flute",
+        "name": "Pan flute",
+        "url": "equipment-items/pan-flute"
       },
       {
-        "url": "equipment-items/shawm",
-        "name": "Shawm"
+        "label": "shawm",
+        "name": "Shawm",
+        "url": "equipment-items/shawm"
       },
       {
-        "url": "equipment-items/viol",
-        "name": "Viol"
+        "label": "viol",
+        "name": "Viol",
+        "url": "equipment-items/viol"
       },
       {
-        "url": "equipment-items/navigators-tools",
-        "name": "Navigator's tools"
+        "label": "navigators-tools",
+        "name": "Navigator's tools",
+        "url": "equipment-items/navigators-tools"
       },
       {
-        "url": "equipment-items/thieves-tools",
-        "name": "Thieves' tools"
+        "label": "thieves-tools",
+        "name": "Thieves' tools",
+        "url": "equipment-items/thieves-tools"
       }
     ],
     "url": "equipment-types/tools"
@@ -819,256 +1014,319 @@
     "name": "Mounts and Vehicles",
     "equipment": [
       {
-        "url": "equipment-items/mule",
-        "name": "Mule"
+        "label": "mule",
+        "name": "Mule",
+        "url": "equipment-items/mule"
       },
       {
-        "url": "equipment-items/elephant",
-        "name": "Elephant"
+        "label": "elephant",
+        "name": "Elephant",
+        "url": "equipment-items/elephant"
       },
       {
-        "url": "equipment-items/horse-draft",
-        "name": "Horse, draft"
+        "label": "horse-draft",
+        "name": "Horse, draft",
+        "url": "equipment-items/horse-draft"
       },
       {
-        "url": "equipment-items/horse-riding",
-        "name": "Horse, riding"
+        "label": "horse-riding",
+        "name": "Horse, riding",
+        "url": "equipment-items/horse-riding"
       },
       {
-        "url": "equipment-items/mastiff",
-        "name": "Mastiff"
+        "label": "mastiff",
+        "name": "Mastiff",
+        "url": "equipment-items/mastiff"
       },
       {
-        "url": "equipment-items/pony",
-        "name": "Pony"
+        "label": "pony",
+        "name": "Pony",
+        "url": "equipment-items/pony"
       },
       {
-        "url": "equipment-items/warhorse",
-        "name": "Warhorse"
+        "label": "warhorse",
+        "name": "Warhorse",
+        "url": "equipment-items/warhorse"
       },
       {
-        "url": "equipment-items/barding-padded",
-        "name": "Barding: Padded"
+        "label": "barding-padded",
+        "name": "Barding: Padded",
+        "url": "equipment-items/barding-padded"
       },
       {
-        "url": "equipment-items/barding-leather",
-        "name": "Barding: Leather"
+        "label": "barding-leather",
+        "name": "Barding: Leather",
+        "url": "equipment-items/barding-leather"
       },
       {
-        "url": "equipment-items/barding-studded-leather",
-        "name": "Barding: Studded Leather"
+        "label": "barding-studded-leather",
+        "name": "Barding: Studded Leather",
+        "url": "equipment-items/barding-studded-leather"
       },
       {
-        "url": "equipment-items/barding-hide",
-        "name": "Barding: Hide"
+        "label": "barding-hide",
+        "name": "Barding: Hide",
+        "url": "equipment-items/barding-hide"
       },
       {
-        "url": "equipment-items/barding-chain-shirt",
-        "name": "Barding: Chain shirt"
+        "label": "barding-chain-shirt",
+        "name": "Barding: Chain shirt",
+        "url": "equipment-items/barding-chain-shirt"
       },
       {
-        "url": "equipment-items/barding-scale-mail",
-        "name": "Barding: Scale mail"
+        "label": "barding-scale-mail",
+        "name": "Barding: Scale mail",
+        "url": "equipment-items/barding-scale-mail"
       },
       {
-        "url": "equipment-items/barding-breastplate",
-        "name": "Barding: Breastplate"
+        "label": "barding-breastplate",
+        "name": "Barding: Breastplate",
+        "url": "equipment-items/barding-breastplate"
       },
       {
-        "url": "equipment-items/barding-half-plate",
-        "name": "Barding: Half plate"
+        "label": "barding-half-plate",
+        "name": "Barding: Half plate",
+        "url": "equipment-items/barding-half-plate"
       },
       {
-        "url": "equipment-items/barding-ring-mail",
-        "name": "Barding: Ring mail"
+        "label": "barding-ring-mail",
+        "name": "Barding: Ring mail",
+        "url": "equipment-items/barding-ring-mail"
       },
       {
-        "url": "equipment-items/barding-chain-mail",
-        "name": "Barding: Chain mail"
+        "label": "barding-chain-mail",
+        "name": "Barding: Chain mail",
+        "url": "equipment-items/barding-chain-mail"
       },
       {
-        "url": "equipment-items/barding-splint",
-        "name": "Barding: Splint"
+        "label": "barding-splint",
+        "name": "Barding: Splint",
+        "url": "equipment-items/barding-splint"
       },
       {
-        "url": "equipment-items/barding-plate",
-        "name": "Barding: Plate"
+        "label": "barding-plate",
+        "name": "Barding: Plate",
+        "url": "equipment-items/barding-plate"
       },
       {
-        "url": "equipment-items/bit-and-bridle",
-        "name": "Bit and bridle"
+        "label": "bit-and-bridle",
+        "name": "Bit and bridle",
+        "url": "equipment-items/bit-and-bridle"
       },
       {
-        "url": "equipment-items/carriage",
-        "name": "Carriage"
+        "label": "carriage",
+        "name": "Carriage",
+        "url": "equipment-items/carriage"
       },
       {
-        "url": "equipment-items/cart",
-        "name": "Cart"
+        "label": "cart",
+        "name": "Cart",
+        "url": "equipment-items/cart"
       },
       {
-        "url": "equipment-items/chariot",
-        "name": "Chariot"
+        "label": "chariot",
+        "name": "Chariot",
+        "url": "equipment-items/chariot"
       },
       {
-        "url": "equipment-items/animal-feed-1-day",
-        "name": "Animal Feed (1 day)"
+        "label": "animal-feed-1-day",
+        "name": "Animal Feed (1 day)",
+        "url": "equipment-items/animal-feed-1-day"
       },
       {
-        "url": "equipment-items/saddle-exotic",
-        "name": "Saddle, Exotic"
+        "label": "saddle-exotic",
+        "name": "Saddle, Exotic",
+        "url": "equipment-items/saddle-exotic"
       },
       {
-        "url": "equipment-items/saddle-military",
-        "name": "Saddle, Military"
+        "label": "saddle-military",
+        "name": "Saddle, Military",
+        "url": "equipment-items/saddle-military"
       },
       {
-        "url": "equipment-items/saddle-pack",
-        "name": "Saddle, Pack"
+        "label": "saddle-pack",
+        "name": "Saddle, Pack",
+        "url": "equipment-items/saddle-pack"
       },
       {
-        "url": "equipment-items/riding",
-        "name": "Riding"
+        "label": "riding",
+        "name": "Riding",
+        "url": "equipment-items/riding"
       },
       {
-        "url": "equipment-items/saddlebags",
-        "name": "Saddlebags"
+        "label": "saddlebags",
+        "name": "Saddlebags",
+        "url": "equipment-items/saddlebags"
       },
       {
-        "url": "equipment-items/sled",
-        "name": "Sled"
+        "label": "sled",
+        "name": "Sled",
+        "url": "equipment-items/sled"
       },
       {
-        "url": "equipment-items/stabling-1-day",
-        "name": "Stabling (1 day)"
+        "label": "stabling-1-day",
+        "name": "Stabling (1 day)",
+        "url": "equipment-items/stabling-1-day"
       },
       {
-        "url": "equipment-items/wagon",
-        "name": "Wagon"
+        "label": "wagon",
+        "name": "Wagon",
+        "url": "equipment-items/wagon"
       },
       {
-        "url": "equipment-items/barding-padded",
-        "name": "Barding: Padded"
+        "label": "barding-padded",
+        "name": "Barding: Padded",
+        "url": "equipment-items/barding-padded"
       },
       {
-        "url": "equipment-items/barding-leather",
-        "name": "Barding: Leather"
+        "label": "barding-leather",
+        "name": "Barding: Leather",
+        "url": "equipment-items/barding-leather"
       },
       {
-        "url": "equipment-items/barding-studded-leather",
-        "name": "Barding: Studded Leather"
+        "label": "barding-studded-leather",
+        "name": "Barding: Studded Leather",
+        "url": "equipment-items/barding-studded-leather"
       },
       {
-        "url": "equipment-items/barding-hide",
-        "name": "Barding: Hide"
+        "label": "barding-hide",
+        "name": "Barding: Hide",
+        "url": "equipment-items/barding-hide"
       },
       {
-        "url": "equipment-items/barding-chain-shirt",
-        "name": "Barding: Chain shirt"
+        "label": "barding-chain-shirt",
+        "name": "Barding: Chain shirt",
+        "url": "equipment-items/barding-chain-shirt"
       },
       {
-        "url": "equipment-items/barding-scale-mail",
-        "name": "Barding: Scale mail"
+        "label": "barding-scale-mail",
+        "name": "Barding: Scale mail",
+        "url": "equipment-items/barding-scale-mail"
       },
       {
-        "url": "equipment-items/barding-breastplate",
-        "name": "Barding: Breastplate"
+        "label": "barding-breastplate",
+        "name": "Barding: Breastplate",
+        "url": "equipment-items/barding-breastplate"
       },
       {
-        "url": "equipment-items/barding-half-plate",
-        "name": "Barding: Half plate"
+        "label": "barding-half-plate",
+        "name": "Barding: Half plate",
+        "url": "equipment-items/barding-half-plate"
       },
       {
-        "url": "equipment-items/barding-ring-mail",
-        "name": "Barding: Ring mail"
+        "label": "barding-ring-mail",
+        "name": "Barding: Ring mail",
+        "url": "equipment-items/barding-ring-mail"
       },
       {
-        "url": "equipment-items/barding-chain-mail",
-        "name": "Barding: Chain mail"
+        "label": "barding-chain-mail",
+        "name": "Barding: Chain mail",
+        "url": "equipment-items/barding-chain-mail"
       },
       {
-        "url": "equipment-items/barding-splint",
-        "name": "Barding: Splint"
+        "label": "barding-splint",
+        "name": "Barding: Splint",
+        "url": "equipment-items/barding-splint"
       },
       {
-        "url": "equipment-items/barding-plate",
-        "name": "Barding: Plate"
+        "label": "barding-plate",
+        "name": "Barding: Plate",
+        "url": "equipment-items/barding-plate"
       },
       {
-        "url": "equipment-items/bit-and-bridle",
-        "name": "Bit and bridle"
+        "label": "bit-and-bridle",
+        "name": "Bit and bridle",
+        "url": "equipment-items/bit-and-bridle"
       },
       {
-        "url": "equipment-items/carriage",
-        "name": "Carriage"
+        "label": "carriage",
+        "name": "Carriage",
+        "url": "equipment-items/carriage"
       },
       {
-        "url": "equipment-items/cart",
-        "name": "Cart"
+        "label": "cart",
+        "name": "Cart",
+        "url": "equipment-items/cart"
       },
       {
-        "url": "equipment-items/chariot",
-        "name": "Chariot"
+        "label": "chariot",
+        "name": "Chariot",
+        "url": "equipment-items/chariot"
       },
       {
-        "url": "equipment-items/animal-feed-1-day",
-        "name": "Animal Feed (1 day)"
+        "label": "animal-feed-1-day",
+        "name": "Animal Feed (1 day)",
+        "url": "equipment-items/animal-feed-1-day"
       },
       {
-        "url": "equipment-items/saddle-exotic",
-        "name": "Saddle, Exotic"
+        "label": "saddle-exotic",
+        "name": "Saddle, Exotic",
+        "url": "equipment-items/saddle-exotic"
       },
       {
-        "url": "equipment-items/saddle-military",
-        "name": "Saddle, Military"
+        "label": "saddle-military",
+        "name": "Saddle, Military",
+        "url": "equipment-items/saddle-military"
       },
       {
-        "url": "equipment-items/saddle-pack",
-        "name": "Saddle, Pack"
+        "label": "saddle-pack",
+        "name": "Saddle, Pack",
+        "url": "equipment-items/saddle-pack"
       },
       {
-        "url": "equipment-items/riding",
-        "name": "Riding"
+        "label": "riding",
+        "name": "Riding",
+        "url": "equipment-items/riding"
       },
       {
-        "url": "equipment-items/saddlebags",
-        "name": "Saddlebags"
+        "label": "saddlebags",
+        "name": "Saddlebags",
+        "url": "equipment-items/saddlebags"
       },
       {
-        "url": "equipment-items/sled",
-        "name": "Sled"
+        "label": "sled",
+        "name": "Sled",
+        "url": "equipment-items/sled"
       },
       {
-        "url": "equipment-items/stabling-1-day",
-        "name": "Stabling (1 day)"
+        "label": "stabling-1-day",
+        "name": "Stabling (1 day)",
+        "url": "equipment-items/stabling-1-day"
       },
       {
-        "url": "equipment-items/wagon",
-        "name": "Wagon"
+        "label": "wagon",
+        "name": "Wagon",
+        "url": "equipment-items/wagon"
       },
       {
-        "url": "equipment-items/galley",
-        "name": "Galley"
+        "label": "galley",
+        "name": "Galley",
+        "url": "equipment-items/galley"
       },
       {
-        "url": "equipment-items/keelboat",
-        "name": "Keelboat"
+        "label": "keelboat",
+        "name": "Keelboat",
+        "url": "equipment-items/keelboat"
       },
       {
-        "url": "equipment-items/longship",
-        "name": "Longship"
+        "label": "longship",
+        "name": "Longship",
+        "url": "equipment-items/longship"
       },
       {
-        "url": "equipment-items/rowboat",
-        "name": "Rowboat"
+        "label": "rowboat",
+        "name": "Rowboat",
+        "url": "equipment-items/rowboat"
       },
       {
-        "url": "equipment-items/sailing-ship",
-        "name": "Sailing ship"
+        "label": "sailing-ship",
+        "name": "Sailing ship",
+        "url": "equipment-items/sailing-ship"
       },
       {
-        "url": "equipment-items/warship",
-        "name": "Warship"
+        "label": "warship",
+        "name": "Warship",
+        "url": "equipment-items/warship"
       }
     ],
     "url": "equipment-types/mounts-and-vehicles"
@@ -1078,44 +1336,54 @@
     "name": "Simple Weapons",
     "equipment": [
       {
-        "url": "equipment-items/club",
-        "name": "Club"
+        "label": "club",
+        "name": "Club",
+        "url": "equipment-items/club"
       },
       {
-        "url": "equipment-items/dagger",
-        "name": "Dagger"
+        "label": "dagger",
+        "name": "Dagger",
+        "url": "equipment-items/dagger"
       },
       {
-        "url": "equipment-items/greatclub",
-        "name": "Greatclub"
+        "label": "greatclub",
+        "name": "Greatclub",
+        "url": "equipment-items/greatclub"
       },
       {
-        "url": "equipment-items/handaxe",
-        "name": "Handaxe"
+        "label": "handaxe",
+        "name": "Handaxe",
+        "url": "equipment-items/handaxe"
       },
       {
-        "url": "equipment-items/javelin",
-        "name": "Javelin"
+        "label": "javelin",
+        "name": "Javelin",
+        "url": "equipment-items/javelin"
       },
       {
-        "url": "equipment-items/light-hammer",
-        "name": "Light hammer"
+        "label": "light-hammer",
+        "name": "Light hammer",
+        "url": "equipment-items/light-hammer"
       },
       {
-        "url": "equipment-items/mace",
-        "name": "Mace"
+        "label": "mace",
+        "name": "Mace",
+        "url": "equipment-items/mace"
       },
       {
-        "url": "equipment-items/quarterstaff",
-        "name": "Quarterstaff"
+        "label": "quarterstaff",
+        "name": "Quarterstaff",
+        "url": "equipment-items/quarterstaff"
       },
       {
-        "url": "equipment-items/sickle",
-        "name": "Sickle"
+        "label": "sickle",
+        "name": "Sickle",
+        "url": "equipment-items/sickle"
       },
       {
-        "url": "equipment-items/spear",
-        "name": "Spear"
+        "label": "spear",
+        "name": "Spear",
+        "url": "equipment-items/spear"
       }
     ],
     "url": "equipment-types/simple-weapons"
@@ -1125,96 +1393,119 @@
     "name": "Martial Weapons",
     "equipment": [
       {
-        "url": "equipment-items/battleaxe",
-        "name": "Battleaxe"
+        "label": "battleaxe",
+        "name": "Battleaxe",
+        "url": "equipment-items/battleaxe"
       },
       {
-        "url": "equipment-items/flail",
-        "name": "Flail"
+        "label": "flail",
+        "name": "Flail",
+        "url": "equipment-items/flail"
       },
       {
-        "url": "equipment-items/glaive",
-        "name": "Glaive"
+        "label": "glaive",
+        "name": "Glaive",
+        "url": "equipment-items/glaive"
       },
       {
-        "url": "equipment-items/greataxe",
-        "name": "Greataxe"
+        "label": "greataxe",
+        "name": "Greataxe",
+        "url": "equipment-items/greataxe"
       },
       {
-        "url": "equipment-items/greatsword",
-        "name": "Greatsword"
+        "label": "greatsword",
+        "name": "Greatsword",
+        "url": "equipment-items/greatsword"
       },
       {
-        "url": "equipment-items/halberd",
-        "name": "Halberd"
+        "label": "halberd",
+        "name": "Halberd",
+        "url": "equipment-items/halberd"
       },
       {
-        "url": "equipment-items/lance",
-        "name": "Lance"
+        "label": "lance",
+        "name": "Lance",
+        "url": "equipment-items/lance"
       },
       {
-        "url": "equipment-items/longsword",
-        "name": "Longsword"
+        "label": "longsword",
+        "name": "Longsword",
+        "url": "equipment-items/longsword"
       },
       {
-        "url": "equipment-items/maul",
-        "name": "Maul"
+        "label": "maul",
+        "name": "Maul",
+        "url": "equipment-items/maul"
       },
       {
-        "url": "equipment-items/morningstar",
-        "name": "Morningstar"
+        "label": "morningstar",
+        "name": "Morningstar",
+        "url": "equipment-items/morningstar"
       },
       {
-        "url": "equipment-items/pike",
-        "name": "Pike"
+        "label": "pike",
+        "name": "Pike",
+        "url": "equipment-items/pike"
       },
       {
-        "url": "equipment-items/rapier",
-        "name": "Rapier"
+        "label": "rapier",
+        "name": "Rapier",
+        "url": "equipment-items/rapier"
       },
       {
-        "url": "equipment-items/scimitar",
-        "name": "Scimitar"
+        "label": "scimitar",
+        "name": "Scimitar",
+        "url": "equipment-items/scimitar"
       },
       {
-        "url": "equipment-items/shortsword",
-        "name": "Shortsword"
+        "label": "shortsword",
+        "name": "Shortsword",
+        "url": "equipment-items/shortsword"
       },
       {
-        "url": "equipment-items/trident",
-        "name": "Trident"
+        "label": "trident",
+        "name": "Trident",
+        "url": "equipment-items/trident"
       },
       {
-        "url": "equipment-items/war-pick",
-        "name": "War pick"
+        "label": "war-pick",
+        "name": "War pick",
+        "url": "equipment-items/war-pick"
       },
       {
-        "url": "equipment-items/warhammer",
-        "name": "Warhammer"
+        "label": "warhammer",
+        "name": "Warhammer",
+        "url": "equipment-items/warhammer"
       },
       {
-        "url": "equipment-items/whip",
-        "name": "Whip"
+        "label": "whip",
+        "name": "Whip",
+        "url": "equipment-items/whip"
       },
       {
-        "url": "equipment-items/blowgun",
-        "name": "Blowgun"
+        "label": "blowgun",
+        "name": "Blowgun",
+        "url": "equipment-items/blowgun"
       },
       {
-        "url": "equipment-items/crossbow-hand",
-        "name": "Crossbow, hand"
+        "label": "crossbow-hand",
+        "name": "Crossbow, hand",
+        "url": "equipment-items/crossbow-hand"
       },
       {
-        "url": "equipment-items/crossbow-heavy",
-        "name": "Crossbow, heavy"
+        "label": "crossbow-heavy",
+        "name": "Crossbow, heavy",
+        "url": "equipment-items/crossbow-heavy"
       },
       {
-        "url": "equipment-items/longbow",
-        "name": "Longbow"
+        "label": "longbow",
+        "name": "Longbow",
+        "url": "equipment-items/longbow"
       },
       {
-        "url": "equipment-items/net",
-        "name": "Net"
+        "label": "net",
+        "name": "Net",
+        "url": "equipment-items/net"
       }
     ],
     "url": "equipment-types/martial-weapons"
@@ -1224,44 +1515,54 @@
     "name": "Simple Melee Weapons",
     "equipment": [
       {
-        "url": "equipment-items/club",
-        "name": "Club"
+        "label": "club",
+        "name": "Club",
+        "url": "equipment-items/club"
       },
       {
-        "url": "equipment-items/dagger",
-        "name": "Dagger"
+        "label": "dagger",
+        "name": "Dagger",
+        "url": "equipment-items/dagger"
       },
       {
-        "url": "equipment-items/greatclub",
-        "name": "Greatclub"
+        "label": "greatclub",
+        "name": "Greatclub",
+        "url": "equipment-items/greatclub"
       },
       {
-        "url": "equipment-items/handaxe",
-        "name": "Handaxe"
+        "label": "handaxe",
+        "name": "Handaxe",
+        "url": "equipment-items/handaxe"
       },
       {
-        "url": "equipment-items/javelin",
-        "name": "Javelin"
+        "label": "javelin",
+        "name": "Javelin",
+        "url": "equipment-items/javelin"
       },
       {
-        "url": "equipment-items/light-hammer",
-        "name": "Light hammer"
+        "label": "light-hammer",
+        "name": "Light hammer",
+        "url": "equipment-items/light-hammer"
       },
       {
-        "url": "equipment-items/mace",
-        "name": "Mace"
+        "label": "mace",
+        "name": "Mace",
+        "url": "equipment-items/mace"
       },
       {
-        "url": "equipment-items/quarterstaff",
-        "name": "Quarterstaff"
+        "label": "quarterstaff",
+        "name": "Quarterstaff",
+        "url": "equipment-items/quarterstaff"
       },
       {
-        "url": "equipment-items/sickle",
-        "name": "Sickle"
+        "label": "sickle",
+        "name": "Sickle",
+        "url": "equipment-items/sickle"
       },
       {
-        "url": "equipment-items/spear",
-        "name": "Spear"
+        "label": "spear",
+        "name": "Spear",
+        "url": "equipment-items/spear"
       }
     ],
     "url": "equipment-types/simple-melee-weapons"
@@ -1271,20 +1572,24 @@
     "name": "Simple Ranged Weapons",
     "equipment": [
       {
-        "url": "equipment-items/crossbow-light",
-        "name": "Crossbow, light"
+        "label": "crossbow-light",
+        "name": "Crossbow, light",
+        "url": "equipment-items/crossbow-light"
       },
       {
-        "url": "equipment-items/dart",
-        "name": "Dart"
+        "label": "dart",
+        "name": "Dart",
+        "url": "equipment-items/dart"
       },
       {
-        "url": "equipment-items/shortbow",
-        "name": "Shortbow"
+        "label": "shortbow",
+        "name": "Shortbow",
+        "url": "equipment-items/shortbow"
       },
       {
-        "url": "equipment-items/sling",
-        "name": "Sling"
+        "label": "sling",
+        "name": "Sling",
+        "url": "equipment-items/sling"
       }
     ],
     "url": "equipment-types/simple-ranged-weapons"
@@ -1294,76 +1599,94 @@
     "name": "Martial Melee Weapons",
     "equipment": [
       {
-        "url": "equipment-items/battleaxe",
-        "name": "Battleaxe"
+        "label": "battleaxe",
+        "name": "Battleaxe",
+        "url": "equipment-items/battleaxe"
       },
       {
-        "url": "equipment-items/flail",
-        "name": "Flail"
+        "label": "flail",
+        "name": "Flail",
+        "url": "equipment-items/flail"
       },
       {
-        "url": "equipment-items/glaive",
-        "name": "Glaive"
+        "label": "glaive",
+        "name": "Glaive",
+        "url": "equipment-items/glaive"
       },
       {
-        "url": "equipment-items/greataxe",
-        "name": "Greataxe"
+        "label": "greataxe",
+        "name": "Greataxe",
+        "url": "equipment-items/greataxe"
       },
       {
-        "url": "equipment-items/greatsword",
-        "name": "Greatsword"
+        "label": "greatsword",
+        "name": "Greatsword",
+        "url": "equipment-items/greatsword"
       },
       {
-        "url": "equipment-items/halberd",
-        "name": "Halberd"
+        "label": "halberd",
+        "name": "Halberd",
+        "url": "equipment-items/halberd"
       },
       {
-        "url": "equipment-items/lance",
-        "name": "Lance"
+        "label": "lance",
+        "name": "Lance",
+        "url": "equipment-items/lance"
       },
       {
-        "url": "equipment-items/longsword",
-        "name": "Longsword"
+        "label": "longsword",
+        "name": "Longsword",
+        "url": "equipment-items/longsword"
       },
       {
-        "url": "equipment-items/maul",
-        "name": "Maul"
+        "label": "maul",
+        "name": "Maul",
+        "url": "equipment-items/maul"
       },
       {
-        "url": "equipment-items/morningstar",
-        "name": "Morningstar"
+        "label": "morningstar",
+        "name": "Morningstar",
+        "url": "equipment-items/morningstar"
       },
       {
-        "url": "equipment-items/pike",
-        "name": "Pike"
+        "label": "pike",
+        "name": "Pike",
+        "url": "equipment-items/pike"
       },
       {
-        "url": "equipment-items/rapier",
-        "name": "Rapier"
+        "label": "rapier",
+        "name": "Rapier",
+        "url": "equipment-items/rapier"
       },
       {
-        "url": "equipment-items/scimitar",
-        "name": "Scimitar"
+        "label": "scimitar",
+        "name": "Scimitar",
+        "url": "equipment-items/scimitar"
       },
       {
-        "url": "equipment-items/shortsword",
-        "name": "Shortsword"
+        "label": "shortsword",
+        "name": "Shortsword",
+        "url": "equipment-items/shortsword"
       },
       {
-        "url": "equipment-items/trident",
-        "name": "Trident"
+        "label": "trident",
+        "name": "Trident",
+        "url": "equipment-items/trident"
       },
       {
-        "url": "equipment-items/war-pick",
-        "name": "War pick"
+        "label": "war-pick",
+        "name": "War pick",
+        "url": "equipment-items/war-pick"
       },
       {
-        "url": "equipment-items/warhammer",
-        "name": "Warhammer"
+        "label": "warhammer",
+        "name": "Warhammer",
+        "url": "equipment-items/warhammer"
       },
       {
-        "url": "equipment-items/whip",
-        "name": "Whip"
+        "label": "whip",
+        "name": "Whip",
+        "url": "equipment-items/whip"
       }
     ],
     "url": "equipment-types/martial-melee-weapons"
@@ -1373,24 +1696,29 @@
     "name": "Martial Ranged Weapons",
     "equipment": [
       {
-        "url": "equipment-items/blowgun",
-        "name": "Blowgun"
+        "label": "blowgun",
+        "name": "Blowgun",
+        "url": "equipment-items/blowgun"
       },
       {
-        "url": "equipment-items/crossbow-hand",
-        "name": "Crossbow, hand"
+        "label": "crossbow-hand",
+        "name": "Crossbow, hand",
+        "url": "equipment-items/crossbow-hand"
       },
       {
-        "url": "equipment-items/crossbow-heavy",
-        "name": "Crossbow, heavy"
+        "label": "crossbow-heavy",
+        "name": "Crossbow, heavy",
+        "url": "equipment-items/crossbow-heavy"
       },
       {
-        "url": "equipment-items/longbow",
-        "name": "Longbow"
+        "label": "longbow",
+        "name": "Longbow",
+        "url": "equipment-items/longbow"
       },
       {
-        "url": "equipment-items/net",
-        "name": "Net"
+        "label": "net",
+        "name": "Net",
+        "url": "equipment-items/net"
       }
     ],
     "url": "equipment-types/martial-ranged-weapons"
@@ -1400,16 +1728,19 @@
     "name": "Light Armor",
     "equipment": [
       {
-        "url": "equipment-items/padded",
-        "name": "Padded"
+        "label": "padded",
+        "name": "Padded",
+        "url": "equipment-items/padded"
       },
       {
-        "url": "equipment-items/leather",
-        "name": "Leather"
+        "label": "leather",
+        "name": "Leather",
+        "url": "equipment-items/leather"
       },
       {
-        "url": "equipment-items/studded-leather",
-        "name": "Studded Leather"
+        "label": "studded-leather",
+        "name": "Studded Leather",
+        "url": "equipment-items/studded-leather"
       }
     ],
     "url": "equipment-types/light-armor"
@@ -1419,24 +1750,29 @@
     "name": "Medium Armor",
     "equipment": [
       {
-        "url": "equipment-items/hide",
-        "name": "Hide"
+        "label": "hide",
+        "name": "Hide",
+        "url": "equipment-items/hide"
       },
       {
-        "url": "equipment-items/chain-shirt",
-        "name": "Chain Shirt"
+        "label": "chain-shirt",
+        "name": "Chain Shirt",
+        "url": "equipment-items/chain-shirt"
       },
       {
-        "url": "equipment-items/scale-mail",
-        "name": "Scale Mail"
+        "label": "scale-mail",
+        "name": "Scale Mail",
+        "url": "equipment-items/scale-mail"
       },
       {
-        "url": "equipment-items/breastplate",
-        "name": "Breastplate"
+        "label": "breastplate",
+        "name": "Breastplate",
+        "url": "equipment-items/breastplate"
       },
       {
-        "url": "equipment-items/half-plate",
-        "name": "Half Plate"
+        "label": "half-plate",
+        "name": "Half Plate",
+        "url": "equipment-items/half-plate"
       }
     ],
     "url": "equipment-types/medium-armor"
@@ -1446,20 +1782,24 @@
     "name": "Heavy Armor",
     "equipment": [
       {
-        "url": "equipment-items/ring-mail",
-        "name": "Ring Mail"
+        "label": "ring-mail",
+        "name": "Ring Mail",
+        "url": "equipment-items/ring-mail"
       },
       {
-        "url": "equipment-items/chain-mail",
-        "name": "Chain Mail"
+        "label": "chain-mail",
+        "name": "Chain Mail",
+        "url": "equipment-items/chain-mail"
       },
       {
-        "url": "equipment-items/splint",
-        "name": "Splint"
+        "label": "splint",
+        "name": "Splint",
+        "url": "equipment-items/splint"
       },
       {
-        "url": "equipment-items/plate",
-        "name": "Plate"
+        "label": "plate",
+        "name": "Plate",
+        "url": "equipment-items/plate"
       }
     ],
     "url": "equipment-types/heavy-armor"
@@ -1469,8 +1809,9 @@
     "name": "Shields",
     "equipment": [
       {
-        "url": "equipment-items/shield",
-        "name": "Shield"
+        "label": "shield",
+        "name": "Shield",
+        "url": "equipment-items/shield"
       }
     ],
     "url": "equipment-types/shields"
@@ -1480,356 +1821,444 @@
     "name": "Standard Gear",
     "equipment": [
       {
-        "url": "equipment-items/abacus",
-        "name": "Abacus"
+        "label": "abacus",
+        "name": "Abacus",
+        "url": "equipment-items/abacus"
       },
       {
-        "url": "equipment-items/acid-vial",
-        "name": "Acid (vial)"
+        "label": "acid-vial",
+        "name": "Acid (vial)",
+        "url": "equipment-items/acid-vial"
       },
       {
-        "url": "equipment-items/alchemists-fire-flask",
-        "name": "Alchemist's fire (flask)"
+        "label": "alchemists-fire-flask",
+        "name": "Alchemist's fire (flask)",
+        "url": "equipment-items/alchemists-fire-flask"
       },
       {
-        "url": "equipment-items/arrow",
-        "name": "Arrow"
+        "label": "arrow",
+        "name": "Arrow",
+        "url": "equipment-items/arrow"
       },
       {
-        "url": "equipment-items/blowgun-needle",
-        "name": "Blowgun needle"
+        "label": "blowgun-needle",
+        "name": "Blowgun needle",
+        "url": "equipment-items/blowgun-needle"
       },
       {
-        "url": "equipment-items/crossbow-bolt",
-        "name": "Crossbow bolt"
+        "label": "crossbow-bolt",
+        "name": "Crossbow bolt",
+        "url": "equipment-items/crossbow-bolt"
       },
       {
-        "url": "equipment-items/sling-bullet",
-        "name": "Sling bullet"
+        "label": "sling-bullet",
+        "name": "Sling bullet",
+        "url": "equipment-items/sling-bullet"
       },
       {
-        "url": "equipment-items/antitoxin-vial",
-        "name": "Antitoxin (vial)"
+        "label": "antitoxin-vial",
+        "name": "Antitoxin (vial)",
+        "url": "equipment-items/antitoxin-vial"
       },
       {
-        "url": "equipment-items/backpack",
-        "name": "Backpack"
+        "label": "backpack",
+        "name": "Backpack",
+        "url": "equipment-items/backpack"
       },
       {
-        "url": "equipment-items/ball-bearings-bag-of-1000",
-        "name": "Ball bearings (bag of 1,000)"
+        "label": "ball-bearings-bag-of-1000",
+        "name": "Ball bearings (bag of 1,000)",
+        "url": "equipment-items/ball-bearings-bag-of-1000"
       },
       {
-        "url": "equipment-items/barrel",
-        "name": "Barrel"
+        "label": "barrel",
+        "name": "Barrel",
+        "url": "equipment-items/barrel"
       },
       {
-        "url": "equipment-items/basket",
-        "name": "Basket"
+        "label": "basket",
+        "name": "Basket",
+        "url": "equipment-items/basket"
       },
       {
-        "url": "equipment-items/bedroll",
-        "name": "Bedroll"
+        "label": "bedroll",
+        "name": "Bedroll",
+        "url": "equipment-items/bedroll"
       },
       {
-        "url": "equipment-items/bell",
-        "name": "Bell"
+        "label": "bell",
+        "name": "Bell",
+        "url": "equipment-items/bell"
       },
       {
-        "url": "equipment-items/blanket",
-        "name": "Blanket"
+        "label": "blanket",
+        "name": "Blanket",
+        "url": "equipment-items/blanket"
       },
       {
-        "url": "equipment-items/block-and-tackle",
-        "name": "Block and tackle"
+        "label": "block-and-tackle",
+        "name": "Block and tackle",
+        "url": "equipment-items/block-and-tackle"
       },
       {
-        "url": "equipment-items/book",
-        "name": "Book"
+        "label": "book",
+        "name": "Book",
+        "url": "equipment-items/book"
       },
       {
-        "url": "equipment-items/bottle-glass",
-        "name": "Bottle, glass"
+        "label": "bottle-glass",
+        "name": "Bottle, glass",
+        "url": "equipment-items/bottle-glass"
       },
       {
-        "url": "equipment-items/bucket",
-        "name": "Bucket"
+        "label": "bucket",
+        "name": "Bucket",
+        "url": "equipment-items/bucket"
       },
       {
-        "url": "equipment-items/caltrops",
-        "name": "Caltrops"
+        "label": "caltrops",
+        "name": "Caltrops",
+        "url": "equipment-items/caltrops"
       },
       {
-        "url": "equipment-items/candle",
-        "name": "Candle"
+        "label": "candle",
+        "name": "Candle",
+        "url": "equipment-items/candle"
       },
       {
-        "url": "equipment-items/case-crossbow-bolt",
-        "name": "Case, crossbow bolt"
+        "label": "case-crossbow-bolt",
+        "name": "Case, crossbow bolt",
+        "url": "equipment-items/case-crossbow-bolt"
       },
       {
-        "url": "equipment-items/case-map-or-scroll",
-        "name": "Case, map or scroll"
+        "label": "case-map-or-scroll",
+        "name": "Case, map or scroll",
+        "url": "equipment-items/case-map-or-scroll"
       },
       {
-        "url": "equipment-items/chain-10-feet",
-        "name": "Chain (10 feet)"
+        "label": "chain-10-feet",
+        "name": "Chain (10 feet)",
+        "url": "equipment-items/chain-10-feet"
       },
       {
-        "url": "equipment-items/chalk-1-piece",
-        "name": "Chalk (1 piece)"
+        "label": "chalk-1-piece",
+        "name": "Chalk (1 piece)",
+        "url": "equipment-items/chalk-1-piece"
       },
       {
-        "url": "equipment-items/chest",
-        "name": "Chest"
+        "label": "chest",
+        "name": "Chest",
+        "url": "equipment-items/chest"
       },
       {
-        "url": "equipment-items/clothes-common",
-        "name": "Clothes, common"
+        "label": "clothes-common",
+        "name": "Clothes, common",
+        "url": "equipment-items/clothes-common"
       },
       {
-        "url": "equipment-items/clothes-costume",
-        "name": "Clothes, costume"
+        "label": "clothes-costume",
+        "name": "Clothes, costume",
+        "url": "equipment-items/clothes-costume"
       },
       {
-        "url": "equipment-items/clothes-fine",
-        "name": "Clothes, fine"
+        "label": "clothes-fine",
+        "name": "Clothes, fine",
+        "url": "equipment-items/clothes-fine"
       },
       {
-        "url": "equipment-items/clothes-travelers",
-        "name": "Clothes, traveler's"
+        "label": "clothes-travelers",
+        "name": "Clothes, traveler's",
+        "url": "equipment-items/clothes-travelers"
       },
       {
-        "url": "equipment-items/component-pouch",
-        "name": "Component pouch"
+        "label": "component-pouch",
+        "name": "Component pouch",
+        "url": "equipment-items/component-pouch"
       },
       {
-        "url": "equipment-items/crowbar",
-        "name": "Crowbar"
+        "label": "crowbar",
+        "name": "Crowbar",
+        "url": "equipment-items/crowbar"
       },
       {
-        "url": "equipment-items/fishing-tackle",
-        "name": "Fishing tackle"
+        "label": "fishing-tackle",
+        "name": "Fishing tackle",
+        "url": "equipment-items/fishing-tackle"
       },
       {
-        "url": "equipment-items/flask-or-tankard",
-        "name": "Flask or tankard"
+        "label": "flask-or-tankard",
+        "name": "Flask or tankard",
+        "url": "equipment-items/flask-or-tankard"
       },
       {
-        "url": "equipment-items/grappling-hook",
-        "name": "Grappling hook"
+        "label": "grappling-hook",
+        "name": "Grappling hook",
+        "url": "equipment-items/grappling-hook"
       },
       {
-        "url": "equipment-items/hammer",
-        "name": "Hammer"
+        "label": "hammer",
+        "name": "Hammer",
+        "url": "equipment-items/hammer"
       },
       {
-        "url": "equipment-items/hammer-sledge",
-        "name": "Hammer, sledge"
+        "label": "hammer-sledge",
+        "name": "Hammer, sledge",
+        "url": "equipment-items/hammer-sledge"
       },
       {
-        "url": "equipment-items/holy-water-flask",
-        "name": "Holy water (flask)"
+        "label": "holy-water-flask",
+        "name": "Holy water (flask)",
+        "url": "equipment-items/holy-water-flask"
       },
       {
-        "url": "equipment-items/hourglass",
-        "name": "Hourglass"
+        "label": "hourglass",
+        "name": "Hourglass",
+        "url": "equipment-items/hourglass"
       },
       {
-        "url": "equipment-items/hunting-trap",
-        "name": "Hunting trap"
+        "label": "hunting-trap",
+        "name": "Hunting trap",
+        "url": "equipment-items/hunting-trap"
       },
       {
-        "url": "equipment-items/ink-1-ounce-bottle",
-        "name": "Ink (1 ounce bottle)"
+        "label": "ink-1-ounce-bottle",
+        "name": "Ink (1 ounce bottle)",
+        "url": "equipment-items/ink-1-ounce-bottle"
       },
       {
-        "url": "equipment-items/ink-pen",
-        "name": "Ink pen"
+        "label": "ink-pen",
+        "name": "Ink pen",
+        "url": "equipment-items/ink-pen"
       },
       {
-        "url": "equipment-items/hourglass",
-        "name": "Hourglass"
+        "label": "hourglass",
+        "name": "Hourglass",
+        "url": "equipment-items/hourglass"
       },
       {
-        "url": "equipment-items/hunting-trap",
-        "name": "Hunting trap"
+        "label": "hunting-trap",
+        "name": "Hunting trap",
+        "url": "equipment-items/hunting-trap"
       },
       {
-        "url": "equipment-items/ink-1-ounce-bottle",
-        "name": "Ink (1 ounce bottle)"
+        "label": "ink-1-ounce-bottle",
+        "name": "Ink (1 ounce bottle)",
+        "url": "equipment-items/ink-1-ounce-bottle"
       },
       {
-        "url": "equipment-items/ink-pen",
-        "name": "Ink pen"
+        "label": "ink-pen",
+        "name": "Ink pen",
+        "url": "equipment-items/ink-pen"
       },
       {
-        "url": "equipment-items/jug-or-pitcher",
-        "name": "Jug or pitcher"
+        "label": "jug-or-pitcher",
+        "name": "Jug or pitcher",
+        "url": "equipment-items/jug-or-pitcher"
       },
       {
-        "url": "equipment-items/ladder-10-foot",
-        "name": "Ladder (10-foot)"
+        "label": "ladder-10-foot",
+        "name": "Ladder (10-foot)",
+        "url": "equipment-items/ladder-10-foot"
       },
       {
-        "url": "equipment-items/lamp",
-        "name": "Lamp"
+        "label": "lamp",
+        "name": "Lamp",
+        "url": "equipment-items/lamp"
       },
       {
-        "url": "equipment-items/lantern-bullseye",
-        "name": "Lantern, bullseye"
+        "label": "lantern-bullseye",
+        "name": "Lantern, bullseye",
+        "url": "equipment-items/lantern-bullseye"
       },
       {
-        "url": "equipment-items/lantern-hooded",
-        "name": "Lantern, hooded"
+        "label": "lantern-hooded",
+        "name": "Lantern, hooded",
+        "url": "equipment-items/lantern-hooded"
       },
       {
-        "url": "equipment-items/lock",
-        "name": "Lock"
+        "label": "lock",
+        "name": "Lock",
+        "url": "equipment-items/lock"
       },
       {
-        "url": "equipment-items/magnifying-glass",
-        "name": "Magnifying glass"
+        "label": "magnifying-glass",
+        "name": "Magnifying glass",
+        "url": "equipment-items/magnifying-glass"
       },
       {
-        "url": "equipment-items/manacles",
-        "name": "Manacles"
+        "label": "manacles",
+        "name": "Manacles",
+        "url": "equipment-items/manacles"
       },
       {
-        "url": "equipment-items/mirror-steel",
-        "name": "Mirror, steel"
+        "label": "mirror-steel",
+        "name": "Mirror, steel",
+        "url": "equipment-items/mirror-steel"
       },
       {
-        "url": "equipment-items/oil-flask",
-        "name": "Oil (flask)"
+        "label": "oil-flask",
+        "name": "Oil (flask)",
+        "url": "equipment-items/oil-flask"
       },
       {
-        "url": "equipment-items/paper-one-sheet",
-        "name": "Paper (one sheet)"
+        "label": "paper-one-sheet",
+        "name": "Paper (one sheet)",
+        "url": "equipment-items/paper-one-sheet"
       },
       {
-        "url": "equipment-items/parchment-one-sheet",
-        "name": "Parchment (one sheet)"
+        "label": "parchment-one-sheet",
+        "name": "Parchment (one sheet)",
+        "url": "equipment-items/parchment-one-sheet"
       },
       {
-        "url": "equipment-items/perfume-vial",
-        "name": "Perfume (vial)"
+        "label": "perfume-vial",
+        "name": "Perfume (vial)",
+        "url": "equipment-items/perfume-vial"
       },
       {
-        "url": "equipment-items/pick-miners",
-        "name": "Pick, miner's"
+        "label": "pick-miners",
+        "name": "Pick, miner's",
+        "url": "equipment-items/pick-miners"
       },
       {
-        "url": "equipment-items/piton",
-        "name": "Piton"
+        "label": "piton",
+        "name": "Piton",
+        "url": "equipment-items/piton"
       },
       {
-        "url": "equipment-items/poison-basic-vial",
-        "name": "Poison, basic (vial)"
+        "label": "poison-basic-vial",
+        "name": "Poison, basic (vial)",
+        "url": "equipment-items/poison-basic-vial"
       },
       {
-        "url": "equipment-items/pole-10-foot",
-        "name": "Pole (10-foot)"
+        "label": "pole-10-foot",
+        "name": "Pole (10-foot)",
+        "url": "equipment-items/pole-10-foot"
       },
       {
-        "url": "equipment-items/pot-iron",
-        "name": "Pot, iron"
+        "label": "pot-iron",
+        "name": "Pot, iron",
+        "url": "equipment-items/pot-iron"
       },
       {
-        "url": "equipment-items/potion-of-healing",
-        "name": "Potion of healing"
+        "label": "potion-of-healing",
+        "name": "Potion of healing",
+        "url": "equipment-items/potion-of-healing"
       },
       {
-        "url": "equipment-items/pouch",
-        "name": "Pouch"
+        "label": "pouch",
+        "name": "Pouch",
+        "url": "equipment-items/pouch"
       },
       {
-        "url": "equipment-items/quiver",
-        "name": "Quiver"
+        "label": "quiver",
+        "name": "Quiver",
+        "url": "equipment-items/quiver"
       },
       {
-        "url": "equipment-items/ram-portable",
-        "name": "Ram, portable"
+        "label": "ram-portable",
+        "name": "Ram, portable",
+        "url": "equipment-items/ram-portable"
       },
       {
-        "url": "equipment-items/rations-1-day",
-        "name": "Rations (1 day)"
+        "label": "rations-1-day",
+        "name": "Rations (1 day)",
+        "url": "equipment-items/rations-1-day"
       },
       {
-        "url": "equipment-items/robes",
-        "name": "Robes"
+        "label": "robes",
+        "name": "Robes",
+        "url": "equipment-items/robes"
       },
       {
-        "url": "equipment-items/rope-hempen-50-feet",
-        "name": "Rope, hempen (50 feet)"
+        "label": "rope-hempen-50-feet",
+        "name": "Rope, hempen (50 feet)",
+        "url": "equipment-items/rope-hempen-50-feet"
       },
       {
-        "url": "equipment-items/rope-silk-50-feet",
-        "name": "Rope, silk (50 feet)"
+        "label": "rope-silk-50-feet",
+        "name": "Rope, silk (50 feet)",
+        "url": "equipment-items/rope-silk-50-feet"
       },
       {
-        "url": "equipment-items/sack",
-        "name": "Sack"
+        "label": "sack",
+        "name": "Sack",
+        "url": "equipment-items/sack"
       },
       {
-        "url": "equipment-items/scale-merchants",
-        "name": "Scale, merchant's"
+        "label": "scale-merchants",
+        "name": "Scale, merchant's",
+        "url": "equipment-items/scale-merchants"
       },
       {
-        "url": "equipment-items/sealing-wax",
-        "name": "Sealing wax"
+        "label": "sealing-wax",
+        "name": "Sealing wax",
+        "url": "equipment-items/sealing-wax"
       },
       {
-        "url": "equipment-items/shovel",
-        "name": "Shovel"
+        "label": "shovel",
+        "name": "Shovel",
+        "url": "equipment-items/shovel"
       },
       {
-        "url": "equipment-items/signal-whistle",
-        "name": "Signal whistle"
+        "label": "signal-whistle",
+        "name": "Signal whistle",
+        "url": "equipment-items/signal-whistle"
       },
       {
-        "url": "equipment-items/signet-ring",
-        "name": "Signet ring"
+        "label": "signet-ring",
+        "name": "Signet ring",
+        "url": "equipment-items/signet-ring"
       },
       {
-        "url": "equipment-items/soap",
-        "name": "Soap"
+        "label": "soap",
+        "name": "Soap",
+        "url": "equipment-items/soap"
       },
       {
-        "url": "equipment-items/spellbook",
-        "name": "Spellbook"
+        "label": "spellbook",
+        "name": "Spellbook",
+        "url": "equipment-items/spellbook"
       },
       {
-        "url": "equipment-items/spike-iron",
-        "name": "Spike, iron"
+        "label": "spike-iron",
+        "name": "Spike, iron",
+        "url": "equipment-items/spike-iron"
       },
       {
-        "url": "equipment-items/spyglass",
-        "name": "Spyglass"
+        "label": "spyglass",
+        "name": "Spyglass",
+        "url": "equipment-items/spyglass"
       },
       {
-        "url": "equipment-items/tent-two-person",
-        "name": "Tent, two-person"
+        "label": "tent-two-person",
+        "name": "Tent, two-person",
+        "url": "equipment-items/tent-two-person"
       },
       {
-        "url": "equipment-items/tinderbox",
-        "name": "Tinderbox"
+        "label": "tinderbox",
+        "name": "Tinderbox",
+        "url": "equipment-items/tinderbox"
       },
       {
-        "url": "equipment-items/torch",
-        "name": "Torch"
+        "label": "torch",
+        "name": "Torch",
+        "url": "equipment-items/torch"
       },
       {
-        "url": "equipment-items/vial",
-        "name": "Vial"
+        "label": "vial",
+        "name": "Vial",
+        "url": "equipment-items/vial"
       },
       {
-        "url": "equipment-items/waterskin",
-        "name": "Waterskin"
+        "label": "waterskin",
+        "name": "Waterskin",
+        "url": "equipment-items/waterskin"
       },
       {
-        "url": "equipment-items/whetstone",
-        "name": "Whetstone"
+        "label": "whetstone",
+        "name": "Whetstone",
+        "url": "equipment-items/whetstone"
       }
     ],
     "url": "equipment-types/standard-gear"
@@ -1839,32 +2268,39 @@
     "name": "Kits",
     "equipment": [
       {
-        "url": "equipment-items/climbers-kit",
-        "name": "Climber's Kit"
+        "label": "climbers-kit",
+        "name": "Climber's Kit",
+        "url": "equipment-items/climbers-kit"
       },
       {
-        "url": "equipment-items/disguise-kit",
-        "name": "Disguise Kit"
+        "label": "disguise-kit",
+        "name": "Disguise Kit",
+        "url": "equipment-items/disguise-kit"
       },
       {
-        "url": "equipment-items/forgery-kit",
-        "name": "Forgery Kit"
+        "label": "forgery-kit",
+        "name": "Forgery Kit",
+        "url": "equipment-items/forgery-kit"
       },
       {
-        "url": "equipment-items/herbalism-kit",
-        "name": "Herbalism Kit"
+        "label": "herbalism-kit",
+        "name": "Herbalism Kit",
+        "url": "equipment-items/herbalism-kit"
       },
       {
-        "url": "equipment-items/healers-kit",
-        "name": "Healer's Kit"
+        "label": "healers-kit",
+        "name": "Healer's Kit",
+        "url": "equipment-items/healers-kit"
       },
       {
-        "url": "equipment-items/mess-kit",
-        "name": "Mess Kit"
+        "label": "mess-kit",
+        "name": "Mess Kit",
+        "url": "equipment-items/mess-kit"
       },
       {
-        "url": "equipment-items/poisoners-kit",
-        "name": "Poisoner's Kit"
+        "label": "poisoners-kit",
+        "name": "Poisoner's Kit",
+        "url": "equipment-items/poisoners-kit"
       }
     ],
     "url": "equipment-types/kits"
@@ -1874,32 +2310,39 @@
     "name": "Equipment Packs",
     "equipment": [
       {
-        "url": "equipment-items/burglars-pack",
-        "name": "Burglar's Pack"
+        "label": "burglars-pack",
+        "name": "Burglar's Pack",
+        "url": "equipment-items/burglars-pack"
       },
       {
-        "url": "equipment-items/diplomats-pack",
-        "name": "Diplomat's Pack"
+        "label": "diplomats-pack",
+        "name": "Diplomat's Pack",
+        "url": "equipment-items/diplomats-pack"
       },
       {
-        "url": "equipment-items/dungeoneers-pack",
-        "name": "Dungeoneer's Pack"
+        "label": "dungeoneers-pack",
+        "name": "Dungeoneer's Pack",
+        "url": "equipment-items/dungeoneers-pack"
       },
       {
-        "url": "equipment-items/entertainers-pack",
-        "name": "Entertainer's Pack"
+        "label": "entertainers-pack",
+        "name": "Entertainer's Pack",
+        "url": "equipment-items/entertainers-pack"
       },
       {
-        "url": "equipment-items/explorers-pack",
-        "name": "Explorer's Pack"
+        "label": "explorers-pack",
+        "name": "Explorer's Pack",
+        "url": "equipment-items/explorers-pack"
       },
       {
-        "url": "equipment-items/priests-pack",
-        "name": "Priest's Pack"
+        "label": "priests-pack",
+        "name": "Priest's Pack",
+        "url": "equipment-items/priests-pack"
       },
       {
-        "url": "equipment-items/scholars-pack",
-        "name": "Scholar's Pack"
+        "label": "scholars-pack",
+        "name": "Scholar's Pack",
+        "url": "equipment-items/scholars-pack"
       }
     ],
     "url": "equipment-types/equipment-packs"
@@ -1909,72 +2352,89 @@
     "name": "Artisan's Tools",
     "equipment": [
       {
-        "url": "equipment-items/alchemists-supplies",
-        "name": "Alchemist's supplies"
+        "label": "alchemists-supplies",
+        "name": "Alchemist's supplies",
+        "url": "equipment-items/alchemists-supplies"
       },
       {
-        "url": "equipment-items/brewers-supplies",
-        "name": "Brewer's supplies"
+        "label": "brewers-supplies",
+        "name": "Brewer's supplies",
+        "url": "equipment-items/brewers-supplies"
       },
       {
-        "url": "equipment-items/calligraphers-supplies",
-        "name": "Calligrapher's supplies"
+        "label": "calligraphers-supplies",
+        "name": "Calligrapher's supplies",
+        "url": "equipment-items/calligraphers-supplies"
       },
       {
-        "url": "equipment-items/carpenters-tools",
-        "name": "Carpenter's tools"
+        "label": "carpenters-tools",
+        "name": "Carpenter's tools",
+        "url": "equipment-items/carpenters-tools"
       },
       {
-        "url": "equipment-items/cartographers-tools",
-        "name": "Cartographer's tools"
+        "label": "cartographers-tools",
+        "name": "Cartographer's tools",
+        "url": "equipment-items/cartographers-tools"
       },
       {
-        "url": "equipment-items/cobblers-tools",
-        "name": "Cobbler's tools"
+        "label": "cobblers-tools",
+        "name": "Cobbler's tools",
+        "url": "equipment-items/cobblers-tools"
       },
       {
-        "url": "equipment-items/cooks-utensils",
-        "name": "Cook's utensils"
+        "label": "cooks-utensils",
+        "name": "Cook's utensils",
+        "url": "equipment-items/cooks-utensils"
       },
       {
-        "url": "equipment-items/glassblowers-tools",
-        "name": "Glassblower's tools"
+        "label": "glassblowers-tools",
+        "name": "Glassblower's tools",
+        "url": "equipment-items/glassblowers-tools"
       },
       {
-        "url": "equipment-items/jewelers-tools",
-        "name": "Jeweler's tools"
+        "label": "jewelers-tools",
+        "name": "Jeweler's tools",
+        "url": "equipment-items/jewelers-tools"
       },
       {
-        "url": "equipment-items/leatherworkers-tools",
-        "name": "Leatherworker's tools"
+        "label": "leatherworkers-tools",
+        "name": "Leatherworker's tools",
+        "url": "equipment-items/leatherworkers-tools"
       },
       {
-        "url": "equipment-items/masons-tools",
-        "name": "Mason's tools"
+        "label": "masons-tools",
+        "name": "Mason's tools",
+        "url": "equipment-items/masons-tools"
       },
       {
-        "url": "equipment-items/painters-supplies",
-        "name": "Painter's supplies"
+        "label": "painters-supplies",
+        "name": "Painter's supplies",
+        "url": "equipment-items/painters-supplies"
       },
       {
-        "url": "equipment-items/potters-tools",
-        "name": "Potter's tools"
+        "label": "potters-tools",
+        "name": "Potter's tools",
+        "url": "equipment-items/potters-tools"
       },
       {
-        "url": "equipment-items/smiths-tools",
-        "name": "Smith's tools"
+        "label": "smiths-tools",
+        "name": "Smith's tools",
+        "url": "equipment-items/smiths-tools"
       },
       {
-        "url": "equipment-items/tinkers-tools",
-        "name": "Tinker's tools"
+        "label": "tinkers-tools",
+        "name": "Tinker's tools",
+        "url": "equipment-items/tinkers-tools"
       },
       {
-        "url": "equipment-items/weavers-tools",
-        "name": "Weaver's tools"
+        "label": "weavers-tools",
+        "name": "Weaver's tools",
+        "url": "equipment-items/weavers-tools"
       },
       {
-        "url": "equipment-items/woodcarvers-tools",
-        "name": "Woodcarver's tools"
+        "label": "woodcarvers-tools",
+        "name": "Woodcarver's tools",
+        "url": "equipment-items/woodcarvers-tools"
       }
     ],
     "url": "equipment-types/artisans-tools"
@@ -1984,12 +2444,14 @@
     "name": "Gaming Sets",
     "equipment": [
       {
-        "url": "equipment-items/dice-set",
-        "name": "Dice set"
+        "label": "dice-set",
+        "name": "Dice set",
+        "url": "equipment-items/dice-set"
       },
       {
-        "url": "equipment-items/playing-card-set",
-        "name": "Playing card set"
+        "label": "playing-card-set",
+        "name": "Playing card set",
+        "url": "equipment-items/playing-card-set"
       }
     ],
     "url": "equipment-types/gaming-sets"
@@ -1999,44 +2461,54 @@
     "name": "Musical Instruments",
     "equipment": [
       {
-        "url": "equipment-items/bagpipes",
-        "name": "Bagpipes"
+        "label": "bagpipes",
+        "name": "Bagpipes",
+        "url": "equipment-items/bagpipes"
       },
       {
-        "url": "equipment-items/drum",
-        "name": "Drum"
+        "label": "drum",
+        "name": "Drum",
+        "url": "equipment-items/drum"
       },
       {
-        "url": "equipment-items/dulcimer",
-        "name": "Dulcimer"
+        "label": "dulcimer",
+        "name": "Dulcimer",
+        "url": "equipment-items/dulcimer"
       },
       {
-        "url": "equipment-items/flute",
-        "name": "Flute"
+        "label": "flute",
+        "name": "Flute",
+        "url": "equipment-items/flute"
       },
       {
-        "url": "equipment-items/lute",
-        "name": "Lute"
+        "label": "lute",
+        "name": "Lute",
+        "url": "equipment-items/lute"
       },
       {
-        "url": "equipment-items/lyre",
-        "name": "Lyre"
+        "label": "lyre",
+        "name": "Lyre",
+        "url": "equipment-items/lyre"
       },
       {
-        "url": "equipment-items/horn",
-        "name": "Horn"
+        "label": "horn",
+        "name": "Horn",
+        "url": "equipment-items/horn"
       },
       {
-        "url": "equipment-items/pan-flute",
-        "name": "Pan flute"
+        "label": "pan-flute",
+        "name": "Pan flute",
+        "url": "equipment-items/pan-flute"
       },
       {
-        "url": "equipment-items/shawm",
-        "name": "Shawm"
+        "label": "shawm",
+        "name": "Shawm",
+        "url": "equipment-items/shawm"
       },
       {
-        "url": "equipment-items/viol",
-        "name": "Viol"
+        "label": "viol",
+        "name": "Viol",
+        "url": "equipment-items/viol"
       }
     ],
     "url": "equipment-types/musical-instruments"
@@ -2046,12 +2518,14 @@
     "name": "Other Tools",
     "equipment": [
       {
-        "url": "equipment-items/navigators-tools",
-        "name": "Navigator's tools"
+        "label": "navigators-tools",
+        "name": "Navigator's tools",
+        "url": "equipment-items/navigators-tools"
       },
       {
-        "url": "equipment-items/thieves-tools",
-        "name": "Thieves' tools"
+        "label": "thieves-tools",
+        "name": "Thieves' tools",
+        "url": "equipment-items/thieves-tools"
       }
     ],
     "url": "equipment-types/other-tools"
@@ -2061,32 +2535,39 @@
     "name": "Mounts and Other Animals",
     "equipment": [
       {
-        "url": "equipment-items/mule",
-        "name": "Mule"
+        "label": "mule",
+        "name": "Mule",
+        "url": "equipment-items/mule"
       },
       {
-        "url": "equipment-items/elephant",
-        "name": "Elephant"
+        "label": "elephant",
+        "name": "Elephant",
+        "url": "equipment-items/elephant"
       },
       {
-        "url": "equipment-items/horse-draft",
-        "name": "Horse, draft"
+        "label": "horse-draft",
+        "name": "Horse, draft",
+        "url": "equipment-items/horse-draft"
       },
       {
-        "url": "equipment-items/horse-riding",
-        "name": "Horse, riding"
+        "label": "horse-riding",
+        "name": "Horse, riding",
+        "url": "equipment-items/horse-riding"
       },
       {
-        "url": "equipment-items/mastiff",
-        "name": "Mastiff"
+        "label": "mastiff",
+        "name": "Mastiff",
+        "url": "equipment-items/mastiff"
       },
       {
-        "url": "equipment-items/pony",
-        "name": "Pony"
+        "label": "pony",
+        "name": "Pony",
+        "url": "equipment-items/pony"
       },
       {
-        "url": "equipment-items/warhorse",
-        "name": "Warhorse"
+        "label": "warhorse",
+        "name": "Warhorse",
+        "url": "equipment-items/warhorse"
       }
     ],
     "url": "equipment-types/mounts-and-other-animals"
@@ -2096,104 +2577,129 @@
     "name": "Tack, Harness, and Drawn Vehicles",
     "equipment": [
       {
-        "url": "equipment-items/barding-padded",
-        "name": "Barding: Padded"
+        "label": "barding-padded",
+        "name": "Barding: Padded",
+        "url": "equipment-items/barding-padded"
       },
       {
-        "url": "equipment-items/barding-leather",
-        "name": "Barding: Leather"
+        "label": "barding-leather",
+        "name": "Barding: Leather",
+        "url": "equipment-items/barding-leather"
       },
       {
-        "url": "equipment-items/barding-studded-leather",
-        "name": "Barding: Studded Leather"
+        "label": "barding-studded-leather",
+        "name": "Barding: Studded Leather",
+        "url": "equipment-items/barding-studded-leather"
       },
       {
-        "url": "equipment-items/barding-hide",
-        "name": "Barding: Hide"
+        "label": "barding-hide",
+        "name": "Barding: Hide",
+        "url": "equipment-items/barding-hide"
       },
       {
-        "url": "equipment-items/barding-chain-shirt",
-        "name": "Barding: Chain shirt"
+        "label": "barding-chain-shirt",
+        "name": "Barding: Chain shirt",
+        "url": "equipment-items/barding-chain-shirt"
       },
       {
-        "url": "equipment-items/barding-scale-mail",
-        "name": "Barding: Scale mail"
+        "label": "barding-scale-mail",
+        "name": "Barding: Scale mail",
+        "url": "equipment-items/barding-scale-mail"
       },
       {
-        "url": "equipment-items/barding-breastplate",
-        "name": "Barding: Breastplate"
+        "label": "barding-breastplate",
+        "name": "Barding: Breastplate",
+        "url": "equipment-items/barding-breastplate"
       },
       {
-        "url": "equipment-items/barding-half-plate",
-        "name": "Barding: Half plate"
+        "label": "barding-half-plate",
+        "name": "Barding: Half plate",
+        "url": "equipment-items/barding-half-plate"
       },
       {
-        "url": "equipment-items/barding-ring-mail",
-        "name": "Barding: Ring mail"
+        "label": "barding-ring-mail",
+        "name": "Barding: Ring mail",
+        "url": "equipment-items/barding-ring-mail"
       },
       {
-        "url": "equipment-items/barding-chain-mail",
-        "name": "Barding: Chain mail"
+        "label": "barding-chain-mail",
+        "name": "Barding: Chain mail",
+        "url": "equipment-items/barding-chain-mail"
       },
       {
-        "url": "equipment-items/barding-splint",
-        "name": "Barding: Splint"
+        "label": "barding-splint",
+        "name": "Barding: Splint",
+        "url": "equipment-items/barding-splint"
       },
       {
-        "url": "equipment-items/barding-plate",
-        "name": "Barding: Plate"
+        "label": "barding-plate",
+        "name": "Barding: Plate",
+        "url": "equipment-items/barding-plate"
       },
       {
-        "url": "equipment-items/bit-and-bridle",
-        "name": "Bit and bridle"
+        "label": "bit-and-bridle",
+        "name": "Bit and bridle",
+        "url": "equipment-items/bit-and-bridle"
       },
       {
-        "url": "equipment-items/carriage",
-        "name": "Carriage"
+        "label": "carriage",
+        "name": "Carriage",
+        "url": "equipment-items/carriage"
       },
       {
-        "url": "equipment-items/cart",
-        "name": "Cart"
+        "label": "cart",
+        "name": "Cart",
+        "url": "equipment-items/cart"
       },
       {
-        "url": "equipment-items/chariot",
-        "name": "Chariot"
+        "label": "chariot",
+        "name": "Chariot",
+        "url": "equipment-items/chariot"
       },
       {
-        "url": "equipment-items/animal-feed-1-day",
-        "name": "Animal Feed (1 day)"
+        "label": "animal-feed-1-day",
+        "name": "Animal Feed (1 day)",
+        "url": "equipment-items/animal-feed-1-day"
       },
       {
-        "url": "equipment-items/saddle-exotic",
-        "name": "Saddle, Exotic"
+        "label": "saddle-exotic",
+        "name": "Saddle, Exotic",
+        "url": "equipment-items/saddle-exotic"
       },
       {
-        "url": "equipment-items/saddle-military",
-        "name": "Saddle, Military"
+        "label": "saddle-military",
+        "name": "Saddle, Military",
+        "url": "equipment-items/saddle-military"
       },
       {
-        "url": "equipment-items/saddle-pack",
-        "name": "Saddle, Pack"
+        "label": "saddle-pack",
+        "name": "Saddle, Pack",
+        "url": "equipment-items/saddle-pack"
       },
       {
-        "url": "equipment-items/riding",
-        "name": "Riding"
+        "label": "riding",
+        "name": "Riding",
+        "url": "equipment-items/riding"
       },
       {
-        "url": "equipment-items/saddlebags",
-        "name": "Saddlebags"
+        "label": "saddlebags",
+        "name": "Saddlebags",
+        "url": "equipment-items/saddlebags"
       },
       {
-        "url": "equipment-items/sled",
-        "name": "Sled"
+        "label": "sled",
+        "name": "Sled",
+        "url": "equipment-items/sled"
       },
       {
-        "url": "equipment-items/stabling-1-day",
-        "name": "Stabling (1 day)"
+        "label": "stabling-1-day",
+        "name": "Stabling (1 day)",
+        "url": "equipment-items/stabling-1-day"
       },
       {
-        "url": "equipment-items/wagon",
-        "name": "Wagon"
+        "label": "wagon",
+        "name": "Wagon",
+        "url": "equipment-items/wagon"
       }
     ],
     "url": "equipment-types/tack-harness-and-drawn-vehicles"
@@ -2203,24 +2709,29 @@
     "name": "Land Vehicles",
     "equipment": [
       {
-        "url": "equipment-items/carriage",
-        "name": "Carriage"
+        "label": "carriage",
+        "name": "Carriage",
+        "url": "equipment-items/carriage"
       },
       {
-        "url": "equipment-items/cart",
-        "name": "Cart"
+        "label": "cart",
+        "name": "Cart",
+        "url": "equipment-items/cart"
       },
       {
-        "url": "equipment-items/chariot",
-        "name": "Chariot"
+        "label": "chariot",
+        "name": "Chariot",
+        "url": "equipment-items/chariot"
       },
       {
-        "url": "equipment-items/sled",
-        "name": "Sled"
+        "label": "sled",
+        "name": "Sled",
+        "url": "equipment-items/sled"
       },
       {
-        "url": "equipment-items/wagon",
-        "name": "Wagon"
+        "label": "wagon",
+        "name": "Wagon",
+        "url": "equipment-items/wagon"
       }
     ],
     "url": "equipment-types/land-vehicles"
@@ -2230,28 +2741,34 @@
     "name": "Waterborne Vehicles",
     "equipment": [
       {
-        "url": "equipment-items/galley",
-        "name": "Galley"
+        "label": "galley",
+        "name": "Galley",
+        "url": "equipment-items/galley"
       },
       {
-        "url": "equipment-items/keelboat",
-        "name": "Keelboat"
+        "label": "keelboat",
+        "name": "Keelboat",
+        "url": "equipment-items/keelboat"
       },
       {
-        "url": "equipment-items/longship",
-        "name": "Longship"
+        "label": "longship",
+        "name": "Longship",
+        "url": "equipment-items/longship"
       },
       {
-        "url": "equipment-items/rowboat",
-        "name": "Rowboat"
+        "label": "rowboat",
+        "name": "Rowboat",
+        "url": "equipment-items/rowboat"
       },
       {
-        "url": "equipment-items/sailing-ship",
-        "name": "Sailing ship"
+        "label": "sailing-ship",
+        "name": "Sailing ship",
+        "url": "equipment-items/sailing-ship"
       },
       {
-        "url": "equipment-items/warship",
-        "name": "Warship"
+        "label": "warship",
+        "name": "Warship",
+        "url": "equipment-items/warship"
       }
     ],
     "url": "equipment-types/waterborne-vehicles"
@@ -2261,24 +2778,29 @@
     "name": "Arcane Foci",
     "equipment": [
       {
-        "url": "equipment-items/crystal",
-        "name": "Crystal"
+        "label": "crystal",
+        "name": "Crystal",
+        "url": "equipment-items/crystal"
       },
       {
-        "url": "equipment-items/orb",
-        "name": "Orb"
+        "label": "orb",
+        "name": "Orb",
+        "url": "equipment-items/orb"
       },
       {
-        "url": "equipment-items/rod",
-        "name": "Rod"
+        "label": "rod",
+        "name": "Rod",
+        "url": "equipment-items/rod"
       },
       {
-        "url": "equipment-items/staff",
-        "name": "Staff"
+        "label": "staff",
+        "name": "Staff",
+        "url": "equipment-items/staff"
       },
       {
-        "url": "equipment-items/wand",
-        "name": "Wand"
+        "label": "wand",
+        "name": "Wand",
+        "url": "equipment-items/wand"
       }
     ],
     "url": "equipment-types/arcane-foci"
@@ -2288,20 +2810,24 @@
     "name": "Druidic Foci",
     "equipment": [
       {
-        "url": "equipment-items/sprig-of-mistletoe",
-        "name": "Sprig of mistletoe"
+        "label": "sprig-of-mistletoe",
+        "name": "Sprig of mistletoe",
+        "url": "equipment-items/sprig-of-mistletoe"
       },
       {
-        "url": "equipment-items/totem",
-        "name": "Totem"
+        "label": "totem",
+        "name": "Totem",
+        "url": "equipment-items/totem"
       },
       {
-        "url": "equipment-items/wooden-staff",
-        "name": "Wooden staff"
+        "label": "wooden-staff",
+        "name": "Wooden staff",
+        "url": "equipment-items/wooden-staff"
       },
       {
-        "url": "equipment-items/yew-wand",
-        "name": "Yew wand"
+        "label": "yew-wand",
+        "name": "Yew wand",
+        "url": "equipment-items/yew-wand"
       }
     ],
     "url": "equipment-types/druidic-foci"
@@ -2311,16 +2837,19 @@
     "name": "Holy Symbols",
     "equipment": [
       {
-        "url": "equipment-items/amulet",
-        "name": "Amulet"
+        "label": "amulet",
+        "name": "Amulet",
+        "url": "equipment-items/amulet"
       },
       {
-        "url": "equipment-items/emblem",
-        "name": "Emblem"
+        "label": "emblem",
+        "name": "Emblem",
+        "url": "equipment-items/emblem"
       },
       {
-        "url": "equipment-items/reliquary",
-        "name": "Reliquary"
+        "label": "reliquary",
+        "name": "Reliquary",
+        "url": "equipment-items/reliquary"
       }
     ],
     "url": "equipment-types/holy-symbols"

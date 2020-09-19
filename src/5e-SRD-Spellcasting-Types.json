@@ -2,13 +2,15 @@
   {
     "label": "bard",
     "class": {
-      "url": "classes/bard",
-      "name": "Bard"
+      "label": "bard",
+      "name": "Bard",
+      "url": "classes/bard"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "ability-scores/cha",
-      "name": "CHA"
+      "label": "cha",
+      "name": "CHA",
+      "url": "ability-scores/cha"
     },
     "info": [
       {
@@ -59,13 +61,15 @@
   {
     "label": "cleric",
     "class": {
-      "url": "classes/cleric",
-      "name": "Cleric"
+      "label": "cleric",
+      "name": "Cleric",
+      "url": "classes/cleric"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "ability-scores/wis",
-      "name": "WIS"
+      "label": "wis",
+      "name": "WIS",
+      "url": "ability-scores/wis"
     },
     "info": [
       {
@@ -109,13 +113,15 @@
   {
     "label": "druid",
     "class": {
-      "url": "classes/druid",
-      "name": "Druid"
+      "label": "druid",
+      "name": "Druid",
+      "url": "classes/druid"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "ability-scores/wis",
-      "name": "WIS"
+      "label": "wis",
+      "name": "WIS",
+      "url": "ability-scores/wis"
     },
     "info": [
       {
@@ -157,13 +163,15 @@
   {
     "label": "paladin",
     "class": {
-      "url": "classes/paladin",
-      "name": "Paladin"
+      "label": "paladin",
+      "name": "Paladin",
+      "url": "classes/paladin"
     },
     "level": 2,
     "spellcasting_ability": {
-      "url": "ability-scores/cha",
-      "name": "CHA"
+      "label": "cha",
+      "name": "CHA",
+      "url": "ability-scores/cha"
     },
     "info": [
       {
@@ -193,13 +201,15 @@
   {
     "label": "ranger",
     "class": {
-      "url": "classes/ranger",
-      "name": "Ranger"
+      "label": "ranger",
+      "name": "Ranger",
+      "url": "classes/ranger"
     },
     "level": 2,
     "spellcasting_ability": {
-      "url": "ability-scores/wis",
-      "name": "WIS"
+      "label": "wis",
+      "name": "WIS",
+      "url": "ability-scores/wis"
     },
     "info": [
       {
@@ -229,13 +239,15 @@
   {
     "label": "sorcerer",
     "class": {
-      "url": "classes/sorcerer",
-      "name": "Sorcerer"
+      "label": "sorcerer",
+      "name": "Sorcerer",
+      "url": "classes/sorcerer"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "ability-scores/cha",
-      "name": "CHA"
+      "label": "cha",
+      "name": "CHA",
+      "url": "ability-scores/cha"
     },
     "info": [
       {
@@ -277,13 +289,15 @@
   {
     "label": "warlock",
     "class": {
-      "url": "classes/warlock",
-      "name": "Warlock"
+      "label": "warlock",
+      "name": "Warlock",
+      "url": "classes/warlock"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "ability-scores/cha",
-      "name": "CHA"
+      "label": "cha",
+      "name": "CHA",
+      "url": "ability-scores/cha"
     },
     "info": [
       {
@@ -326,13 +340,15 @@
   {
     "label": "wizard",
     "class": {
-      "url": "classes/wizard",
-      "name": "Wizard"
+      "label": "wizard",
+      "name": "Wizard",
+      "url": "classes/wizard"
     },
     "level": 1,
     "spellcasting_ability": {
-      "url": "ability-scores/int",
-      "name": "INT"
+      "label": "int",
+      "name": "INT",
+      "url": "ability-scores/int"
     },
     "info": [
       {

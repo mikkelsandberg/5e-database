@@ -5,41 +5,49 @@
     "name": "Light armor",
     "classes": [
       {
-        "url": "classes/barbarian",
-        "name": "Barbarian"
+        "label": "barbarian",
+        "name": "Barbarian",
+        "url": "classes/barbarian"
       },
       {
-        "url": "classes/bard",
-        "name": "Bard"
+        "label": "bard",
+        "name": "Bard",
+        "url": "classes/bard"
       },
       {
-        "url": "classes/cleric",
-        "name": "Cleric"
+        "label": "cleric",
+        "name": "Cleric",
+        "url": "classes/cleric"
       },
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       },
       {
-        "url": "classes/ranger",
-        "name": "Ranger"
+        "label": "ranger",
+        "name": "Ranger",
+        "url": "classes/ranger"
       },
       {
-        "url": "classes/rogue",
-        "name": "Rogue"
+        "label": "rogue",
+        "name": "Rogue",
+        "url": "classes/rogue"
       },
       {
-        "url": "classes/warlock",
-        "name": "Warlock"
+        "label": "warlock",
+        "name": "Warlock",
+        "url": "classes/warlock"
       }
     ],
     "races": [],
     "url": "proficiencies/light-armor",
     "references": [
       {
-        "url": "equipment-types/light-armor",
+        "label": "light-armor",
         "type": "equipment-types",
-        "name": "Light armor"
+        "name": "Light armor",
+        "url": "equipment-types/light-armor"
       }
     ]
   },
@@ -49,29 +57,34 @@
     "name": "Medium armor",
     "classes": [
       {
-        "url": "classes/barbarian",
-        "name": "Barbarian"
+        "label": "barbarian",
+        "name": "Barbarian",
+        "url": "classes/barbarian"
       },
       {
-        "url": "classes/cleric",
-        "name": "Cleric"
+        "label": "cleric",
+        "name": "Cleric",
+        "url": "classes/cleric"
       },
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       },
       {
-        "url": "classes/ranger",
-        "name": "Ranger"
+        "label": "ranger",
+        "name": "Ranger",
+        "url": "classes/ranger"
       }
     ],
     "races": [],
     "url": "proficiencies/medium-armor",
     "references": [
       {
-        "url": "equipment-types/medium-armor",
+        "label": "medium-armor",
         "type": "equipment-types",
-        "name": "Medium armor"
+        "name": "Medium armor",
+        "url": "equipment-types/medium-armor"
       }
     ]
   },
@@ -84,9 +97,10 @@
     "url": "proficiencies/heavy-armor",
     "references": [
       {
-        "url": "equipment-types/heavy-armor",
+        "label": "heavy-armor",
         "type": "equipment-types",
-        "name": "Heavy armor"
+        "name": "Heavy armor",
+        "url": "equipment-types/heavy-armor"
       }
     ]
   },
@@ -96,21 +110,24 @@
     "name": "All armor",
     "classes": [
       {
-        "url": "classes/fighter",
-        "name": "Fighter"
+        "label": "fighter",
+        "name": "Fighter",
+        "url": "classes/fighter"
       },
       {
-        "url": "classes/paladin",
-        "name": "Paladin"
+        "label": "paladin",
+        "name": "Paladin",
+        "url": "classes/paladin"
       }
     ],
     "races": [],
     "url": "proficiencies/all-armor",
     "references": [
       {
-        "url": "equipment-types/armor",
+        "label": "armor",
         "type": "equipment-types",
-        "name": "All armor"
+        "name": "All armor",
+        "url": "equipment-types/armor"
       }
     ]
   },
@@ -123,9 +140,10 @@
     "url": "proficiencies/padded",
     "references": [
       {
-        "url": "equipment-items/padded",
+        "label": "padded",
         "type": "equipment",
-        "name": "Padded"
+        "name": "Padded",
+        "url": "equipment-items/padded"
       }
     ]
   },
@@ -138,9 +156,10 @@
     "url": "proficiencies/leather",
     "references": [
       {
-        "url": "equipment-items/leather",
+        "label": "leather",
         "type": "equipment",
-        "name": "Leather"
+        "name": "Leather",
+        "url": "equipment-items/leather"
       }
     ]
   },
@@ -153,9 +172,10 @@
     "url": "proficiencies/studded-leather",
     "references": [
       {
-        "url": "equipment-items/studded-leather",
+        "label": "studded-leather",
         "type": "equipment",
-        "name": "Studded Leather"
+        "name": "Studded Leather",
+        "url": "equipment-items/studded-leather"
       }
     ]
   },
@@ -168,9 +188,10 @@
     "url": "proficiencies/hide",
     "references": [
       {
-        "url": "equipment-items/hide",
+        "label": "hide",
         "type": "equipment",
-        "name": "Hide"
+        "name": "Hide",
+        "url": "equipment-items/hide"
       }
     ]
   },
@@ -183,9 +204,10 @@
     "url": "proficiencies/chain-shirt",
     "references": [
       {
-        "url": "equipment-items/chain-shirt",
+        "label": "chain-shirt",
         "type": "equipment",
-        "name": "Chain Shirt"
+        "name": "Chain Shirt",
+        "url": "equipment-items/chain-shirt"
       }
     ]
   },
@@ -198,9 +220,10 @@
     "url": "proficiencies/scale-mail",
     "references": [
       {
-        "url": "equipment-items/scale-mail",
+        "label": "scale-mail",
         "type": "equipment",
-        "name": "Scale Mail"
+        "name": "Scale Mail",
+        "url": "equipment-items/scale-mail"
       }
     ]
   },
@@ -213,9 +236,10 @@
     "url": "proficiencies/breastplate",
     "references": [
       {
-        "url": "equipment-items/breastplate",
+        "label": "breastplate",
         "type": "equipment",
-        "name": "Breastplate"
+        "name": "Breastplate",
+        "url": "equipment-items/breastplate"
       }
     ]
   },
@@ -228,9 +252,10 @@
     "url": "proficiencies/half-plate",
     "references": [
       {
-        "url": "equipment-items/half-plate",
+        "label": "half-plate",
         "type": "equipment",
-        "name": "Half Plate"
+        "name": "Half Plate",
+        "url": "equipment-items/half-plate"
       }
     ]
   },
@@ -243,9 +268,10 @@
     "url": "proficiencies/ring-mail",
     "references": [
       {
-        "url": "equipment-items/ring-mail",
+        "label": "ring-mail",
         "type": "equipment",
-        "name": "Ring Mail"
+        "name": "Ring Mail",
+        "url": "equipment-items/ring-mail"
       }
     ]
   },
@@ -258,9 +284,10 @@
     "url": "proficiencies/chain-mail",
     "references": [
       {
-        "url": "equipment-items/chain-mail",
+        "label": "chain-mail",
         "type": "equipment",
-        "name": "Chain Mail"
+        "name": "Chain Mail",
+        "url": "equipment-items/chain-mail"
       }
     ]
   },
@@ -273,9 +300,10 @@
     "url": "proficiencies/splint",
     "references": [
       {
-        "url": "equipment-items/splint",
+        "label": "splint",
         "type": "equipment",
-        "name": "Splint"
+        "name": "Splint",
+        "url": "equipment-items/splint"
       }
     ]
   },
@@ -288,9 +316,10 @@
     "url": "proficiencies/plate",
     "references": [
       {
-        "url": "equipment-items/plate",
+        "label": "plate",
         "type": "equipment",
-        "name": "Plate"
+        "name": "Plate",
+        "url": "equipment-items/plate"
       }
     ]
   },
@@ -300,37 +329,44 @@
     "name": "Shields",
     "classes": [
       {
-        "url": "classes/barbarian",
-        "name": "Barbarian"
+        "label": "barbarian",
+        "name": "Barbarian",
+        "url": "classes/barbarian"
       },
       {
-        "url": "classes/cleric",
-        "name": "Cleric"
+        "label": "cleric",
+        "name": "Cleric",
+        "url": "classes/cleric"
       },
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       },
       {
-        "url": "classes/fighter",
-        "name": "Fighter"
+        "label": "fighter",
+        "name": "Fighter",
+        "url": "classes/fighter"
       },
       {
-        "url": "classes/paladin",
-        "name": "Paladin"
+        "label": "paladin",
+        "name": "Paladin",
+        "url": "classes/paladin"
       },
       {
-        "url": "classes/ranger",
-        "name": "Ranger"
+        "label": "ranger",
+        "name": "Ranger",
+        "url": "classes/ranger"
       }
     ],
     "races": [],
     "url": "proficiencies/shields",
     "references": [
       {
-        "url": "equipment-items/shield",
+        "label": "shield",
         "type": "equipment",
-        "name": "Shield"
+        "name": "Shield",
+        "url": "equipment-items/shield"
       }
     ]
   },
@@ -340,49 +376,59 @@
     "name": "Simple weapons",
     "classes": [
       {
-        "url": "classes/barbarian",
-        "name": "Barbarian"
+        "label": "barbarian",
+        "name": "Barbarian",
+        "url": "classes/barbarian"
       },
       {
-        "url": "classes/bard",
-        "name": "Bard"
+        "label": "bard",
+        "name": "Bard",
+        "url": "classes/bard"
       },
       {
-        "url": "classes/cleric",
-        "name": "Cleric"
+        "label": "cleric",
+        "name": "Cleric",
+        "url": "classes/cleric"
       },
       {
-        "url": "classes/fighter",
-        "name": "Fighter"
+        "label": "fighter",
+        "name": "Fighter",
+        "url": "classes/fighter"
       },
       {
-        "url": "classes/monk",
-        "name": "Monk"
+        "label": "monk",
+        "name": "Monk",
+        "url": "classes/monk"
       },
       {
-        "url": "classes/paladin",
-        "name": "Paladin"
+        "label": "paladin",
+        "name": "Paladin",
+        "url": "classes/paladin"
       },
       {
-        "url": "classes/ranger",
-        "name": "Ranger"
+        "label": "ranger",
+        "name": "Ranger",
+        "url": "classes/ranger"
       },
       {
-        "url": "classes/rogue",
-        "name": "Rogue"
+        "label": "rogue",
+        "name": "Rogue",
+        "url": "classes/rogue"
       },
       {
-        "url": "classes/warlock",
-        "name": "Warlock"
+        "label": "warlock",
+        "name": "Warlock",
+        "url": "classes/warlock"
       }
     ],
     "races": [],
     "url": "proficiencies/simple-weapons",
     "references": [
       {
-        "url": "equipment-types/simple-weapons",
+        "label": "simple-weapons",
         "type": "equipment-types",
-        "name": "Simple weapons"
+        "name": "Simple weapons",
+        "url": "equipment-types/simple-weapons"
       }
     ]
   },
@@ -392,29 +438,34 @@
     "name": "Martial weapons",
     "classes": [
       {
-        "url": "classes/barbarian",
-        "name": "Barbarian"
+        "label": "barbarian",
+        "name": "Barbarian",
+        "url": "classes/barbarian"
       },
       {
-        "url": "classes/fighter",
-        "name": "Fighter"
+        "label": "fighter",
+        "name": "Fighter",
+        "url": "classes/fighter"
       },
       {
-        "url": "classes/paladin",
-        "name": "Paladin"
+        "label": "paladin",
+        "name": "Paladin",
+        "url": "classes/paladin"
       },
       {
-        "url": "classes/ranger",
-        "name": "Ranger"
+        "label": "ranger",
+        "name": "Ranger",
+        "url": "classes/ranger"
       }
     ],
     "races": [],
     "url": "proficiencies/martial-weapons",
     "references": [
       {
-        "url": "equipment-types/martial-weapons",
+        "label": "martial-weapons",
         "type": "equipment-types",
-        "name": "Martial weapons"
+        "name": "Martial weapons",
+        "url": "equipment-types/martial-weapons"
       }
     ]
   },
@@ -424,17 +475,19 @@
     "name": "Clubs",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       }
     ],
     "races": [],
     "url": "proficiencies/clubs",
     "references": [
       {
-        "url": "equipment-items/club",
+        "label": "club",
         "type": "equipment",
-        "name": "Club"
+        "name": "Club",
+        "url": "equipment-items/club"
       }
     ]
   },
@@ -444,25 +497,29 @@
     "name": "Daggers",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       },
       {
-        "url": "classes/sorcerer",
-        "name": "Sorcerer"
+        "label": "sorcerer",
+        "name": "Sorcerer",
+        "url": "classes/sorcerer"
       },
       {
-        "url": "classes/wizard",
-        "name": "Wizard"
+        "label": "wizard",
+        "name": "Wizard",
+        "url": "classes/wizard"
       }
     ],
     "races": [],
     "url": "proficiencies/daggers",
     "references": [
       {
-        "url": "equipment-items/dagger",
+        "label": "dagger",
         "type": "equipment",
-        "name": "Dagger"
+        "name": "Dagger",
+        "url": "equipment-items/dagger"
       }
     ]
   },
@@ -475,9 +532,10 @@
     "url": "proficiencies/greatclubs",
     "references": [
       {
-        "url": "equipment-items/greatclub",
+        "label": "greatclub",
         "type": "equipment",
-        "name": "Greatclub"
+        "name": "Greatclub",
+        "url": "equipment-items/greatclub"
       }
     ]
   },
@@ -488,16 +546,18 @@
     "classes": [],
     "races": [
       {
-        "url": "races/dwarf",
-        "name": "Dwarf"
+        "label": "dwarf",
+        "name": "Dwarf",
+        "url": "races/dwarf"
       }
     ],
     "url": "proficiencies/handaxes",
     "references": [
       {
-        "url": "equipment-items/handaxe",
+        "label": "handaxe",
         "type": "equipment",
-        "name": "Handaxe"
+        "name": "Handaxe",
+        "url": "equipment-items/handaxe"
       }
     ]
   },
@@ -507,17 +567,19 @@
     "name": "Javelins",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       }
     ],
     "races": [],
     "url": "proficiencies/javelins",
     "references": [
       {
-        "url": "equipment-items/javelin",
+        "label": "javelin",
         "type": "equipment",
-        "name": "Javelin"
+        "name": "Javelin",
+        "url": "equipment-items/javelin"
       }
     ]
   },
@@ -528,16 +590,18 @@
     "classes": [],
     "races": [
       {
-        "url": "races/dwarf",
-        "name": "Dwarf"
+        "label": "dwarf",
+        "name": "Dwarf",
+        "url": "races/dwarf"
       }
     ],
     "url": "proficiencies/light-hammers",
     "references": [
       {
-        "url": "equipment-items/light-hammer",
+        "label": "light-hammer",
         "type": "equipment",
-        "name": "Light hammer"
+        "name": "Light hammer",
+        "url": "equipment-items/light-hammer"
       }
     ]
   },
@@ -547,17 +611,19 @@
     "name": "Maces",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       }
     ],
     "races": [],
     "url": "proficiencies/maces",
     "references": [
       {
-        "url": "equipment-items/mace",
+        "label": "mace",
         "type": "equipment",
-        "name": "Mace"
+        "name": "Mace",
+        "url": "equipment-items/mace"
       }
     ]
   },
@@ -567,25 +633,29 @@
     "name": "Quarterstaffs",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       },
       {
-        "url": "classes/sorcerer",
-        "name": "Sorcerer"
+        "label": "sorcerer",
+        "name": "Sorcerer",
+        "url": "classes/sorcerer"
       },
       {
-        "url": "classes/wizard",
-        "name": "Wizard"
+        "label": "wizard",
+        "name": "Wizard",
+        "url": "classes/wizard"
       }
     ],
     "races": [],
     "url": "proficiencies/quarterstaffs",
     "references": [
       {
-        "url": "equipment-items/quarterstaff",
+        "label": "quarterstaff",
         "type": "equipment",
-        "name": "Quarterstaff"
+        "name": "Quarterstaff",
+        "url": "equipment-items/quarterstaff"
       }
     ]
   },
@@ -595,17 +665,19 @@
     "name": "Sickles",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       }
     ],
     "races": [],
     "url": "proficiencies/sickles",
     "references": [
       {
-        "url": "equipment-items/sickle",
+        "label": "sickle",
         "type": "equipment",
-        "name": "Sickle"
+        "name": "Sickle",
+        "url": "equipment-items/sickle"
       }
     ]
   },
@@ -615,17 +687,19 @@
     "name": "Spears",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       }
     ],
     "races": [],
     "url": "proficiencies/spears",
     "references": [
       {
-        "url": "equipment-items/spear",
+        "label": "spear",
         "type": "equipment",
-        "name": "Spear"
+        "name": "Spear",
+        "url": "equipment-items/spear"
       }
     ]
   },
@@ -638,9 +712,10 @@
     "url": "proficiencies/crossbows-light",
     "references": [
       {
-        "url": "equipment-items/crossbow-light",
+        "label": "crossbow-light",
         "type": "equipment",
-        "name": "Crossbow, light"
+        "name": "Crossbow, light",
+        "url": "equipment-items/crossbow-light"
       }
     ]
   },
@@ -650,25 +725,29 @@
     "name": "Darts",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       },
       {
-        "url": "classes/sorcerer",
-        "name": "Sorcerer"
+        "label": "sorcerer",
+        "name": "Sorcerer",
+        "url": "classes/sorcerer"
       },
       {
-        "url": "classes/wizard",
-        "name": "Wizard"
+        "label": "wizard",
+        "name": "Wizard",
+        "url": "classes/wizard"
       }
     ],
     "races": [],
     "url": "proficiencies/darts",
     "references": [
       {
-        "url": "equipment-items/dart",
+        "label": "dart",
         "type": "equipment",
-        "name": "Dart"
+        "name": "Dart",
+        "url": "equipment-items/dart"
       }
     ]
   },
@@ -679,16 +758,18 @@
     "classes": [],
     "races": [
       {
-        "url": "subraces/high-elf",
-        "name": "High Elf"
+        "label": "high-elf",
+        "name": "High Elf",
+        "url": "subraces/high-elf"
       }
     ],
     "url": "proficiencies/shortbows",
     "references": [
       {
-        "url": "equipment-items/shortbow",
+        "label": "shortbow",
         "type": "equipment",
-        "name": "Shortbow"
+        "name": "Shortbow",
+        "url": "equipment-items/shortbow"
       }
     ]
   },
@@ -698,25 +779,29 @@
     "name": "Slings",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       },
       {
-        "url": "classes/sorcerer",
-        "name": "Sorcerer"
+        "label": "sorcerer",
+        "name": "Sorcerer",
+        "url": "classes/sorcerer"
       },
       {
-        "url": "classes/wizard",
-        "name": "Wizard"
+        "label": "wizard",
+        "name": "Wizard",
+        "url": "classes/wizard"
       }
     ],
     "races": [],
     "url": "proficiencies/slings",
     "references": [
       {
-        "url": "equipment-items/sling",
+        "label": "sling",
         "type": "equipment",
-        "name": "Sling"
+        "name": "Sling",
+        "url": "equipment-items/sling"
       }
     ]
   },
@@ -727,16 +812,18 @@
     "classes": [],
     "races": [
       {
-        "url": "races/dwarf",
-        "name": "Dwarf"
+        "label": "dwarf",
+        "name": "Dwarf",
+        "url": "races/dwarf"
       }
     ],
     "url": "proficiencies/battleaxes",
     "references": [
       {
-        "url": "equipment-items/battleaxe",
+        "label": "battleaxe",
         "type": "equipment",
-        "name": "Battleaxe"
+        "name": "Battleaxe",
+        "url": "equipment-items/battleaxe"
       }
     ]
   },
@@ -749,9 +836,10 @@
     "url": "proficiencies/flails",
     "references": [
       {
-        "url": "equipment-items/flail",
+        "label": "flail",
         "type": "equipment",
-        "name": "Flail"
+        "name": "Flail",
+        "url": "equipment-items/flail"
       }
     ]
   },
@@ -764,9 +852,10 @@
     "url": "proficiencies/glaives",
     "references": [
       {
-        "url": "equipment-items/glaive",
+        "label": "glaive",
         "type": "equipment",
-        "name": "Glaive"
+        "name": "Glaive",
+        "url": "equipment-items/glaive"
       }
     ]
   },
@@ -779,9 +868,10 @@
     "url": "proficiencies/greataxes",
     "references": [
       {
-        "url": "equipment-items/greataxe",
+        "label": "greataxe",
         "type": "equipment",
-        "name": "Greataxe"
+        "name": "Greataxe",
+        "url": "equipment-items/greataxe"
       }
     ]
   },
@@ -794,9 +884,10 @@
     "url": "proficiencies/greatswords",
     "references": [
       {
-        "url": "equipment-items/greatsword",
+        "label": "greatsword",
         "type": "equipment",
-        "name": "Greatsword"
+        "name": "Greatsword",
+        "url": "equipment-items/greatsword"
       }
     ]
   },
@@ -809,9 +900,10 @@
     "url": "proficiencies/halberds",
     "references": [
       {
-        "url": "equipment-items/halberd",
+        "label": "halberd",
         "type": "equipment",
-        "name": "Halberd"
+        "name": "Halberd",
+        "url": "equipment-items/halberd"
       }
     ]
   },
@@ -824,9 +916,10 @@
     "url": "proficiencies/lances",
     "references": [
       {
-        "url": "equipment-items/lance",
+        "label": "lance",
         "type": "equipment",
-        "name": "Lance"
+        "name": "Lance",
+        "url": "equipment-items/lance"
       }
     ]
   },
@@ -836,26 +929,30 @@
     "name": "Longswords",
     "classes": [
       {
-        "url": "classes/bard",
-        "name": "Bard"
+        "label": "bard",
+        "name": "Bard",
+        "url": "classes/bard"
       },
       {
-        "url": "classes/rogue",
-        "name": "Rogue"
+        "label": "rogue",
+        "name": "Rogue",
+        "url": "classes/rogue"
       }
     ],
     "races": [
       {
-        "url": "subraces/high-elf",
-        "name": "High Elf"
+        "label": "high-elf",
+        "name": "High Elf",
+        "url": "subraces/high-elf"
       }
     ],
     "url": "proficiencies/longswords",
     "references": [
       {
-        "url": "equipment-items/longsword",
+        "label": "longsword",
         "type": "equipment",
-        "name": "Longsword"
+        "name": "Longsword",
+        "url": "equipment-items/longsword"
       }
     ]
   },
@@ -868,9 +965,10 @@
     "url": "proficiencies/mauls",
     "references": [
       {
-        "url": "equipment-items/maul",
+        "label": "maul",
         "type": "equipment",
-        "name": "Maul"
+        "name": "Maul",
+        "url": "equipment-items/maul"
       }
     ]
   },
@@ -883,9 +981,10 @@
     "url": "proficiencies/morningstars",
     "references": [
       {
-        "url": "equipment-items/morningstar",
+        "label": "morningstar",
         "type": "equipment",
-        "name": "Morningstar"
+        "name": "Morningstar",
+        "url": "equipment-items/morningstar"
       }
     ]
   },
@@ -898,9 +997,10 @@
     "url": "proficiencies/pikes",
     "references": [
       {
-        "url": "equipment-items/pike",
+        "label": "pike",
         "type": "equipment",
-        "name": "Pike"
+        "name": "Pike",
+        "url": "equipment-items/pike"
       }
     ]
   },
@@ -910,21 +1010,24 @@
     "name": "Rapiers",
     "classes": [
       {
-        "url": "classes/bard",
-        "name": "Bard"
+        "label": "bard",
+        "name": "Bard",
+        "url": "classes/bard"
       },
       {
-        "url": "classes/rogue",
-        "name": "Rogue"
+        "label": "rogue",
+        "name": "Rogue",
+        "url": "classes/rogue"
       }
     ],
     "races": [],
     "url": "proficiencies/rapiers",
     "references": [
       {
-        "url": "equipment-items/rapier",
+        "label": "rapier",
         "type": "equipment",
-        "name": "Rapier"
+        "name": "Rapier",
+        "url": "equipment-items/rapier"
       }
     ]
   },
@@ -934,17 +1037,19 @@
     "name": "Scimitars",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       }
     ],
     "races": [],
     "url": "proficiencies/scimitars",
     "references": [
       {
-        "url": "equipment-items/scimitar",
+        "label": "scimitar",
         "type": "equipment",
-        "name": "Scimitar"
+        "name": "Scimitar",
+        "url": "equipment-items/scimitar"
       }
     ]
   },
@@ -954,30 +1059,35 @@
     "name": "Shortswords",
     "classes": [
       {
-        "url": "classes/bard",
-        "name": "Bard"
+        "label": "bard",
+        "name": "Bard",
+        "url": "classes/bard"
       },
       {
-        "url": "classes/monk",
-        "name": "Monk"
+        "label": "monk",
+        "name": "Monk",
+        "url": "classes/monk"
       },
       {
-        "url": "classes/rogue",
-        "name": "Rogue"
+        "label": "rogue",
+        "name": "Rogue",
+        "url": "classes/rogue"
       }
     ],
     "races": [
       {
-        "url": "subraces/high-elf",
-        "name": "High Elf"
+        "label": "high-elf",
+        "name": "High Elf",
+        "url": "subraces/high-elf"
       }
     ],
     "url": "proficiencies/shortswords",
     "references": [
       {
-        "url": "equipment-items/shortsword",
+        "label": "shortsword",
         "type": "equipment",
-        "name": "Shortsword"
+        "name": "Shortsword",
+        "url": "equipment-items/shortsword"
       }
     ]
   },
@@ -990,9 +1100,10 @@
     "url": "proficiencies/tridents",
     "references": [
       {
-        "url": "equipment-items/trident",
+        "label": "trident",
         "type": "equipment",
-        "name": "Trident"
+        "name": "Trident",
+        "url": "equipment-items/trident"
       }
     ]
   },
@@ -1005,9 +1116,10 @@
     "url": "proficiencies/war-picks",
     "references": [
       {
-        "url": "equipment-items/war-pick",
+        "label": "war-pick",
         "type": "equipment",
-        "name": "War pick"
+        "name": "War pick",
+        "url": "equipment-items/war-pick"
       }
     ]
   },
@@ -1018,16 +1130,18 @@
     "classes": [],
     "races": [
       {
-        "url": "races/dwarf",
-        "name": "Dwarf"
+        "label": "dwarf",
+        "name": "Dwarf",
+        "url": "races/dwarf"
       }
     ],
     "url": "proficiencies/warhammers",
     "references": [
       {
-        "url": "equipment-items/warhammer",
+        "label": "warhammer",
         "type": "equipment",
-        "name": "Warhammer"
+        "name": "Warhammer",
+        "url": "equipment-items/warhammer"
       }
     ]
   },
@@ -1040,9 +1154,10 @@
     "url": "proficiencies/whips",
     "references": [
       {
-        "url": "equipment-items/whip",
+        "label": "whip",
         "type": "equipment",
-        "name": "Whip"
+        "name": "Whip",
+        "url": "equipment-items/whip"
       }
     ]
   },
@@ -1055,9 +1170,10 @@
     "url": "proficiencies/blowguns",
     "references": [
       {
-        "url": "equipment-items/blowgun",
+        "label": "blowgun",
         "type": "equipment",
-        "name": "Blowgun"
+        "name": "Blowgun",
+        "url": "equipment-items/blowgun"
       }
     ]
   },
@@ -1067,21 +1183,24 @@
     "name": "Crossbows, hand",
     "classes": [
       {
-        "url": "classes/bard",
-        "name": "Bard"
+        "label": "bard",
+        "name": "Bard",
+        "url": "classes/bard"
       },
       {
-        "url": "classes/rogue",
-        "name": "Rogue"
+        "label": "rogue",
+        "name": "Rogue",
+        "url": "classes/rogue"
       }
     ],
     "races": [],
     "url": "proficiencies/crossbows-hand",
     "references": [
       {
-        "url": "equipment-items/crossbow-hand",
+        "label": "crossbow-hand",
         "type": "equipment",
-        "name": "Crossbow, hand"
+        "name": "Crossbow, hand",
+        "url": "equipment-items/crossbow-hand"
       }
     ]
   },
@@ -1094,9 +1213,10 @@
     "url": "proficiencies/crossbows-heavy",
     "references": [
       {
-        "url": "equipment-items/crossbow-heavy",
+        "label": "crossbow-heavy",
         "type": "equipment",
-        "name": "Crossbow, heavy"
+        "name": "Crossbow, heavy",
+        "url": "equipment-items/crossbow-heavy"
       }
     ]
   },
@@ -1107,16 +1227,18 @@
     "classes": [],
     "races": [
       {
-        "url": "subraces/high-elf",
-        "name": "High Elf"
+        "label": "high-elf",
+        "name": "High Elf",
+        "url": "subraces/high-elf"
       }
     ],
     "url": "proficiencies/longbows",
     "references": [
       {
-        "url": "equipment-items/longbow",
+        "label": "longbow",
         "type": "equipment",
-        "name": "Longbow"
+        "name": "Longbow",
+        "url": "equipment-items/longbow"
       }
     ]
   },
@@ -1129,9 +1251,10 @@
     "url": "proficiencies/nets",
     "references": [
       {
-        "url": "equipment-items/net",
+        "label": "net",
         "type": "equipment",
-        "name": "Net"
+        "name": "Net",
+        "url": "equipment-items/net"
       }
     ]
   },
@@ -1144,9 +1267,10 @@
     "url": "proficiencies/alchemists-supplies",
     "references": [
       {
-        "url": "equipment-items/alchemists-supplies",
+        "label": "alchemists-supplies",
         "type": "equipment",
-        "name": "Alchemist's supplies"
+        "name": "Alchemist's supplies",
+        "url": "equipment-items/alchemists-supplies"
       }
     ]
   },
@@ -1159,9 +1283,10 @@
     "url": "proficiencies/brewers-supplies",
     "references": [
       {
-        "url": "equipment-items/brewers-supplies",
+        "label": "brewers-supplies",
         "type": "equipment",
-        "name": "Brewer's supplies"
+        "name": "Brewer's supplies",
+        "url": "equipment-items/brewers-supplies"
       }
     ]
   },
@@ -1174,9 +1299,10 @@
     "url": "proficiencies/calligraphers-supplies",
     "references": [
       {
-        "url": "equipment-items/calligraphers-supplies",
+        "label": "calligraphers-supplies",
         "type": "equipment",
-        "name": "Calligrapher's supplies"
+        "name": "Calligrapher's supplies",
+        "url": "equipment-items/calligraphers-supplies"
       }
     ]
   },
@@ -1189,9 +1315,10 @@
     "url": "proficiencies/carpenters-tools",
     "references": [
       {
-        "url": "equipment-items/carpenters-tools",
+        "label": "carpenters-tools",
         "type": "equipment",
-        "name": "Carpenter's tools"
+        "name": "Carpenter's tools",
+        "url": "equipment-items/carpenters-tools"
       }
     ]
   },
@@ -1204,9 +1331,10 @@
     "url": "proficiencies/cartographers-tools",
     "references": [
       {
-        "url": "equipment-items/cartographers-tools",
+        "label": "cartographers-tools",
         "type": "equipment",
-        "name": "Cartographer's tools"
+        "name": "Cartographer's tools",
+        "url": "equipment-items/cartographers-tools"
       }
     ]
   },
@@ -1219,9 +1347,10 @@
     "url": "proficiencies/cobblers-tools",
     "references": [
       {
-        "url": "equipment-items/cobblers-tools",
+        "label": "cobblers-tools",
         "type": "equipment",
-        "name": "Cobbler's tools"
+        "name": "Cobbler's tools",
+        "url": "equipment-items/cobblers-tools"
       }
     ]
   },
@@ -1234,9 +1363,10 @@
     "url": "proficiencies/cooks-utensils",
     "references": [
       {
-        "url": "equipment-items/cooks-utensils",
+        "label": "cooks-utensils",
         "type": "equipment",
-        "name": "Cook's utensils"
+        "name": "Cook's utensils",
+        "url": "equipment-items/cooks-utensils"
       }
     ]
   },
@@ -1249,9 +1379,10 @@
     "url": "proficiencies/glassblowers-tools",
     "references": [
       {
-        "url": "equipment-items/glassblowers-tools",
+        "label": "glassblowers-tools",
         "type": "equipment",
-        "name": "Glassblower's tools"
+        "name": "Glassblower's tools",
+        "url": "equipment-items/glassblowers-tools"
       }
     ]
   },
@@ -1264,9 +1395,10 @@
     "url": "proficiencies/jewelers-tools",
     "references": [
       {
-        "url": "equipment-items/jewelers-tools",
+        "label": "jewelers-tools",
         "type": "equipment",
-        "name": "Jeweler's tools"
+        "name": "Jeweler's tools",
+        "url": "equipment-items/jewelers-tools"
       }
     ]
   },
@@ -1279,9 +1411,10 @@
     "url": "proficiencies/leatherworkers-tools",
     "references": [
       {
-        "url": "equipment-items/leatherworkers-tools",
+        "label": "leatherworkers-tools",
         "type": "equipment",
-        "name": "Leatherworker's tools"
+        "name": "Leatherworker's tools",
+        "url": "equipment-items/leatherworkers-tools"
       }
     ]
   },
@@ -1294,9 +1427,10 @@
     "url": "proficiencies/masons-tools",
     "references": [
       {
-        "url": "equipment-items/masons-tools",
+        "label": "masons-tools",
         "type": "equipment",
-        "name": "Mason's tools"
+        "name": "Mason's tools",
+        "url": "equipment-items/masons-tools"
       }
     ]
   },
@@ -1309,9 +1443,10 @@
     "url": "proficiencies/painters-supplies",
     "references": [
       {
-        "url": "equipment-items/painters-supplies",
+        "label": "painters-supplies",
         "type": "equipment",
-        "name": "Painter's supplies"
+        "name": "Painter's supplies",
+        "url": "equipment-items/painters-supplies"
       }
     ]
   },
@@ -1324,9 +1459,10 @@
     "url": "proficiencies/potters-tools",
     "references": [
       {
-        "url": "equipment-items/potters-tools",
+        "label": "potters-tools",
         "type": "equipment",
-        "name": "Potter's tools"
+        "name": "Potter's tools",
+        "url": "equipment-items/potters-tools"
       }
     ]
   },
@@ -1339,9 +1475,10 @@
     "url": "proficiencies/smiths-tools",
     "references": [
       {
-        "url": "equipment-items/smiths-tools",
+        "label": "smiths-tools",
         "type": "equipment",
-        "name": "Smith's tools"
+        "name": "Smith's tools",
+        "url": "equipment-items/smiths-tools"
       }
     ]
   },
@@ -1354,9 +1491,10 @@
     "url": "proficiencies/tinkers-tools",
     "references": [
       {
-        "url": "equipment-items/tinkers-tools",
+        "label": "tinkers-tools",
         "type": "equipment",
-        "name": "Tinker's tools"
+        "name": "Tinker's tools",
+        "url": "equipment-items/tinkers-tools"
       }
     ]
   },
@@ -1369,9 +1507,10 @@
     "url": "proficiencies/weavers-tools",
     "references": [
       {
-        "url": "equipment-items/weavers-tools",
+        "label": "weavers-tools",
         "type": "equipment",
-        "name": "Weaver's tools"
+        "name": "Weaver's tools",
+        "url": "equipment-items/weavers-tools"
       }
     ]
   },
@@ -1384,9 +1523,10 @@
     "url": "proficiencies/woodcarvers-tools",
     "references": [
       {
-        "url": "equipment-items/woodcarvers-tools",
+        "label": "woodcarvers-tools",
         "type": "equipment",
-        "name": "Woodcarver's tools"
+        "name": "Woodcarver's tools",
+        "url": "equipment-items/woodcarvers-tools"
       }
     ]
   },
@@ -1399,9 +1539,10 @@
     "url": "proficiencies/disguise-kit",
     "references": [
       {
-        "url": "equipment-items/disguise-kit",
+        "label": "disguise-kit",
         "type": "equipment",
-        "name": "Disguise kit"
+        "name": "Disguise kit",
+        "url": "equipment-items/disguise-kit"
       }
     ]
   },
@@ -1414,9 +1555,10 @@
     "url": "proficiencies/forgery-kit",
     "references": [
       {
-        "url": "equipment-items/forgery-kit",
+        "label": "forgery-kit",
         "type": "equipment",
-        "name": "Forgery kit"
+        "name": "Forgery kit",
+        "url": "equipment-items/forgery-kit"
       }
     ]
   },
@@ -1429,9 +1571,10 @@
     "url": "proficiencies/dice-set",
     "references": [
       {
-        "url": "equipment-items/dice-set",
+        "label": "dice-set",
         "type": "equipment",
-        "name": "Dice Set"
+        "name": "Dice Set",
+        "url": "equipment-items/dice-set"
       }
     ]
   },
@@ -1444,9 +1587,10 @@
     "url": "proficiencies/playing-card-set",
     "references": [
       {
-        "url": "equipment-items/playing-card-set",
+        "label": "playing-card-set",
         "type": "equipment",
-        "name": "Playing card set"
+        "name": "Playing card set",
+        "url": "equipment-items/playing-card-set"
       }
     ]
   },
@@ -1459,9 +1603,10 @@
     "url": "proficiencies/bagpipes",
     "references": [
       {
-        "url": "equipment-items/bagpipes",
+        "label": "bagpipes",
         "type": "equipment",
-        "name": "Bagpipes"
+        "name": "Bagpipes",
+        "url": "equipment-items/bagpipes"
       }
     ]
   },
@@ -1474,9 +1619,10 @@
     "url": "proficiencies/drum",
     "references": [
       {
-        "url": "equipment-items/drum",
+        "label": "drum",
         "type": "equipment",
-        "name": "Drum"
+        "name": "Drum",
+        "url": "equipment-items/drum"
       }
     ]
   },
@@ -1489,9 +1635,10 @@
     "url": "proficiencies/dulcimer",
     "references": [
       {
-        "url": "equipment-items/dulcimer",
+        "label": "dulcimer",
         "type": "equipment",
-        "name": "Dulcimer"
+        "name": "Dulcimer",
+        "url": "equipment-items/dulcimer"
       }
     ]
   },
@@ -1504,9 +1651,10 @@
     "url": "proficiencies/flute",
     "references": [
       {
-        "url": "equipment-items/flute",
+        "label": "flute",
         "type": "equipment",
-        "name": "Flute"
+        "name": "Flute",
+        "url": "equipment-items/flute"
       }
     ]
   },
@@ -1519,9 +1667,10 @@
     "url": "proficiencies/lute",
     "references": [
       {
-        "url": "equipment-items/lute",
+        "label": "lute",
         "type": "equipment",
-        "name": "Lute"
+        "name": "Lute",
+        "url": "equipment-items/lute"
       }
     ]
   },
@@ -1534,9 +1683,10 @@
     "url": "proficiencies/lyre",
     "references": [
       {
-        "url": "equipment-items/lyre",
+        "label": "lyre",
         "type": "equipment",
-        "name": "Lyre"
+        "name": "Lyre",
+        "url": "equipment-items/lyre"
       }
     ]
   },
@@ -1549,9 +1699,10 @@
     "url": "proficiencies/horn",
     "references": [
       {
-        "url": "equipment-items/horn",
+        "label": "horn",
         "type": "equipment",
-        "name": "Horn"
+        "name": "Horn",
+        "url": "equipment-items/horn"
       }
     ]
   },
@@ -1564,9 +1715,10 @@
     "url": "proficiencies/pan-flute",
     "references": [
       {
-        "url": "equipment-items/pan-flute",
+        "label": "pan-flute",
         "type": "equipment",
-        "name": "Pan flute"
+        "name": "Pan flute",
+        "url": "equipment-items/pan-flute"
       }
     ]
   },
@@ -1579,9 +1731,10 @@
     "url": "proficiencies/shawm",
     "references": [
       {
-        "url": "equipment-items/shawm",
+        "label": "shawm",
         "type": "equipment",
-        "name": "Shawm"
+        "name": "Shawm",
+        "url": "equipment-items/shawm"
       }
     ]
   },
@@ -1594,9 +1747,10 @@
     "url": "proficiencies/viol",
     "references": [
       {
-        "url": "equipment-items/viol",
+        "label": "viol",
         "type": "equipment",
-        "name": "Viol"
+        "name": "Viol",
+        "url": "equipment-items/viol"
       }
     ]
   },
@@ -1606,17 +1760,19 @@
     "name": "Herbalism Kit",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       }
     ],
     "races": [],
     "url": "proficiencies/herbalism-kit",
     "references": [
       {
-        "url": "equipment-items/herbalism-kit",
+        "label": "herbalism-kit",
         "type": "equipment",
-        "name": "Herbalism Kit"
+        "name": "Herbalism Kit",
+        "url": "equipment-items/herbalism-kit"
       }
     ]
   },
@@ -1629,9 +1785,10 @@
     "url": "proficiencies/navigators-tools",
     "references": [
       {
-        "url": "equipment-items/navigators-tools",
+        "label": "navigators-tools",
         "type": "equipment",
-        "name": "Navigator's Tools"
+        "name": "Navigator's Tools",
+        "url": "equipment-items/navigators-tools"
       }
     ]
   },
@@ -1644,9 +1801,10 @@
     "url": "proficiencies/poisoners-kit",
     "references": [
       {
-        "url": "equipment-items/poisoners-kit",
+        "label": "poisoners-kit",
         "type": "equipment",
-        "name": "Poisoner's Kit"
+        "name": "Poisoner's Kit",
+        "url": "equipment-items/poisoners-kit"
       }
     ]
   },
@@ -1656,17 +1814,19 @@
     "name": "Thieves' Tools",
     "classes": [
       {
-        "url": "classes/rogue",
-        "name": "Rogue"
+        "label": "rogue",
+        "name": "Rogue",
+        "url": "classes/rogue"
       }
     ],
     "races": [],
     "url": "proficiencies/thieves-tools",
     "references": [
       {
-        "url": "equipment-items/thieves-tools",
+        "label": "thieves-tools",
         "type": "equipment",
-        "name": "Thieves' Tools"
+        "name": "Thieves' Tools",
+        "url": "equipment-items/thieves-tools"
       }
     ]
   },
@@ -1679,9 +1839,10 @@
     "url": "proficiencies/land-vehicles",
     "references": [
       {
-        "url": "equipment-types/land-vehicles",
+        "label": "land-vehicles",
         "type": "equipment-types",
-        "name": "Land Vehicles"
+        "name": "Land Vehicles",
+        "url": "equipment-types/land-vehicles"
       }
     ]
   },
@@ -1694,9 +1855,10 @@
     "url": "proficiencies/water-vehicles",
     "references": [
       {
-        "url": "equipment-types/waterborne-vehicles",
+        "label": "waterborne-vehicles",
         "type": "equipment-types",
-        "name": "Waterborne Vehicles"
+        "name": "Waterborne Vehicles",
+        "url": "equipment-types/waterborne-vehicles"
       }
     ]
   },
@@ -1706,29 +1868,34 @@
     "name": "Saving Throw: STR",
     "classes": [
       {
-        "url": "classes/barbarian",
-        "name": "Barbarian"
+        "label": "barbarian",
+        "name": "Barbarian",
+        "url": "classes/barbarian"
       },
       {
-        "url": "classes/fighter",
-        "name": "Fighter"
+        "label": "fighter",
+        "name": "Fighter",
+        "url": "classes/fighter"
       },
       {
-        "url": "classes/monk",
-        "name": "Monk"
+        "label": "monk",
+        "name": "Monk",
+        "url": "classes/monk"
       },
       {
-        "url": "classes/ranger",
-        "name": "Ranger"
+        "label": "ranger",
+        "name": "Ranger",
+        "url": "classes/ranger"
       }
     ],
     "races": [],
     "url": "proficiencies/saving-throw-str",
     "references": [
       {
-        "url": "ability-scores/str",
+        "label": "str",
         "type": "ability-scores",
-        "name": "STR"
+        "name": "STR",
+        "url": "ability-scores/str"
       }
     ]
   },
@@ -1738,29 +1905,34 @@
     "name": "Saving Throw: DEX",
     "classes": [
       {
-        "url": "classes/bard",
-        "name": "Bard"
+        "label": "bard",
+        "name": "Bard",
+        "url": "classes/bard"
       },
       {
-        "url": "classes/monk",
-        "name": "Monk"
+        "label": "monk",
+        "name": "Monk",
+        "url": "classes/monk"
       },
       {
-        "url": "classes/ranger",
-        "name": "Ranger"
+        "label": "ranger",
+        "name": "Ranger",
+        "url": "classes/ranger"
       },
       {
-        "url": "classes/rogue",
-        "name": "Rogue"
+        "label": "rogue",
+        "name": "Rogue",
+        "url": "classes/rogue"
       }
     ],
     "races": [],
     "url": "proficiencies/saving-throw-dex",
     "references": [
       {
-        "url": "ability-scores/dex",
+        "label": "dex",
         "type": "ability-scores",
-        "name": "DEX"
+        "name": "DEX",
+        "url": "ability-scores/dex"
       }
     ]
   },
@@ -1770,25 +1942,29 @@
     "name": "Saving Throw: CON",
     "classes": [
       {
-        "url": "classes/barbarian",
-        "name": "Barbarian"
+        "label": "barbarian",
+        "name": "Barbarian",
+        "url": "classes/barbarian"
       },
       {
-        "url": "classes/fighter",
-        "name": "Fighter"
+        "label": "fighter",
+        "name": "Fighter",
+        "url": "classes/fighter"
       },
       {
-        "url": "classes/sorcerer",
-        "name": "Sorcerer"
+        "label": "sorcerer",
+        "name": "Sorcerer",
+        "url": "classes/sorcerer"
       }
     ],
     "races": [],
     "url": "proficiencies/saving-throw-con",
     "references": [
       {
-        "url": "ability-scores/con",
+        "label": "con",
         "type": "ability-scores",
-        "name": "CON"
+        "name": "CON",
+        "url": "ability-scores/con"
       }
     ]
   },
@@ -1798,25 +1974,29 @@
     "name": "Saving Throw: INT",
     "classes": [
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       },
       {
-        "url": "classes/rogue",
-        "name": "Rogue"
+        "label": "rogue",
+        "name": "Rogue",
+        "url": "classes/rogue"
       },
       {
-        "url": "classes/wizard",
-        "name": "Wizard"
+        "label": "wizard",
+        "name": "Wizard",
+        "url": "classes/wizard"
       }
     ],
     "races": [],
     "url": "proficiencies/saving-throw-int",
     "references": [
       {
-        "url": "ability-scores/int",
+        "label": "int",
         "type": "ability-scores",
-        "name": "INT"
+        "name": "INT",
+        "url": "ability-scores/int"
       }
     ]
   },
@@ -1826,33 +2006,39 @@
     "name": "Saving Throw: WIS",
     "classes": [
       {
-        "url": "classes/cleric",
-        "name": "Cleric"
+        "label": "cleric",
+        "name": "Cleric",
+        "url": "classes/cleric"
       },
       {
-        "url": "classes/druid",
-        "name": "Druid"
+        "label": "druid",
+        "name": "Druid",
+        "url": "classes/druid"
       },
       {
-        "url": "classes/paladin",
-        "name": "Paladin"
+        "label": "paladin",
+        "name": "Paladin",
+        "url": "classes/paladin"
       },
       {
-        "url": "classes/warlock",
-        "name": "Warlock"
+        "label": "warlock",
+        "name": "Warlock",
+        "url": "classes/warlock"
       },
       {
-        "url": "classes/wizard",
-        "name": "Wizard"
+        "label": "wizard",
+        "name": "Wizard",
+        "url": "classes/wizard"
       }
     ],
     "races": [],
     "url": "proficiencies/saving-throw-wis",
     "references": [
       {
-        "url": "ability-scores/wis",
+        "label": "wis",
         "type": "ability-scores",
-        "name": "WIS"
+        "name": "WIS",
+        "url": "ability-scores/wis"
       }
     ]
   },
@@ -1862,33 +2048,39 @@
     "name": "Saving Throw: CHA",
     "classes": [
       {
-        "url": "classes/bard",
-        "name": "Bard"
+        "label": "bard",
+        "name": "Bard",
+        "url": "classes/bard"
       },
       {
-        "url": "classes/cleric",
-        "name": "Cleric"
+        "label": "cleric",
+        "name": "Cleric",
+        "url": "classes/cleric"
       },
       {
-        "url": "classes/paladin",
-        "name": "Paladin"
+        "label": "paladin",
+        "name": "Paladin",
+        "url": "classes/paladin"
       },
       {
-        "url": "classes/sorcerer",
-        "name": "Sorcerer"
+        "label": "sorcerer",
+        "name": "Sorcerer",
+        "url": "classes/sorcerer"
       },
       {
-        "url": "classes/warlock",
-        "name": "Warlock"
+        "label": "warlock",
+        "name": "Warlock",
+        "url": "classes/warlock"
       }
     ],
     "races": [],
     "url": "proficiencies/saving-throw-cha",
     "references": [
       {
-        "url": "ability-scores/cha",
+        "label": "cha",
         "type": "ability-scores",
-        "name": "CHA"
+        "name": "CHA",
+        "url": "ability-scores/cha"
       }
     ]
   },
@@ -1901,9 +2093,10 @@
     "url": "proficiencies/skill-acrobatics",
     "references": [
       {
-        "url": "skills/acrobatics",
+        "label": "acrobatics",
         "type": "skills",
-        "name": "Acrobatics"
+        "name": "Acrobatics",
+        "url": "skills/acrobatics"
       }
     ]
   },
@@ -1916,9 +2109,10 @@
     "url": "proficiencies/skill-animal-handling",
     "references": [
       {
-        "url": "skills/animal-handling",
+        "label": "animal-handling",
         "type": "skills",
-        "name": "Animal Handling"
+        "name": "Animal Handling",
+        "url": "skills/animal-handling"
       }
     ]
   },
@@ -1931,9 +2125,10 @@
     "url": "proficiencies/skill-arcana",
     "references": [
       {
-        "url": "skills/arcana",
+        "label": "arcana",
         "type": "skills",
-        "name": "Arcana"
+        "name": "Arcana",
+        "url": "skills/arcana"
       }
     ]
   },
@@ -1946,9 +2141,10 @@
     "url": "proficiencies/skill-athletics",
     "references": [
       {
-        "url": "skills/athletics",
+        "label": "athletics",
         "type": "skills",
-        "name": "Athletics"
+        "name": "Athletics",
+        "url": "skills/athletics"
       }
     ]
   },
@@ -1961,9 +2157,10 @@
     "url": "proficiencies/skill-deception",
     "references": [
       {
-        "url": "skills/deception",
+        "label": "deception",
         "type": "skills",
-        "name": "Deception"
+        "name": "Deception",
+        "url": "skills/deception"
       }
     ]
   },
@@ -1976,9 +2173,10 @@
     "url": "proficiencies/skill-history",
     "references": [
       {
-        "url": "skills/history",
+        "label": "history",
         "type": "skills",
-        "name": "History"
+        "name": "History",
+        "url": "skills/history"
       }
     ]
   },
@@ -1991,9 +2189,10 @@
     "url": "proficiencies/skill-insight",
     "references": [
       {
-        "url": "skills/insight",
+        "label": "insight",
         "type": "skills",
-        "name": "Insight"
+        "name": "Insight",
+        "url": "skills/insight"
       }
     ]
   },
@@ -2006,9 +2205,10 @@
     "url": "proficiencies/skill-intimidation",
     "references": [
       {
-        "url": "skills/intimidation",
+        "label": "intimidation",
         "type": "skills",
-        "name": "Intimidation"
+        "name": "Intimidation",
+        "url": "skills/intimidation"
       }
     ]
   },
@@ -2021,9 +2221,10 @@
     "url": "proficiencies/skill-investigation",
     "references": [
       {
-        "url": "skills/investigation",
+        "label": "investigation",
         "type": "skills",
-        "name": "Investigation"
+        "name": "Investigation",
+        "url": "skills/investigation"
       }
     ]
   },
@@ -2036,9 +2237,10 @@
     "url": "proficiencies/skill-medicine",
     "references": [
       {
-        "url": "skills/medicine",
+        "label": "medicine",
         "type": "skills",
-        "name": "Medicine"
+        "name": "Medicine",
+        "url": "skills/medicine"
       }
     ]
   },
@@ -2051,9 +2253,10 @@
     "url": "proficiencies/skill-nature",
     "references": [
       {
-        "url": "skills/nature",
+        "label": "nature",
         "type": "skills",
-        "name": "Nature"
+        "name": "Nature",
+        "url": "skills/nature"
       }
     ]
   },
@@ -2064,16 +2267,18 @@
     "classes": [],
     "races": [
       {
-        "url": "races/elf",
-        "name": "Elf"
+        "label": "elf",
+        "name": "Elf",
+        "url": "races/elf"
       }
     ],
     "url": "proficiencies/skill-perception",
     "references": [
       {
-        "url": "skills/perception",
+        "label": "perception",
         "type": "skills",
-        "name": "Perception"
+        "name": "Perception",
+        "url": "skills/perception"
       }
     ]
   },
@@ -2086,9 +2291,10 @@
     "url": "proficiencies/skill-performance",
     "references": [
       {
-        "url": "skills/performance",
+        "label": "performance",
         "type": "skills",
-        "name": "Performance"
+        "name": "Performance",
+        "url": "skills/performance"
       }
     ]
   },
@@ -2101,9 +2307,10 @@
     "url": "proficiencies/skill-persuasion",
     "references": [
       {
-        "url": "skills/persuasion",
+        "label": "persuasion",
         "type": "skills",
-        "name": "Persuasion"
+        "name": "Persuasion",
+        "url": "skills/persuasion"
       }
     ]
   },
@@ -2116,9 +2323,10 @@
     "url": "proficiencies/skill-religion",
     "references": [
       {
-        "url": "skills/religion",
+        "label": "religion",
         "type": "skills",
-        "name": "Religion"
+        "name": "Religion",
+        "url": "skills/religion"
       }
     ]
   },
@@ -2131,9 +2339,10 @@
     "url": "proficiencies/skill-sleight-of-hand",
     "references": [
       {
-        "url": "skills/sleight-of-hand",
+        "label": "sleight-of-hand",
         "type": "skills",
-        "name": "Sleight of Hand"
+        "name": "Sleight of Hand",
+        "url": "skills/sleight-of-hand"
       }
     ]
   },
@@ -2146,9 +2355,10 @@
     "url": "proficiencies/skill-stealth",
     "references": [
       {
-        "url": "skills/stealth",
+        "label": "stealth",
         "type": "skills",
-        "name": "Stealth"
+        "name": "Stealth",
+        "url": "skills/stealth"
       }
     ]
   },
@@ -2161,9 +2371,10 @@
     "url": "proficiencies/skill-survival",
     "references": [
       {
-        "url": "skills/survival",
+        "label": "survival",
         "type": "skills",
-        "name": "Survival"
+        "name": "Survival",
+        "url": "skills/survival"
       }
     ]
   }
