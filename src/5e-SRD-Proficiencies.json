@@ -1,6 +1,6 @@
 [
   {
-    "index": "light-armor",
+    "label": "light-armor",
     "type": "Armor",
     "name": "Light armor",
     "classes": [
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "index": "medium-armor",
+    "label": "medium-armor",
     "type": "Armor",
     "name": "Medium armor",
     "classes": [
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "index": "heavy-armor",
+    "label": "heavy-armor",
     "type": "Armor",
     "name": "Heavy armor",
     "classes": [],
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "index": "all-armor",
+    "label": "all-armor",
     "type": "Armor",
     "name": "All armor",
     "classes": [
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "index": "padded",
+    "label": "padded",
     "type": "Armor",
     "name": "Padded",
     "classes": [],
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "index": "leather",
+    "label": "leather",
     "type": "Armor",
     "name": "Leather",
     "classes": [],
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "index": "studded-leather",
+    "label": "studded-leather",
     "type": "Armor",
     "name": "Studded Leather",
     "classes": [],
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "index": "hide",
+    "label": "hide",
     "type": "Armor",
     "name": "Hide",
     "classes": [],
@@ -175,7 +175,7 @@
     ]
   },
   {
-    "index": "chain-shirt",
+    "label": "chain-shirt",
     "type": "Armor",
     "name": "Chain Shirt",
     "classes": [],
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "index": "scale-mail",
+    "label": "scale-mail",
     "type": "Armor",
     "name": "Scale Mail",
     "classes": [],
@@ -205,7 +205,7 @@
     ]
   },
   {
-    "index": "breastplate",
+    "label": "breastplate",
     "type": "Armor",
     "name": "Breastplate",
     "classes": [],
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "index": "half-plate",
+    "label": "half-plate",
     "type": "Armor",
     "name": "Half Plate",
     "classes": [],
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "index": "ring-mail",
+    "label": "ring-mail",
     "type": "Armor",
     "name": "Ring Mail",
     "classes": [],
@@ -250,7 +250,7 @@
     ]
   },
   {
-    "index": "chain-mail",
+    "label": "chain-mail",
     "type": "Armor",
     "name": "Chain Mail",
     "classes": [],
@@ -265,7 +265,7 @@
     ]
   },
   {
-    "index": "splint",
+    "label": "splint",
     "type": "Armor",
     "name": "Splint",
     "classes": [],
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "index": "plate",
+    "label": "plate",
     "type": "Armor",
     "name": "Plate",
     "classes": [],
@@ -295,7 +295,7 @@
     ]
   },
   {
-    "index": "shields",
+    "label": "shields",
     "type": "Armor",
     "name": "Shields",
     "classes": [
@@ -335,7 +335,7 @@
     ]
   },
   {
-    "index": "simple-weapons",
+    "label": "simple-weapons",
     "type": "Weapons",
     "name": "Simple weapons",
     "classes": [
@@ -387,7 +387,7 @@
     ]
   },
   {
-    "index": "martial-weapons",
+    "label": "martial-weapons",
     "type": "Weapons",
     "name": "Martial weapons",
     "classes": [
@@ -419,7 +419,7 @@
     ]
   },
   {
-    "index": "clubs",
+    "label": "clubs",
     "type": "Weapons",
     "name": "Clubs",
     "classes": [
@@ -439,7 +439,7 @@
     ]
   },
   {
-    "index": "daggers",
+    "label": "daggers",
     "type": "Weapons",
     "name": "Daggers",
     "classes": [
@@ -467,7 +467,7 @@
     ]
   },
   {
-    "index": "greatclubs",
+    "label": "greatclubs",
     "type": "Weapons",
     "name": "Greatclubs",
     "classes": [],
@@ -482,7 +482,7 @@
     ]
   },
   {
-    "index": "handaxes",
+    "label": "handaxes",
     "type": "Weapons",
     "name": "Handaxes",
     "classes": [],
@@ -502,7 +502,7 @@
     ]
   },
   {
-    "index": "javelins",
+    "label": "javelins",
     "type": "Weapons",
     "name": "Javelins",
     "classes": [
@@ -522,7 +522,7 @@
     ]
   },
   {
-    "index": "light-hammers",
+    "label": "light-hammers",
     "type": "Weapons",
     "name": "Light hammers",
     "classes": [],
@@ -542,7 +542,7 @@
     ]
   },
   {
-    "index": "maces",
+    "label": "maces",
     "type": "Weapons",
     "name": "Maces",
     "classes": [
@@ -562,7 +562,7 @@
     ]
   },
   {
-    "index": "quarterstaffs",
+    "label": "quarterstaffs",
     "type": "Weapons",
     "name": "Quarterstaffs",
     "classes": [
@@ -590,7 +590,7 @@
     ]
   },
   {
-    "index": "sickles",
+    "label": "sickles",
     "type": "Weapons",
     "name": "Sickles",
     "classes": [
@@ -610,7 +610,7 @@
     ]
   },
   {
-    "index": "spears",
+    "label": "spears",
     "type": "Weapons",
     "name": "Spears",
     "classes": [
@@ -630,7 +630,7 @@
     ]
   },
   {
-    "index": "crossbows-light",
+    "label": "crossbows-light",
     "type": "Weapons",
     "name": "Crossbows, light",
     "classes": [],
@@ -645,7 +645,7 @@
     ]
   },
   {
-    "index": "darts",
+    "label": "darts",
     "type": "Weapons",
     "name": "Darts",
     "classes": [
@@ -673,7 +673,7 @@
     ]
   },
   {
-    "index": "shortbows",
+    "label": "shortbows",
     "type": "Weapons",
     "name": "Shortbows",
     "classes": [],
@@ -693,7 +693,7 @@
     ]
   },
   {
-    "index": "slings",
+    "label": "slings",
     "type": "Weapons",
     "name": "Slings",
     "classes": [
@@ -721,7 +721,7 @@
     ]
   },
   {
-    "index": "battleaxes",
+    "label": "battleaxes",
     "type": "Weapons",
     "name": "Battleaxes",
     "classes": [],
@@ -741,7 +741,7 @@
     ]
   },
   {
-    "index": "flails",
+    "label": "flails",
     "type": "Weapons",
     "name": "Flails",
     "classes": [],
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "index": "glaives",
+    "label": "glaives",
     "type": "Weapons",
     "name": "Glaives",
     "classes": [],
@@ -771,7 +771,7 @@
     ]
   },
   {
-    "index": "greataxes",
+    "label": "greataxes",
     "type": "Weapons",
     "name": "Greataxes",
     "classes": [],
@@ -786,7 +786,7 @@
     ]
   },
   {
-    "index": "greatswords",
+    "label": "greatswords",
     "type": "Weapons",
     "name": "Greatswords",
     "classes": [],
@@ -801,7 +801,7 @@
     ]
   },
   {
-    "index": "halberds",
+    "label": "halberds",
     "type": "Weapons",
     "name": "Halberds",
     "classes": [],
@@ -816,7 +816,7 @@
     ]
   },
   {
-    "index": "lances",
+    "label": "lances",
     "type": "Weapons",
     "name": "Lances",
     "classes": [],
@@ -831,7 +831,7 @@
     ]
   },
   {
-    "index": "longswords",
+    "label": "longswords",
     "type": "Weapons",
     "name": "Longswords",
     "classes": [
@@ -860,7 +860,7 @@
     ]
   },
   {
-    "index": "mauls",
+    "label": "mauls",
     "type": "Weapons",
     "name": "Mauls",
     "classes": [],
@@ -875,7 +875,7 @@
     ]
   },
   {
-    "index": "morningstars",
+    "label": "morningstars",
     "type": "Weapons",
     "name": "Morningstars",
     "classes": [],
@@ -890,7 +890,7 @@
     ]
   },
   {
-    "index": "pikes",
+    "label": "pikes",
     "type": "Weapons",
     "name": "Pikes",
     "classes": [],
@@ -905,7 +905,7 @@
     ]
   },
   {
-    "index": "rapiers",
+    "label": "rapiers",
     "type": "Weapons",
     "name": "Rapiers",
     "classes": [
@@ -929,7 +929,7 @@
     ]
   },
   {
-    "index": "scimitars",
+    "label": "scimitars",
     "type": "Weapons",
     "name": "Scimitars",
     "classes": [
@@ -949,7 +949,7 @@
     ]
   },
   {
-    "index": "shortswords",
+    "label": "shortswords",
     "type": "Weapons",
     "name": "Shortswords",
     "classes": [
@@ -982,7 +982,7 @@
     ]
   },
   {
-    "index": "tridents",
+    "label": "tridents",
     "type": "Weapons",
     "name": "Tridents",
     "classes": [],
@@ -997,7 +997,7 @@
     ]
   },
   {
-    "index": "war-picks",
+    "label": "war-picks",
     "type": "Weapons",
     "name": "War picks",
     "classes": [],
@@ -1012,7 +1012,7 @@
     ]
   },
   {
-    "index": "warhammers",
+    "label": "warhammers",
     "type": "Weapons",
     "name": "Warhammers",
     "classes": [],
@@ -1032,7 +1032,7 @@
     ]
   },
   {
-    "index": "whips",
+    "label": "whips",
     "type": "Weapons",
     "name": "Whips",
     "classes": [],
@@ -1047,7 +1047,7 @@
     ]
   },
   {
-    "index": "blowguns",
+    "label": "blowguns",
     "type": "Weapons",
     "name": "Blowguns",
     "classes": [],
@@ -1062,7 +1062,7 @@
     ]
   },
   {
-    "index": "crossbows-hand",
+    "label": "crossbows-hand",
     "type": "Weapons",
     "name": "Crossbows, hand",
     "classes": [
@@ -1086,7 +1086,7 @@
     ]
   },
   {
-    "index": "crossbows-heavy",
+    "label": "crossbows-heavy",
     "type": "Weapons",
     "name": "Crossbows, heavy",
     "classes": [],
@@ -1101,7 +1101,7 @@
     ]
   },
   {
-    "index": "longbows",
+    "label": "longbows",
     "type": "Weapons",
     "name": "Longbows",
     "classes": [],
@@ -1121,7 +1121,7 @@
     ]
   },
   {
-    "index": "nets",
+    "label": "nets",
     "type": "Weapons",
     "name": "Nets",
     "classes": [],
@@ -1136,7 +1136,7 @@
     ]
   },
   {
-    "index": "alchemists-supplies",
+    "label": "alchemists-supplies",
     "type": "Artisan's Tools",
     "name": "Alchemist's supplies",
     "classes": [],
@@ -1151,7 +1151,7 @@
     ]
   },
   {
-    "index": "brewers-supplies",
+    "label": "brewers-supplies",
     "type": "Artisan's Tools",
     "name": "Brewer's supplies",
     "classes": [],
@@ -1166,7 +1166,7 @@
     ]
   },
   {
-    "index": "calligraphers-supplies",
+    "label": "calligraphers-supplies",
     "type": "Artisan's Tools",
     "name": "Calligrapher's supplies",
     "classes": [],
@@ -1181,7 +1181,7 @@
     ]
   },
   {
-    "index": "carpenters-tools",
+    "label": "carpenters-tools",
     "type": "Artisan's Tools",
     "name": "Carpenter's tools",
     "classes": [],
@@ -1196,7 +1196,7 @@
     ]
   },
   {
-    "index": "cartographers-tools",
+    "label": "cartographers-tools",
     "type": "Artisan's Tools",
     "name": "Cartographer's tools",
     "classes": [],
@@ -1211,7 +1211,7 @@
     ]
   },
   {
-    "index": "cobblers-tools",
+    "label": "cobblers-tools",
     "type": "Artisan's Tools",
     "name": "Cobbler's tools",
     "classes": [],
@@ -1226,7 +1226,7 @@
     ]
   },
   {
-    "index": "cooks-utensils",
+    "label": "cooks-utensils",
     "type": "Artisan's Tools",
     "name": "Cook's utensils",
     "classes": [],
@@ -1241,7 +1241,7 @@
     ]
   },
   {
-    "index": "glassblowers-tools",
+    "label": "glassblowers-tools",
     "type": "Artisan's Tools",
     "name": "Glassblower's tools",
     "classes": [],
@@ -1256,7 +1256,7 @@
     ]
   },
   {
-    "index": "jewelers-tools",
+    "label": "jewelers-tools",
     "type": "Artisan's Tools",
     "name": "Jeweler's tools",
     "classes": [],
@@ -1271,7 +1271,7 @@
     ]
   },
   {
-    "index": "leatherworkers-tools",
+    "label": "leatherworkers-tools",
     "type": "Artisan's Tools",
     "name": "Leatherworker's tools",
     "classes": [],
@@ -1286,7 +1286,7 @@
     ]
   },
   {
-    "index": "masons-tools",
+    "label": "masons-tools",
     "type": "Artisan's Tools",
     "name": "Mason's tools",
     "classes": [],
@@ -1301,7 +1301,7 @@
     ]
   },
   {
-    "index": "painters-supplies",
+    "label": "painters-supplies",
     "type": "Artisan's Tools",
     "name": "Painter's supplies",
     "classes": [],
@@ -1316,7 +1316,7 @@
     ]
   },
   {
-    "index": "potters-tools",
+    "label": "potters-tools",
     "type": "Artisan's Tools",
     "name": "Potter's tools",
     "classes": [],
@@ -1331,7 +1331,7 @@
     ]
   },
   {
-    "index": "smiths-tools",
+    "label": "smiths-tools",
     "type": "Artisan's Tools",
     "name": "Smith's tools",
     "classes": [],
@@ -1346,7 +1346,7 @@
     ]
   },
   {
-    "index": "tinkers-tools",
+    "label": "tinkers-tools",
     "type": "Artisan's Tools",
     "name": "Tinker's tools",
     "classes": [],
@@ -1361,7 +1361,7 @@
     ]
   },
   {
-    "index": "weavers-tools",
+    "label": "weavers-tools",
     "type": "Artisan's Tools",
     "name": "Weaver's tools",
     "classes": [],
@@ -1376,7 +1376,7 @@
     ]
   },
   {
-    "index": "woodcarvers-tools",
+    "label": "woodcarvers-tools",
     "type": "Artisan's Tools",
     "name": "Woodcarver's tools",
     "classes": [],
@@ -1391,7 +1391,7 @@
     ]
   },
   {
-    "index": "disguise-kit",
+    "label": "disguise-kit",
     "type": "Artisan's Tools",
     "name": "Disguise kit",
     "classes": [],
@@ -1406,7 +1406,7 @@
     ]
   },
   {
-    "index": "forgery-kit",
+    "label": "forgery-kit",
     "type": "Artisan's Tools",
     "name": "Forgery kit",
     "classes": [],
@@ -1421,7 +1421,7 @@
     ]
   },
   {
-    "index": "dice-set",
+    "label": "dice-set",
     "type": "Gaming Sets",
     "name": "Dice Set",
     "classes": [],
@@ -1436,7 +1436,7 @@
     ]
   },
   {
-    "index": "playing-card-set",
+    "label": "playing-card-set",
     "type": "Gaming Sets",
     "name": "Playing card set",
     "classes": [],
@@ -1451,7 +1451,7 @@
     ]
   },
   {
-    "index": "bagpipes",
+    "label": "bagpipes",
     "type": "Musical Instruments",
     "name": "Bagpipes",
     "classes": [],
@@ -1466,7 +1466,7 @@
     ]
   },
   {
-    "index": "drum",
+    "label": "drum",
     "type": "Musical Instruments",
     "name": "Drum",
     "classes": [],
@@ -1481,7 +1481,7 @@
     ]
   },
   {
-    "index": "dulcimer",
+    "label": "dulcimer",
     "type": "Musical Instruments",
     "name": "Dulcimer",
     "classes": [],
@@ -1496,7 +1496,7 @@
     ]
   },
   {
-    "index": "flute",
+    "label": "flute",
     "type": "Musical Instruments",
     "name": "Flute",
     "classes": [],
@@ -1511,7 +1511,7 @@
     ]
   },
   {
-    "index": "lute",
+    "label": "lute",
     "type": "Musical Instruments",
     "name": "Lute",
     "classes": [],
@@ -1526,7 +1526,7 @@
     ]
   },
   {
-    "index": "lyre",
+    "label": "lyre",
     "type": "Musical Instruments",
     "name": "Lyre",
     "classes": [],
@@ -1541,7 +1541,7 @@
     ]
   },
   {
-    "index": "horn",
+    "label": "horn",
     "type": "Musical Instruments",
     "name": "Horn",
     "classes": [],
@@ -1556,7 +1556,7 @@
     ]
   },
   {
-    "index": "pan-flute",
+    "label": "pan-flute",
     "type": "Musical Instruments",
     "name": "Pan flute",
     "classes": [],
@@ -1571,7 +1571,7 @@
     ]
   },
   {
-    "index": "shawm",
+    "label": "shawm",
     "type": "Musical Instruments",
     "name": "Shawm",
     "classes": [],
@@ -1586,7 +1586,7 @@
     ]
   },
   {
-    "index": "viol",
+    "label": "viol",
     "type": "Musical Instruments",
     "name": "Viol",
     "classes": [],
@@ -1601,7 +1601,7 @@
     ]
   },
   {
-    "index": "herbalism-kit",
+    "label": "herbalism-kit",
     "type": "Other",
     "name": "Herbalism Kit",
     "classes": [
@@ -1621,7 +1621,7 @@
     ]
   },
   {
-    "index": "navigators-tools",
+    "label": "navigators-tools",
     "type": "Other",
     "name": "Navigator's Tools",
     "classes": [],
@@ -1636,7 +1636,7 @@
     ]
   },
   {
-    "index": "poisoners-kit",
+    "label": "poisoners-kit",
     "type": "Other",
     "name": "Poisoner's Kit",
     "classes": [],
@@ -1651,7 +1651,7 @@
     ]
   },
   {
-    "index": "thieves-tools",
+    "label": "thieves-tools",
     "type": "Other",
     "name": "Thieves' Tools",
     "classes": [
@@ -1671,7 +1671,7 @@
     ]
   },
   {
-    "index": "land-vehicles",
+    "label": "land-vehicles",
     "type": "Vehicles",
     "name": "Land Vehicles",
     "classes": [],
@@ -1686,7 +1686,7 @@
     ]
   },
   {
-    "index": "water-vehicles",
+    "label": "water-vehicles",
     "type": "Vehicles",
     "name": "Water Vehicles",
     "classes": [],
@@ -1701,7 +1701,7 @@
     ]
   },
   {
-    "index": "saving-throw-str",
+    "label": "saving-throw-str",
     "type": "Saving Throws",
     "name": "Saving Throw: STR",
     "classes": [
@@ -1733,7 +1733,7 @@
     ]
   },
   {
-    "index": "saving-throw-dex",
+    "label": "saving-throw-dex",
     "type": "Saving Throws",
     "name": "Saving Throw: DEX",
     "classes": [
@@ -1765,7 +1765,7 @@
     ]
   },
   {
-    "index": "saving-throw-con",
+    "label": "saving-throw-con",
     "type": "Saving Throws",
     "name": "Saving Throw: CON",
     "classes": [
@@ -1793,7 +1793,7 @@
     ]
   },
   {
-    "index": "saving-throw-int",
+    "label": "saving-throw-int",
     "type": "Saving Throws",
     "name": "Saving Throw: INT",
     "classes": [
@@ -1821,7 +1821,7 @@
     ]
   },
   {
-    "index": "saving-throw-wis",
+    "label": "saving-throw-wis",
     "type": "Saving Throws",
     "name": "Saving Throw: WIS",
     "classes": [
@@ -1857,7 +1857,7 @@
     ]
   },
   {
-    "index": "saving-throw-cha",
+    "label": "saving-throw-cha",
     "type": "Saving Throws",
     "name": "Saving Throw: CHA",
     "classes": [
@@ -1893,7 +1893,7 @@
     ]
   },
   {
-    "index": "skill-acrobatics",
+    "label": "skill-acrobatics",
     "type": "Skills",
     "name": "Skill: Acrobatics",
     "classes": [],
@@ -1908,7 +1908,7 @@
     ]
   },
   {
-    "index": "skill-animal-handling",
+    "label": "skill-animal-handling",
     "type": "Skills",
     "name": "Skill: Animal Handling",
     "classes": [],
@@ -1923,7 +1923,7 @@
     ]
   },
   {
-    "index": "skill-arcana",
+    "label": "skill-arcana",
     "type": "Skills",
     "name": "Skill: Arcana",
     "classes": [],
@@ -1938,7 +1938,7 @@
     ]
   },
   {
-    "index": "skill-athletics",
+    "label": "skill-athletics",
     "type": "Skills",
     "name": "Skill: Athletics",
     "classes": [],
@@ -1953,7 +1953,7 @@
     ]
   },
   {
-    "index": "skill-deception",
+    "label": "skill-deception",
     "type": "Skills",
     "name": "Skill: Deception",
     "classes": [],
@@ -1968,7 +1968,7 @@
     ]
   },
   {
-    "index": "skill-history",
+    "label": "skill-history",
     "type": "Skills",
     "name": "Skill: History",
     "classes": [],
@@ -1983,7 +1983,7 @@
     ]
   },
   {
-    "index": "skill-insight",
+    "label": "skill-insight",
     "type": "Skills",
     "name": "Skill: Insight",
     "classes": [],
@@ -1998,7 +1998,7 @@
     ]
   },
   {
-    "index": "skill-intimidation",
+    "label": "skill-intimidation",
     "type": "Skills",
     "name": "Skill: Intimidation",
     "classes": [],
@@ -2013,7 +2013,7 @@
     ]
   },
   {
-    "index": "skill-investigation",
+    "label": "skill-investigation",
     "type": "Skills",
     "name": "Skill: Investigation",
     "classes": [],
@@ -2028,7 +2028,7 @@
     ]
   },
   {
-    "index": "skill-medicine",
+    "label": "skill-medicine",
     "type": "Skills",
     "name": "Skill: Medicine",
     "classes": [],
@@ -2043,7 +2043,7 @@
     ]
   },
   {
-    "index": "skill-nature",
+    "label": "skill-nature",
     "type": "Skills",
     "name": "Skill: Nature",
     "classes": [],
@@ -2058,7 +2058,7 @@
     ]
   },
   {
-    "index": "skill-perception",
+    "label": "skill-perception",
     "type": "Skills",
     "name": "Skill: Perception",
     "classes": [],
@@ -2078,7 +2078,7 @@
     ]
   },
   {
-    "index": "skill-performance",
+    "label": "skill-performance",
     "type": "Skills",
     "name": "Skill: Performance",
     "classes": [],
@@ -2093,7 +2093,7 @@
     ]
   },
   {
-    "index": "skill-persuasion",
+    "label": "skill-persuasion",
     "type": "Skills",
     "name": "Skill: Persuasion",
     "classes": [],
@@ -2108,7 +2108,7 @@
     ]
   },
   {
-    "index": "skill-religion",
+    "label": "skill-religion",
     "type": "Skills",
     "name": "Skill: Religion",
     "classes": [],
@@ -2123,7 +2123,7 @@
     ]
   },
   {
-    "index": "skill-sleight-of-hand",
+    "label": "skill-sleight-of-hand",
     "type": "Skills",
     "name": "Skill: Sleight of Hand",
     "classes": [],
@@ -2138,7 +2138,7 @@
     ]
   },
   {
-    "index": "skill-stealth",
+    "label": "skill-stealth",
     "type": "Skills",
     "name": "Skill: Stealth",
     "classes": [],
@@ -2153,7 +2153,7 @@
     ]
   },
   {
-    "index": "skill-survival",
+    "label": "skill-survival",
     "type": "Skills",
     "name": "Skill: Survival",
     "classes": [],

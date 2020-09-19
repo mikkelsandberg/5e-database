@@ -1,6 +1,6 @@
 [
   {
-    "index": "acolyte",
+    "label": "acolyte",
     "name": "Acolyte",
     "size": "Medium",
     "type": "humanoid",
@@ -114,7 +114,7 @@
     "url": "nonplayer-characters/acolyte"
   },
   {
-    "index": "archmage",
+    "label": "archmage",
     "name": "Archmage",
     "size": "Medium",
     "type": "humanoid",
@@ -365,7 +365,7 @@
     "url": "nonplayer-characters/archmage"
   },
   {
-    "index": "assassin",
+    "label": "assassin",
     "name": "Assassin",
     "size": "Medium",
     "type": "humanoid",
@@ -519,7 +519,7 @@
     "url": "nonplayer-characters/assassin"
   },
   {
-    "index": "bandit",
+    "label": "bandit",
     "name": "Bandit",
     "size": "Medium",
     "type": "humanoid",
@@ -580,7 +580,7 @@
     "url": "nonplayer-characters/bandit"
   },
   {
-    "index": "bandit-captain",
+    "label": "bandit-captain",
     "name": "Bandit Captain",
     "size": "Medium",
     "type": "humanoid",
@@ -701,7 +701,7 @@
     "url": "nonplayer-characters/bandit-captain"
   },
   {
-    "index": "berserker",
+    "label": "berserker",
     "name": "Berserker",
     "size": "Medium",
     "type": "humanoid",
@@ -754,7 +754,7 @@
     "url": "nonplayer-characters/berserker"
   },
   {
-    "index": "commoner",
+    "label": "commoner",
     "name": "Commoner",
     "size": "Medium",
     "type": "humanoid",
@@ -801,7 +801,7 @@
     "url": "nonplayer-characters/commoner"
   },
   {
-    "index": "cult-fanatic",
+    "label": "cult-fanatic",
     "name": "Cult Fanatic",
     "size": "Medium",
     "type": "humanoid",
@@ -951,7 +951,7 @@
     "url": "nonplayer-characters/cult-fanatic"
   },
   {
-    "index": "cultist",
+    "label": "cultist",
     "name": "Cultist",
     "size": "Medium",
     "type": "humanoid",
@@ -1015,7 +1015,7 @@
     "url": "nonplayer-characters/cultist"
   },
   {
-    "index": "druid",
+    "label": "druid",
     "name": "Druid",
     "size": "Medium",
     "type": "humanoid",
@@ -1163,7 +1163,7 @@
     "url": "nonplayer-characters/druid"
   },
   {
-    "index": "gladiator",
+    "label": "gladiator",
     "name": "Gladiator",
     "size": "Medium",
     "type": "humanoid",
@@ -1334,7 +1334,7 @@
     "url": "nonplayer-characters/gladiator"
   },
   {
-    "index": "guard",
+    "label": "guard",
     "name": "Guard",
     "size": "Medium",
     "type": "humanoid",
@@ -1400,7 +1400,7 @@
     "url": "nonplayer-characters/guard"
   },
   {
-    "index": "knight",
+    "label": "knight",
     "name": "Knight",
     "size": "Medium",
     "type": "humanoid",
@@ -1511,7 +1511,7 @@
     "url": "nonplayer-characters/knight"
   },
   {
-    "index": "mage",
+    "label": "mage",
     "name": "Mage",
     "size": "Medium",
     "type": "humanoid",
@@ -1689,7 +1689,7 @@
     "url": "nonplayer-characters/mage"
   },
   {
-    "index": "noble",
+    "label": "noble",
     "name": "Noble",
     "size": "Medium",
     "type": "humanoid",
@@ -1758,7 +1758,7 @@
     "url": "nonplayer-characters/noble"
   },
   {
-    "index": "priest",
+    "label": "priest",
     "name": "Priest",
     "size": "Medium",
     "type": "humanoid",
@@ -1903,7 +1903,7 @@
     "url": "nonplayer-characters/priest"
   },
   {
-    "index": "scout",
+    "label": "scout",
     "name": "Scout",
     "size": "Medium",
     "type": "humanoid",
@@ -2014,7 +2014,7 @@
     "url": "nonplayer-characters/scout"
   },
   {
-    "index": "spy",
+    "label": "spy",
     "name": "Spy",
     "size": "Medium",
     "type": "humanoid",
@@ -2132,7 +2132,7 @@
     "url": "nonplayer-characters/spy"
   },
   {
-    "index": "thug",
+    "label": "thug",
     "name": "Thug",
     "size": "Medium",
     "type": "humanoid",
@@ -2221,7 +2221,7 @@
     "url": "nonplayer-characters/thug"
   },
   {
-    "index": "tribal-warrior",
+    "label": "tribal-warrior",
     "name": "Tribal Warrior",
     "size": "Medium",
     "type": "humanoid",
@@ -2287,7 +2287,7 @@
     "url": "nonplayer-characters/tribal-warrior"
   },
   {
-    "index": "veteran",
+    "label": "veteran",
     "name": "Veteran",
     "size": "Medium",
     "type": "humanoid",

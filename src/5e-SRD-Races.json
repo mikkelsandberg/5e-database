@@ -1,6 +1,6 @@
 [
   {
-    "index": "dwarf",
+    "label": "dwarf",
     "name": "Dwarf",
     "speed": 25,
     "ability_bonuses": [
@@ -90,7 +90,7 @@
     "url": "races/dwarf"
   },
   {
-    "index": "elf",
+    "label": "elf",
     "name": "Elf",
     "speed": 30,
     "ability_bonuses": [
@@ -147,7 +147,7 @@
     "url": "races/elf"
   },
   {
-    "index": "halfling",
+    "label": "halfling",
     "name": "Halfling",
     "speed": 25,
     "ability_bonuses": [
@@ -199,7 +199,7 @@
     "url": "races/halfling"
   },
   {
-    "index": "human",
+    "label": "human",
     "name": "Human",
     "speed": 30,
     "ability_bonuses": [
@@ -319,7 +319,7 @@
     "url": "races/human"
   },
   {
-    "index": "dragonborn",
+    "label": "dragonborn",
     "name": "Dragonborn",
     "speed": 30,
     "ability_bonuses": [
@@ -417,7 +417,7 @@
     "url": "races/dragonborn"
   },
   {
-    "index": "gnome",
+    "label": "gnome",
     "name": "Gnome",
     "speed": 25,
     "ability_bonuses": [
@@ -466,7 +466,7 @@
     "url": "races/gnome"
   },
   {
-    "index": "half-elf",
+    "label": "half-elf",
     "name": "Half-Elf",
     "speed": 30,
     "ability_bonuses": [
@@ -605,7 +605,7 @@
     "url": "races/half-elf"
   },
   {
-    "index": "half-orc",
+    "label": "half-orc",
     "name": "Half-Orc",
     "speed": 30,
     "ability_bonuses": [
@@ -663,7 +663,7 @@
     "url": "races/half-orc"
   },
   {
-    "index": "tiefling",
+    "label": "tiefling",
     "name": "Tiefling",
     "speed": 30,
     "ability_bonuses": [

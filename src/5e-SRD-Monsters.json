@@ -1,6 +1,6 @@
 [
   {
-    "index": "aboleth",
+    "label": "aboleth",
     "name": "Aboleth",
     "size": "Large",
     "type": "aberration",
@@ -175,7 +175,7 @@
     "url": "monsters/aboleth"
   },
   {
-    "index": "adult-black-dragon",
+    "label": "adult-black-dragon",
     "name": "Adult Black Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -403,7 +403,7 @@
     "url": "monsters/adult-black-dragon"
   },
   {
-    "index": "adult-blue-dragon",
+    "label": "adult-blue-dragon",
     "name": "Adult Blue Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -627,7 +627,7 @@
     "url": "monsters/adult-blue-dragon"
   },
   {
-    "index": "adult-brass-dragon",
+    "label": "adult-brass-dragon",
     "name": "Adult Brass Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -843,7 +843,7 @@
     "url": "monsters/adult-brass-dragon"
   },
   {
-    "index": "adult-bronze-dragon",
+    "label": "adult-bronze-dragon",
     "name": "Adult Bronze Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -1089,7 +1089,7 @@
     "url": "monsters/adult-bronze-dragon"
   },
   {
-    "index": "adult-copper-dragon",
+    "label": "adult-copper-dragon",
     "name": "Adult Copper Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -1331,7 +1331,7 @@
     "url": "monsters/adult-copper-dragon"
   },
   {
-    "index": "adult-gold-dragon",
+    "label": "adult-gold-dragon",
     "name": "Adult Gold Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -1582,7 +1582,7 @@
     "url": "monsters/adult-gold-dragon"
   },
   {
-    "index": "adult-green-dragon",
+    "label": "adult-green-dragon",
     "name": "Adult Green Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -1830,7 +1830,7 @@
     "url": "monsters/adult-green-dragon"
   },
   {
-    "index": "adult-red-dragon",
+    "label": "adult-red-dragon",
     "name": "Adult Red Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -2102,7 +2102,7 @@
     "url": "monsters/adult-red-dragon"
   },
   {
-    "index": "adult-silver-dragon",
+    "label": "adult-silver-dragon",
     "name": "Adult Silver Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -2348,7 +2348,7 @@
     "url": "monsters/adult-silver-dragon"
   },
   {
-    "index": "adult-white-dragon",
+    "label": "adult-white-dragon",
     "name": "Adult White Dragon",
     "size": "Huge",
     "type": "dragon",
@@ -2577,7 +2577,7 @@
     "url": "monsters/adult-white-dragon"
   },
   {
-    "index": "air-elemental",
+    "label": "air-elemental",
     "name": "Air Elemental",
     "size": "Large",
     "type": "elemental",
@@ -2696,7 +2696,7 @@
     "url": "monsters/air-elemental"
   },
   {
-    "index": "ancient-black-dragon",
+    "label": "ancient-black-dragon",
     "name": "Ancient Black Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -2924,7 +2924,7 @@
     "url": "monsters/ancient-black-dragon"
   },
   {
-    "index": "ancient-blue-dragon",
+    "label": "ancient-blue-dragon",
     "name": "Ancient Blue Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -3130,7 +3130,7 @@
     "url": "monsters/ancient-blue-dragon"
   },
   {
-    "index": "ancient-brass-dragon",
+    "label": "ancient-brass-dragon",
     "name": "Ancient Brass Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -3381,7 +3381,7 @@
     "url": "monsters/ancient-brass-dragon"
   },
   {
-    "index": "ancient-bronze-dragon",
+    "label": "ancient-bronze-dragon",
     "name": "Ancient Bronze Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -3631,7 +3631,7 @@
     "url": "monsters/ancient-bronze-dragon"
   },
   {
-    "index": "ancient-copper-dragon",
+    "label": "ancient-copper-dragon",
     "name": "Ancient Copper Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -3877,7 +3877,7 @@
     "url": "monsters/ancient-copper-dragon"
   },
   {
-    "index": "ancient-gold-dragon",
+    "label": "ancient-gold-dragon",
     "name": "Ancient Gold Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -4132,7 +4132,7 @@
     "url": "monsters/ancient-gold-dragon"
   },
   {
-    "index": "ancient-green-dragon",
+    "label": "ancient-green-dragon",
     "name": "Ancient Green Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -4380,7 +4380,7 @@
     "url": "monsters/ancient-green-dragon"
   },
   {
-    "index": "ancient-red-dragon",
+    "label": "ancient-red-dragon",
     "name": "Ancient Red Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -4604,7 +4604,7 @@
     "url": "monsters/ancient-red-dragon"
   },
   {
-    "index": "ancient-silver-dragon",
+    "label": "ancient-silver-dragon",
     "name": "Ancient Silver Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -4854,7 +4854,7 @@
     "url": "monsters/ancient-silver-dragon"
   },
   {
-    "index": "ancient-white-dragon",
+    "label": "ancient-white-dragon",
     "name": "Ancient White Dragon",
     "size": "Gargantuan",
     "type": "dragon",
@@ -5083,7 +5083,7 @@
     "url": "monsters/ancient-white-dragon"
   },
   {
-    "index": "androsphinx",
+    "label": "androsphinx",
     "name": "Androsphinx",
     "size": "Large",
     "type": "monstrosity",
@@ -5375,7 +5375,7 @@
     "url": "monsters/androsphinx"
   },
   {
-    "index": "animated-armor",
+    "label": "animated-armor",
     "name": "Animated Armor",
     "size": "Medium",
     "type": "construct",
@@ -5485,7 +5485,7 @@
     "url": "monsters/animated-armor"
   },
   {
-    "index": "ankheg",
+    "label": "ankheg",
     "name": "Ankheg",
     "size": "Large",
     "type": "monstrosity",
@@ -5563,7 +5563,7 @@
     "url": "monsters/ankheg"
   },
   {
-    "index": "azer",
+    "label": "azer",
     "name": "Azer",
     "size": "Medium",
     "type": "elemental",
@@ -5663,7 +5663,7 @@
     "url": "monsters/azer"
   },
   {
-    "index": "balor",
+    "label": "balor",
     "name": "Balor",
     "size": "Huge",
     "type": "fiend",
@@ -5850,7 +5850,7 @@
     "url": "monsters/balor"
   },
   {
-    "index": "barbed-devil",
+    "label": "barbed-devil",
     "name": "Barbed Devil",
     "size": "Medium",
     "type": "fiend",
@@ -6025,7 +6025,7 @@
     "url": "monsters/barbed-devil"
   },
   {
-    "index": "basilisk",
+    "label": "basilisk",
     "name": "Basilisk",
     "size": "Medium",
     "type": "monstrosity",
@@ -6094,7 +6094,7 @@
     "url": "monsters/basilisk"
   },
   {
-    "index": "bearded-devil",
+    "label": "bearded-devil",
     "name": "Bearded Devil",
     "size": "Medium",
     "type": "fiend",
@@ -6218,7 +6218,7 @@
     "url": "monsters/bearded-devil"
   },
   {
-    "index": "behir",
+    "label": "behir",
     "name": "Behir",
     "size": "Huge",
     "type": "monstrosity",
@@ -6361,7 +6361,7 @@
     "url": "monsters/behir"
   },
   {
-    "index": "black-dragon-wyrmling",
+    "label": "black-dragon-wyrmling",
     "name": "Black Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -6484,7 +6484,7 @@
     "url": "monsters/black-dragon-wyrmling"
   },
   {
-    "index": "black-pudding",
+    "label": "black-pudding",
     "name": "Black Pudding",
     "size": "Large",
     "type": "ooze",
@@ -6599,7 +6599,7 @@
     "url": "monsters/black-pudding"
   },
   {
-    "index": "blue-dragon-wyrmling",
+    "label": "blue-dragon-wyrmling",
     "name": "Blue Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -6716,7 +6716,7 @@
     "url": "monsters/blue-dragon-wyrmling"
   },
   {
-    "index": "bone-devil",
+    "label": "bone-devil",
     "name": "Bone Devil",
     "size": "Large",
     "type": "fiend",
@@ -6854,7 +6854,7 @@
     "url": "monsters/bone-devil"
   },
   {
-    "index": "brass-dragon-wyrmling",
+    "label": "brass-dragon-wyrmling",
     "name": "Brass Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -6984,7 +6984,7 @@
     "url": "monsters/brass-dragon-wyrmling"
   },
   {
-    "index": "bronze-dragon-wyrmling",
+    "label": "bronze-dragon-wyrmling",
     "name": "Bronze Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -7120,7 +7120,7 @@
     "url": "monsters/bronze-dragon-wyrmling"
   },
   {
-    "index": "bugbear",
+    "label": "bugbear",
     "name": "Bugbear",
     "size": "Medium",
     "type": "humanoid",
@@ -7203,7 +7203,7 @@
     "url": "monsters/bugbear"
   },
   {
-    "index": "bulette",
+    "label": "bulette",
     "name": "Bulette",
     "size": "Large",
     "type": "monstrosity",
@@ -7269,7 +7269,7 @@
     "url": "monsters/bulette"
   },
   {
-    "index": "centaur",
+    "label": "centaur",
     "name": "Centaur",
     "size": "Large",
     "type": "monstrosity",
@@ -7403,7 +7403,7 @@
     "url": "monsters/centaur"
   },
   {
-    "index": "chain-devil",
+    "label": "chain-devil",
     "name": "Chain Devil",
     "size": "Medium",
     "type": "fiend",
@@ -7529,7 +7529,7 @@
     "url": "monsters/chain-devil"
   },
   {
-    "index": "chimera",
+    "label": "chimera",
     "name": "Chimera",
     "size": "Large",
     "type": "monstrosity",
@@ -7704,7 +7704,7 @@
     "url": "monsters/chimera"
   },
   {
-    "index": "chuul",
+    "label": "chuul",
     "name": "Chuul",
     "size": "Large",
     "type": "aberration",
@@ -7818,7 +7818,7 @@
     "url": "monsters/chuul"
   },
   {
-    "index": "clay-golem",
+    "label": "clay-golem",
     "name": "Clay Golem",
     "size": "Large",
     "type": "construct",
@@ -7943,7 +7943,7 @@
     "url": "monsters/clay-golem"
   },
   {
-    "index": "cloaker",
+    "label": "cloaker",
     "name": "Cloaker",
     "size": "Large",
     "type": "aberration",
@@ -8070,7 +8070,7 @@
     "url": "monsters/cloaker"
   },
   {
-    "index": "cloud-giant",
+    "label": "cloud-giant",
     "name": "Cloud Giant",
     "size": "Huge",
     "type": "giant",
@@ -8261,7 +8261,7 @@
     "url": "monsters/cloud-giant"
   },
   {
-    "index": "cockatrice",
+    "label": "cockatrice",
     "name": "Cockatrice",
     "size": "Small",
     "type": "monstrosity",
@@ -8310,7 +8310,7 @@
     "url": "monsters/cockatrice"
   },
   {
-    "index": "copper-dragon-wyrmling",
+    "label": "copper-dragon-wyrmling",
     "name": "Copper Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -8440,7 +8440,7 @@
     "url": "monsters/copper-dragon-wyrmling"
   },
   {
-    "index": "couatl",
+    "label": "couatl",
     "name": "Couatl",
     "size": "Medium",
     "type": "celestial",
@@ -8655,7 +8655,7 @@
     "url": "monsters/couatl"
   },
   {
-    "index": "darkmantle",
+    "label": "darkmantle",
     "name": "Darkmantle",
     "size": "Small",
     "type": "monstrosity",
@@ -8728,7 +8728,7 @@
     "url": "monsters/darkmantle"
   },
   {
-    "index": "deep-gnome-svirfneblin",
+    "label": "deep-gnome-svirfneblin",
     "name": "Deep Gnome (Svirfneblin)",
     "size": "Small",
     "type": "humanoid",
@@ -8862,7 +8862,7 @@
     "url": "monsters/deep-gnome-svirfneblin"
   },
   {
-    "index": "deva",
+    "label": "deva",
     "name": "Deva",
     "size": "Medium",
     "type": "celestial",
@@ -9032,7 +9032,7 @@
     "url": "monsters/deva"
   },
   {
-    "index": "djinni",
+    "label": "djinni",
     "name": "Djinni",
     "size": "Large",
     "type": "elemental",
@@ -9268,7 +9268,7 @@
     "url": "monsters/djinni"
   },
   {
-    "index": "doppelganger",
+    "label": "doppelganger",
     "name": "Doppelganger",
     "size": "Medium",
     "type": "monstrosity",
@@ -9366,7 +9366,7 @@
     "url": "monsters/doppelganger"
   },
   {
-    "index": "dragon-turtle",
+    "label": "dragon-turtle",
     "name": "Dragon Turtle",
     "size": "Gargantuan",
     "type": "dragon",
@@ -9526,7 +9526,7 @@
     "url": "monsters/dragon-turtle"
   },
   {
-    "index": "dretch",
+    "label": "dretch",
     "name": "Dretch",
     "size": "Small",
     "type": "fiend",
@@ -9636,7 +9636,7 @@
     "url": "monsters/dretch"
   },
   {
-    "index": "drider",
+    "label": "drider",
     "name": "Drider",
     "size": "Large",
     "type": "monstrosity",
@@ -9853,7 +9853,7 @@
     "url": "monsters/drider"
   },
   {
-    "index": "drow",
+    "label": "drow",
     "name": "Drow",
     "size": "Medium",
     "type": "humanoid",
@@ -9974,7 +9974,7 @@
     "url": "monsters/drow"
   },
   {
-    "index": "dryad",
+    "label": "dryad",
     "name": "Dryad",
     "size": "Medium",
     "type": "fey",
@@ -10120,7 +10120,7 @@
     "url": "monsters/dryad"
   },
   {
-    "index": "duergar",
+    "label": "duergar",
     "name": "Duergar",
     "size": "Medium",
     "type": "humanoid",
@@ -10216,7 +10216,7 @@
     "url": "monsters/duergar"
   },
   {
-    "index": "dust-mephit",
+    "label": "dust-mephit",
     "name": "Dust Mephit",
     "size": "Small",
     "type": "elemental",
@@ -10327,7 +10327,7 @@
     "url": "monsters/dust-mephit"
   },
   {
-    "index": "earth-elemental",
+    "label": "earth-elemental",
     "name": "Earth Elemental",
     "size": "Large",
     "type": "elemental",
@@ -10430,7 +10430,7 @@
     "url": "monsters/earth-elemental"
   },
   {
-    "index": "efreeti",
+    "label": "efreeti",
     "name": "Efreeti",
     "size": "Large",
     "type": "elemental",
@@ -10638,7 +10638,7 @@
     "url": "monsters/efreeti"
   },
   {
-    "index": "erinyes",
+    "label": "erinyes",
     "name": "Erinyes",
     "size": "Medium",
     "type": "fiend",
@@ -10810,7 +10810,7 @@
     "url": "monsters/erinyes"
   },
   {
-    "index": "ettercap",
+    "label": "ettercap",
     "name": "Ettercap",
     "size": "Medium",
     "type": "monstrosity",
@@ -10955,7 +10955,7 @@
     "url": "monsters/ettercap"
   },
   {
-    "index": "ettin",
+    "label": "ettin",
     "name": "Ettin",
     "size": "Large",
     "type": "giant",
@@ -11054,7 +11054,7 @@
     "url": "monsters/ettin"
   },
   {
-    "index": "fire-elemental",
+    "label": "fire-elemental",
     "name": "Fire Elemental",
     "size": "Large",
     "type": "elemental",
@@ -11179,7 +11179,7 @@
     "url": "monsters/fire-elemental"
   },
   {
-    "index": "fire-giant",
+    "label": "fire-giant",
     "name": "Fire Giant",
     "size": "Huge",
     "type": "giant",
@@ -11284,7 +11284,7 @@
     "url": "monsters/fire-giant"
   },
   {
-    "index": "flesh-golem",
+    "label": "flesh-golem",
     "name": "Flesh Golem",
     "size": "Medium",
     "type": "construct",
@@ -11403,7 +11403,7 @@
     "url": "monsters/flesh-golem"
   },
   {
-    "index": "flying-sword",
+    "label": "flying-sword",
     "name": "Flying Sword",
     "size": "Small",
     "type": "construct",
@@ -11501,7 +11501,7 @@
     "url": "monsters/flying-sword"
   },
   {
-    "index": "frost-giant",
+    "label": "frost-giant",
     "name": "Frost Giant",
     "size": "Huge",
     "type": "giant",
@@ -11606,7 +11606,7 @@
     "url": "monsters/frost-giant"
   },
   {
-    "index": "gargoyle",
+    "label": "gargoyle",
     "name": "Gargoyle",
     "size": "Medium",
     "type": "elemental",
@@ -11713,7 +11713,7 @@
     "url": "monsters/gargoyle"
   },
   {
-    "index": "gelatinous-cube",
+    "label": "gelatinous-cube",
     "name": "Gelatinous Cube",
     "size": "Large",
     "type": "ooze",
@@ -11817,7 +11817,7 @@
     "url": "monsters/gelatinous-cube"
   },
   {
-    "index": "ghast",
+    "label": "ghast",
     "name": "Ghast",
     "size": "Medium",
     "type": "undead",
@@ -11904,7 +11904,7 @@
     "url": "monsters/ghast"
   },
   {
-    "index": "ghost",
+    "label": "ghost",
     "name": "Ghost",
     "size": "Medium",
     "type": "undead",
@@ -12039,7 +12039,7 @@
     "url": "monsters/ghost"
   },
   {
-    "index": "ghoul",
+    "label": "ghoul",
     "name": "Ghoul",
     "size": "Medium",
     "type": "undead",
@@ -12106,7 +12106,7 @@
     "url": "monsters/ghoul"
   },
   {
-    "index": "gibbering-mouther",
+    "label": "gibbering-mouther",
     "name": "Gibbering Mouther",
     "size": "Medium",
     "type": "aberration",
@@ -12216,7 +12216,7 @@
     "url": "monsters/gibbering-mouther"
   },
   {
-    "index": "glabrezu",
+    "label": "glabrezu",
     "name": "Glabrezu",
     "size": "Large",
     "type": "fiend",
@@ -12417,7 +12417,7 @@
     "url": "monsters/glabrezu"
   },
   {
-    "index": "gnoll",
+    "label": "gnoll",
     "name": "Gnoll",
     "size": "Medium",
     "type": "humanoid",
@@ -12512,7 +12512,7 @@
     "url": "monsters/gnoll"
   },
   {
-    "index": "goblin",
+    "label": "goblin",
     "name": "Goblin",
     "size": "Small",
     "type": "humanoid",
@@ -12586,7 +12586,7 @@
     "url": "monsters/goblin"
   },
   {
-    "index": "gold-dragon-wyrmling",
+    "label": "gold-dragon-wyrmling",
     "name": "Gold Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -12722,7 +12722,7 @@
     "url": "monsters/gold-dragon-wyrmling"
   },
   {
-    "index": "gorgon",
+    "label": "gorgon",
     "name": "Gorgon",
     "size": "Large",
     "type": "monstrosity",
@@ -12818,7 +12818,7 @@
     "url": "monsters/gorgon"
   },
   {
-    "index": "gray-ooze",
+    "label": "gray-ooze",
     "name": "Gray Ooze",
     "size": "Medium",
     "type": "ooze",
@@ -12923,7 +12923,7 @@
     "url": "monsters/gray-ooze"
   },
   {
-    "index": "green-dragon-wyrmling",
+    "label": "green-dragon-wyrmling",
     "name": "Green Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -13051,7 +13051,7 @@
     "url": "monsters/green-dragon-wyrmling"
   },
   {
-    "index": "green-hag",
+    "label": "green-hag",
     "name": "Green Hag",
     "size": "Medium",
     "type": "fey",
@@ -13185,7 +13185,7 @@
     "url": "monsters/green-hag"
   },
   {
-    "index": "grick",
+    "label": "grick",
     "name": "Grick",
     "size": "Medium",
     "type": "monstrosity",
@@ -13278,7 +13278,7 @@
     "url": "monsters/grick"
   },
   {
-    "index": "griffon",
+    "label": "griffon",
     "name": "Griffon",
     "size": "Large",
     "type": "monstrosity",
@@ -13374,7 +13374,7 @@
     "url": "monsters/griffon"
   },
   {
-    "index": "grimlock",
+    "label": "grimlock",
     "name": "Grimlock",
     "size": "Medium",
     "type": "humanoid",
@@ -13464,7 +13464,7 @@
     "url": "monsters/grimlock"
   },
   {
-    "index": "guardian-naga",
+    "label": "guardian-naga",
     "name": "Guardian Naga",
     "size": "Large",
     "type": "monstrosity",
@@ -13662,7 +13662,7 @@
     "url": "monsters/guardian-naga"
   },
   {
-    "index": "gynosphinx",
+    "label": "gynosphinx",
     "name": "Gynosphinx",
     "size": "Large",
     "type": "monstrosity",
@@ -13887,7 +13887,7 @@
     "url": "monsters/gynosphinx"
   },
   {
-    "index": "half-red-dragon-veteran",
+    "label": "half-red-dragon-veteran",
     "name": "Half-Red Dragon Veteran",
     "size": "Medium",
     "type": "humanoid",
@@ -14027,7 +14027,7 @@
     "url": "monsters/half-red-dragon-veteran"
   },
   {
-    "index": "harpy",
+    "label": "harpy",
     "name": "Harpy",
     "size": "Medium",
     "type": "monstrosity",
@@ -14114,7 +14114,7 @@
     "url": "monsters/harpy"
   },
   {
-    "index": "hell-hound",
+    "label": "hell-hound",
     "name": "Hell Hound",
     "size": "Medium",
     "type": "fiend",
@@ -14213,7 +14213,7 @@
     "url": "monsters/hell-hound"
   },
   {
-    "index": "hezrou",
+    "label": "hezrou",
     "name": "Hezrou",
     "size": "Large",
     "type": "fiend",
@@ -14350,7 +14350,7 @@
     "url": "monsters/hezrou"
   },
   {
-    "index": "hill-giant",
+    "label": "hill-giant",
     "name": "Hill Giant",
     "size": "Huge",
     "type": "giant",
@@ -14433,7 +14433,7 @@
     "url": "monsters/hill-giant"
   },
   {
-    "index": "hippogriff",
+    "label": "hippogriff",
     "name": "Hippogriff",
     "size": "Large",
     "type": "monstrosity",
@@ -14528,7 +14528,7 @@
     "url": "monsters/hippogriff"
   },
   {
-    "index": "hobgoblin",
+    "label": "hobgoblin",
     "name": "Hobgoblin",
     "size": "Medium",
     "type": "humanoid",
@@ -14609,7 +14609,7 @@
     "url": "monsters/hobgoblin"
   },
   {
-    "index": "homunculus",
+    "label": "homunculus",
     "name": "Homunculus",
     "size": "Tiny",
     "type": "construct",
@@ -14675,7 +14675,7 @@
     "url": "monsters/homunculus"
   },
   {
-    "index": "horned-devil",
+    "label": "horned-devil",
     "name": "Horned Devil",
     "size": "Large",
     "type": "fiend",
@@ -14844,7 +14844,7 @@
     "url": "monsters/horned-devil"
   },
   {
-    "index": "hydra",
+    "label": "hydra",
     "name": "Hydra",
     "size": "Huge",
     "type": "monstrosity",
@@ -14933,7 +14933,7 @@
     "url": "monsters/hydra"
   },
   {
-    "index": "ice-devil",
+    "label": "ice-devil",
     "name": "Ice Devil",
     "size": "Large",
     "type": "fiend",
@@ -15102,7 +15102,7 @@
     "url": "monsters/ice-devil"
   },
   {
-    "index": "ice-mephit",
+    "label": "ice-mephit",
     "name": "Ice Mephit",
     "size": "Small",
     "type": "elemental",
@@ -15257,7 +15257,7 @@
     "url": "monsters/ice-mephit"
   },
   {
-    "index": "imp",
+    "label": "imp",
     "name": "Imp",
     "size": "Tiny",
     "type": "fiend",
@@ -15360,7 +15360,7 @@
     "url": "monsters/imp"
   },
   {
-    "index": "invisible-stalker",
+    "label": "invisible-stalker",
     "name": "Invisible Stalker",
     "size": "Medium",
     "type": "elemental",
@@ -15484,7 +15484,7 @@
     "url": "monsters/invisible-stalker"
   },
   {
-    "index": "iron-golem",
+    "label": "iron-golem",
     "name": "Iron Golem",
     "size": "Large",
     "type": "construct",
@@ -15643,7 +15643,7 @@
     "url": "monsters/iron-golem"
   },
   {
-    "index": "kobold",
+    "label": "kobold",
     "name": "Kobold",
     "size": "Small",
     "type": "humanoid",
@@ -15715,7 +15715,7 @@
     "url": "monsters/kobold"
   },
   {
-    "index": "kraken",
+    "label": "kraken",
     "name": "Kraken",
     "size": "Gargantuan",
     "type": "monstrosity",
@@ -15919,7 +15919,7 @@
     "url": "monsters/kraken"
   },
   {
-    "index": "lamia",
+    "label": "lamia",
     "name": "Lamia",
     "size": "Large",
     "type": "monstrosity",
@@ -16098,7 +16098,7 @@
     "url": "monsters/lamia"
   },
   {
-    "index": "lemure",
+    "label": "lemure",
     "name": "Lemure",
     "size": "Medium",
     "type": "fiend",
@@ -16174,7 +16174,7 @@
     "url": "monsters/lemure"
   },
   {
-    "index": "lich",
+    "label": "lich",
     "name": "Lich",
     "size": "Medium",
     "type": "undead",
@@ -16509,7 +16509,7 @@
     "url": "monsters/lich"
   },
   {
-    "index": "lizardfolk",
+    "label": "lizardfolk",
     "name": "Lizardfolk",
     "size": "Medium",
     "type": "humanoid",
@@ -16702,7 +16702,7 @@
     "url": "monsters/lizardfolk"
   },
   {
-    "index": "magma-mephit",
+    "label": "magma-mephit",
     "name": "Magma Mephit",
     "size": "Small",
     "type": "elemental",
@@ -16838,7 +16838,7 @@
     "url": "monsters/magma-mephit"
   },
   {
-    "index": "magmin",
+    "label": "magmin",
     "name": "Magmin",
     "size": "Small",
     "type": "elemental",
@@ -16917,7 +16917,7 @@
     "url": "monsters/magmin"
   },
   {
-    "index": "manticore",
+    "label": "manticore",
     "name": "Manticore",
     "size": "Large",
     "type": "monstrosity",
@@ -17028,7 +17028,7 @@
     "url": "monsters/manticore"
   },
   {
-    "index": "marilith",
+    "label": "marilith",
     "name": "Marilith",
     "size": "Large",
     "type": "fiend",
@@ -17176,7 +17176,7 @@
     "url": "monsters/marilith"
   },
   {
-    "index": "medusa",
+    "label": "medusa",
     "name": "Medusa",
     "size": "Medium",
     "type": "monstrosity",
@@ -17329,7 +17329,7 @@
     "url": "monsters/medusa"
   },
   {
-    "index": "merfolk",
+    "label": "merfolk",
     "name": "Merfolk",
     "size": "Medium",
     "type": "humanoid",
@@ -17402,7 +17402,7 @@
     "url": "monsters/merfolk"
   },
   {
-    "index": "merrow",
+    "label": "merrow",
     "name": "Merrow",
     "size": "Large",
     "type": "monstrosity",
@@ -17530,7 +17530,7 @@
     "url": "monsters/merrow"
   },
   {
-    "index": "mimic",
+    "label": "mimic",
     "name": "Mimic",
     "size": "Medium",
     "type": "monstrosity",
@@ -17630,7 +17630,7 @@
     "url": "monsters/mimic"
   },
   {
-    "index": "minotaur",
+    "label": "minotaur",
     "name": "Minotaur",
     "size": "Large",
     "type": "monstrosity",
@@ -17712,7 +17712,7 @@
     "url": "monsters/minotaur"
   },
   {
-    "index": "minotaur-skeleton",
+    "label": "minotaur-skeleton",
     "name": "Minotaur Skeleton",
     "size": "Large",
     "type": "undead",
@@ -17793,7 +17793,7 @@
     "url": "monsters/minotaur-skeleton"
   },
   {
-    "index": "mummy",
+    "label": "mummy",
     "name": "Mummy",
     "size": "Medium",
     "type": "undead",
@@ -17915,7 +17915,7 @@
     "url": "monsters/mummy"
   },
   {
-    "index": "mummy-lord",
+    "label": "mummy-lord",
     "name": "Mummy Lord",
     "size": "Medium",
     "type": "undead",
@@ -18213,7 +18213,7 @@
     "url": "monsters/mummy-lord"
   },
   {
-    "index": "nalfeshnee",
+    "label": "nalfeshnee",
     "name": "Nalfeshnee",
     "size": "Large",
     "type": "fiend",
@@ -18371,7 +18371,7 @@
     "url": "monsters/nalfeshnee"
   },
   {
-    "index": "night-hag",
+    "label": "night-hag",
     "name": "Night Hag",
     "size": "Medium",
     "type": "fiend",
@@ -18541,7 +18541,7 @@
     "url": "monsters/night-hag"
   },
   {
-    "index": "nightmare",
+    "label": "nightmare",
     "name": "Nightmare",
     "size": "Large",
     "type": "fiend",
@@ -18612,7 +18612,7 @@
     "url": "monsters/nightmare"
   },
   {
-    "index": "ochre-jelly",
+    "label": "ochre-jelly",
     "name": "Ochre Jelly",
     "size": "Large",
     "type": "ooze",
@@ -18714,7 +18714,7 @@
     "url": "monsters/ochre-jelly"
   },
   {
-    "index": "ogre",
+    "label": "ogre",
     "name": "Ogre",
     "size": "Large",
     "type": "giant",
@@ -18776,7 +18776,7 @@
     "url": "monsters/ogre"
   },
   {
-    "index": "ogre-zombie",
+    "label": "ogre-zombie",
     "name": "Ogre Zombie",
     "size": "Large",
     "type": "undead",
@@ -18843,7 +18843,7 @@
     "url": "monsters/ogre-zombie"
   },
   {
-    "index": "oni",
+    "label": "oni",
     "name": "Oni",
     "size": "Large",
     "type": "giant",
@@ -19054,7 +19054,7 @@
     "url": "monsters/oni"
   },
   {
-    "index": "orc",
+    "label": "orc",
     "name": "Orc",
     "size": "Medium",
     "type": "humanoid",
@@ -19128,7 +19128,7 @@
     "url": "monsters/orc"
   },
   {
-    "index": "otyugh",
+    "label": "otyugh",
     "name": "Otyugh",
     "size": "Large",
     "type": "aberration",
@@ -19242,7 +19242,7 @@
     "url": "monsters/otyugh"
   },
   {
-    "index": "owlbear",
+    "label": "owlbear",
     "name": "Owlbear",
     "size": "Large",
     "type": "monstrosity",
@@ -19337,7 +19337,7 @@
     "url": "monsters/owlbear"
   },
   {
-    "index": "pegasus",
+    "label": "pegasus",
     "name": "Pegasus",
     "size": "Large",
     "type": "celestial",
@@ -19406,7 +19406,7 @@
     "url": "monsters/pegasus"
   },
   {
-    "index": "pit-fiend",
+    "label": "pit-fiend",
     "name": "Pit Fiend",
     "size": "Large",
     "type": "fiend",
@@ -19621,7 +19621,7 @@
     "url": "monsters/pit-fiend"
   },
   {
-    "index": "planetar",
+    "label": "planetar",
     "name": "Planetar",
     "size": "Large",
     "type": "celestial",
@@ -19837,7 +19837,7 @@
     "url": "monsters/planetar"
   },
   {
-    "index": "plesiosaurus",
+    "label": "plesiosaurus",
     "name": "Plesiosaurus",
     "size": "Large",
     "type": "beast",
@@ -19902,7 +19902,7 @@
     "url": "monsters/plesiosaurus"
   },
   {
-    "index": "pseudodragon",
+    "label": "pseudodragon",
     "name": "Pseudodragon",
     "size": "Tiny",
     "type": "dragon",
@@ -19995,7 +19995,7 @@
     "url": "monsters/pseudodragon"
   },
   {
-    "index": "purple-worm",
+    "label": "purple-worm",
     "name": "Purple Worm",
     "size": "Gargantuan",
     "type": "monstrosity",
@@ -20097,7 +20097,7 @@
     "url": "monsters/purple-worm"
   },
   {
-    "index": "quasit",
+    "label": "quasit",
     "name": "Quasit",
     "size": "Tiny",
     "type": "fiend",
@@ -20197,7 +20197,7 @@
     "url": "monsters/quasit"
   },
   {
-    "index": "rakshasa",
+    "label": "rakshasa",
     "name": "Rakshasa",
     "size": "Medium",
     "type": "fiend",
@@ -20397,7 +20397,7 @@
     "url": "monsters/rakshasa"
   },
   {
-    "index": "red-dragon-wyrmling",
+    "label": "red-dragon-wyrmling",
     "name": "Red Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -20514,7 +20514,7 @@
     "url": "monsters/red-dragon-wyrmling"
   },
   {
-    "index": "remorhaz",
+    "label": "remorhaz",
     "name": "Remorhaz",
     "size": "Huge",
     "type": "monstrosity",
@@ -20593,7 +20593,7 @@
     "url": "monsters/remorhaz"
   },
   {
-    "index": "roc",
+    "label": "roc",
     "name": "Roc",
     "size": "Gargantuan",
     "type": "monstrosity",
@@ -20708,7 +20708,7 @@
     "url": "monsters/roc"
   },
   {
-    "index": "roper",
+    "label": "roper",
     "name": "Roper",
     "size": "Large",
     "type": "monstrosity",
@@ -20817,7 +20817,7 @@
     "url": "monsters/roper"
   },
   {
-    "index": "rug-of-smothering",
+    "label": "rug-of-smothering",
     "name": "Rug of Smothering",
     "size": "Large",
     "type": "construct",
@@ -20902,7 +20902,7 @@
     "url": "monsters/rug-of-smothering"
   },
   {
-    "index": "rust-monster",
+    "label": "rust-monster",
     "name": "Rust Monster",
     "size": "Medium",
     "type": "monstrosity",
@@ -20964,7 +20964,7 @@
     "url": "monsters/rust-monster"
   },
   {
-    "index": "sahuagin",
+    "label": "sahuagin",
     "name": "Sahuagin",
     "size": "Medium",
     "type": "humanoid",
@@ -21107,7 +21107,7 @@
     "url": "monsters/sahuagin"
   },
   {
-    "index": "salamander",
+    "label": "salamander",
     "name": "Salamander",
     "size": "Large",
     "type": "elemental",
@@ -21242,7 +21242,7 @@
     "url": "monsters/salamander"
   },
   {
-    "index": "satyr",
+    "label": "satyr",
     "name": "Satyr",
     "size": "Medium",
     "type": "fey",
@@ -21343,7 +21343,7 @@
     "url": "monsters/satyr"
   },
   {
-    "index": "sea-hag",
+    "label": "sea-hag",
     "name": "Sea Hag",
     "size": "Medium",
     "type": "fey",
@@ -21430,7 +21430,7 @@
     "url": "monsters/sea-hag"
   },
   {
-    "index": "shadow",
+    "label": "shadow",
     "name": "Shadow",
     "size": "Medium",
     "type": "undead",
@@ -21543,7 +21543,7 @@
     "url": "monsters/shadow"
   },
   {
-    "index": "shambling-mound",
+    "label": "shambling-mound",
     "name": "Shambling Mound",
     "size": "Large",
     "type": "plant",
@@ -21649,7 +21649,7 @@
     "url": "monsters/shambling-mound"
   },
   {
-    "index": "shield-guardian",
+    "label": "shield-guardian",
     "name": "Shield Guardian",
     "size": "Large",
     "type": "construct",
@@ -21757,7 +21757,7 @@
     "url": "monsters/shield-guardian"
   },
   {
-    "index": "shrieker",
+    "label": "shrieker",
     "name": "Shrieker",
     "size": "Medium",
     "type": "plant",
@@ -21814,7 +21814,7 @@
     "url": "monsters/shrieker"
   },
   {
-    "index": "silver-dragon-wyrmling",
+    "label": "silver-dragon-wyrmling",
     "name": "Silver Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -21943,7 +21943,7 @@
     "url": "monsters/silver-dragon-wyrmling"
   },
   {
-    "index": "skeleton",
+    "label": "skeleton",
     "name": "Skeleton",
     "size": "Medium",
     "type": "undead",
@@ -22012,7 +22012,7 @@
     "url": "monsters/skeleton"
   },
   {
-    "index": "solar",
+    "label": "solar",
     "name": "Solar",
     "size": "Large",
     "type": "celestial",
@@ -22290,7 +22290,7 @@
     "url": "monsters/solar"
   },
   {
-    "index": "specter",
+    "label": "specter",
     "name": "Specter",
     "size": "Medium",
     "type": "undead",
@@ -22397,7 +22397,7 @@
     "url": "monsters/specter"
   },
   {
-    "index": "spirit-naga",
+    "label": "spirit-naga",
     "name": "Spirit Naga",
     "size": "Large",
     "type": "monstrosity",
@@ -22574,7 +22574,7 @@
     "url": "monsters/spirit-naga"
   },
   {
-    "index": "sprite",
+    "label": "sprite",
     "name": "Sprite",
     "size": "Tiny",
     "type": "fey",
@@ -22663,7 +22663,7 @@
     "url": "monsters/sprite"
   },
   {
-    "index": "steam-mephit",
+    "label": "steam-mephit",
     "name": "Steam Mephit",
     "size": "Small",
     "type": "elemental",
@@ -22787,7 +22787,7 @@
     "url": "monsters/steam-mephit"
   },
   {
-    "index": "stirge",
+    "label": "stirge",
     "name": "Stirge",
     "size": "Tiny",
     "type": "beast",
@@ -22836,7 +22836,7 @@
     "url": "monsters/stirge"
   },
   {
-    "index": "stone-giant",
+    "label": "stone-giant",
     "name": "Stone Giant",
     "size": "Huge",
     "type": "giant",
@@ -22952,7 +22952,7 @@
     "url": "monsters/stone-giant"
   },
   {
-    "index": "stone-golem",
+    "label": "stone-golem",
     "name": "Stone Golem",
     "size": "Large",
     "type": "construct",
@@ -23076,7 +23076,7 @@
     "url": "monsters/stone-golem"
   },
   {
-    "index": "storm-giant",
+    "label": "storm-giant",
     "name": "Storm Giant",
     "size": "Huge",
     "type": "giant",
@@ -23290,7 +23290,7 @@
     "url": "monsters/storm-giant"
   },
   {
-    "index": "succubus-incubus",
+    "label": "succubus-incubus",
     "name": "Succubus/Incubus",
     "size": "Medium",
     "type": "fiend",
@@ -23411,7 +23411,7 @@
     "url": "monsters/succubus-incubus"
   },
   {
-    "index": "tarrasque",
+    "label": "tarrasque",
     "name": "Tarrasque",
     "size": "Gargantuan",
     "type": "monstrosity",
@@ -23654,7 +23654,7 @@
     "url": "monsters/tarrasque"
   },
   {
-    "index": "treant",
+    "label": "treant",
     "name": "Treant",
     "size": "Huge",
     "type": "plant",
@@ -23754,7 +23754,7 @@
     "url": "monsters/treant"
   },
   {
-    "index": "triceratops",
+    "label": "triceratops",
     "name": "Triceratops",
     "size": "Huge",
     "type": "beast",
@@ -23821,7 +23821,7 @@
     "url": "monsters/triceratops"
   },
   {
-    "index": "troll",
+    "label": "troll",
     "name": "Troll",
     "size": "Large",
     "type": "giant",
@@ -23924,7 +23924,7 @@
     "url": "monsters/troll"
   },
   {
-    "index": "tyrannosaurus-rex",
+    "label": "tyrannosaurus-rex",
     "name": "Tyrannosaurus Rex",
     "size": "Huge",
     "type": "beast",
@@ -24014,7 +24014,7 @@
     "url": "monsters/tyrannosaurus-rex"
   },
   {
-    "index": "unicorn",
+    "label": "unicorn",
     "name": "Unicorn",
     "size": "Large",
     "type": "celestial",
@@ -24215,7 +24215,7 @@
     "url": "monsters/unicorn"
   },
   {
-    "index": "vampire",
+    "label": "vampire",
     "name": "Vampire",
     "size": "Medium",
     "type": "undead",
@@ -24384,7 +24384,7 @@
     "url": "monsters/vampire"
   },
   {
-    "index": "vampire-spawn",
+    "label": "vampire-spawn",
     "name": "Vampire Spawn",
     "size": "Medium",
     "type": "undead",
@@ -24519,7 +24519,7 @@
     "url": "monsters/vampire-spawn"
   },
   {
-    "index": "violet-fungus",
+    "label": "violet-fungus",
     "name": "Violet Fungus",
     "size": "Medium",
     "type": "plant",
@@ -24602,7 +24602,7 @@
     "url": "monsters/violet-fungus"
   },
   {
-    "index": "vrock",
+    "label": "vrock",
     "name": "Vrock",
     "size": "Large",
     "type": "fiend",
@@ -24756,7 +24756,7 @@
     "url": "monsters/vrock"
   },
   {
-    "index": "warhorse-skeleton",
+    "label": "warhorse-skeleton",
     "name": "Warhorse Skeleton",
     "size": "Large",
     "type": "undead",
@@ -24817,7 +24817,7 @@
     "url": "monsters/warhorse-skeleton"
   },
   {
-    "index": "water-elemental",
+    "label": "water-elemental",
     "name": "Water Elemental",
     "size": "Large",
     "type": "elemental",
@@ -24956,7 +24956,7 @@
     "url": "monsters/water-elemental"
   },
   {
-    "index": "werebear",
+    "label": "werebear",
     "name": "Werebear",
     "size": "Medium",
     "type": "humanoid",
@@ -25104,7 +25104,7 @@
     "url": "monsters/werebear"
   },
   {
-    "index": "wereboar",
+    "label": "wereboar",
     "name": "Wereboar",
     "size": "Medium",
     "type": "humanoid",
@@ -25207,7 +25207,7 @@
     "url": "monsters/wereboar"
   },
   {
-    "index": "wererat",
+    "label": "wererat",
     "name": "Wererat",
     "size": "Medium",
     "type": "humanoid",
@@ -25310,7 +25310,7 @@
     "url": "monsters/wererat"
   },
   {
-    "index": "weretiger",
+    "label": "weretiger",
     "name": "Weretiger",
     "size": "Medium",
     "type": "humanoid",
@@ -25439,7 +25439,7 @@
     "url": "monsters/weretiger"
   },
   {
-    "index": "werewolf",
+    "label": "werewolf",
     "name": "Werewolf",
     "size": "Medium",
     "type": "humanoid",
@@ -25557,7 +25557,7 @@
     "url": "monsters/werewolf"
   },
   {
-    "index": "white-dragon-wyrmling",
+    "label": "white-dragon-wyrmling",
     "name": "White Dragon Wyrmling",
     "size": "Medium",
     "type": "dragon",
@@ -25675,7 +25675,7 @@
     "url": "monsters/white-dragon-wyrmling"
   },
   {
-    "index": "wight",
+    "label": "wight",
     "name": "Wight",
     "size": "Medium",
     "type": "undead",
@@ -25824,7 +25824,7 @@
     "url": "monsters/wight"
   },
   {
-    "index": "will-o-wisp",
+    "label": "will-o-wisp",
     "name": "Will-o'-Wisp",
     "size": "Tiny",
     "type": "undead",
@@ -25943,7 +25943,7 @@
     "url": "monsters/will-o-wisp"
   },
   {
-    "index": "wraith",
+    "label": "wraith",
     "name": "Wraith",
     "size": "Medium",
     "type": "undead",
@@ -26050,7 +26050,7 @@
     "url": "monsters/wraith"
   },
   {
-    "index": "wyvern",
+    "label": "wyvern",
     "name": "Wyvern",
     "size": "Large",
     "type": "dragon",
@@ -26182,7 +26182,7 @@
     "url": "monsters/wyvern"
   },
   {
-    "index": "xorn",
+    "label": "xorn",
     "name": "Xorn",
     "size": "Medium",
     "type": "elemental",
@@ -26294,7 +26294,7 @@
     "url": "monsters/xorn"
   },
   {
-    "index": "young-black-dragon",
+    "label": "young-black-dragon",
     "name": "Young Black Dragon",
     "size": "Large",
     "type": "dragon",
@@ -26452,7 +26452,7 @@
     "url": "monsters/young-black-dragon"
   },
   {
-    "index": "young-blue-dragon",
+    "label": "young-blue-dragon",
     "name": "Young Blue Dragon",
     "size": "Large",
     "type": "dragon",
@@ -26604,7 +26604,7 @@
     "url": "monsters/young-blue-dragon"
   },
   {
-    "index": "young-brass-dragon",
+    "label": "young-brass-dragon",
     "name": "Young Brass Dragon",
     "size": "Large",
     "type": "dragon",
@@ -26774,7 +26774,7 @@
     "url": "monsters/young-brass-dragon"
   },
   {
-    "index": "young-bronze-dragon",
+    "label": "young-bronze-dragon",
     "name": "Young Bronze Dragon",
     "size": "Large",
     "type": "dragon",
@@ -26950,7 +26950,7 @@
     "url": "monsters/young-bronze-dragon"
   },
   {
-    "index": "young-copper-dragon",
+    "label": "young-copper-dragon",
     "name": "Young Copper Dragon",
     "size": "Large",
     "type": "dragon",
@@ -27120,7 +27120,7 @@
     "url": "monsters/young-copper-dragon"
   },
   {
-    "index": "young-gold-dragon",
+    "label": "young-gold-dragon",
     "name": "Young Gold Dragon",
     "size": "Large",
     "type": "dragon",
@@ -27301,7 +27301,7 @@
     "url": "monsters/young-gold-dragon"
   },
   {
-    "index": "young-green-dragon",
+    "label": "young-green-dragon",
     "name": "Young Green Dragon",
     "size": "Large",
     "type": "dragon",
@@ -27469,7 +27469,7 @@
     "url": "monsters/young-green-dragon"
   },
   {
-    "index": "young-red-dragon",
+    "label": "young-red-dragon",
     "name": "Young Red Dragon",
     "size": "Large",
     "type": "dragon",
@@ -27621,7 +27621,7 @@
     "url": "monsters/young-red-dragon"
   },
   {
-    "index": "young-silver-dragon",
+    "label": "young-silver-dragon",
     "name": "Young Silver Dragon",
     "size": "Large",
     "type": "dragon",
@@ -27795,7 +27795,7 @@
     "url": "monsters/young-silver-dragon"
   },
   {
-    "index": "young-white-dragon",
+    "label": "young-white-dragon",
     "name": "Young White Dragon",
     "size": "Large",
     "type": "dragon",
@@ -27954,7 +27954,7 @@
     "url": "monsters/young-white-dragon"
   },
   {
-    "index": "zombie",
+    "label": "zombie",
     "name": "Zombie",
     "size": "Medium",
     "type": "undead",

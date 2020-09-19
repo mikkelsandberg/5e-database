@@ -1,6 +1,6 @@
 [
   {
-    "index": "barbarian",
+    "label": "barbarian",
     "name": "Barbarian",
     "hit_die": 12,
     "proficiency_choices": [
@@ -85,7 +85,7 @@
     "url": "classes/barbarian"
   },
   {
-    "index": "bard",
+    "label": "bard",
     "name": "Bard",
     "hit_die": 8,
     "proficiency_choices": [
@@ -271,7 +271,7 @@
     "url": "classes/bard"
   },
   {
-    "index": "cleric",
+    "label": "cleric",
     "name": "Cleric",
     "hit_die": 8,
     "proficiency_choices": [
@@ -351,7 +351,7 @@
     "url": "classes/cleric"
   },
   {
-    "index": "druid",
+    "label": "druid",
     "name": "Druid",
     "hit_die": 8,
     "proficiency_choices": [
@@ -483,7 +483,7 @@
     "url": "classes/druid"
   },
   {
-    "index": "fighter",
+    "label": "fighter",
     "name": "Fighter",
     "hit_die": 10,
     "proficiency_choices": [
@@ -572,7 +572,7 @@
     "url": "classes/fighter"
   },
   {
-    "index": "monk",
+    "label": "monk",
     "name": "Monk",
     "hit_die": 8,
     "proficiency_choices": [
@@ -773,7 +773,7 @@
     "url": "classes/monk"
   },
   {
-    "index": "paladin",
+    "label": "paladin",
     "name": "Paladin",
     "hit_die": 10,
     "proficiency_choices": [
@@ -857,7 +857,7 @@
     "url": "classes/paladin"
   },
   {
-    "index": "ranger",
+    "label": "ranger",
     "name": "Ranger",
     "hit_die": 10,
     "proficiency_choices": [
@@ -953,7 +953,7 @@
     "url": "classes/ranger"
   },
   {
-    "index": "rogue",
+    "label": "rogue",
     "name": "Rogue",
     "hit_die": 8,
     "proficiency_choices": [
@@ -1066,7 +1066,7 @@
     "url": "classes/rogue"
   },
   {
-    "index": "sorcerer",
+    "label": "sorcerer",
     "name": "Sorcerer",
     "hit_die": 6,
     "proficiency_choices": [
@@ -1150,7 +1150,7 @@
     "url": "classes/sorcerer"
   },
   {
-    "index": "warlock",
+    "label": "warlock",
     "name": "Warlock",
     "hit_die": 8,
     "proficiency_choices": [
@@ -1230,7 +1230,7 @@
     "url": "classes/warlock"
   },
   {
-    "index": "wizard",
+    "label": "wizard",
     "name": "Wizard",
     "hit_die": 6,
     "proficiency_choices": [

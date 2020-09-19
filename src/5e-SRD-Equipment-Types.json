@@ -1,6 +1,6 @@
 [
   {
-    "index": "weapon",
+    "label": "weapon",
     "name": "Weapon",
     "equipment": [
       {
@@ -155,7 +155,7 @@
     "url": "equipment-types/weapon"
   },
   {
-    "index": "armor",
+    "label": "armor",
     "name": "Armor",
     "equipment": [
       {
@@ -214,7 +214,7 @@
     "url": "equipment-types/armor"
   },
   {
-    "index": "adventuring-gear",
+    "label": "adventuring-gear",
     "name": "Adventuring Gear",
     "equipment": [
       {
@@ -661,7 +661,7 @@
     "url": "equipment-types/adventuring-gear"
   },
   {
-    "index": "ammunition",
+    "label": "ammunition",
     "name": "Ammunition",
     "equipment": [
       {
@@ -684,7 +684,7 @@
     "url": "equipment-types/ammunition"
   },
   {
-    "index": "tools",
+    "label": "tools",
     "name": "Tools",
     "equipment": [
       {
@@ -815,7 +815,7 @@
     "url": "equipment-types/tools"
   },
   {
-    "index": "mounts-and-vehicles",
+    "label": "mounts-and-vehicles",
     "name": "Mounts and Vehicles",
     "equipment": [
       {
@@ -1074,7 +1074,7 @@
     "url": "equipment-types/mounts-and-vehicles"
   },
   {
-    "index": "simple-weapons",
+    "label": "simple-weapons",
     "name": "Simple Weapons",
     "equipment": [
       {
@@ -1121,7 +1121,7 @@
     "url": "equipment-types/simple-weapons"
   },
   {
-    "index": "martial-weapons",
+    "label": "martial-weapons",
     "name": "Martial Weapons",
     "equipment": [
       {
@@ -1220,7 +1220,7 @@
     "url": "equipment-types/martial-weapons"
   },
   {
-    "index": "simple-melee-weapons",
+    "label": "simple-melee-weapons",
     "name": "Simple Melee Weapons",
     "equipment": [
       {
@@ -1267,7 +1267,7 @@
     "url": "equipment-types/simple-melee-weapons"
   },
   {
-    "index": "simple-ranged-weapons",
+    "label": "simple-ranged-weapons",
     "name": "Simple Ranged Weapons",
     "equipment": [
       {
@@ -1290,7 +1290,7 @@
     "url": "equipment-types/simple-ranged-weapons"
   },
   {
-    "index": "martial-melee-weapons",
+    "label": "martial-melee-weapons",
     "name": "Martial Melee Weapons",
     "equipment": [
       {
@@ -1369,7 +1369,7 @@
     "url": "equipment-types/martial-melee-weapons"
   },
   {
-    "index": "martial-ranged-weapons",
+    "label": "martial-ranged-weapons",
     "name": "Martial Ranged Weapons",
     "equipment": [
       {
@@ -1396,7 +1396,7 @@
     "url": "equipment-types/martial-ranged-weapons"
   },
   {
-    "index": "light-armor",
+    "label": "light-armor",
     "name": "Light Armor",
     "equipment": [
       {
@@ -1415,7 +1415,7 @@
     "url": "equipment-types/light-armor"
   },
   {
-    "index": "medium-armor",
+    "label": "medium-armor",
     "name": "Medium Armor",
     "equipment": [
       {
@@ -1442,7 +1442,7 @@
     "url": "equipment-types/medium-armor"
   },
   {
-    "index": "heavy-armor",
+    "label": "heavy-armor",
     "name": "Heavy Armor",
     "equipment": [
       {
@@ -1465,7 +1465,7 @@
     "url": "equipment-types/heavy-armor"
   },
   {
-    "index": "shields",
+    "label": "shields",
     "name": "Shields",
     "equipment": [
       {
@@ -1476,7 +1476,7 @@
     "url": "equipment-types/shields"
   },
   {
-    "index": "standard-gear",
+    "label": "standard-gear",
     "name": "Standard Gear",
     "equipment": [
       {
@@ -1835,7 +1835,7 @@
     "url": "equipment-types/standard-gear"
   },
   {
-    "index": "kits",
+    "label": "kits",
     "name": "Kits",
     "equipment": [
       {
@@ -1870,7 +1870,7 @@
     "url": "equipment-types/kits"
   },
   {
-    "index": "equipment-packs",
+    "label": "equipment-packs",
     "name": "Equipment Packs",
     "equipment": [
       {
@@ -1905,7 +1905,7 @@
     "url": "equipment-types/equipment-packs"
   },
   {
-    "index": "artisans-tools",
+    "label": "artisans-tools",
     "name": "Artisan's Tools",
     "equipment": [
       {
@@ -1980,7 +1980,7 @@
     "url": "equipment-types/artisans-tools"
   },
   {
-    "index": "gaming-sets",
+    "label": "gaming-sets",
     "name": "Gaming Sets",
     "equipment": [
       {
@@ -1995,7 +1995,7 @@
     "url": "equipment-types/gaming-sets"
   },
   {
-    "index": "musical-instruments",
+    "label": "musical-instruments",
     "name": "Musical Instruments",
     "equipment": [
       {
@@ -2042,7 +2042,7 @@
     "url": "equipment-types/musical-instruments"
   },
   {
-    "index": "other-tools",
+    "label": "other-tools",
     "name": "Other Tools",
     "equipment": [
       {
@@ -2057,7 +2057,7 @@
     "url": "equipment-types/other-tools"
   },
   {
-    "index": "mounts-and-other-animals",
+    "label": "mounts-and-other-animals",
     "name": "Mounts and Other Animals",
     "equipment": [
       {
@@ -2092,7 +2092,7 @@
     "url": "equipment-types/mounts-and-other-animals"
   },
   {
-    "index": "tack-harness-and-drawn-vehicles",
+    "label": "tack-harness-and-drawn-vehicles",
     "name": "Tack, Harness, and Drawn Vehicles",
     "equipment": [
       {
@@ -2199,7 +2199,7 @@
     "url": "equipment-types/tack-harness-and-drawn-vehicles"
   },
   {
-    "index": "land-vehicles",
+    "label": "land-vehicles",
     "name": "Land Vehicles",
     "equipment": [
       {
@@ -2226,7 +2226,7 @@
     "url": "equipment-types/land-vehicles"
   },
   {
-    "index": "waterborne-vehicles",
+    "label": "waterborne-vehicles",
     "name": "Waterborne Vehicles",
     "equipment": [
       {
@@ -2257,7 +2257,7 @@
     "url": "equipment-types/waterborne-vehicles"
   },
   {
-    "index": "arcane-foci",
+    "label": "arcane-foci",
     "name": "Arcane Foci",
     "equipment": [
       {
@@ -2284,7 +2284,7 @@
     "url": "equipment-types/arcane-foci"
   },
   {
-    "index": "druidic-foci",
+    "label": "druidic-foci",
     "name": "Druidic Foci",
     "equipment": [
       {
@@ -2307,7 +2307,7 @@
     "url": "equipment-types/druidic-foci"
   },
   {
-    "index": "holy-symbols",
+    "label": "holy-symbols",
     "name": "Holy Symbols",
     "equipment": [
       {

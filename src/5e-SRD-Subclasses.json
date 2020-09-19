@@ -1,6 +1,6 @@
 [
 	{
-		"index": "berserker",
+		"label": "berserker",
 		"class": {
 			"url": "classes/barbarian",
 			"name": "Barbarian"
@@ -16,7 +16,7 @@
 		"url": "subclasses/berserker"
 	},
 	{
-		"index": "lore",
+		"label": "lore",
 		"class": {
 			"url": "classes/bard",
 			"name": "Bard"
@@ -32,7 +32,7 @@
 		"url": "subclasses/lore"
 	},
 	{
-		"index": "life",
+		"label": "life",
 		"class": {
 			"url": "classes/cleric",
 			"name": "Cleric"
@@ -167,7 +167,7 @@
 		"url": "subclasses/life"
 	},
 	{
-		"index": "land",
+		"label": "land",
 		"class": {
 			"url": "classes/druid",
 			"name": "Druid"
@@ -1193,7 +1193,7 @@
 		"url": "subclasses/land"
 	},
 	{
-		"index": "champion",
+		"label": "champion",
 		"class": {
 			"url": "classes/fighter",
 			"name": "Fighter"
@@ -1209,7 +1209,7 @@
 		"url": "subclasses/champion"
 	},
 	{
-		"index": "open-hand",
+		"label": "open-hand",
 		"class": {
 			"url": "classes/monk",
 			"name": "Monk"
@@ -1225,7 +1225,7 @@
 		"url": "subclasses/open-hand"
 	},
 	{
-		"index": "devotion",
+		"label": "devotion",
 		"class": {
 			"url": "classes/paladin",
 			"name": "Paladin"
@@ -1360,7 +1360,7 @@
 		"url": "subclasses/devotion"
 	},
 	{
-		"index": "hunter",
+		"label": "hunter",
 		"class": {
 			"url": "classes/ranger",
 			"name": "Ranger"
@@ -1376,7 +1376,7 @@
 		"url": "subclasses/hunter"
 	},
 	{
-		"index": "thief",
+		"label": "thief",
 		"class": {
 			"url": "classes/rogue",
 			"name": "Rogue"
@@ -1392,7 +1392,7 @@
 		"url": "subclasses/thief"
 	},
 	{
-		"index": "draconic",
+		"label": "draconic",
 		"class": {
 			"url": "classes/sorcerer",
 			"name": "Sorcerer"
@@ -1408,7 +1408,7 @@
 		"url": "subclasses/draconic"
 	},
 	{
-		"index": "fiend",
+		"label": "fiend",
 		"class": {
 			"url": "classes/warlock",
 			"name": "Warlock"
@@ -1556,7 +1556,7 @@
 		"url": "subclasses/fiend"
 	},
 	{
-		"index": "evocation",
+		"label": "evocation",
 		"class": {
 			"url": "classes/wizard",
 			"name": "Wizard"

@@ -1,6 +1,6 @@
 [
   {
-    "index": "bard",
+    "label": "bard",
     "class": {
       "url": "classes/bard",
       "name": "Bard"
@@ -57,7 +57,7 @@
     "url": "spellcasting-types/bard"
   },
   {
-    "index": "cleric",
+    "label": "cleric",
     "class": {
       "url": "classes/cleric",
       "name": "Cleric"
@@ -107,7 +107,7 @@
     "url": "spellcasting-types/cleric"
   },
   {
-    "index": "druid",
+    "label": "druid",
     "class": {
       "url": "classes/druid",
       "name": "Druid"
@@ -155,7 +155,7 @@
     "url": "spellcasting-types/druid"
   },
   {
-    "index": "paladin",
+    "label": "paladin",
     "class": {
       "url": "classes/paladin",
       "name": "Paladin"
@@ -191,7 +191,7 @@
     "url": "spellcasting-types/paladin"
   },
   {
-    "index": "ranger",
+    "label": "ranger",
     "class": {
       "url": "classes/ranger",
       "name": "Ranger"
@@ -227,7 +227,7 @@
     "url": "spellcasting-types/ranger"
   },
   {
-    "index": "sorcerer",
+    "label": "sorcerer",
     "class": {
       "url": "classes/sorcerer",
       "name": "Sorcerer"
@@ -275,7 +275,7 @@
     "url": "spellcasting-types/sorcerer"
   },
   {
-    "index": "warlock",
+    "label": "warlock",
     "class": {
       "url": "classes/warlock",
       "name": "Warlock"
@@ -324,7 +324,7 @@
     "url": "spellcasting-types/warlock"
   },
   {
-    "index": "wizard",
+    "label": "wizard",
     "class": {
       "url": "classes/wizard",
       "name": "Wizard"

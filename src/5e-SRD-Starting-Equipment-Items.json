@@ -1,6 +1,6 @@
 [
   {
-    "index": "barbarian",
+    "label": "barbarian",
     "class": {
       "url": "classes/barbarian",
       "name": "Barbarian"
@@ -76,7 +76,7 @@
     "url": "starting-equipment-items/barbarian"
   },
   {
-    "index": "bard",
+    "label": "bard",
     "class": {
       "url": "classes/bard",
       "name": "Bard"
@@ -178,7 +178,7 @@
     "url": "starting-equipment-items/bard"
   },
   {
-    "index": "cleric",
+    "label": "cleric",
     "class": {
       "url": "classes/cleric",
       "name": "Cleric"
@@ -326,7 +326,7 @@
     "url": "starting-equipment-items/cleric"
   },
   {
-    "index": "druid",
+    "label": "druid",
     "class": {
       "url": "classes/druid",
       "name": "Druid"
@@ -412,7 +412,7 @@
     "url": "starting-equipment-items/druid"
   },
   {
-    "index": "fighter",
+    "label": "fighter",
     "class": {
       "url": "classes/fighter",
       "name": "Fighter"
@@ -547,7 +547,7 @@
     "url": "starting-equipment-items/fighter"
   },
   {
-    "index": "monk",
+    "label": "monk",
     "class": {
       "url": "classes/monk",
       "name": "Monk"
@@ -611,7 +611,7 @@
     "url": "starting-equipment-items/monk"
   },
   {
-    "index": "paladin",
+    "label": "paladin",
     "class": {
       "url": "classes/paladin",
       "name": "Paladin"
@@ -708,7 +708,7 @@
     "url": "starting-equipment-items/paladin"
   },
   {
-    "index": "ranger",
+    "label": "ranger",
     "class": {
       "url": "classes/ranger",
       "name": "Ranger"
@@ -799,7 +799,7 @@
     "url": "starting-equipment-items/ranger"
   },
   {
-    "index": "rogue",
+    "label": "rogue",
     "class": {
       "url": "classes/rogue",
       "name": "Rogue"
@@ -908,7 +908,7 @@
     "url": "starting-equipment-items/rogue"
   },
   {
-    "index": "sorcerer",
+    "label": "sorcerer",
     "class": {
       "url": "classes/sorcerer",
       "name": "Sorcerer"
@@ -1006,7 +1006,7 @@
     "url": "starting-equipment-items/sorcerer"
   },
   {
-    "index": "warlock",
+    "label": "warlock",
     "class": {
       "url": "classes/warlock",
       "name": "Warlock"
@@ -1121,7 +1121,7 @@
     "url": "starting-equipment-items/warlock"
   },
   {
-    "index": "wizard",
+    "label": "wizard",
     "class": {
       "url": "classes/wizard",
       "name": "Wizard"

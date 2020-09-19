@@ -1,6 +1,6 @@
 [
   {
-    "index": "hill-dwarf",
+    "label": "hill-dwarf",
     "name": "Hill Dwarf",
     "race": {
       "url": "races/dwarf",
@@ -29,7 +29,7 @@
     "url": "subraces/hill-dwarf"
   },
   {
-    "index": "high-elf",
+    "label": "high-elf",
     "name": "High Elf",
     "race": {
       "url": "races/elf",
@@ -184,7 +184,7 @@
     "url": "subraces/high-elf"
   },
   {
-    "index": "lightfoot-halfling",
+    "label": "lightfoot-halfling",
     "name": "Lightfoot Halfling",
     "race": {
       "url": "races/halfling",
@@ -213,7 +213,7 @@
     "url": "subraces/lightfoot-halfling"
   },
   {
-    "index": "rock-gnome",
+    "label": "rock-gnome",
     "name": "Rock Gnome",
     "race": {
       "url": "races/gnome",

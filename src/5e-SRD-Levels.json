@@ -19,7 +19,7 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": "barbarian-1",
+    "label": "barbarian-1",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -47,7 +47,7 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": "barbarian-2",
+    "label": "barbarian-2",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -71,7 +71,7 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": "barbarian-3",
+    "label": "barbarian-3",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -95,7 +95,7 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": "barbarian-4",
+    "label": "barbarian-4",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -123,7 +123,7 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": "barbarian-5",
+    "label": "barbarian-5",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -143,7 +143,7 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": "barbarian-6",
+    "label": "barbarian-6",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -168,7 +168,7 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": "barbarian-7",
+    "label": "barbarian-7",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -193,7 +193,7 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": "barbarian-8",
+    "label": "barbarian-8",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -218,7 +218,7 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
-    "index": "barbarian-9",
+    "label": "barbarian-9",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -238,7 +238,7 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
-    "index": "barbarian-10",
+    "label": "barbarian-10",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -263,7 +263,7 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
-    "index": "barbarian-11",
+    "label": "barbarian-11",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -287,7 +287,7 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
-    "index": "barbarian-12",
+    "label": "barbarian-12",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -311,7 +311,7 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 2
     },
-    "index": "barbarian-13",
+    "label": "barbarian-13",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -330,7 +330,7 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 2
     },
-    "index": "barbarian-14",
+    "label": "barbarian-14",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -354,7 +354,7 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 2
     },
-    "index": "barbarian-15",
+    "label": "barbarian-15",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -378,7 +378,7 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 2
     },
-    "index": "barbarian-16",
+    "label": "barbarian-16",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -402,7 +402,7 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
-    "index": "barbarian-17",
+    "label": "barbarian-17",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -426,7 +426,7 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
-    "index": "barbarian-18",
+    "label": "barbarian-18",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -450,7 +450,7 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
-    "index": "barbarian-19",
+    "label": "barbarian-19",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -474,7 +474,7 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
-    "index": "barbarian-20",
+    "label": "barbarian-20",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -517,7 +517,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-1",
+    "label": "bard-1",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -560,7 +560,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-2",
+    "label": "bard-2",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -604,7 +604,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-3",
+    "label": "bard-3",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -643,7 +643,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-4",
+    "label": "bard-4",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -686,7 +686,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-5",
+    "label": "bard-5",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -725,7 +725,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-6",
+    "label": "bard-6",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -759,7 +759,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-7",
+    "label": "bard-7",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -798,7 +798,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-8",
+    "label": "bard-8",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -837,7 +837,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-9",
+    "label": "bard-9",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -885,7 +885,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-10",
+    "label": "bard-10",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -919,7 +919,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-11",
+    "label": "bard-11",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -958,7 +958,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-12",
+    "label": "bard-12",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -997,7 +997,7 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-13",
+    "label": "bard-13",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -1036,7 +1036,7 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-14",
+    "label": "bard-14",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -1075,7 +1075,7 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-15",
+    "label": "bard-15",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -1114,7 +1114,7 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-16",
+    "label": "bard-16",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -1153,7 +1153,7 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 0
     },
-    "index": "bard-17",
+    "label": "bard-17",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -1192,7 +1192,7 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 2
     },
-    "index": "bard-18",
+    "label": "bard-18",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -1231,7 +1231,7 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 2
     },
-    "index": "bard-19",
+    "label": "bard-19",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -1270,7 +1270,7 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 2
     },
-    "index": "bard-20",
+    "label": "bard-20",
     "class": {
       "name": "Bard",
       "url": "classes/bard"
@@ -1314,7 +1314,7 @@
       "channel_divinity_charges": 0,
       "destroy_undead_cr": 0
     },
-    "index": "cleric-1",
+    "label": "cleric-1",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1354,7 +1354,7 @@
       "channel_divinity_charges": 1,
       "destroy_undead_cr": 0
     },
-    "index": "cleric-2",
+    "label": "cleric-2",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1390,7 +1390,7 @@
       "channel_divinity_charges": 1,
       "destroy_undead_cr": 0
     },
-    "index": "cleric-3",
+    "label": "cleric-3",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1426,7 +1426,7 @@
       "channel_divinity_charges": 1,
       "destroy_undead_cr": 0
     },
-    "index": "cleric-4",
+    "label": "cleric-4",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1466,7 +1466,7 @@
       "channel_divinity_charges": 1,
       "destroy_undead_cr": 0.5
     },
-    "index": "cleric-5",
+    "label": "cleric-5",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1502,7 +1502,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 0.5
     },
-    "index": "cleric-6",
+    "label": "cleric-6",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1538,7 +1538,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 0.5
     },
-    "index": "cleric-7",
+    "label": "cleric-7",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1578,7 +1578,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 1
     },
-    "index": "cleric-8",
+    "label": "cleric-8",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1614,7 +1614,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 1
     },
-    "index": "cleric-9",
+    "label": "cleric-9",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1650,7 +1650,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 1
     },
-    "index": "cleric-10",
+    "label": "cleric-10",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1686,7 +1686,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 2
     },
-    "index": "cleric-11",
+    "label": "cleric-11",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1722,7 +1722,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 2
     },
-    "index": "cleric-12",
+    "label": "cleric-12",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1753,7 +1753,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 2
     },
-    "index": "cleric-13",
+    "label": "cleric-13",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1789,7 +1789,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 3
     },
-    "index": "cleric-14",
+    "label": "cleric-14",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1820,7 +1820,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 3
     },
-    "index": "cleric-15",
+    "label": "cleric-15",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1856,7 +1856,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 3
     },
-    "index": "cleric-16",
+    "label": "cleric-16",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1892,7 +1892,7 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 4
     },
-    "index": "cleric-17",
+    "label": "cleric-17",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1928,7 +1928,7 @@
       "channel_divinity_charges": 3,
       "destroy_undead_cr": 4
     },
-    "index": "cleric-18",
+    "label": "cleric-18",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -1964,7 +1964,7 @@
       "channel_divinity_charges": 3,
       "destroy_undead_cr": 4
     },
-    "index": "cleric-19",
+    "label": "cleric-19",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -2000,7 +2000,7 @@
       "channel_divinity_charges": 3,
       "destroy_undead_cr": 4
     },
-    "index": "cleric-20",
+    "label": "cleric-20",
     "class": {
       "name": "Cleric",
       "url": "classes/cleric"
@@ -2040,7 +2040,7 @@
       "wild_shape_swim": false,
       "wild_shape_fly": false
     },
-    "index": "druid-1",
+    "label": "druid-1",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2080,7 +2080,7 @@
       "wild_shape_swim": false,
       "wild_shape_fly": false
     },
-    "index": "druid-2",
+    "label": "druid-2",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2111,7 +2111,7 @@
       "wild_shape_swim": false,
       "wild_shape_fly": false
     },
-    "index": "druid-3",
+    "label": "druid-3",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2151,7 +2151,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": false
     },
-    "index": "druid-4",
+    "label": "druid-4",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2182,7 +2182,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": false
     },
-    "index": "druid-5",
+    "label": "druid-5",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2213,7 +2213,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": false
     },
-    "index": "druid-6",
+    "label": "druid-6",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2244,7 +2244,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": false
     },
-    "index": "druid-7",
+    "label": "druid-7",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2284,7 +2284,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-8",
+    "label": "druid-8",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2315,7 +2315,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-9",
+    "label": "druid-9",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2346,7 +2346,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-10",
+    "label": "druid-10",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2377,7 +2377,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-11",
+    "label": "druid-11",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2413,7 +2413,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-12",
+    "label": "druid-12",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2444,7 +2444,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-13",
+    "label": "druid-13",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2475,7 +2475,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-14",
+    "label": "druid-14",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2506,7 +2506,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-15",
+    "label": "druid-15",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2542,7 +2542,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-16",
+    "label": "druid-16",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2573,7 +2573,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-17",
+    "label": "druid-17",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2613,7 +2613,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-18",
+    "label": "druid-18",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2649,7 +2649,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-19",
+    "label": "druid-19",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2685,7 +2685,7 @@
       "wild_shape_swim": true,
       "wild_shape_fly": true
     },
-    "index": "druid-20",
+    "label": "druid-20",
     "class": {
       "name": "Druid",
       "url": "classes/druid"
@@ -2715,7 +2715,7 @@
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
-    "index": "fighter-1",
+    "label": "fighter-1",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2740,7 +2740,7 @@
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
-    "index": "fighter-2",
+    "label": "fighter-2",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2765,7 +2765,7 @@
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
-    "index": "fighter-3",
+    "label": "fighter-3",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2790,7 +2790,7 @@
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
-    "index": "fighter-4",
+    "label": "fighter-4",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2815,7 +2815,7 @@
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
-    "index": "fighter-5",
+    "label": "fighter-5",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2840,7 +2840,7 @@
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
-    "index": "fighter-6",
+    "label": "fighter-6",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2860,7 +2860,7 @@
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
-    "index": "fighter-7",
+    "label": "fighter-7",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2885,7 +2885,7 @@
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
-    "index": "fighter-8",
+    "label": "fighter-8",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2910,7 +2910,7 @@
       "indomitable_uses": 1,
       "extra_attacks": 1
     },
-    "index": "fighter-9",
+    "label": "fighter-9",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2930,7 +2930,7 @@
       "indomitable_uses": 1,
       "extra_attacks": 1
     },
-    "index": "fighter-10",
+    "label": "fighter-10",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2955,7 +2955,7 @@
       "indomitable_uses": 1,
       "extra_attacks": 2
     },
-    "index": "fighter-11",
+    "label": "fighter-11",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -2980,7 +2980,7 @@
       "indomitable_uses": 1,
       "extra_attacks": 2
     },
-    "index": "fighter-12",
+    "label": "fighter-12",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -3005,7 +3005,7 @@
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
-    "index": "fighter-13",
+    "label": "fighter-13",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -3030,7 +3030,7 @@
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
-    "index": "fighter-14",
+    "label": "fighter-14",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -3050,7 +3050,7 @@
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
-    "index": "fighter-15",
+    "label": "fighter-15",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -3075,7 +3075,7 @@
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
-    "index": "fighter-16",
+    "label": "fighter-16",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -3104,7 +3104,7 @@
       "indomitable_uses": 3,
       "extra_attacks": 2
     },
-    "index": "fighter-17",
+    "label": "fighter-17",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -3124,7 +3124,7 @@
       "indomitable_uses": 3,
       "extra_attacks": 2
     },
-    "index": "fighter-18",
+    "label": "fighter-18",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -3149,7 +3149,7 @@
       "indomitable_uses": 3,
       "extra_attacks": 2
     },
-    "index": "fighter-19",
+    "label": "fighter-19",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -3174,7 +3174,7 @@
       "indomitable_uses": 3,
       "extra_attacks": 3
     },
-    "index": "fighter-20",
+    "label": "fighter-20",
     "class": {
       "name": "Fighter",
       "url": "classes/fighter"
@@ -3206,7 +3206,7 @@
       "ki_points": 0,
       "unarmored_movement": 0
     },
-    "index": "monk-1",
+    "label": "monk-1",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3250,7 +3250,7 @@
       "ki_points": 2,
       "unarmored_movement": 10
     },
-    "index": "monk-2",
+    "label": "monk-2",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3282,7 +3282,7 @@
       "ki_points": 3,
       "unarmored_movement": 10
     },
-    "index": "monk-3",
+    "label": "monk-3",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3314,7 +3314,7 @@
       "ki_points": 4,
       "unarmored_movement": 10
     },
-    "index": "monk-4",
+    "label": "monk-4",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3346,7 +3346,7 @@
       "ki_points": 5,
       "unarmored_movement": 10
     },
-    "index": "monk-5",
+    "label": "monk-5",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3374,7 +3374,7 @@
       "ki_points": 6,
       "unarmored_movement": 15
     },
-    "index": "monk-6",
+    "label": "monk-6",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3406,7 +3406,7 @@
       "ki_points": 7,
       "unarmored_movement": 15
     },
-    "index": "monk-7",
+    "label": "monk-7",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3434,7 +3434,7 @@
       "ki_points": 8,
       "unarmored_movement": 15
     },
-    "index": "monk-8",
+    "label": "monk-8",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3462,7 +3462,7 @@
       "ki_points": 9,
       "unarmored_movement": 15
     },
-    "index": "monk-9",
+    "label": "monk-9",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3490,7 +3490,7 @@
       "ki_points": 10,
       "unarmored_movement": 20
     },
-    "index": "monk-10",
+    "label": "monk-10",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3513,7 +3513,7 @@
       "ki_points": 11,
       "unarmored_movement": 20
     },
-    "index": "monk-11",
+    "label": "monk-11",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3541,7 +3541,7 @@
       "ki_points": 12,
       "unarmored_movement": 20
     },
-    "index": "monk-12",
+    "label": "monk-12",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3569,7 +3569,7 @@
       "ki_points": 13,
       "unarmored_movement": 20
     },
-    "index": "monk-13",
+    "label": "monk-13",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3597,7 +3597,7 @@
       "ki_points": 14,
       "unarmored_movement": 25
     },
-    "index": "monk-14",
+    "label": "monk-14",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3625,7 +3625,7 @@
       "ki_points": 15,
       "unarmored_movement": 25
     },
-    "index": "monk-15",
+    "label": "monk-15",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3653,7 +3653,7 @@
       "ki_points": 16,
       "unarmored_movement": 25
     },
-    "index": "monk-16",
+    "label": "monk-16",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3676,7 +3676,7 @@
       "ki_points": 17,
       "unarmored_movement": 25
     },
-    "index": "monk-17",
+    "label": "monk-17",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3704,7 +3704,7 @@
       "ki_points": 18,
       "unarmored_movement": 30
     },
-    "index": "monk-18",
+    "label": "monk-18",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3732,7 +3732,7 @@
       "ki_points": 19,
       "unarmored_movement": 30
     },
-    "index": "monk-19",
+    "label": "monk-19",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3760,7 +3760,7 @@
       "ki_points": 20,
       "unarmored_movement": 30
     },
-    "index": "monk-20",
+    "label": "monk-20",
     "class": {
       "name": "Monk",
       "url": "classes/monk"
@@ -3793,7 +3793,7 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": "paladin-1",
+    "label": "paladin-1",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -3831,7 +3831,7 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": "paladin-2",
+    "label": "paladin-2",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -3872,7 +3872,7 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": "paladin-3",
+    "label": "paladin-3",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -3901,7 +3901,7 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": "paladin-4",
+    "label": "paladin-4",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -3930,7 +3930,7 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": "paladin-5",
+    "label": "paladin-5",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -3959,7 +3959,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-6",
+    "label": "paladin-6",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -3983,7 +3983,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-7",
+    "label": "paladin-7",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4012,7 +4012,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-8",
+    "label": "paladin-8",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4036,7 +4036,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-9",
+    "label": "paladin-9",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4065,7 +4065,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-10",
+    "label": "paladin-10",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4094,7 +4094,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-11",
+    "label": "paladin-11",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4123,7 +4123,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-12",
+    "label": "paladin-12",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4147,7 +4147,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-13",
+    "label": "paladin-13",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4176,7 +4176,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-14",
+    "label": "paladin-14",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4200,7 +4200,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-15",
+    "label": "paladin-15",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4229,7 +4229,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-16",
+    "label": "paladin-16",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4253,7 +4253,7 @@
     "class_specific": {
       "aura_range": 10
     },
-    "index": "paladin-17",
+    "label": "paladin-17",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4282,7 +4282,7 @@
     "class_specific": {
       "aura_range": 30
     },
-    "index": "paladin-18",
+    "label": "paladin-18",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4311,7 +4311,7 @@
     "class_specific": {
       "aura_range": 30
     },
-    "index": "paladin-19",
+    "label": "paladin-19",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4335,7 +4335,7 @@
     "class_specific": {
       "aura_range": 30
     },
-    "index": "paladin-20",
+    "label": "paladin-20",
     "class": {
       "name": "Paladin",
       "url": "classes/paladin"
@@ -4370,7 +4370,7 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": "ranger-1",
+    "label": "ranger-1",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4406,7 +4406,7 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": "ranger-2",
+    "label": "ranger-2",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4441,7 +4441,7 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": "ranger-3",
+    "label": "ranger-3",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4472,7 +4472,7 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": "ranger-4",
+    "label": "ranger-4",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4503,7 +4503,7 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": "ranger-5",
+    "label": "ranger-5",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4538,7 +4538,7 @@
       "favored_enemies": 2,
       "favored_terrain": 2
     },
-    "index": "ranger-6",
+    "label": "ranger-6",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4564,7 +4564,7 @@
       "favored_enemies": 2,
       "favored_terrain": 2
     },
-    "index": "ranger-7",
+    "label": "ranger-7",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4599,7 +4599,7 @@
       "favored_enemies": 2,
       "favored_terrain": 2
     },
-    "index": "ranger-8",
+    "label": "ranger-8",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4625,7 +4625,7 @@
       "favored_enemies": 2,
       "favored_terrain": 2
     },
-    "index": "ranger-9",
+    "label": "ranger-9",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4660,7 +4660,7 @@
       "favored_enemies": 2,
       "favored_terrain": 3
     },
-    "index": "ranger-10",
+    "label": "ranger-10",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4686,7 +4686,7 @@
       "favored_enemies": 2,
       "favored_terrain": 3
     },
-    "index": "ranger-11",
+    "label": "ranger-11",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4717,7 +4717,7 @@
       "favored_enemies": 2,
       "favored_terrain": 3
     },
-    "index": "ranger-12",
+    "label": "ranger-12",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4743,7 +4743,7 @@
       "favored_enemies": 2,
       "favored_terrain": 3
     },
-    "index": "ranger-13",
+    "label": "ranger-13",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4778,7 +4778,7 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": "ranger-14",
+    "label": "ranger-14",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4804,7 +4804,7 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": "ranger-15",
+    "label": "ranger-15",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4835,7 +4835,7 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": "ranger-16",
+    "label": "ranger-16",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4861,7 +4861,7 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": "ranger-17",
+    "label": "ranger-17",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4892,7 +4892,7 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": "ranger-18",
+    "label": "ranger-18",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4923,7 +4923,7 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": "ranger-19",
+    "label": "ranger-19",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4954,7 +4954,7 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": "ranger-20",
+    "label": "ranger-20",
     "class": {
       "name": "Ranger",
       "url": "classes/ranger"
@@ -4989,7 +4989,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-1",
+    "label": "rogue-1",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5015,7 +5015,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-2",
+    "label": "rogue-2",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5041,7 +5041,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-3",
+    "label": "rogue-3",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5067,7 +5067,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-4",
+    "label": "rogue-4",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5093,7 +5093,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-5",
+    "label": "rogue-5",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5119,7 +5119,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-6",
+    "label": "rogue-6",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5145,7 +5145,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-7",
+    "label": "rogue-7",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5171,7 +5171,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-8",
+    "label": "rogue-8",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5192,7 +5192,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-9",
+    "label": "rogue-9",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5218,7 +5218,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-10",
+    "label": "rogue-10",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5244,7 +5244,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-11",
+    "label": "rogue-11",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5270,7 +5270,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-12",
+    "label": "rogue-12",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5291,7 +5291,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-13",
+    "label": "rogue-13",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5317,7 +5317,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-14",
+    "label": "rogue-14",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5343,7 +5343,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-15",
+    "label": "rogue-15",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5369,7 +5369,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-16",
+    "label": "rogue-16",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5390,7 +5390,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-17",
+    "label": "rogue-17",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5416,7 +5416,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-18",
+    "label": "rogue-18",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5442,7 +5442,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-19",
+    "label": "rogue-19",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5468,7 +5468,7 @@
         "dice_value": 6
       }
     },
-    "index": "rogue-20",
+    "label": "rogue-20",
     "class": {
       "name": "Rogue",
       "url": "classes/rogue"
@@ -5509,7 +5509,7 @@
       "metamagic_known": 0,
       "creating_spell_slots": []
     },
-    "index": "sorcerer-1",
+    "label": "sorcerer-1",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -5575,7 +5575,7 @@
         }
       ]
     },
-    "index": "sorcerer-2",
+    "label": "sorcerer-2",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -5633,7 +5633,7 @@
         }
       ]
     },
-    "index": "sorcerer-3",
+    "label": "sorcerer-3",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -5691,7 +5691,7 @@
         }
       ]
     },
-    "index": "sorcerer-4",
+    "label": "sorcerer-4",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -5744,7 +5744,7 @@
         }
       ]
     },
-    "index": "sorcerer-5",
+    "label": "sorcerer-5",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -5797,7 +5797,7 @@
         }
       ]
     },
-    "index": "sorcerer-6",
+    "label": "sorcerer-6",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -5850,7 +5850,7 @@
         }
       ]
     },
-    "index": "sorcerer-7",
+    "label": "sorcerer-7",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -5908,7 +5908,7 @@
         }
       ]
     },
-    "index": "sorcerer-8",
+    "label": "sorcerer-8",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -5961,7 +5961,7 @@
         }
       ]
     },
-    "index": "sorcerer-9",
+    "label": "sorcerer-9",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6019,7 +6019,7 @@
         }
       ]
     },
-    "index": "sorcerer-10",
+    "label": "sorcerer-10",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6072,7 +6072,7 @@
         }
       ]
     },
-    "index": "sorcerer-11",
+    "label": "sorcerer-11",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6130,7 +6130,7 @@
         }
       ]
     },
-    "index": "sorcerer-12",
+    "label": "sorcerer-12",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6183,7 +6183,7 @@
         }
       ]
     },
-    "index": "sorcerer-13",
+    "label": "sorcerer-13",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6236,7 +6236,7 @@
         }
       ]
     },
-    "index": "sorcerer-14",
+    "label": "sorcerer-14",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6289,7 +6289,7 @@
         }
       ]
     },
-    "index": "sorcerer-15",
+    "label": "sorcerer-15",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6347,7 +6347,7 @@
         }
       ]
     },
-    "index": "sorcerer-16",
+    "label": "sorcerer-16",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6405,7 +6405,7 @@
         }
       ]
     },
-    "index": "sorcerer-17",
+    "label": "sorcerer-17",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6458,7 +6458,7 @@
         }
       ]
     },
-    "index": "sorcerer-18",
+    "label": "sorcerer-18",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6516,7 +6516,7 @@
         }
       ]
     },
-    "index": "sorcerer-19",
+    "label": "sorcerer-19",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6574,7 +6574,7 @@
         }
       ]
     },
-    "index": "sorcerer-20",
+    "label": "sorcerer-20",
     "class": {
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -6617,7 +6617,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-1",
+    "label": "warlock-1",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6656,7 +6656,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-2",
+    "label": "warlock-2",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6695,7 +6695,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-3",
+    "label": "warlock-3",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6734,7 +6734,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-4",
+    "label": "warlock-4",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6773,7 +6773,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-5",
+    "label": "warlock-5",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6807,7 +6807,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-6",
+    "label": "warlock-6",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6846,7 +6846,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-7",
+    "label": "warlock-7",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6885,7 +6885,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-8",
+    "label": "warlock-8",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6924,7 +6924,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-9",
+    "label": "warlock-9",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6958,7 +6958,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-10",
+    "label": "warlock-10",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -6997,7 +6997,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-11",
+    "label": "warlock-11",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7041,7 +7041,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-12",
+    "label": "warlock-12",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7080,7 +7080,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-13",
+    "label": "warlock-13",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7114,7 +7114,7 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-14",
+    "label": "warlock-14",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7158,7 +7158,7 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-15",
+    "label": "warlock-15",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7197,7 +7197,7 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 0
     },
-    "index": "warlock-16",
+    "label": "warlock-16",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7236,7 +7236,7 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 1
     },
-    "index": "warlock-17",
+    "label": "warlock-17",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7275,7 +7275,7 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 1
     },
-    "index": "warlock-18",
+    "label": "warlock-18",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7314,7 +7314,7 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 1
     },
-    "index": "warlock-19",
+    "label": "warlock-19",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7358,7 +7358,7 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 1
     },
-    "index": "warlock-20",
+    "label": "warlock-20",
     "class": {
       "name": "Warlock",
       "url": "classes/warlock"
@@ -7396,7 +7396,7 @@
     "class_specific": {
       "arcane_recovery_levels": 1
     },
-    "index": "wizard-1",
+    "label": "wizard-1",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7430,7 +7430,7 @@
     "class_specific": {
       "arcane_recovery_levels": 1
     },
-    "index": "wizard-2",
+    "label": "wizard-2",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7459,7 +7459,7 @@
     "class_specific": {
       "arcane_recovery_levels": 2
     },
-    "index": "wizard-3",
+    "label": "wizard-3",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7493,7 +7493,7 @@
     "class_specific": {
       "arcane_recovery_levels": 2
     },
-    "index": "wizard-4",
+    "label": "wizard-4",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7522,7 +7522,7 @@
     "class_specific": {
       "arcane_recovery_levels": 3
     },
-    "index": "wizard-5",
+    "label": "wizard-5",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7551,7 +7551,7 @@
     "class_specific": {
       "arcane_recovery_levels": 3
     },
-    "index": "wizard-6",
+    "label": "wizard-6",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7580,7 +7580,7 @@
     "class_specific": {
       "arcane_recovery_levels": 4
     },
-    "index": "wizard-7",
+    "label": "wizard-7",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7614,7 +7614,7 @@
     "class_specific": {
       "arcane_recovery_levels": 4
     },
-    "index": "wizard-8",
+    "label": "wizard-8",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7643,7 +7643,7 @@
     "class_specific": {
       "arcane_recovery_levels": 5
     },
-    "index": "wizard-9",
+    "label": "wizard-9",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7672,7 +7672,7 @@
     "class_specific": {
       "arcane_recovery_levels": 5
     },
-    "index": "wizard-10",
+    "label": "wizard-10",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7701,7 +7701,7 @@
     "class_specific": {
       "arcane_recovery_levels": 6
     },
-    "index": "wizard-11",
+    "label": "wizard-11",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7735,7 +7735,7 @@
     "class_specific": {
       "arcane_recovery_levels": 6
     },
-    "index": "wizard-12",
+    "label": "wizard-12",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7764,7 +7764,7 @@
     "class_specific": {
       "arcane_recovery_levels": 7
     },
-    "index": "wizard-13",
+    "label": "wizard-13",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7793,7 +7793,7 @@
     "class_specific": {
       "arcane_recovery_levels": 7
     },
-    "index": "wizard-14",
+    "label": "wizard-14",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7822,7 +7822,7 @@
     "class_specific": {
       "arcane_recovery_levels": 8
     },
-    "index": "wizard-15",
+    "label": "wizard-15",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7856,7 +7856,7 @@
     "class_specific": {
       "arcane_recovery_levels": 8
     },
-    "index": "wizard-16",
+    "label": "wizard-16",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7885,7 +7885,7 @@
     "class_specific": {
       "arcane_recovery_levels": 9
     },
-    "index": "wizard-17",
+    "label": "wizard-17",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7919,7 +7919,7 @@
     "class_specific": {
       "arcane_recovery_levels": 9
     },
-    "index": "wizard-18",
+    "label": "wizard-18",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7953,7 +7953,7 @@
     "class_specific": {
       "arcane_recovery_levels": 10
     },
-    "index": "wizard-19",
+    "label": "wizard-19",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -7987,7 +7987,7 @@
     "class_specific": {
       "arcane_recovery_levels": 10
     },
-    "index": "wizard-20",
+    "label": "wizard-20",
     "class": {
       "name": "Wizard",
       "url": "classes/wizard"
@@ -8014,7 +8014,7 @@
       "url": "subclasses/berserker"
     },
     "url": "subclasses/berserker/levels/3",
-    "index": "berserker-3"
+    "label": "berserker-3"
   },
   {
     "level": 6,
@@ -8026,7 +8026,7 @@
       }
     ],
     "spellcasting": {},
-    "index": "berserker-6",
+    "label": "berserker-6",
     "class": {
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -8056,7 +8056,7 @@
       "url": "subclasses/berserker"
     },
     "url": "subclasses/berserker/levels/10",
-    "index": "berserker-10"
+    "label": "berserker-10"
   },
   {
     "level": 14,
@@ -8077,7 +8077,7 @@
       "url": "subclasses/berserker"
     },
     "url": "subclasses/berserker/levels/14",
-    "index": "berserker-14"
+    "label": "berserker-14"
   },
   {
     "level": 3,
@@ -8105,7 +8105,7 @@
       "url": "subclasses/lore"
     },
     "url": "subclasses/lore/levels/3",
-    "index": "lore-3"
+    "label": "lore-3"
   },
   {
     "level": 6,
@@ -8129,7 +8129,7 @@
       "url": "subclasses/lore"
     },
     "url": "subclasses/lore/levels/6",
-    "index": "lore-6"
+    "label": "lore-6"
   },
   {
     "level": 14,
@@ -8153,7 +8153,7 @@
       "url": "subclasses/lore"
     },
     "url": "subclasses/lore/levels/14",
-    "index": "lore-14"
+    "label": "lore-14"
   },
   {
     "level": 1,
@@ -8179,7 +8179,7 @@
       "url": "subclasses/life"
     },
     "url": "subclasses/life/levels/1",
-    "index": "life-1"
+    "label": "life-1"
   },
   {
     "level": 2,
@@ -8201,7 +8201,7 @@
       "url": "subclasses/life"
     },
     "url": "subclasses/life/levels/2",
-    "index": "life-2"
+    "label": "life-2"
   },
   {
     "level": 6,
@@ -8223,7 +8223,7 @@
       "url": "subclasses/life"
     },
     "url": "subclasses/life/levels/6",
-    "index": "life-6"
+    "label": "life-6"
   },
   {
     "level": 8,
@@ -8245,7 +8245,7 @@
       "url": "subclasses/life"
     },
     "url": "subclasses/life/levels/8",
-    "index": "life-8"
+    "label": "life-8"
   },
   {
     "level": 17,
@@ -8267,7 +8267,7 @@
       "url": "subclasses/life"
     },
     "url": "subclasses/life/levels/17",
-    "index": "life-17"
+    "label": "life-17"
   },
   {
     "level": 2,
@@ -8293,7 +8293,7 @@
       "url": "subclasses/land"
     },
     "url": "subclasses/land/levels/2",
-    "index": "land-2"
+    "label": "land-2"
   },
   {
     "level": 6,
@@ -8315,7 +8315,7 @@
       "url": "subclasses/land"
     },
     "url": "subclasses/land/levels/6",
-    "index": "land-6"
+    "label": "land-6"
   },
   {
     "level": 10,
@@ -8337,7 +8337,7 @@
       "url": "subclasses/land"
     },
     "url": "subclasses/land/levels/10",
-    "index": "land-10"
+    "label": "land-10"
   },
   {
     "level": 14,
@@ -8359,7 +8359,7 @@
       "url": "subclasses/land"
     },
     "url": "subclasses/land/levels/14",
-    "index": "land-14"
+    "label": "land-14"
   },
   {
     "level": 3,
@@ -8381,7 +8381,7 @@
       "url": "subclasses/champion"
     },
     "url": "subclasses/champion/levels/3",
-    "index": "champion-3"
+    "label": "champion-3"
   },
   {
     "level": 7,
@@ -8403,7 +8403,7 @@
       "url": "subclasses/champion"
     },
     "url": "subclasses/champion/levels/7",
-    "index": "champion-7"
+    "label": "champion-7"
   },
   {
     "level": 10,
@@ -8425,7 +8425,7 @@
       "url": "subclasses/champion"
     },
     "url": "subclasses/champion/levels/10",
-    "index": "champion-10"
+    "label": "champion-10"
   },
   {
     "level": 15,
@@ -8447,7 +8447,7 @@
       "url": "subclasses/champion"
     },
     "url": "subclasses/champion/levels/15",
-    "index": "champion-15"
+    "label": "champion-15"
   },
   {
     "level": 18,
@@ -8469,7 +8469,7 @@
       "url": "subclasses/champion"
     },
     "url": "subclasses/champion/levels/18",
-    "index": "champion-18"
+    "label": "champion-18"
   },
   {
     "level": 3,
@@ -8491,7 +8491,7 @@
       "url": "subclasses/open-hand"
     },
     "url": "subclasses/open-hand/levels/3",
-    "index": "open-hand-3"
+    "label": "open-hand-3"
   },
   {
     "level": 6,
@@ -8513,7 +8513,7 @@
       "url": "subclasses/open-hand"
     },
     "url": "subclasses/open-hand/levels/6",
-    "index": "open-hand-6"
+    "label": "open-hand-6"
   },
   {
     "level": 11,
@@ -8535,7 +8535,7 @@
       "url": "subclasses/open-hand"
     },
     "url": "subclasses/open-hand/levels/11",
-    "index": "open-hand-11"
+    "label": "open-hand-11"
   },
   {
     "level": 17,
@@ -8557,7 +8557,7 @@
       "url": "subclasses/open-hand"
     },
     "url": "subclasses/open-hand/levels/17",
-    "index": "open-hand-17"
+    "label": "open-hand-17"
   },
   {
     "level": 3,
@@ -8579,7 +8579,7 @@
       "url": "subclasses/devotion"
     },
     "url": "subclasses/devotion/levels/3",
-    "index": "devotion-3"
+    "label": "devotion-3"
   },
   {
     "level": 7,
@@ -8603,7 +8603,7 @@
       "url": "subclasses/devotion"
     },
     "url": "subclasses/devotion/levels/7",
-    "index": "devotion-7"
+    "label": "devotion-7"
   },
   {
     "level": 15,
@@ -8627,7 +8627,7 @@
       "url": "subclasses/devotion"
     },
     "url": "subclasses/devotion/levels/15",
-    "index": "devotion-15"
+    "label": "devotion-15"
   },
   {
     "level": 18,
@@ -8646,7 +8646,7 @@
       "url": "subclasses/devotion"
     },
     "url": "subclasses/devotion/levels/18",
-    "index": "devotion-18"
+    "label": "devotion-18"
   },
   {
     "level": 20,
@@ -8670,7 +8670,7 @@
       "url": "subclasses/devotion"
     },
     "url": "subclasses/devotion/levels/20",
-    "index": "devotion-20"
+    "label": "devotion-20"
   },
   {
     "level": 3,
@@ -8692,7 +8692,7 @@
       "url": "subclasses/hunter"
     },
     "url": "subclasses/hunter/levels/3",
-    "index": "hunter-3"
+    "label": "hunter-3"
   },
   {
     "level": 7,
@@ -8714,7 +8714,7 @@
       "url": "subclasses/hunter"
     },
     "url": "subclasses/hunter/levels/7",
-    "index": "hunter-7"
+    "label": "hunter-7"
   },
   {
     "level": 11,
@@ -8736,7 +8736,7 @@
       "url": "subclasses/hunter"
     },
     "url": "subclasses/hunter/levels/11",
-    "index": "hunter-11"
+    "label": "hunter-11"
   },
   {
     "level": 15,
@@ -8758,7 +8758,7 @@
       "url": "subclasses/hunter"
     },
     "url": "subclasses/hunter/levels/15",
-    "index": "hunter-15"
+    "label": "hunter-15"
   },
   {
     "level": 3,
@@ -8784,7 +8784,7 @@
       "url": "subclasses/thief"
     },
     "url": "subclasses/thief/levels/3",
-    "index": "thief-3"
+    "label": "thief-3"
   },
   {
     "level": 9,
@@ -8806,7 +8806,7 @@
       "url": "subclasses/thief"
     },
     "url": "subclasses/thief/levels/9",
-    "index": "thief-9"
+    "label": "thief-9"
   },
   {
     "level": 13,
@@ -8828,7 +8828,7 @@
       "url": "subclasses/thief"
     },
     "url": "subclasses/thief/levels/13",
-    "index": "thief-13"
+    "label": "thief-13"
   },
   {
     "level": 17,
@@ -8850,7 +8850,7 @@
       "url": "subclasses/thief"
     },
     "url": "subclasses/thief/levels/17",
-    "index": "thief-17"
+    "label": "thief-17"
   },
   {
     "level": 1,
@@ -8877,7 +8877,7 @@
       "url": "subclasses/draconic"
     },
     "url": "subclasses/draconic/levels/1",
-    "index": "draconic-1"
+    "label": "draconic-1"
   },
   {
     "level": 6,
@@ -8899,7 +8899,7 @@
       "url": "subclasses/draconic"
     },
     "url": "subclasses/draconic/levels/6",
-    "index": "draconic-6"
+    "label": "draconic-6"
   },
   {
     "level": 14,
@@ -8921,7 +8921,7 @@
       "url": "subclasses/draconic"
     },
     "url": "subclasses/draconic/levels/14",
-    "index": "draconic-14"
+    "label": "draconic-14"
   },
   {
     "level": 18,
@@ -8943,7 +8943,7 @@
       "url": "subclasses/draconic"
     },
     "url": "subclasses/draconic/levels/18",
-    "index": "draconic-18"
+    "label": "draconic-18"
   },
   {
     "level": 1,
@@ -8965,7 +8965,7 @@
       "url": "subclasses/fiend"
     },
     "url": "subclasses/fiend/levels/1",
-    "index": "fiend-1"
+    "label": "fiend-1"
   },
   {
     "level": 6,
@@ -8987,7 +8987,7 @@
       "url": "subclasses/fiend"
     },
     "url": "subclasses/fiend/levels/6",
-    "index": "fiend-6"
+    "label": "fiend-6"
   },
   {
     "level": 10,
@@ -9009,7 +9009,7 @@
       "url": "subclasses/fiend"
     },
     "url": "subclasses/fiend/levels/10",
-    "index": "fiend-10"
+    "label": "fiend-10"
   },
   {
     "level": 14,
@@ -9031,7 +9031,7 @@
       "url": "subclasses/fiend"
     },
     "url": "subclasses/fiend/levels/14",
-    "index": "fiend-14"
+    "label": "fiend-14"
   },
   {
     "level": 2,
@@ -9057,7 +9057,7 @@
       "url": "subclasses/evocation"
     },
     "url": "subclasses/evocation/levels/2",
-    "index": "evocation-2"
+    "label": "evocation-2"
   },
   {
     "level": 6,
@@ -9079,7 +9079,7 @@
       "url": "subclasses/evocation"
     },
     "url": "subclasses/evocation/levels/6",
-    "index": "evocation-6"
+    "label": "evocation-6"
   },
   {
     "level": 10,
@@ -9101,7 +9101,7 @@
       "url": "subclasses/evocation"
     },
     "url": "subclasses/evocation/levels/10",
-    "index": "evocation-10"
+    "label": "evocation-10"
   },
   {
     "level": 14,
@@ -9123,6 +9123,6 @@
       "url": "subclasses/evocation"
     },
     "url": "subclasses/evocation/levels/14",
-    "index": "evocation-14"
+    "label": "evocation-14"
   }
 ]
