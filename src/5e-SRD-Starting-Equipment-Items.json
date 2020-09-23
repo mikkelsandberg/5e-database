@@ -1,7 +1,7 @@
 [
   {
     "label": "barbarian",
-    "class": {
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
@@ -84,7 +84,7 @@
   },
   {
     "label": "bard",
-    "class": {
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
@@ -196,7 +196,7 @@
   },
   {
     "label": "cleric",
-    "class": {
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
@@ -359,7 +359,7 @@
   },
   {
     "label": "druid",
-    "class": {
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
@@ -453,12 +453,12 @@
   },
   {
     "label": "fighter",
-    "class": {
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "starting_equipment": [],
+    "starting_equipment": null,
     "starting_equipment_options": [
       {
         "choose": 1,
@@ -601,7 +601,7 @@
   },
   {
     "label": "monk",
-    "class": {
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
@@ -671,7 +671,7 @@
   },
   {
     "label": "paladin",
-    "class": {
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
@@ -792,7 +792,7 @@
   },
   {
     "label": "ranger",
-    "class": {
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
@@ -892,7 +892,7 @@
   },
   {
     "label": "rogue",
-    "class": {
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
@@ -1013,7 +1013,7 @@
   },
   {
     "label": "sorcerer",
-    "class": {
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -1120,7 +1120,7 @@
   },
   {
     "label": "warlock",
-    "class": {
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
@@ -1246,7 +1246,7 @@
   },
   {
     "label": "wizard",
-    "class": {
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"

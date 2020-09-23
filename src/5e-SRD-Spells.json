@@ -43,14 +43,14 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -62,6 +62,9 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
     "url": "spells/acid-arrow"
   },
   {
@@ -107,7 +110,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -119,13 +122,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/acid-splash"
   },
   {
@@ -164,7 +172,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -176,13 +184,17 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/aid"
   },
   {
@@ -214,7 +226,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "ranger",
         "name": "Ranger",
@@ -226,13 +238,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/alarm"
   },
   {
@@ -262,7 +279,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -274,13 +291,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/alter-self"
   },
   {
@@ -314,7 +338,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -336,7 +360,12 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/animal-friendship"
   },
   {
@@ -366,7 +395,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -383,13 +412,18 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/animal-messenger"
   },
   {
@@ -415,14 +449,21 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/animal-shapes"
   },
   {
@@ -453,7 +494,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -465,13 +506,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/animate-dead"
   },
   {
@@ -501,7 +547,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -518,7 +564,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/animate-objects"
   },
   {
@@ -548,14 +600,20 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/antilife-shell"
   },
   {
@@ -601,7 +659,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -613,7 +671,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/antimagic-field"
   },
   {
@@ -650,7 +713,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -662,7 +725,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/antipathy-sympathy"
   },
   {
@@ -694,7 +762,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -706,7 +774,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/arcane-eye"
   },
   {
@@ -745,14 +818,19 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/arcane-hand"
   },
   {
@@ -779,20 +857,26 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/arcane-lock"
   },
   {
@@ -830,7 +914,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -842,7 +926,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
     "url": "spells/arcane-sword"
   },
   {
@@ -873,20 +961,26 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/arcanists-magic-aura"
   },
   {
@@ -917,7 +1011,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -934,7 +1028,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/astral-projection"
   },
   {
@@ -966,20 +1066,26 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/augury"
   },
   {
@@ -1006,7 +1112,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -1018,7 +1124,13 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/awaken"
   },
   {
@@ -1055,7 +1167,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -1067,13 +1179,17 @@
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/bane"
   },
   {
@@ -1112,7 +1228,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -1139,7 +1255,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/banishment"
   },
   {
@@ -1165,7 +1285,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -1177,7 +1297,7 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -1189,6 +1309,12 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/barkskin"
   },
   {
@@ -1212,14 +1338,14 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -1236,6 +1362,13 @@
         "url": "subclasses/devotion"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/beacon-of-hope"
   },
   {
@@ -1269,14 +1402,16 @@
         "url": "ability-scores/wis"
       },
       "dc_success": "none",
-      "desc": "On fail, become cursed for the duration of the spell."
+      "desc": [
+        "On fail, become cursed for the duration of the spell."
+      ]
     },
     "school": {
       "label": "necromancy",
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -1293,13 +1428,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/bestow-curse"
   },
   {
@@ -1339,7 +1479,9 @@
         "url": "ability-scores/dex"
       },
       "dc_success": "none",
-      "desc": "A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself."
+      "desc": [
+        "A creature restrained by the tentacles can use its action to make a Strength or Dexterity check (its choice) against your spell save DC. On a success, it frees itself."
+      ]
     },
     "area_of_effect": {
       "type": "cube",
@@ -1350,14 +1492,17 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/black-tentacles"
   },
   {
@@ -1404,14 +1549,18 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/blade-barrier"
   },
   {
@@ -1440,7 +1589,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -1452,7 +1601,7 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -1464,6 +1613,11 @@
         "url": "subclasses/life"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/bless"
   },
   {
@@ -1515,7 +1669,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -1537,13 +1691,17 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/blight"
   },
   {
@@ -1577,7 +1735,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -1599,7 +1757,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -1611,6 +1769,11 @@
         "url": "subclasses/fiend"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/blindness-deafness"
   },
   {
@@ -1635,7 +1798,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -1647,13 +1810,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/blink"
   },
   {
@@ -1676,7 +1846,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -1688,7 +1858,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -1700,6 +1870,13 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/blur"
   },
   {
@@ -1729,14 +1906,20 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "paladin",
         "name": "Paladin",
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/branding-smite"
   },
   {
@@ -1794,7 +1977,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -1806,7 +1989,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -1818,6 +2001,9 @@
         "url": "subclasses/fiend"
       }
     ],
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/burning-hands"
   },
   {
@@ -1866,14 +2052,14 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -1885,6 +2071,10 @@
         "url": "subclasses/land"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/call-lightning"
   },
   {
@@ -1921,7 +2111,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -1933,13 +2123,18 @@
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/calm-emotions"
   },
   {
@@ -1987,7 +2182,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -1999,7 +2194,10 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/chain-lightning"
   },
   {
@@ -2034,7 +2232,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -2061,13 +2259,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/charm-person"
   },
   {
@@ -2107,7 +2310,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -2124,13 +2327,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/chill-touch"
   },
   {
@@ -2184,7 +2392,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -2201,7 +2409,9 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/circle-of-death"
   },
   {
@@ -2229,7 +2439,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -2251,13 +2461,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/clairvoyance"
   },
   {
@@ -2284,14 +2500,20 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/clone"
   },
   {
@@ -2336,7 +2558,9 @@
         "url": "ability-scores/con"
       },
       "dc_success": "half",
-      "desc": "Creatures are affected even if they hold their breath or don't need to breathe."
+      "desc": [
+        "Creatures are affected even if they hold their breath or don't need to breathe."
+      ]
     },
     "area_of_effect": {
       "type": "sphere",
@@ -2347,7 +2571,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -2359,13 +2583,16 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/cloudkill"
   },
   {
@@ -2399,7 +2626,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -2411,13 +2638,17 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/color-spray"
   },
   {
@@ -2462,7 +2693,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -2474,7 +2705,7 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -2486,6 +2717,11 @@
         "url": "subclasses/fiend"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/command"
   },
   {
@@ -2513,20 +2749,26 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "devotion",
         "name": "Devotion",
         "url": "subclasses/devotion"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/commune"
   },
   {
@@ -2557,7 +2799,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -2569,13 +2811,20 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/commune-with-nature"
   },
   {
@@ -2602,7 +2851,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -2624,13 +2873,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/comprehend-languages"
   },
   {
@@ -2663,14 +2918,20 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
         "url": "classes/bard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/compulsion"
   },
   {
@@ -2716,7 +2977,9 @@
         "url": "ability-scores/con"
       },
       "dc_success": "half",
-      "desc": "A creature killed by this spell becomes a frozen statue until it thaws."
+      "desc": [
+        "A creature killed by this spell becomes a frozen statue until it thaws."
+      ]
     },
     "area_of_effect": {
       "type": "cone",
@@ -2727,7 +2990,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -2739,13 +3002,15 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/cone-of-cold"
   },
   {
@@ -2788,7 +3053,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -2810,7 +3075,10 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/confusion"
   },
   {
@@ -2844,7 +3112,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -2856,13 +3124,19 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/conjure-animals"
   },
   {
@@ -2891,14 +3165,20 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/conjure-celestial"
   },
   {
@@ -2934,7 +3214,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -2946,13 +3226,17 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/conjure-elemental"
   },
   {
@@ -2982,7 +3266,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -2994,7 +3278,13 @@
         "url": "classes/warlock"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/conjure-fey"
   },
   {
@@ -3028,7 +3318,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -3040,7 +3330,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/conjure-minor-elementals"
   },
   {
@@ -3076,7 +3372,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -3088,7 +3384,12 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/conjure-woodland-beings"
   },
   {
@@ -3114,14 +3415,16 @@
         "url": "ability-scores/int"
       },
       "dc_success": "other",
-      "desc": "On a failure, you take 6d6 psychic damage and are insane until you finish a long rest."
+      "desc": [
+        "On a failure, you take 6d6 psychic damage and are insane until you finish a long rest."
+      ]
     },
     "school": {
       "label": "divination",
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "warlock",
         "name": "Warlock",
@@ -3133,7 +3436,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/contact-other-plane"
   },
   {
@@ -3181,14 +3490,16 @@
         "url": "ability-scores/con"
       },
       "dc_success": "other",
-      "desc": "After succeeding on three of these saving throws, the creature recovers from the disease, and the spell ends."
+      "desc": [
+        "After succeeding on three of these saving throws, the creature recovers from the disease, and the spell ends."
+      ]
     },
     "school": {
       "label": "necromancy",
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -3200,7 +3511,11 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/contagion"
   },
   {
@@ -3228,14 +3543,20 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/contingency"
   },
   {
@@ -3261,7 +3582,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -3273,13 +3594,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/continual-flame"
   },
   {
@@ -3339,7 +3666,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -3356,7 +3683,10 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/control-water"
   },
   {
@@ -3384,7 +3714,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -3401,13 +3731,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/control-weather"
   },
   {
@@ -3430,7 +3766,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -3447,7 +3783,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/counterspell"
   },
   {
@@ -3471,7 +3814,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -3488,7 +3831,7 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -3500,6 +3843,13 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/create-food-and-water"
   },
   {
@@ -3530,7 +3880,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -3547,7 +3897,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/create-undead"
   },
   {
@@ -3584,7 +3939,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -3596,13 +3951,17 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/create-or-destroy-water"
   },
   {
@@ -3647,7 +4006,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -3659,7 +4018,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/creation"
   },
   {
@@ -3697,7 +4060,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -3724,7 +4087,7 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -3736,6 +4099,11 @@
         "url": "subclasses/life"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/cure-wounds"
   },
   {
@@ -3762,7 +4130,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -3779,13 +4147,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/dancing-lights"
   },
   {
@@ -3816,7 +4190,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -3833,7 +4207,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -3845,6 +4219,11 @@
         "url": "subclasses/land"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/darkness"
   },
   {
@@ -3870,7 +4249,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -3892,13 +4271,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/darkvision"
   },
   {
@@ -3928,7 +4313,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -3955,7 +4340,7 @@
         "url": "classes/sorcerer"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -3967,6 +4352,12 @@
         "url": "subclasses/land"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/daylight"
   },
   {
@@ -3992,7 +4383,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -4004,13 +4395,20 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "life",
         "name": "Life",
         "url": "subclasses/life"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/death-ward"
   },
   {
@@ -4066,7 +4464,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -4078,7 +4476,9 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/delayed-blast-fireball"
   },
   {
@@ -4102,7 +4502,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "warlock",
         "name": "Warlock",
@@ -4114,7 +4514,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/demiplane"
   },
   {
@@ -4143,7 +4550,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -4155,13 +4562,19 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/detect-evil-and-good"
   },
   {
@@ -4190,7 +4603,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -4227,13 +4640,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/detect-magic"
   },
   {
@@ -4264,7 +4683,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -4286,13 +4705,18 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/detect-poison-and-disease"
   },
   {
@@ -4322,7 +4746,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -4339,13 +4763,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/detect-thoughts"
   },
   {
@@ -4380,7 +4810,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -4402,7 +4832,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/dimension-door"
   },
   {
@@ -4428,7 +4864,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -4445,13 +4881,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/disguise-self"
   },
   {
@@ -4505,7 +4948,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -4517,7 +4960,9 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/disintegrate"
   },
   {
@@ -4550,14 +4995,16 @@
         "url": "ability-scores/cha"
       },
       "dc_success": "other",
-      "desc": "The creature must succeed on a charisma saving throw or be sent back to its home plane (if it isn't there already)"
+      "desc": [
+        "The creature must succeed on a charisma saving throw or be sent back to its home plane (if it isn't there already)"
+      ]
     },
     "school": {
       "label": "abjuration",
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -4569,7 +5016,12 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/dispel-evil-and-good"
   },
   {
@@ -4596,7 +5048,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -4633,7 +5085,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -4645,6 +5097,12 @@
         "url": "subclasses/devotion"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/dispel-magic"
   },
   {
@@ -4672,20 +5130,26 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/divination"
   },
   {
@@ -4719,20 +5183,26 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "paladin",
         "name": "Paladin",
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/divine-favor"
   },
   {
@@ -4762,21 +5232,29 @@
         "url": "ability-scores/cha"
       },
       "dc_success": "none",
-      "desc": "Every creature that hears you must make a backup Charisma, or she undergoes an effect based on the current value of his life. [50 hp or less: muted for 1 minute] [40 hp or less: deafened and blinded for 10 minutes [30 hp or less: blinded, deafened and dazed for 1 hour] [20 hp or less: killed instantly]"
+      "desc": [
+        "Every creature that hears you must make a backup Charisma, or she undergoes an effect based on the current value of his life. [50 hp or less: muted for 1 minute] [40 hp or less: deafened and blinded for 10 minutes [30 hp or less: blinded, deafened and dazed for 1 hour] [20 hp or less: killed instantly]"
+      ]
     },
     "school": {
       "label": "evocation",
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/divine-word"
   },
   {
@@ -4813,7 +5291,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -4825,7 +5303,12 @@
         "url": "classes/sorcerer"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/dominate-beast"
   },
   {
@@ -4857,14 +5340,16 @@
         "url": "ability-scores/wis"
       },
       "dc_success": "none",
-      "desc": "On failure, the creature is charmed by you for the duration."
+      "desc": [
+        "On failure, the creature is charmed by you for the duration."
+      ]
     },
     "school": {
       "label": "enchantment",
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -4886,7 +5371,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/dominate-monster"
   },
   {
@@ -4918,14 +5408,16 @@
         "url": "ability-scores/wis"
       },
       "dc_success": "other",
-      "desc": "Each time the target takes damage, it makes a new wisdom saving throw against the spell. If the saving throw succeeds, the spell ends."
+      "desc": [
+        "Each time the target takes damage, it makes a new wisdom saving throw against the spell. If the saving throw succeeds, the spell ends."
+      ]
     },
     "school": {
       "label": "enchantment",
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -4942,7 +5434,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/dominate-person"
   },
   {
@@ -4984,14 +5481,16 @@
         "url": "ability-scores/wis"
       },
       "dc_success": "none",
-      "desc": "On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest."
+      "desc": [
+        "On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest."
+      ]
     },
     "school": {
       "label": "illusion",
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -5008,13 +5507,17 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/dream"
   },
   {
@@ -5042,14 +5545,21 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/druidcraft"
   },
   {
@@ -5085,7 +5595,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -5102,7 +5612,12 @@
         "url": "classes/sorcerer"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/earthquake"
   },
   {
@@ -5140,20 +5655,25 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "warlock",
         "name": "Warlock",
         "url": "classes/warlock"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/eldritch-blast"
   },
   {
@@ -5194,7 +5714,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -5216,13 +5736,18 @@
         "url": "classes/sorcerer"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/enhance-ability"
   },
   {
@@ -5261,7 +5786,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -5273,13 +5798,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/enlarge-reduce"
   },
   {
@@ -5317,20 +5847,25 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/entangle"
   },
   {
@@ -5362,7 +5897,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -5374,13 +5909,19 @@
         "url": "classes/warlock"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/enthrall"
   },
   {
@@ -5411,7 +5952,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -5438,7 +5979,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/etherealness"
   },
   {
@@ -5462,7 +6009,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -5479,13 +6026,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/expeditious-retreat"
   },
   {
@@ -5517,14 +6071,16 @@
         "url": "ability-scores/wis"
       },
       "dc_success": "none",
-      "desc": "On failure, the target can be affected by one of the following effects of your choice for the duration. [Asleep. The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.] [Panicked. The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.] [Sickened. The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another wisdom saving throw. If it succeeds, the effect ends.]"
+      "desc": [
+        "On failure, the target can be affected by one of the following effects of your choice for the duration. [Asleep. The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.] [Panicked. The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.] [Sickened. The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another wisdom saving throw. If it succeeds, the effect ends.]"
+      ]
     },
     "school": {
       "label": "necromancy",
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -5546,7 +6102,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/eyebite"
   },
   {
@@ -5572,14 +6134,21 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/fabricate"
   },
   {
@@ -5615,20 +6184,25 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/faerie-fire"
   },
   {
@@ -5667,14 +6241,18 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
     "url": "spells/faithful-hound"
   },
   {
@@ -5714,7 +6292,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -5726,13 +6304,17 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/false-life"
   },
   {
@@ -5761,7 +6343,9 @@
         "url": "ability-scores/wis"
       },
       "dc_success": "none",
-      "desc": "On fail, A creature drop whatever it is holding and become frightened for the duration."
+      "desc": [
+        "On fail, A creature drop whatever it is holding and become frightened for the duration."
+      ]
     },
     "area_of_effect": {
       "type": "cone",
@@ -5772,7 +6356,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -5794,13 +6378,17 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/fear"
   },
   {
@@ -5825,7 +6413,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -5842,13 +6430,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/feather-fall"
   },
   {
@@ -5889,14 +6483,16 @@
         "url": "ability-scores/int"
       },
       "dc_success": "other",
-      "desc": "The target always takes the damage. On a failed save, the creature's Intelligence and Charisma scores become 1."
+      "desc": [
+        "The target always takes the damage. On a failed save, the creature's Intelligence and Charisma scores become 1."
+      ]
     },
     "school": {
       "label": "enchantment",
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -5918,7 +6514,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/feeblemind"
   },
   {
@@ -5950,14 +6550,20 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/find-familiar"
   },
   {
@@ -5985,20 +6591,27 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "paladin",
         "name": "Paladin",
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/find-steed"
   },
   {
@@ -6023,7 +6636,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -6040,13 +6653,20 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/find-traps"
   },
   {
@@ -6073,7 +6693,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -6085,7 +6705,13 @@
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/find-the-path"
   },
   {
@@ -6128,7 +6754,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -6145,7 +6771,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/finger-of-death"
   },
   {
@@ -6184,7 +6815,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -6196,7 +6827,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/fire-bolt"
   },
   {
@@ -6238,20 +6874,24 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "fiend",
         "name": "Fiend",
         "url": "subclasses/fiend"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/fire-shield"
   },
   {
@@ -6298,7 +6938,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -6315,7 +6955,11 @@
         "url": "classes/sorcerer"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/fire-storm"
   },
   {
@@ -6373,7 +7017,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -6385,7 +7029,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -6397,6 +7041,8 @@
         "url": "subclasses/fiend"
       }
     ],
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/fireball"
   },
   {
@@ -6434,20 +7080,24 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/flame-blade"
   },
   {
@@ -6502,14 +7152,14 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "devotion",
         "name": "Devotion",
@@ -6521,6 +7171,8 @@
         "url": "subclasses/fiend"
       }
     ],
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/flame-strike"
   },
   {
@@ -6558,7 +7210,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -6570,13 +7222,17 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/flaming-sphere"
   },
   {
@@ -6607,14 +7263,16 @@
         "url": "ability-scores/con"
       },
       "dc_success": "none",
-      "desc": "On a failed save, the target is restrained as its flesh begins to harden."
+      "desc": [
+        "On a failed save, the target is restrained as its flesh begins to harden."
+      ]
     },
     "school": {
       "label": "transmutation",
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "warlock",
         "name": "Warlock",
@@ -6626,7 +7284,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/flesh-to-stone"
   },
   {
@@ -6654,20 +7317,26 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/floating-disk"
   },
   {
@@ -6696,7 +7365,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -6713,13 +7382,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/fly"
   },
   {
@@ -6750,7 +7424,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -6772,13 +7446,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/fog-cloud"
   },
   {
@@ -6811,14 +7490,19 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/forbiddance"
   },
   {
@@ -6853,7 +7537,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -6870,7 +7554,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/forcecage"
   },
   {
@@ -6897,7 +7586,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -6919,7 +7608,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/foresight"
   },
   {
@@ -6946,7 +7641,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -6968,7 +7663,7 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
@@ -6980,6 +7675,12 @@
         "url": "subclasses/devotion"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/freedom-of-movement"
   },
   {
@@ -7032,14 +7733,16 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/freezing-sphere"
   },
   {
@@ -7067,7 +7770,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -7084,7 +7787,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -7096,6 +7799,12 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/gaseous-form"
   },
   {
@@ -7124,7 +7833,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -7141,7 +7850,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/gate"
   },
   {
@@ -7177,7 +7892,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -7204,7 +7919,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/geas"
   },
   {
@@ -7231,7 +7951,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -7243,13 +7963,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/gentle-repose"
   },
   {
@@ -7276,14 +8002,21 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/giant-insect"
   },
   {
@@ -7306,7 +8039,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -7318,7 +8051,14 @@
         "url": "classes/warlock"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/glibness"
   },
   {
@@ -7352,7 +8092,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -7364,7 +8104,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/globe-of-invulnerability"
   },
   {
@@ -7401,7 +8145,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -7418,13 +8162,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/glyph-of-warding"
   },
   {
@@ -7451,7 +8200,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -7463,7 +8212,13 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/goodberry"
   },
   {
@@ -7502,20 +8257,24 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/grease"
   },
   {
@@ -7539,7 +8298,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -7556,13 +8315,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/greater-invisibility"
   },
   {
@@ -7593,7 +8359,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -7610,7 +8376,12 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/greater-restoration"
   },
   {
@@ -7656,7 +8427,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -7668,7 +8439,11 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/guardian-of-faith"
   },
   {
@@ -7715,7 +8490,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -7727,7 +8502,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/guards-and-wards"
   },
   {
@@ -7751,7 +8531,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -7763,13 +8543,20 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/guidance"
   },
   {
@@ -7815,20 +8602,24 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
     "url": "spells/guiding-bolt"
   },
   {
@@ -7869,7 +8660,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -7886,13 +8677,17 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/gust-of-wind"
   },
   {
@@ -7952,20 +8747,24 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "fiend",
         "name": "Fiend",
         "url": "subclasses/fiend"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/hallow"
   },
   {
@@ -7996,7 +8795,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8018,13 +8817,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/hallucinatory-terrain"
   },
   {
@@ -8066,14 +8870,19 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/harm"
   },
   {
@@ -8100,7 +8909,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -8112,7 +8921,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -8124,6 +8933,12 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/haste"
   },
   {
@@ -8156,7 +8971,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -8168,7 +8983,12 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/heal"
   },
   {
@@ -8205,7 +9025,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8222,13 +9042,18 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/healing-word"
   },
   {
@@ -8277,14 +9102,16 @@
         "url": "ability-scores/con"
       },
       "dc_success": "other",
-      "desc": "Can choose to not drop the object"
+      "desc": [
+        "Can choose to not drop the object"
+      ]
     },
     "school": {
       "label": "transmutation",
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8296,13 +9123,16 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/heat-metal"
   },
   {
@@ -8344,14 +9174,19 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "warlock",
         "name": "Warlock",
         "url": "classes/warlock"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/hellish-rebuke"
   },
   {
@@ -8378,7 +9213,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -8390,7 +9225,13 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/heroes-feast"
   },
   {
@@ -8414,7 +9255,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8426,13 +9267,20 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/heroism"
   },
   {
@@ -8467,7 +9315,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8479,13 +9327,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/hideous-laughter"
   },
   {
@@ -8522,7 +9375,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8544,7 +9397,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/hold-monster"
   },
   {
@@ -8581,7 +9438,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8613,7 +9470,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -8625,6 +9482,10 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/hold-person"
   },
   {
@@ -8654,14 +9515,19 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/holy-aura"
   },
   {
@@ -8687,7 +9553,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "paladin",
         "name": "Paladin",
@@ -8699,7 +9565,13 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/hunters-mark"
   },
   {
@@ -8727,14 +9599,16 @@
         "url": "ability-scores/wis"
       },
       "dc_success": "none",
-      "desc": "On a failed save, the creature becomes charmed for the duration."
+      "desc": [
+        "On a failed save, the creature becomes charmed for the duration."
+      ]
     },
     "school": {
       "label": "illusion",
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8756,13 +9630,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/hypnotic-pattern"
   },
   {
@@ -8819,7 +9698,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -8836,13 +9715,15 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/ice-storm"
   },
   {
@@ -8869,7 +9750,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8881,13 +9762,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/identify"
   },
   {
@@ -8915,7 +9802,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -8932,13 +9819,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/illusory-script"
   },
   {
@@ -8980,14 +9873,16 @@
         "url": "ability-scores/wis"
       },
       "dc_success": "none",
-      "desc": "If the creature succeeds, it is immune to this spell if you cast it again"
+      "desc": [
+        "If the creature succeeds, it is immune to this spell if you cast it again"
+      ]
     },
     "school": {
       "label": "abjuration",
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "warlock",
         "name": "Warlock",
@@ -8999,7 +9894,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/imprisonment"
   },
   {
@@ -9047,7 +9947,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -9059,7 +9959,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/incendiary-cloud"
   },
   {
@@ -9105,20 +10009,24 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
     "url": "spells/inflict-wounds"
   },
   {
@@ -9174,7 +10082,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -9191,13 +10099,15 @@
         "url": "classes/sorcerer"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/insect-plague"
   },
   {
@@ -9226,14 +10136,20 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/instant-summons"
   },
   {
@@ -9262,7 +10178,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9284,7 +10200,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -9296,6 +10212,11 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/invisibility"
   },
   {
@@ -9319,7 +10240,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9331,7 +10252,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/irresistible-dance"
   },
   {
@@ -9357,7 +10285,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -9379,13 +10307,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/jump"
   },
   {
@@ -9411,7 +10345,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9428,13 +10362,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/knock"
   },
   {
@@ -9461,7 +10402,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9478,7 +10419,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/legend-lore"
   },
   {
@@ -9502,7 +10449,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9529,7 +10476,7 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -9546,6 +10493,13 @@
         "url": "subclasses/devotion"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/lesser-restoration"
   },
   {
@@ -9573,7 +10527,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -9585,13 +10539,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/levitate"
   },
   {
@@ -9625,7 +10585,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9647,13 +10607,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/light"
   },
   {
@@ -9711,7 +10676,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -9723,7 +10688,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -9735,6 +10700,8 @@
         "url": "subclasses/land"
       }
     ],
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/lightning-bolt"
   },
   {
@@ -9760,7 +10727,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9777,13 +10744,19 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/locate-animals-or-plants"
   },
   {
@@ -9811,7 +10784,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9843,13 +10816,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/locate-creature"
   },
   {
@@ -9877,7 +10856,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9909,13 +10888,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/locate-object"
   },
   {
@@ -9944,7 +10929,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -9966,13 +10951,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/longstrider"
   },
   {
@@ -9998,7 +10988,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -10010,13 +11000,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mage-armor"
   },
   {
@@ -10042,7 +11038,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -10064,13 +11060,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mage-hand"
   },
   {
@@ -10103,7 +11106,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -10125,13 +11128,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/magic-circle"
   },
   {
@@ -10165,21 +11173,28 @@
         "url": "ability-scores/cha"
       },
       "dc_success": "other",
-      "desc": "On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours."
+      "desc": [
+        "On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours."
+      ]
     },
     "school": {
       "label": "necromancy",
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/magic-jar"
   },
   {
@@ -10224,7 +11239,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -10236,13 +11251,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/magic-missile"
   },
   {
@@ -10271,7 +11291,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -10283,13 +11303,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/magic-mouth"
   },
   {
@@ -10316,7 +11342,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "paladin",
         "name": "Paladin",
@@ -10328,13 +11354,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/magic-weapon"
   },
   {
@@ -10366,7 +11398,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -10378,7 +11410,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/magnificent-mansion"
   },
   {
@@ -10409,7 +11446,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -10431,13 +11468,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/major-image"
   },
   {
@@ -10476,7 +11518,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -10493,13 +11535,16 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "life",
         "name": "Life",
         "url": "subclasses/life"
       }
     ],
+    "dc": null,
+    "material": null,
+    "damage": null,
     "url": "spells/mass-cure-wounds"
   },
   {
@@ -10526,14 +11571,20 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mass-heal"
   },
   {
@@ -10568,20 +11619,25 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mass-healing-word"
   },
   {
@@ -10620,7 +11676,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -10642,7 +11698,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mass-suggestion"
   },
   {
@@ -10668,14 +11728,21 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/maze"
   },
   {
@@ -10701,14 +11768,14 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -10720,6 +11787,13 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/meld-into-stone"
   },
   {
@@ -10746,7 +11820,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -10773,13 +11847,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mending"
   },
   {
@@ -10806,7 +11886,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -10823,13 +11903,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/message"
   },
   {
@@ -10876,7 +11962,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -10888,7 +11974,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/meteor-swarm"
   },
   {
@@ -10912,7 +12002,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -10924,7 +12014,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mind-blank"
   },
   {
@@ -10952,7 +12049,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -10974,13 +12071,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/minor-illusion"
   },
   {
@@ -11011,7 +12114,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -11028,7 +12131,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mirage-arcane"
   },
   {
@@ -11056,7 +12165,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -11073,7 +12182,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -11085,6 +12194,13 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mirror-image"
   },
   {
@@ -11109,7 +12225,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -11121,7 +12237,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/mislead"
   },
   {
@@ -11144,7 +12267,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -11161,7 +12284,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -11173,6 +12296,13 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/misty-step"
   },
   {
@@ -11211,7 +12341,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -11223,7 +12353,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/modify-memory"
   },
   {
@@ -11284,20 +12419,22 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/moonbeam"
   },
   {
@@ -11331,7 +12468,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -11348,7 +12485,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/move-earth"
   },
   {
@@ -11374,7 +12516,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -11391,13 +12533,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/nondetection"
   },
   {
@@ -11423,7 +12571,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -11435,7 +12583,7 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -11447,6 +12595,12 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/pass-without-trace"
   },
   {
@@ -11473,20 +12627,26 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/passwall"
   },
   {
@@ -11531,14 +12691,18 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/phantasmal-killer"
   },
   {
@@ -11563,20 +12727,27 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/phantom-steed"
   },
   {
@@ -11605,14 +12776,21 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/planar-ally"
   },
   {
@@ -11650,7 +12828,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -11672,7 +12850,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/planar-binding"
   },
   {
@@ -11703,14 +12885,16 @@
         "url": "ability-scores/cha"
       },
       "dc_success": "none",
-      "desc": "If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence."
+      "desc": [
+        "If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence."
+      ]
     },
     "school": {
       "label": "conjuration",
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -11737,7 +12921,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "damage": null,
     "url": "spells/plane-shift"
   },
   {
@@ -11764,7 +12952,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -11781,7 +12969,7 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -11793,6 +12981,13 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/plant-growth"
   },
   {
@@ -11839,7 +13034,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -11856,7 +13051,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/poison-spray"
   },
   {
@@ -11894,7 +13093,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -11916,7 +13115,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/polymorph"
   },
   {
@@ -11939,7 +13143,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -11961,7 +13165,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/power-word-kill"
   },
   {
@@ -11985,7 +13196,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -12007,7 +13218,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/power-word-stun"
   },
   {
@@ -12043,20 +13261,25 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/prayer-of-healing"
   },
   {
@@ -12087,7 +13310,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -12109,13 +13332,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/prestidigitation"
   },
   {
@@ -12162,7 +13392,9 @@
         "url": "ability-scores/dex"
       },
       "dc_success": "other",
-      "desc": "For each target, roll a d8 to determine which color ray affects it."
+      "desc": [
+        "For each target, roll a d8 to determine which color ray affects it."
+      ]
     },
     "area_of_effect": {
       "type": "cone",
@@ -12173,7 +13405,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -12185,7 +13417,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/prismatic-spray"
   },
   {
@@ -12231,14 +13467,20 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/prismatic-wall"
   },
   {
@@ -12279,14 +13521,18 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/private-sanctum"
   },
   {
@@ -12326,20 +13572,25 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/produce-flame"
   },
   {
@@ -12372,7 +13623,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -12384,7 +13635,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/programmed-illusion"
   },
   {
@@ -12413,7 +13669,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -12425,7 +13681,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/project-image"
   },
   {
@@ -12449,7 +13711,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -12476,7 +13738,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -12488,6 +13750,13 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/protection-from-energy"
   },
   {
@@ -12514,7 +13783,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -12536,7 +13805,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -12548,6 +13817,12 @@
         "url": "subclasses/devotion"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/protection-from-evil-and-good"
   },
   {
@@ -12572,7 +13847,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -12594,13 +13869,20 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/protection-from-poison"
   },
   {
@@ -12624,7 +13906,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -12641,13 +13923,20 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/purify-food-and-drink"
   },
   {
@@ -12676,7 +13965,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -12693,13 +13982,19 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "life",
         "name": "Life",
         "url": "subclasses/life"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/raise-dead"
   },
   {
@@ -12725,7 +14020,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "warlock",
         "name": "Warlock",
@@ -12737,13 +14032,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "damage": null,
     "url": "spells/ray-of-enfeeblement"
   },
   {
@@ -12782,7 +14083,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -12794,13 +14095,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/ray-of-frost"
   },
   {
@@ -12830,7 +14136,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -12847,7 +14153,12 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/regenerate"
   },
   {
@@ -12903,14 +14214,20 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/reincarnate"
   },
   {
@@ -12934,7 +14251,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -12956,13 +14273,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/remove-curse"
   },
   {
@@ -12999,14 +14323,19 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/resilient-sphere"
   },
   {
@@ -13032,7 +14361,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -13044,13 +14373,19 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/resistance"
   },
   {
@@ -13080,7 +14415,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -13092,7 +14427,13 @@
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/resurrection"
   },
   {
@@ -13122,7 +14463,9 @@
         "url": "ability-scores/dex"
       },
       "dc_success": "other",
-      "desc": "A creature can make a dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall."
+      "desc": [
+        "A creature can make a dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall."
+      ]
     },
     "area_of_effect": {
       "type": "cylinder",
@@ -13133,7 +14476,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -13150,7 +14493,11 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/reverse-gravity"
   },
   {
@@ -13176,7 +14523,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -13188,7 +14535,7 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -13200,6 +14547,12 @@
         "url": "subclasses/life"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/revivify"
   },
   {
@@ -13228,20 +14581,26 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/rope-trick"
   },
   {
@@ -13288,20 +14647,24 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/sacred-flame"
   },
   {
@@ -13328,14 +14691,14 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -13347,6 +14710,12 @@
         "url": "subclasses/devotion"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/sanctuary"
   },
   {
@@ -13381,7 +14750,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -13393,7 +14762,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -13405,6 +14774,11 @@
         "url": "subclasses/fiend"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/scorching-ray"
   },
   {
@@ -13449,7 +14823,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -13476,13 +14850,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/scrying"
   },
   {
@@ -13510,14 +14889,20 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/secret-chest"
   },
   {
@@ -13543,7 +14928,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -13560,13 +14945,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/see-invisibility"
   },
   {
@@ -13593,7 +14984,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -13610,7 +15001,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/seeming"
   },
   {
@@ -13637,7 +15035,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -13654,13 +15052,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/sending"
   },
   {
@@ -13688,14 +15092,20 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/sequester"
   },
   {
@@ -13726,7 +15136,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -13738,7 +15148,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/shapechange"
   },
   {
@@ -13797,7 +15213,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -13819,13 +15235,15 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/shatter"
   },
   {
@@ -13849,7 +15267,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -13861,13 +15279,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/shield"
   },
   {
@@ -13893,7 +15318,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -13905,13 +15330,19 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/shield-of-faith"
   },
   {
@@ -13937,20 +15368,26 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/shillelagh"
   },
   {
@@ -13989,7 +15426,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -14001,13 +15438,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/shocking-grasp"
   },
   {
@@ -14036,7 +15478,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -14053,7 +15495,7 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -14065,6 +15507,12 @@
         "url": "subclasses/land"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/silence"
   },
   {
@@ -14096,7 +15544,7 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -14113,13 +15561,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/silent-image"
   },
   {
@@ -14148,14 +15601,20 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/simulacrum"
   },
   {
@@ -14195,7 +15654,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -14212,13 +15671,16 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/sleep"
   },
   {
@@ -14250,7 +15712,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -14267,7 +15729,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -14279,6 +15741,11 @@
         "url": "subclasses/land"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/sleet-storm"
   },
   {
@@ -14309,7 +15776,9 @@
         "url": "ability-scores/wis"
       },
       "dc_success": "none",
-      "desc": "On failed save, the creature is slowed."
+      "desc": [
+        "On failed save, the creature is slowed."
+      ]
     },
     "area_of_effect": {
       "type": "cube",
@@ -14320,7 +15789,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -14332,7 +15801,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -14344,6 +15813,10 @@
         "url": "subclasses/land"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/slow"
   },
   {
@@ -14367,14 +15840,21 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/spare-the-dying"
   },
   {
@@ -14398,7 +15878,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -14415,13 +15895,20 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/speak-with-animals"
   },
   {
@@ -14448,7 +15935,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -14460,13 +15947,19 @@
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/speak-with-dead"
   },
   {
@@ -14498,7 +15991,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -14515,13 +16008,19 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/speak-with-plants"
   },
   {
@@ -14547,7 +16046,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -14564,7 +16063,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -14576,6 +16075,12 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/spider-climb"
   },
   {
@@ -14606,7 +16111,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -14618,7 +16123,7 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -14630,6 +16135,11 @@
         "url": "subclasses/land"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/spike-growth"
   },
   {
@@ -14659,20 +16169,25 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/spirit-guardians"
   },
   {
@@ -14719,14 +16234,14 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -14738,6 +16253,10 @@
         "url": "subclasses/life"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
     "url": "spells/spiritual-weapon"
   },
   {
@@ -14774,7 +16293,9 @@
         "url": "ability-scores/con"
       },
       "dc_success": "none",
-      "desc": "On a failed save, the creature spends its action that turn retching and reeling."
+      "desc": [
+        "On a failed save, the creature spends its action that turn retching and reeling."
+      ]
     },
     "area_of_effect": {
       "type": "sphere",
@@ -14785,7 +16306,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -14802,7 +16323,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -14819,6 +16340,9 @@
         "url": "subclasses/fiend"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/stinking-cloud"
   },
   {
@@ -14844,7 +16368,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -14861,13 +16385,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/stone-shape"
   },
   {
@@ -14893,7 +16423,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -14915,13 +16445,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/stoneskin"
   },
   {
@@ -14966,7 +16502,9 @@
         "url": "ability-scores/con"
       },
       "dc_success": "none",
-      "desc": "On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 5 minutes."
+      "desc": [
+        "On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 5 minutes."
+      ]
     },
     "area_of_effect": {
       "type": "sphere",
@@ -14977,14 +16515,18 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/storm-of-vengeance"
   },
   {
@@ -15020,7 +16562,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15042,13 +16584,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/suggestion"
   },
   {
@@ -15088,7 +16635,9 @@
         "url": "ability-scores/con"
       },
       "dc_success": "half",
-      "desc": "On a failed save, the creature is blinded until your next turn. On a successful save, it isn't blinded by this spell."
+      "desc": [
+        "On a failed save, the creature is blinded until your next turn. On a successful save, it isn't blinded by this spell."
+      ]
     },
     "area_of_effect": {
       "type": "line",
@@ -15099,7 +16648,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -15116,7 +16665,10 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/sunbeam"
   },
   {
@@ -15156,7 +16708,9 @@
         "url": "ability-scores/con"
       },
       "dc_success": "half",
-      "desc": "On failure, the creature is also blinded for 1 minute."
+      "desc": [
+        "On failure, the creature is also blinded for 1 minute."
+      ]
     },
     "area_of_effect": {
       "type": "cylinder",
@@ -15167,7 +16721,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -15184,7 +16738,10 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/sunburst"
   },
   {
@@ -15234,7 +16791,7 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15251,7 +16808,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/symbol"
   },
   {
@@ -15286,7 +16848,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -15298,7 +16860,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/telekinesis"
   },
   {
@@ -15332,14 +16900,19 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/telepathic-bond"
   },
   {
@@ -15367,7 +16940,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15384,7 +16957,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/teleport"
   },
   {
@@ -15415,7 +16994,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15432,7 +17011,12 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/teleportation-circle"
   },
   {
@@ -15462,20 +17046,27 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/thaumaturgy"
   },
   {
@@ -15533,7 +17124,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15555,13 +17146,16 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "material": null,
+    "attack_type": null,
     "url": "spells/thunderwave"
   },
   {
@@ -15585,7 +17179,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -15597,7 +17191,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/time-stop"
   },
   {
@@ -15629,7 +17230,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15641,13 +17242,18 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/tiny-hut"
   },
   {
@@ -15672,7 +17278,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15699,13 +17305,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/tongues"
   },
   {
@@ -15729,14 +17341,21 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/transport-via-plants"
   },
   {
@@ -15761,7 +17380,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -15773,13 +17392,20 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/tree-stride"
   },
   {
@@ -15816,7 +17442,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15833,7 +17459,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/true-polymorph"
   },
   {
@@ -15861,7 +17493,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -15873,7 +17505,13 @@
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/true-resurrection"
   },
   {
@@ -15899,7 +17537,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15926,7 +17564,13 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/true-seeing"
   },
   {
@@ -15949,7 +17593,7 @@
       "name": "Divination",
       "url": "magic-schools/divination"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -15971,13 +17615,20 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/true-strike"
   },
   {
@@ -16005,7 +17656,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -16022,13 +17673,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/unseen-servant"
   },
   {
@@ -16072,7 +17729,7 @@
       "name": "Necromancy",
       "url": "magic-schools/necromancy"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "warlock",
         "name": "Warlock",
@@ -16084,13 +17741,17 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "material": null,
     "url": "spells/vampiric-touch"
   },
   {
@@ -16136,14 +17797,18 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
         "url": "classes/bard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
     "url": "spells/vicious-mockery"
   },
   {
@@ -16197,7 +17862,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -16214,13 +17879,15 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "fiend",
         "name": "Fiend",
         "url": "subclasses/fiend"
       }
     ],
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/wall-of-fire"
   },
   {
@@ -16247,14 +17914,20 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/wall-of-force"
   },
   {
@@ -16310,14 +17983,16 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/wall-of-ice"
   },
   {
@@ -16348,7 +18023,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -16365,13 +18040,19 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/wall-of-stone"
   },
   {
@@ -16427,14 +18108,16 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "attack_type": null,
     "url": "spells/wall-of-thorns"
   },
   {
@@ -16462,20 +18145,26 @@
       "name": "Abjuration",
       "url": "magic-schools/abjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/warding-bond"
   },
   {
@@ -16501,7 +18190,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -16523,7 +18212,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -16535,6 +18224,12 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/water-breathing"
   },
   {
@@ -16561,7 +18256,7 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -16583,7 +18278,7 @@
         "url": "classes/sorcerer"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -16595,6 +18290,12 @@
         "url": "subclasses/land"
       }
     ],
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/water-walk"
   },
   {
@@ -16628,7 +18329,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -16640,7 +18341,7 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -16652,6 +18353,11 @@
         "url": "subclasses/land"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/web"
   },
   {
@@ -16687,14 +18393,19 @@
       "name": "Illusion",
       "url": "magic-schools/illusion"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "wizard",
         "name": "Wizard",
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/weird"
   },
   {
@@ -16721,14 +18432,20 @@
       "name": "Transmutation",
       "url": "magic-schools/transmutation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/wind-walk"
   },
   {
@@ -16778,7 +18495,7 @@
       "name": "Evocation",
       "url": "magic-schools/evocation"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -16790,13 +18507,16 @@
         "url": "classes/ranger"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
         "url": "subclasses/lore"
       }
     ],
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "attack_type": null,
     "url": "spells/wind-wall"
   },
   {
@@ -16828,7 +18548,7 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "sorcerer",
         "name": "Sorcerer",
@@ -16840,7 +18560,14 @@
         "url": "classes/wizard"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "area_of_effect": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/wish"
   },
   {
@@ -16868,14 +18595,20 @@
       "name": "Conjuration",
       "url": "magic-schools/conjuration"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
         "url": "classes/cleric"
       }
     ],
-    "subclasses": [],
+    "subclass_associations": null,
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/word-of-recall"
   },
   {
@@ -16904,7 +18637,7 @@
       "name": "Enchantment",
       "url": "magic-schools/enchantment"
     },
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -16921,7 +18654,7 @@
         "url": "classes/paladin"
       }
     ],
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -16933,6 +18666,12 @@
         "url": "subclasses/devotion"
       }
     ],
+    "dc": null,
+    "heal_at_slot_level": null,
+    "higher_level": null,
+    "material": null,
+    "attack_type": null,
+    "damage": null,
     "url": "spells/zone-of-truth"
   }
 ]

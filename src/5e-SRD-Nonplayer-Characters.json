@@ -32,10 +32,7 @@
         "url": "proficiencies/skill-religion"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 12
     },
@@ -44,7 +41,9 @@
     "special_abilities": [
       {
         "name": "Spellcasting",
-        "desc": "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:\n\n- Cantrips (at will): light, sacred flame, thaumaturgy\n- 1st level (3 slots): bless, cure wounds, sanctuary",
+        "desc": [
+          "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:\n\n- Cantrips (at will): light, sacred flame, thaumaturgy\n- 1st level (3 slots): bless, cure wounds, sanctuary"
+        ],
         "spellcasting": {
           "level": 1,
           "ability": {
@@ -101,7 +100,9 @@
     "actions": [
       {
         "name": "Club",
-        "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.",
+        "desc": [
+          "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
+        ],
         "attack_bonus": 2,
         "damage": [
           {
@@ -115,6 +116,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/acolyte"
   },
   {
@@ -162,13 +164,10 @@
         "url": "proficiencies/skill-history"
       }
     ],
-    "damage_vulnerabilities": [],
     "damage_resistances": [
       "damage from spells",
       "non magical bludgeoning, piercing, and slashing (from stoneskin)"
     ],
-    "damage_immunities": [],
-    "condition_immunities": [],
     "senses": {
       "passive_perception": 12
     },
@@ -177,11 +176,15 @@
     "special_abilities": [
       {
         "name": "Magic Resistance",
-        "desc": "The archmage has advantage on saving throws against spells and other magical effects."
+        "desc": [
+          "The archmage has advantage on saving throws against spells and other magical effects."
+        ]
       },
       {
         "name": "Spellcasting",
-        "desc": "The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:\n\n- Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp\n- 1st level (4 slots): detect magic, identify, mage armor*, magic missile\n- 2nd level (3 slots): detect thoughts, mirror image, misty step\n- 3rd level (3 slots): counterspell, fly, lightning bolt\n- 4th level (3 slots): banishment, fire shield, stoneskin*\n- 5th level (3 slots): cone of cold, scrying, wall of force\n- 6th level (1 slot): globe of invulnerability\n- 7th level (1 slot): teleport\n- 8th level (1 slot): mind blank*\n- 9th level (1 slot): time stop\n* The archmage casts these spells on itself before combat.",
+        "desc": [
+          "The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:\n\n- Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp\n- 1st level (4 slots): detect magic, identify, mage armor*, magic missile\n- 2nd level (3 slots): detect thoughts, mirror image, misty step\n- 3rd level (3 slots): counterspell, fly, lightning bolt\n- 4th level (3 slots): banishment, fire shield, stoneskin*\n- 5th level (3 slots): cone of cold, scrying, wall of force\n- 6th level (1 slot): globe of invulnerability\n- 7th level (1 slot): teleport\n- 8th level (1 slot): mind blank*\n- 9th level (1 slot): time stop\n* The archmage casts these spells on itself before combat."
+        ],
         "spellcasting": {
           "level": 18,
           "ability": {
@@ -358,7 +361,9 @@
     "actions": [
       {
         "name": "Dagger",
-        "desc": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+        "desc": [
+          "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+        ],
         "attack_bonus": 6,
         "damage": [
           {
@@ -372,6 +377,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/archmage"
   },
   {
@@ -431,12 +437,9 @@
         "url": "proficiencies/skill-stealth"
       }
     ],
-    "damage_vulnerabilities": [],
     "damage_resistances": [
       "poison"
     ],
-    "damage_immunities": [],
-    "condition_immunities": [],
     "senses": {
       "passive_perception": 13
     },
@@ -445,21 +448,29 @@
     "special_abilities": [
       {
         "name": "Assassinate",
-        "desc": "During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit."
+        "desc": [
+          "During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit."
+        ]
       },
       {
         "name": "Evasion",
-        "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+        "desc": [
+          "If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+        ]
       },
       {
         "name": "Sneak Attack (1/Turn)",
-        "desc": "The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll."
+        "desc": [
+          "The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll."
+        ]
       }
     ],
     "actions": [
       {
         "name": "Multiattack",
-        "desc": "The assassin makes two shortsword attacks.",
+        "desc": [
+          "The assassin makes two shortsword attacks."
+        ],
         "options": {
           "choose": 1,
           "from": [
@@ -475,7 +486,9 @@
       },
       {
         "name": "Shortsword",
-        "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.",
+        "desc": [
+          "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one."
+        ],
         "attack_bonus": 6,
         "damage": [
           {
@@ -507,7 +520,9 @@
       },
       {
         "name": "Light Crossbow",
-        "desc": "Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.",
+        "desc": [
+          "Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one."
+        ],
         "attack_bonus": 6,
         "damage": [
           {
@@ -538,6 +553,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/assassin"
   },
   {
@@ -559,11 +575,8 @@
     "intelligence": 10,
     "wisdom": 10,
     "charisma": 10,
-    "proficiencies": [],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "proficiencies": null,
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 10
     },
@@ -572,7 +585,9 @@
     "actions": [
       {
         "name": "Scimitar",
-        "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.",
+        "desc": [
+          "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage."
+        ],
         "attack_bonus": 3,
         "damage": [
           {
@@ -587,7 +602,9 @@
       },
       {
         "name": "Light Crossbow",
-        "desc": "Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
+        "desc": [
+          "Ranged Weapon Attack: +3 to hit, range 80 ft./320 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
+        ],
         "attack_bonus": 3,
         "damage": [
           {
@@ -601,6 +618,8 @@
         ]
       }
     ],
+    "special_abilities": null,
+    "reactions": null,
     "url": "nonplayer-characters/bandit"
   },
   {
@@ -654,10 +673,7 @@
         "url": "proficiencies/skill-deception"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 10
     },
@@ -666,7 +682,9 @@
     "actions": [
       {
         "name": "Multiattack",
-        "desc": "The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.",
+        "desc": [
+          "The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers."
+        ],
         "options": {
           "choose": 1,
           "from": [
@@ -694,7 +712,9 @@
       },
       {
         "name": "Scimitar",
-        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+        "desc": [
+          "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
+        ],
         "attack_bonus": 5,
         "damage": [
           {
@@ -709,7 +729,9 @@
       },
       {
         "name": "Dagger",
-        "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.",
+        "desc": [
+          "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+        ],
         "attack_bonus": 5,
         "damage": [
           {
@@ -726,9 +748,12 @@
     "reactions": [
       {
         "name": "Parry",
-        "desc": "The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon."
+        "desc": [
+          "The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon."
+        ]
       }
     ],
+    "special_abilities": null,
     "url": "nonplayer-characters/bandit-captain"
   },
   {
@@ -750,11 +775,8 @@
     "intelligence": 9,
     "wisdom": 11,
     "charisma": 9,
-    "proficiencies": [],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "proficiencies": null,
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 10
     },
@@ -763,13 +785,17 @@
     "special_abilities": [
       {
         "name": "Reckless",
-        "desc": "At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+        "desc": [
+          "At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+        ]
       }
     ],
     "actions": [
       {
         "name": "Greataxe",
-        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.",
+        "desc": [
+          "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage."
+        ],
         "attack_bonus": 5,
         "damage": [
           {
@@ -783,6 +809,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/berserker"
   },
   {
@@ -804,11 +831,8 @@
     "intelligence": 10,
     "wisdom": 10,
     "charisma": 10,
-    "proficiencies": [],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "proficiencies": null,
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 10
     },
@@ -817,7 +841,9 @@
     "actions": [
       {
         "name": "Club",
-        "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.",
+        "desc": [
+          "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
+        ],
         "attack_bonus": 2,
         "damage": [
           {
@@ -831,6 +857,8 @@
         ]
       }
     ],
+    "special_abilities": null,
+    "reactions": null,
     "url": "nonplayer-characters/commoner"
   },
   {
@@ -872,10 +900,7 @@
         "url": "proficiencies/skill-religion"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 11
     },
@@ -884,11 +909,15 @@
     "special_abilities": [
       {
         "name": "Dark Devotion",
-        "desc": "The fanatic has advantage on saving throws against being charmed or frightened."
+        "desc": [
+          "The fanatic has advantage on saving throws against being charmed or frightened."
+        ]
       },
       {
         "name": "Spellcasting",
-        "desc": "The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:\n\nCantrips (at will): light, sacred flame, thaumaturgy\n- 1st level (4 slots): command, inflict wounds, shield of faith\n- 2nd level (3 slots): hold person, spiritual weapon",
+        "desc": [
+          "The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:\n\nCantrips (at will): light, sacred flame, thaumaturgy\n- 1st level (4 slots): command, inflict wounds, shield of faith\n- 2nd level (3 slots): hold person, spiritual weapon"
+        ],
         "spellcasting": {
           "level": 4,
           "ability": {
@@ -956,7 +985,9 @@
     "actions": [
       {
         "name": "Multiattack",
-        "desc": "The fanatic makes two melee attacks.",
+        "desc": [
+          "The fanatic makes two melee attacks."
+        ],
         "options": {
           "choose": 1,
           "from": [
@@ -972,7 +1003,9 @@
       },
       {
         "name": "Dagger",
-        "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.",
+        "desc": [
+          "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage."
+        ],
         "attack_bonus": 4,
         "damage": [
           {
@@ -986,6 +1019,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/cult-fanatic"
   },
   {
@@ -1021,10 +1055,7 @@
         "url": "proficiencies/skill-religion"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 10
     },
@@ -1033,13 +1064,17 @@
     "special_abilities": [
       {
         "name": "Dark Devotion",
-        "desc": "The cultist has advantage on saving throws against being charmed or frightened."
+        "desc": [
+          "The cultist has advantage on saving throws against being charmed or frightened."
+        ]
       }
     ],
     "actions": [
       {
         "name": "Scimitar",
-        "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.",
+        "desc": [
+          "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage."
+        ],
         "attack_bonus": 3,
         "damage": [
           {
@@ -1053,6 +1088,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/cultist"
   },
   {
@@ -1094,10 +1130,7 @@
         "url": "proficiencies/skill-perception"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 14
     },
@@ -1106,7 +1139,9 @@
     "special_abilities": [
       {
         "name": "Spellcasting",
-        "desc": "The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:\n\n- Cantrips (at will): druidcraft, produce flame, shillelagh\n- 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave\n- 2nd level (3 slots): animal messenger, barkskin",
+        "desc": [
+          "The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:\n\n- Cantrips (at will): druidcraft, produce flame, shillelagh\n- 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave\n- 2nd level (3 slots): animal messenger, barkskin"
+        ],
         "spellcasting": {
           "level": 4,
           "ability": {
@@ -1179,7 +1214,9 @@
     "actions": [
       {
         "name": "Quarterstaff",
-        "desc": "Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands.",
+        "desc": [
+          "Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands."
+        ],
         "attack_bonus": 2,
         "damage": [
           {
@@ -1207,6 +1244,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/druid"
   },
   {
@@ -1260,10 +1298,7 @@
         "url": "proficiencies/skill-intimidation"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 11
     },
@@ -1272,17 +1307,23 @@
     "special_abilities": [
       {
         "name": "Brave",
-        "desc": "The gladiator has advantage on saving throws against being frightened."
+        "desc": [
+          "The gladiator has advantage on saving throws against being frightened."
+        ]
       },
       {
         "name": "Brute",
-        "desc": "A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack)."
+        "desc": [
+          "A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack)."
+        ]
       }
     ],
     "actions": [
       {
         "name": "Multiattack",
-        "desc": "The gladiator makes three melee attacks or two ranged attacks.",
+        "desc": [
+          "The gladiator makes three melee attacks or two ranged attacks."
+        ],
         "options": {
           "choose": 1,
           "from": [
@@ -1336,7 +1377,9 @@
       },
       {
         "name": "Spear",
-        "desc": "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.",
+        "desc": [
+          "Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack."
+        ],
         "attack_bonus": 7,
         "damage": [
           {
@@ -1365,7 +1408,9 @@
       },
       {
         "name": "Shield Bash",
-        "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.",
+        "desc": [
+          "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone."
+        ],
         "attack_bonus": 7,
         "damage": [
           {
@@ -1382,7 +1427,9 @@
     "reactions": [
       {
         "name": "Parry",
-        "desc": "The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.",
+        "desc": [
+          "The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon."
+        ],
         "attack_bonus": 0
       }
     ],
@@ -1415,10 +1462,7 @@
         "url": "proficiencies/skill-perception"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 12
     },
@@ -1427,7 +1471,9 @@
     "actions": [
       {
         "name": "Spear",
-        "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.",
+        "desc": [
+          "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
+        ],
         "attack_bonus": 3,
         "damage": [
           {
@@ -1455,6 +1501,8 @@
         ]
       }
     ],
+    "special_abilities": null,
+    "reactions": null,
     "url": "nonplayer-characters/guard"
   },
   {
@@ -1490,10 +1538,7 @@
         "url": "proficiencies/saving-throw-wis"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 10
     },
@@ -1502,13 +1547,17 @@
     "special_abilities": [
       {
         "name": "Brave",
-        "desc": "The knight has advantage on saving throws against being frightened."
+        "desc": [
+          "The knight has advantage on saving throws against being frightened."
+        ]
       }
     ],
     "actions": [
       {
         "name": "Multiattack",
-        "desc": "The knight makes two melee attacks.",
+        "desc": [
+          "The knight makes two melee attacks."
+        ],
         "options": {
           "choose": 1,
           "from": [
@@ -1524,7 +1573,9 @@
       },
       {
         "name": "Greatsword",
-        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.",
+        "desc": [
+          "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
+        ],
         "attack_bonus": 5,
         "damage": [
           {
@@ -1539,7 +1590,9 @@
       },
       {
         "name": "Heavy Crossbow",
-        "desc": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.",
+        "desc": [
+          "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage."
+        ],
         "attack_bonus": 2,
         "damage": [
           {
@@ -1554,7 +1607,9 @@
       },
       {
         "name": "Leadership",
-        "desc": "For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.",
+        "desc": [
+          "For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated."
+        ],
         "usage": {
           "type": "recharge after rest",
           "rest_types": [
@@ -1567,7 +1622,9 @@
     "reactions": [
       {
         "name": "Parry",
-        "desc": "The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon."
+        "desc": [
+          "The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon."
+        ]
       }
     ],
     "url": "nonplayer-characters/knight"
@@ -1617,10 +1674,7 @@
         "url": "proficiencies/skill-history"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 11
     },
@@ -1629,7 +1683,9 @@
     "special_abilities": [
       {
         "name": "Spellcasting",
-        "desc": "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:\n\n- Cantrips (at will): fire bolt, light, mage hand, prestidigitation\n- 1st level (4 slots): detect magic, mage armor, magic missile, shield\n- 2nd level (3 slots): misty step, suggestion\n- 3rd level (3 slots): counterspell, fireball, fly\n- 4th level (3 slots): greater invisibility, ice storm\n- 5th level (1 slot): cone of cold",
+        "desc": [
+          "The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:\n\n- Cantrips (at will): fire bolt, light, mage hand, prestidigitation\n- 1st level (4 slots): detect magic, mage armor, magic missile, shield\n- 2nd level (3 slots): misty step, suggestion\n- 3rd level (3 slots): counterspell, fireball, fly\n- 4th level (3 slots): greater invisibility, ice storm\n- 5th level (1 slot): cone of cold"
+        ],
         "spellcasting": {
           "level": 9,
           "ability": {
@@ -1740,7 +1796,9 @@
     "actions": [
       {
         "name": "Dagger",
-        "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+        "desc": [
+          "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+        ],
         "attack_bonus": 5,
         "damage": [
           {
@@ -1754,6 +1812,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/mage"
   },
   {
@@ -1795,10 +1854,7 @@
         "url": "proficiencies/skill-persuasion"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 12
     },
@@ -1807,7 +1863,9 @@
     "actions": [
       {
         "name": "Rapier",
-        "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
+        "desc": [
+          "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
+        ],
         "attack_bonus": 3,
         "damage": [
           {
@@ -1824,9 +1882,12 @@
     "reactions": [
       {
         "name": "Parry",
-        "desc": "The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon."
+        "desc": [
+          "The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon."
+        ]
       }
     ],
+    "special_abilities": null,
     "url": "nonplayer-characters/noble"
   },
   {
@@ -1868,10 +1929,7 @@
         "url": "proficiencies/skill-religion"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 13
     },
@@ -1880,11 +1938,15 @@
     "special_abilities": [
       {
         "name": "Divine Eminence",
-        "desc": "As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
+        "desc": [
+          "As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
+        ]
       },
       {
         "name": "Spellcasting",
-        "desc": "The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:\n\n- Cantrips (at will): light, sacred flame, thaumaturgy\n- 1st level (4 slots): cure wounds, guiding bolt, sanctuary\n- 2nd level (3 slots): lesser restoration, spiritual weapon\n- 3rd level (2 slots): dispel magic, spirit guardians",
+        "desc": [
+          "The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:\n\n- Cantrips (at will): light, sacred flame, thaumaturgy\n- 1st level (4 slots): cure wounds, guiding bolt, sanctuary\n- 2nd level (3 slots): lesser restoration, spiritual weapon\n- 3rd level (2 slots): dispel magic, spirit guardians"
+        ],
         "spellcasting": {
           "level": 5,
           "ability": {
@@ -1963,7 +2025,9 @@
     "actions": [
       {
         "name": "Mace",
-        "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.",
+        "desc": [
+          "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage."
+        ],
         "attack_bonus": 2,
         "damage": [
           {
@@ -1977,6 +2041,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/priest"
   },
   {
@@ -2024,10 +2089,7 @@
         "url": "proficiencies/skill-survival"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 15
     },
@@ -2036,13 +2098,17 @@
     "special_abilities": [
       {
         "name": "Keen Hearing and Sight",
-        "desc": "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+        "desc": [
+          "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+        ]
       }
     ],
     "actions": [
       {
         "name": "Multiattack",
-        "desc": "The scout makes two melee attacks or two ranged attacks.",
+        "desc": [
+          "The scout makes two melee attacks or two ranged attacks."
+        ],
         "options": {
           "choose": 1,
           "from": [
@@ -2065,7 +2131,9 @@
       },
       {
         "name": "Shortsword",
-        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "desc": [
+          "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+        ],
         "attack_bonus": 4,
         "damage": [
           {
@@ -2080,7 +2148,9 @@
       },
       {
         "name": "Longbow",
-        "desc": "Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
+        "desc": [
+          "Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+        ],
         "attack_bonus": 4,
         "damage": [
           {
@@ -2094,6 +2164,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/scout"
   },
   {
@@ -2153,10 +2224,7 @@
         "url": "proficiencies/skill-stealth"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 16
     },
@@ -2165,17 +2233,23 @@
     "special_abilities": [
       {
         "name": "Cunning Action",
-        "desc": "On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action."
+        "desc": [
+          "On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action."
+        ]
       },
       {
         "name": "Sneak Attack (1/Turn)",
-        "desc": "The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll."
+        "desc": [
+          "The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll."
+        ]
       }
     ],
     "actions": [
       {
         "name": "Multiattack",
-        "desc": "The spy makes two melee attacks.",
+        "desc": [
+          "The spy makes two melee attacks."
+        ],
         "options": {
           "choose": 1,
           "from": [
@@ -2191,7 +2265,9 @@
       },
       {
         "name": "Shortsword",
-        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "desc": [
+          "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+        ],
         "attack_bonus": 4,
         "damage": [
           {
@@ -2206,7 +2282,9 @@
       },
       {
         "name": "Hand Crossbow",
-        "desc": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "desc": [
+          "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+        ],
         "attack_bonus": 4,
         "damage": [
           {
@@ -2220,6 +2298,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/spy"
   },
   {
@@ -2249,10 +2328,7 @@
         "url": "proficiencies/skill-intimidation"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 10
     },
@@ -2261,13 +2337,17 @@
     "special_abilities": [
       {
         "name": "Pack Tactics",
-        "desc": "The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 ft. of the creature and the ally isn't incapacitated."
+        "desc": [
+          "The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 ft. of the creature and the ally isn't incapacitated."
+        ]
       }
     ],
     "actions": [
       {
         "name": "Multiattack",
-        "desc": "The thug makes two melee attacks.",
+        "desc": [
+          "The thug makes two melee attacks."
+        ],
         "options": {
           "choose": 1,
           "from": [
@@ -2283,7 +2363,9 @@
       },
       {
         "name": "Mace",
-        "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.",
+        "desc": [
+          "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage."
+        ],
         "attack_bonus": 4,
         "damage": [
           {
@@ -2298,7 +2380,9 @@
       },
       {
         "name": "Heavy Crossbow",
-        "desc": "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.",
+        "desc": [
+          "Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage."
+        ],
         "attack_bonus": 2,
         "damage": [
           {
@@ -2312,6 +2396,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/thug"
   },
   {
@@ -2333,11 +2418,8 @@
     "intelligence": 8,
     "wisdom": 11,
     "charisma": 8,
-    "proficiencies": [],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "proficiencies": null,
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 10
     },
@@ -2346,13 +2428,17 @@
     "special_abilities": [
       {
         "name": "Pack Tactics",
-        "desc": "The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated."
+        "desc": [
+          "The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated."
+        ]
       }
     ],
     "actions": [
       {
         "name": "Spear",
-        "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.",
+        "desc": [
+          "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
+        ],
         "attack_bonus": 3,
         "damage": [
           {
@@ -2380,6 +2466,7 @@
         ]
       }
     ],
+    "reactions": null,
     "url": "nonplayer-characters/tribal-warrior"
   },
   {
@@ -2415,10 +2502,7 @@
         "url": "proficiencies/skill-perception"
       }
     ],
-    "damage_vulnerabilities": [],
-    "damage_resistances": [],
-    "damage_immunities": [],
-    "condition_immunities": [],
+    "damage_resistances": null,
     "senses": {
       "passive_perception": 12
     },
@@ -2427,7 +2511,9 @@
     "actions": [
       {
         "name": "Multiattack",
-        "desc": "The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.",
+        "desc": [
+          "The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack."
+        ],
         "options": {
           "choose": 1,
           "from": [
@@ -2449,7 +2535,9 @@
       },
       {
         "name": "Longsword",
-        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
+        "desc": [
+          "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+        ],
         "attack_bonus": 5,
         "damage": [
           {
@@ -2478,7 +2566,9 @@
       },
       {
         "name": "Shortsword",
-        "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+        "desc": [
+          "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+        ],
         "attack_bonus": 5,
         "damage": [
           {
@@ -2493,7 +2583,9 @@
       },
       {
         "name": "Heavy Crossbow",
-        "desc": "Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.",
+        "desc": [
+          "Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage."
+        ],
         "attack_bonus": 3,
         "damage": [
           {
@@ -2507,6 +2599,8 @@
         ]
       }
     ],
+    "special_abilities": null,
+    "reactions": null,
     "url": "nonplayer-characters/veteran"
   }
 ]

@@ -3,7 +3,7 @@
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "rage",
@@ -16,25 +16,27 @@
         "url": "features/barbarian-unarmored-defense"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 2,
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
     "label": "barbarian-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-1"
   },
   {
     "level": 2,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "reckless-attack",
@@ -47,25 +49,27 @@
         "url": "features/danger-sense"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 2,
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
     "label": "barbarian-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-2"
   },
   {
     "level": 3,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "primal-path",
@@ -73,25 +77,27 @@
         "url": "features/primal-path"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 3,
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
     "label": "barbarian-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "barbarian-ability-score-improvement-1",
@@ -99,25 +105,27 @@
         "url": "features/barbarian-ability-score-improvement-1"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 3,
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
     "label": "barbarian-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "barbarian-extra-attack",
@@ -130,46 +138,49 @@
         "url": "features/fast-movement"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 3,
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
     "label": "barbarian-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 4,
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
     "label": "barbarian-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "feral-instinct",
@@ -177,26 +188,27 @@
         "url": "features/feral-instinct"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 4,
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
     "label": "barbarian-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "barbarian-ability-score-improvement-2",
@@ -204,26 +216,27 @@
         "url": "features/barbarian-ability-score-improvement-2"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 4,
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
     "label": "barbarian-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "brutal-critical-1-die",
@@ -231,47 +244,49 @@
         "url": "features/brutal-critical-1-die"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 4,
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
     "label": "barbarian-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 4,
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
     "label": "barbarian-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "relentless-rage",
@@ -279,26 +294,27 @@
         "url": "features/relentless-rage"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 4,
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
     "label": "barbarian-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "barbarian-ability-score-improvement-3",
@@ -306,25 +322,27 @@
         "url": "features/barbarian-ability-score-improvement-3"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 5,
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
     "label": "barbarian-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "brutal-critical-2-dice",
@@ -332,45 +350,49 @@
         "url": "features/brutal-critical-2-dice"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 5,
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 2
     },
     "label": "barbarian-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 5,
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 2
     },
     "label": "barbarian-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "persistent-rage",
@@ -378,25 +400,27 @@
         "url": "features/persistent-rage"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 5,
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 2
     },
     "label": "barbarian-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "barbarian-ability-score-improvement-4",
@@ -404,25 +428,27 @@
         "url": "features/barbarian-ability-score-improvement-4"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 5,
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 2
     },
     "label": "barbarian-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "brutal-critical-3-dice",
@@ -430,25 +456,27 @@
         "url": "features/brutal-critical-3-dice"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 6,
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
     "label": "barbarian-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "indomitable-might",
@@ -456,25 +484,27 @@
         "url": "features/indomitable-might"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 6,
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
     "label": "barbarian-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "barbarian-ability-score-improvement-5",
@@ -482,25 +512,27 @@
         "url": "features/barbarian-ability-score-improvement-5"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 6,
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
     "label": "barbarian-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "primal-champion",
@@ -508,25 +540,27 @@
         "url": "features/primal-champion"
       }
     ],
+    "spellcasting": null,
     "class_specific": {
       "rage_count": 9999,
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
     "label": "barbarian-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/barbarian-20"
   },
   {
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "spellcasting-bard",
@@ -560,19 +594,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-1"
   },
   {
     "level": 2,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "jack-of-all-trades",
@@ -606,12 +641,13 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-2"
   },
   {
@@ -653,19 +689,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "bard-ability-score-improvement-1",
@@ -694,19 +731,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "bardic-inspiration-d8",
@@ -740,19 +778,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "countercharm",
@@ -781,20 +820,21 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spells_known": 10,
@@ -816,19 +856,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "bard-ability-score-improvement-2",
@@ -857,19 +898,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "song-of-rest-d8",
@@ -898,12 +940,13 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-9"
   },
   {
@@ -950,20 +993,21 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spells_known": 15,
@@ -985,19 +1029,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "bard-ability-score-improvement-3",
@@ -1026,19 +1071,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "song-of-rest-d10",
@@ -1067,19 +1113,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "magical-secrets-2",
@@ -1108,19 +1155,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "bardic-inspiration-d12",
@@ -1149,19 +1197,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "bard-ability-score-improvement-4",
@@ -1190,19 +1239,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "song-of-rest-d12",
@@ -1231,19 +1281,20 @@
       "magical_secrets_max_9": 0
     },
     "label": "bard-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "magical-secrets-3",
@@ -1272,19 +1323,20 @@
       "magical_secrets_max_9": 2
     },
     "label": "bard-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "bard-ability-score-improvement-5",
@@ -1313,19 +1365,20 @@
       "magical_secrets_max_9": 2
     },
     "label": "bard-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "superior-inspiration",
@@ -1354,19 +1407,20 @@
       "magical_secrets_max_9": 2
     },
     "label": "bard-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/bard-20"
   },
   {
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "spellcasting-cleric",
@@ -1402,19 +1456,20 @@
       "destroy_undead_cr": 0
     },
     "label": "cleric-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-1"
   },
   {
     "level": 2,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "channel-divinity-1-rest",
@@ -1445,19 +1500,20 @@
       "destroy_undead_cr": 0
     },
     "label": "cleric-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-2"
   },
   {
     "level": 3,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "domain-spells-2",
@@ -1483,19 +1539,20 @@
       "destroy_undead_cr": 0
     },
     "label": "cleric-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "cleric-ability-score-improvement-1",
@@ -1521,19 +1578,20 @@
       "destroy_undead_cr": 0
     },
     "label": "cleric-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "domain-spells-3",
@@ -1564,19 +1622,20 @@
       "destroy_undead_cr": 0.5
     },
     "label": "cleric-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "channel-divinity-2-rest",
@@ -1602,19 +1661,20 @@
       "destroy_undead_cr": 0.5
     },
     "label": "cleric-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "domain-spells-4",
@@ -1640,19 +1700,20 @@
       "destroy_undead_cr": 0.5
     },
     "label": "cleric-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "cleric-ability-score-improvement-2",
@@ -1683,19 +1744,20 @@
       "destroy_undead_cr": 1
     },
     "label": "cleric-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "domain-spells-5",
@@ -1721,19 +1783,20 @@
       "destroy_undead_cr": 1
     },
     "label": "cleric-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "divine-intervention",
@@ -1759,19 +1822,20 @@
       "destroy_undead_cr": 1
     },
     "label": "cleric-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "destroy-undead-cr-2-or-below",
@@ -1797,19 +1861,20 @@
       "destroy_undead_cr": 2
     },
     "label": "cleric-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "cleric-ability-score-improvement-3",
@@ -1835,20 +1900,21 @@
       "destroy_undead_cr": 2
     },
     "label": "cleric-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spells_known": 16,
@@ -1867,19 +1933,20 @@
       "destroy_undead_cr": 2
     },
     "label": "cleric-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "destroy-undead-cr-3-or-below",
@@ -1905,20 +1972,21 @@
       "destroy_undead_cr": 3
     },
     "label": "cleric-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spells_known": 19,
@@ -1937,19 +2005,20 @@
       "destroy_undead_cr": 3
     },
     "label": "cleric-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "cleric-ability-score-improvement-4",
@@ -1975,19 +2044,20 @@
       "destroy_undead_cr": 3
     },
     "label": "cleric-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "destroy-undead-cr-4-or-below",
@@ -2013,19 +2083,20 @@
       "destroy_undead_cr": 4
     },
     "label": "cleric-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "channel-divinity-3-rest",
@@ -2051,19 +2122,20 @@
       "destroy_undead_cr": 4
     },
     "label": "cleric-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "cleric-ability-score-improvement-5",
@@ -2089,19 +2161,20 @@
       "destroy_undead_cr": 4
     },
     "label": "cleric-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "divine-intervention-improvement",
@@ -2127,19 +2200,20 @@
       "destroy_undead_cr": 4
     },
     "label": "cleric-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/cleric-20"
   },
   {
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "spellcasting-druid",
@@ -2170,19 +2244,20 @@
       "wild_shape_fly": false
     },
     "label": "druid-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-1"
   },
   {
     "level": 2,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "wild-shape-cr-1-4-or-below-no-flying-or-swim-speed",
@@ -2213,20 +2288,21 @@
       "wild_shape_fly": false
     },
     "label": "druid-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-2"
   },
   {
     "level": 3,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 2,
       "spell_slots_level_1": 4,
@@ -2245,19 +2321,20 @@
       "wild_shape_fly": false
     },
     "label": "druid-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "wild-shape-cr-1-2-or-below-no-flying-speed",
@@ -2288,20 +2365,21 @@
       "wild_shape_fly": false
     },
     "label": "druid-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spell_slots_level_1": 4,
@@ -2320,20 +2398,21 @@
       "wild_shape_fly": false
     },
     "label": "druid-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spell_slots_level_1": 4,
@@ -2352,20 +2431,21 @@
       "wild_shape_fly": false
     },
     "label": "druid-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spell_slots_level_1": 4,
@@ -2384,19 +2464,20 @@
       "wild_shape_fly": false
     },
     "label": "druid-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "wild-shape-cr-1-or-below",
@@ -2427,20 +2508,21 @@
       "wild_shape_fly": true
     },
     "label": "druid-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spell_slots_level_1": 4,
@@ -2459,20 +2541,21 @@
       "wild_shape_fly": true
     },
     "label": "druid-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -2491,20 +2574,21 @@
       "wild_shape_fly": true
     },
     "label": "druid-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -2523,19 +2607,20 @@
       "wild_shape_fly": true
     },
     "label": "druid-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "druid-ability-score-improvement-3",
@@ -2561,20 +2646,21 @@
       "wild_shape_fly": true
     },
     "label": "druid-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -2593,20 +2679,21 @@
       "wild_shape_fly": true
     },
     "label": "druid-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -2625,20 +2712,21 @@
       "wild_shape_fly": true
     },
     "label": "druid-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -2657,19 +2745,20 @@
       "wild_shape_fly": true
     },
     "label": "druid-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "druid-ability-score-improvement-4",
@@ -2695,20 +2784,21 @@
       "wild_shape_fly": true
     },
     "label": "druid-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -2727,19 +2817,20 @@
       "wild_shape_fly": true
     },
     "label": "druid-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "druid-timeless-body",
@@ -2770,19 +2861,20 @@
       "wild_shape_fly": true
     },
     "label": "druid-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "druid-ability-score-improvement-5",
@@ -2808,19 +2900,20 @@
       "wild_shape_fly": true
     },
     "label": "druid-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "archdruid",
@@ -2846,12 +2939,13 @@
       "wild_shape_fly": true
     },
     "label": "druid-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/druid-20"
   },
   {
@@ -2872,26 +2966,27 @@
         "url": "features/second-wind"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 0,
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
     "label": "fighter-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-1"
   },
   {
     "level": 2,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "action-surge-1-use",
@@ -2899,26 +2994,27 @@
         "url": "features/action-surge-1-use"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
     "label": "fighter-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-2"
   },
   {
     "level": 3,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "martial-archetype",
@@ -2926,26 +3022,27 @@
         "url": "features/martial-archetype"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
     "label": "fighter-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "fighter-ability-score-improvement-1",
@@ -2953,26 +3050,27 @@
         "url": "features/fighter-ability-score-improvement-1"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
     "label": "fighter-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "extra-attack-1",
@@ -2980,26 +3078,27 @@
         "url": "features/extra-attack-1"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
     "label": "fighter-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "fighter-ability-score-improvement-2",
@@ -3007,47 +3106,49 @@
         "url": "features/fighter-ability-score-improvement-2"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
     "label": "fighter-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
     "label": "fighter-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 3,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "fighter-ability-score-improvement-3",
@@ -3055,26 +3156,27 @@
         "url": "features/fighter-ability-score-improvement-3"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
     "label": "fighter-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "indomitable-1-use",
@@ -3082,47 +3184,49 @@
         "url": "features/indomitable-1-use"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 1,
       "extra_attacks": 1
     },
     "label": "fighter-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 1,
       "extra_attacks": 1
     },
     "label": "fighter-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "extra-attack-2",
@@ -3130,26 +3234,27 @@
         "url": "features/extra-attack-2"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 1,
       "extra_attacks": 2
     },
     "label": "fighter-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 4,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "fighter-ability-score-improvement-4",
@@ -3157,26 +3262,27 @@
         "url": "features/fighter-ability-score-improvement-4"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 1,
       "extra_attacks": 2
     },
     "label": "fighter-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "indomitable-2-uses",
@@ -3184,26 +3290,27 @@
         "url": "features/indomitable-2-uses"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
     "label": "fighter-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 5,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "fighter-ability-score-improvement-5",
@@ -3211,47 +3318,49 @@
         "url": "features/fighter-ability-score-improvement-5"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
     "label": "fighter-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 5,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
     "label": "fighter-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 6,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "fighter-ability-score-improvement-6",
@@ -3259,26 +3368,27 @@
         "url": "features/fighter-ability-score-improvement-6"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 1,
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
     "label": "fighter-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 6,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "action-surge-2-uses",
@@ -3291,47 +3401,49 @@
         "url": "features/indomitable-3-uses"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 2,
       "indomitable_uses": 3,
       "extra_attacks": 2
     },
     "label": "fighter-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 6,
     "prof_bonus": 6,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 2,
       "indomitable_uses": 3,
       "extra_attacks": 2
     },
     "label": "fighter-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 7,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "fighter-ability-score-improvement-7",
@@ -3339,26 +3451,27 @@
         "url": "features/fighter-ability-score-improvement-7"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 2,
       "indomitable_uses": 3,
       "extra_attacks": 2
     },
     "label": "fighter-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 7,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "extra-attack-3",
@@ -3366,26 +3479,27 @@
         "url": "features/extra-attack-3"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "action_surges": 2,
       "indomitable_uses": 3,
       "extra_attacks": 3
     },
     "label": "fighter-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/fighter-20"
   },
   {
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monk-unarmored-defense",
@@ -3398,7 +3512,7 @@
         "url": "features/martial-arts"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3408,19 +3522,20 @@
       "unarmored_movement": 0
     },
     "label": "monk-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-1"
   },
   {
     "level": 2,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "ki",
@@ -3448,7 +3563,7 @@
         "url": "features/unarmored-movement-1"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3458,19 +3573,20 @@
       "unarmored_movement": 10
     },
     "label": "monk-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-2"
   },
   {
     "level": 3,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monastic-tradition",
@@ -3483,7 +3599,7 @@
         "url": "features/deflect-missiles"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3493,19 +3609,20 @@
       "unarmored_movement": 10
     },
     "label": "monk-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monk-ability-score-improvement-1",
@@ -3518,7 +3635,7 @@
         "url": "features/slow-fall"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3528,19 +3645,20 @@
       "unarmored_movement": 10
     },
     "label": "monk-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monk-extra-attack",
@@ -3553,7 +3671,7 @@
         "url": "features/stunning-strike"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3563,19 +3681,20 @@
       "unarmored_movement": 10
     },
     "label": "monk-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "ki-empowered-strikes",
@@ -3583,7 +3702,7 @@
         "url": "features/ki-empowered-strikes"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3593,19 +3712,20 @@
       "unarmored_movement": 15
     },
     "label": "monk-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monk-evasion",
@@ -3618,7 +3738,7 @@
         "url": "features/stillness-of-mind"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3628,19 +3748,20 @@
       "unarmored_movement": 15
     },
     "label": "monk-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monk-ability-score-improvement-2",
@@ -3648,7 +3769,7 @@
         "url": "features/monk-ability-score-improvement-2"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3658,19 +3779,20 @@
       "unarmored_movement": 15
     },
     "label": "monk-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "unarmored-movement-2",
@@ -3678,7 +3800,7 @@
         "url": "features/unarmored-movement-2"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3688,19 +3810,20 @@
       "unarmored_movement": 15
     },
     "label": "monk-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "purity-of-body",
@@ -3708,7 +3831,7 @@
         "url": "features/purity-of-body"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3718,21 +3841,22 @@
       "unarmored_movement": 20
     },
     "label": "monk-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3742,19 +3866,20 @@
       "unarmored_movement": 20
     },
     "label": "monk-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monk-ability-score-improvement-3",
@@ -3762,7 +3887,7 @@
         "url": "features/monk-ability-score-improvement-3"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3772,19 +3897,20 @@
       "unarmored_movement": 20
     },
     "label": "monk-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "tongue-of-the-sun-and-moon",
@@ -3792,7 +3918,7 @@
         "url": "features/tongue-of-the-sun-and-moon"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3802,19 +3928,20 @@
       "unarmored_movement": 20
     },
     "label": "monk-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "diamond-soul",
@@ -3822,7 +3949,7 @@
         "url": "features/diamond-soul"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3832,19 +3959,20 @@
       "unarmored_movement": 25
     },
     "label": "monk-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monk-timeless-body",
@@ -3852,7 +3980,7 @@
         "url": "features/monk-timeless-body"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3862,19 +3990,20 @@
       "unarmored_movement": 25
     },
     "label": "monk-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monk-ability-score-improvement-4",
@@ -3882,7 +4011,7 @@
         "url": "features/monk-ability-score-improvement-4"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3892,21 +4021,22 @@
       "unarmored_movement": 25
     },
     "label": "monk-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3916,19 +4046,20 @@
       "unarmored_movement": 25
     },
     "label": "monk-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "empty-body",
@@ -3936,7 +4067,7 @@
         "url": "features/empty-body"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3946,19 +4077,20 @@
       "unarmored_movement": 30
     },
     "label": "monk-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "monk-ability-score-improvement-5",
@@ -3966,7 +4098,7 @@
         "url": "features/monk-ability-score-improvement-5"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -3976,19 +4108,20 @@
       "unarmored_movement": 30
     },
     "label": "monk-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "perfect-self",
@@ -3996,7 +4129,7 @@
         "url": "features/perfect-self"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "martial_arts": {
         "dice_count": 1,
@@ -4006,19 +4139,20 @@
       "unarmored_movement": 30
     },
     "label": "monk-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/monk-20"
   },
   {
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "divine-sense",
@@ -4042,12 +4176,13 @@
       "aura_range": 0
     },
     "label": "paladin-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-1"
   },
   {
@@ -4084,19 +4219,20 @@
       "aura_range": 0
     },
     "label": "paladin-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-2"
   },
   {
     "level": 3,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "divine-health",
@@ -4130,19 +4266,20 @@
       "aura_range": 0
     },
     "label": "paladin-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "paladin-ability-score-improvement-1",
@@ -4161,19 +4298,20 @@
       "aura_range": 0
     },
     "label": "paladin-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "paladin-extra-attack",
@@ -4192,19 +4330,20 @@
       "aura_range": 0
     },
     "label": "paladin-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "aura-of-protection",
@@ -4223,20 +4362,21 @@
       "aura_range": 10
     },
     "label": "paladin-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spell_slots_level_1": 4,
       "spell_slots_level_2": 3,
@@ -4248,19 +4388,20 @@
       "aura_range": 10
     },
     "label": "paladin-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "paladin-ability-score-improvement-2",
@@ -4279,20 +4420,21 @@
       "aura_range": 10
     },
     "label": "paladin-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spell_slots_level_1": 4,
       "spell_slots_level_2": 3,
@@ -4304,19 +4446,20 @@
       "aura_range": 10
     },
     "label": "paladin-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "aura-of-courage",
@@ -4335,19 +4478,20 @@
       "aura_range": 10
     },
     "label": "paladin-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "improved-divine-smite",
@@ -4366,19 +4510,20 @@
       "aura_range": 10
     },
     "label": "paladin-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "paladin-ability-score-improvement-3",
@@ -4397,20 +4542,21 @@
       "aura_range": 10
     },
     "label": "paladin-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spell_slots_level_1": 4,
       "spell_slots_level_2": 3,
@@ -4422,19 +4568,20 @@
       "aura_range": 10
     },
     "label": "paladin-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "cleansing-touch",
@@ -4453,20 +4600,21 @@
       "aura_range": 10
     },
     "label": "paladin-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spell_slots_level_1": 4,
       "spell_slots_level_2": 3,
@@ -4478,19 +4626,20 @@
       "aura_range": 10
     },
     "label": "paladin-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "paladin-ability-score-improvement-4",
@@ -4509,20 +4658,21 @@
       "aura_range": 10
     },
     "label": "paladin-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spell_slots_level_1": 4,
       "spell_slots_level_2": 3,
@@ -4534,19 +4684,20 @@
       "aura_range": 10
     },
     "label": "paladin-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "aura-improvements",
@@ -4565,19 +4716,20 @@
       "aura_range": 30
     },
     "label": "paladin-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "paladin-ability-score-improvement-5",
@@ -4596,20 +4748,21 @@
       "aura_range": 30
     },
     "label": "paladin-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spell_slots_level_1": 4,
       "spell_slots_level_2": 3,
@@ -4621,19 +4774,20 @@
       "aura_range": 30
     },
     "label": "paladin-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/paladin-20"
   },
   {
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "favored-enemy-1-type",
@@ -4659,12 +4813,13 @@
       "favored_terrain": 1
     },
     "label": "ranger-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-1"
   },
   {
@@ -4698,19 +4853,20 @@
       "favored_terrain": 1
     },
     "label": "ranger-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-2"
   },
   {
     "level": 3,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "ranger-archetype",
@@ -4736,19 +4892,20 @@
       "favored_terrain": 1
     },
     "label": "ranger-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "ranger-ability-score-improvement-1",
@@ -4769,19 +4926,20 @@
       "favored_terrain": 1
     },
     "label": "ranger-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "ranger-extra-attack",
@@ -4802,19 +4960,20 @@
       "favored_terrain": 1
     },
     "label": "ranger-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "favored-enemy-2-types",
@@ -4840,20 +4999,21 @@
       "favored_terrain": 2
     },
     "label": "ranger-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spells_known": 5,
       "spell_slots_level_1": 4,
@@ -4867,19 +5027,20 @@
       "favored_terrain": 2
     },
     "label": "ranger-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "ranger-ability-score-improvement-2",
@@ -4905,20 +5066,21 @@
       "favored_terrain": 2
     },
     "label": "ranger-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spells_known": 6,
       "spell_slots_level_1": 4,
@@ -4932,19 +5094,20 @@
       "favored_terrain": 2
     },
     "label": "ranger-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "natural-explorer-3-terrain-types",
@@ -4970,20 +5133,21 @@
       "favored_terrain": 3
     },
     "label": "ranger-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spells_known": 7,
       "spell_slots_level_1": 4,
@@ -4997,19 +5161,20 @@
       "favored_terrain": 3
     },
     "label": "ranger-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "ranger-ability-score-improvement-3",
@@ -5030,20 +5195,21 @@
       "favored_terrain": 3
     },
     "label": "ranger-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spells_known": 8,
       "spell_slots_level_1": 4,
@@ -5057,19 +5223,20 @@
       "favored_terrain": 3
     },
     "label": "ranger-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "favored-enemy-3-enemies",
@@ -5095,20 +5262,21 @@
       "favored_terrain": 3
     },
     "label": "ranger-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spells_known": 9,
       "spell_slots_level_1": 4,
@@ -5122,19 +5290,20 @@
       "favored_terrain": 3
     },
     "label": "ranger-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "ranger-ability-score-improvement-4",
@@ -5155,20 +5324,21 @@
       "favored_terrain": 3
     },
     "label": "ranger-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "spells_known": 10,
       "spell_slots_level_1": 4,
@@ -5182,19 +5352,20 @@
       "favored_terrain": 3
     },
     "label": "ranger-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "feral-senses",
@@ -5215,19 +5386,20 @@
       "favored_terrain": 3
     },
     "label": "ranger-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "ranger-ability-score-improvement-5",
@@ -5248,19 +5420,20 @@
       "favored_terrain": 3
     },
     "label": "ranger-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "foe-slayer",
@@ -5281,12 +5454,13 @@
       "favored_terrain": 3
     },
     "label": "ranger-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/ranger-20"
   },
   {
@@ -5312,7 +5486,7 @@
         "url": "features/thieves-cant"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 1,
@@ -5320,19 +5494,20 @@
       }
     },
     "label": "rogue-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-1"
   },
   {
     "level": 2,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "cunning-action",
@@ -5340,7 +5515,7 @@
         "url": "features/cunning-action"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 1,
@@ -5348,19 +5523,20 @@
       }
     },
     "label": "rogue-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-2"
   },
   {
     "level": 3,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "roguish-archetype",
@@ -5368,7 +5544,7 @@
         "url": "features/roguish-archetype"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 2,
@@ -5376,19 +5552,20 @@
       }
     },
     "label": "rogue-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "rogue-ability-score-improvement-1",
@@ -5396,7 +5573,7 @@
         "url": "features/rogue-ability-score-improvement-1"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 2,
@@ -5404,19 +5581,20 @@
       }
     },
     "label": "rogue-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "uncanny-dodge",
@@ -5424,7 +5602,7 @@
         "url": "features/uncanny-dodge"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 3,
@@ -5432,12 +5610,13 @@
       }
     },
     "label": "rogue-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-5"
   },
   {
@@ -5451,8 +5630,8 @@
         "url": "features/rogue-choose-expertise-2"
       }
     ],
-    "features": [],
-    "spellcasting": {},
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 3,
@@ -5460,19 +5639,20 @@
       }
     },
     "label": "rogue-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "rogue-evasion",
@@ -5480,7 +5660,7 @@
         "url": "features/rogue-evasion"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 4,
@@ -5488,19 +5668,20 @@
       }
     },
     "label": "rogue-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "rogue-ability-score-improvement-2",
@@ -5508,7 +5689,7 @@
         "url": "features/rogue-ability-score-improvement-2"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 4,
@@ -5516,21 +5697,22 @@
       }
     },
     "label": "rogue-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 5,
@@ -5538,19 +5720,20 @@
       }
     },
     "label": "rogue-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "rogue-ability-score-improvement-3",
@@ -5558,7 +5741,7 @@
         "url": "features/rogue-ability-score-improvement-3"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 5,
@@ -5566,19 +5749,20 @@
       }
     },
     "label": "rogue-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "reliable-talent",
@@ -5586,7 +5770,7 @@
         "url": "features/reliable-talent"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 6,
@@ -5594,19 +5778,20 @@
       }
     },
     "label": "rogue-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 4,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "rogue-ability-score-improvement-4",
@@ -5614,7 +5799,7 @@
         "url": "features/rogue-ability-score-improvement-4"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 6,
@@ -5622,21 +5807,22 @@
       }
     },
     "label": "rogue-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 7,
@@ -5644,19 +5830,20 @@
       }
     },
     "label": "rogue-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "blindsense",
@@ -5664,7 +5851,7 @@
         "url": "features/blindsense"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 7,
@@ -5672,19 +5859,20 @@
       }
     },
     "label": "rogue-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "slippery-mind",
@@ -5692,7 +5880,7 @@
         "url": "features/slippery-mind"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 8,
@@ -5700,19 +5888,20 @@
       }
     },
     "label": "rogue-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 5,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "rogue-ability-score-improvement-5",
@@ -5720,7 +5909,7 @@
         "url": "features/rogue-ability-score-improvement-5"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 8,
@@ -5728,21 +5917,22 @@
       }
     },
     "label": "rogue-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 9,
@@ -5750,19 +5940,20 @@
       }
     },
     "label": "rogue-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "elusive",
@@ -5770,7 +5961,7 @@
         "url": "features/elusive"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 9,
@@ -5778,19 +5969,20 @@
       }
     },
     "label": "rogue-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 6,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "rogue-ability-score-improvement-6",
@@ -5798,7 +5990,7 @@
         "url": "features/rogue-ability-score-improvement-6"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 10,
@@ -5806,19 +5998,20 @@
       }
     },
     "label": "rogue-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "stroke-of-luck",
@@ -5826,7 +6019,7 @@
         "url": "features/stroke-of-luck"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
     "class_specific": {
       "sneak_attack": {
         "dice_count": 10,
@@ -5834,19 +6027,20 @@
       }
     },
     "label": "rogue-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/rogue-20"
   },
   {
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "spellcasting-sorcerer",
@@ -5878,19 +6072,20 @@
       "creating_spell_slots": []
     },
     "label": "sorcerer-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-1"
   },
   {
     "level": 2,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "font-of-magic",
@@ -5948,12 +6143,13 @@
       ]
     },
     "label": "sorcerer-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-2"
   },
   {
@@ -5967,7 +6163,7 @@
         "url": "features/choose-metamagic"
       }
     ],
-    "features": [],
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spells_known": 4,
@@ -6008,19 +6204,20 @@
       ]
     },
     "label": "sorcerer-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "sorcerer-ability-score-improvement-1",
@@ -6068,20 +6265,21 @@
       ]
     },
     "label": "sorcerer-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spells_known": 6,
@@ -6122,20 +6320,21 @@
       ]
     },
     "label": "sorcerer-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spells_known": 7,
@@ -6176,20 +6375,21 @@
       ]
     },
     "label": "sorcerer-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spells_known": 8,
@@ -6230,19 +6430,20 @@
       ]
     },
     "label": "sorcerer-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "sorcerer-ability-score-improvement-2",
@@ -6290,20 +6491,21 @@
       ]
     },
     "label": "sorcerer-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spells_known": 10,
@@ -6344,12 +6546,13 @@
       ]
     },
     "label": "sorcerer-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-9"
   },
   {
@@ -6363,7 +6566,7 @@
         "url": "features/choose-additional-metamagic-1"
       }
     ],
-    "features": [],
+    "features": null,
     "spellcasting": {
       "cantrips_known": 6,
       "spells_known": 11,
@@ -6404,20 +6607,21 @@
       ]
     },
     "label": "sorcerer-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 6,
       "spells_known": 12,
@@ -6458,19 +6662,20 @@
       ]
     },
     "label": "sorcerer-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "sorcerer-ability-score-improvement-3",
@@ -6518,20 +6723,21 @@
       ]
     },
     "label": "sorcerer-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 6,
       "spells_known": 13,
@@ -6572,20 +6778,21 @@
       ]
     },
     "label": "sorcerer-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 6,
       "spells_known": 13,
@@ -6626,20 +6833,21 @@
       ]
     },
     "label": "sorcerer-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 6,
       "spells_known": 14,
@@ -6680,19 +6888,20 @@
       ]
     },
     "label": "sorcerer-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "sorcerer-ability-score-improvement-4",
@@ -6740,12 +6949,13 @@
       ]
     },
     "label": "sorcerer-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-16"
   },
   {
@@ -6759,7 +6969,7 @@
         "url": "features/choose-additional-metamagic-2"
       }
     ],
-    "features": [],
+    "features": null,
     "spellcasting": {
       "cantrips_known": 6,
       "spells_known": 15,
@@ -6800,20 +7010,21 @@
       ]
     },
     "label": "sorcerer-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 6,
       "spells_known": 15,
@@ -6854,19 +7065,20 @@
       ]
     },
     "label": "sorcerer-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "sorcerer-ability-score-improvement-5",
@@ -6914,19 +7126,20 @@
       ]
     },
     "label": "sorcerer-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "sorcerous-restoration",
@@ -6974,19 +7187,20 @@
       ]
     },
     "label": "sorcerer-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/sorcerer-20"
   },
   {
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "otherworldly-patron",
@@ -7020,12 +7234,13 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-1"
   },
   {
@@ -7039,7 +7254,7 @@
         "url": "features/choose-eldritch-invocations"
       }
     ],
-    "features": [],
+    "features": null,
     "spellcasting": {
       "cantrips_known": 2,
       "spells_known": 3,
@@ -7061,12 +7276,13 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-2"
   },
   {
@@ -7080,7 +7296,7 @@
         "url": "features/choose-pact-boon"
       }
     ],
-    "features": [],
+    "features": null,
     "spellcasting": {
       "cantrips_known": 2,
       "spells_known": 4,
@@ -7102,19 +7318,20 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "warlock-ability-score-improvement-1",
@@ -7143,12 +7360,13 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-4"
   },
   {
@@ -7162,7 +7380,7 @@
         "url": "features/choose-additional-eldritch-invocation-1"
       }
     ],
-    "features": [],
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spells_known": 6,
@@ -7184,20 +7402,21 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spells_known": 7,
@@ -7219,12 +7438,13 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-6"
   },
   {
@@ -7238,7 +7458,7 @@
         "url": "features/choose-additional-eldritch-invocation-2"
       }
     ],
-    "features": [],
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spells_known": 8,
@@ -7260,19 +7480,20 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "warlock-ability-score-improvement-2",
@@ -7301,12 +7522,13 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-8"
   },
   {
@@ -7320,7 +7542,7 @@
         "url": "features/choose-additional-eldritch-invocation-3"
       }
     ],
-    "features": [],
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spells_known": 10,
@@ -7342,20 +7564,21 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spells_known": 10,
@@ -7377,19 +7600,20 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "mystic-arcanum-6th-level",
@@ -7418,12 +7642,13 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-11"
   },
   {
@@ -7465,19 +7690,20 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "mystic-arcanum-7th-level",
@@ -7506,20 +7732,21 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spells_known": 12,
@@ -7541,12 +7768,13 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-14"
   },
   {
@@ -7588,19 +7816,20 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "warlock-ability-score-improvement-4",
@@ -7629,19 +7858,20 @@
       "mystic_arcanum_level_9": 0
     },
     "label": "warlock-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "mystic-arcanum-9th-level",
@@ -7670,12 +7900,13 @@
       "mystic_arcanum_level_9": 1
     },
     "label": "warlock-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-17"
   },
   {
@@ -7689,7 +7920,7 @@
         "url": "features/choose-additional-eldritch-invocation-6"
       }
     ],
-    "features": [],
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spells_known": 14,
@@ -7711,19 +7942,20 @@
       "mystic_arcanum_level_9": 1
     },
     "label": "warlock-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "warlock-ability-score-improvement-5",
@@ -7752,12 +7984,13 @@
       "mystic_arcanum_level_9": 1
     },
     "label": "warlock-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-19"
   },
   {
@@ -7799,19 +8032,20 @@
       "mystic_arcanum_level_9": 1
     },
     "label": "warlock-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/warlock-20"
   },
   {
     "level": 1,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "spellcasting-wizard",
@@ -7840,19 +8074,20 @@
       "arcane_recovery_levels": 1
     },
     "label": "wizard-1",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-1"
   },
   {
     "level": 2,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "arcane-tradition",
@@ -7876,20 +8111,21 @@
       "arcane_recovery_levels": 1
     },
     "label": "wizard-2",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-2"
   },
   {
     "level": 3,
     "ability_score_bonuses": 0,
     "prof_bonus": 2,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 3,
       "spell_slots_level_1": 4,
@@ -7906,19 +8142,20 @@
       "arcane_recovery_levels": 2
     },
     "label": "wizard-3",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-3"
   },
   {
     "level": 4,
     "ability_score_bonuses": 1,
     "prof_bonus": 2,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "wizard-ability-score-improvement-1",
@@ -7942,20 +8179,21 @@
       "arcane_recovery_levels": 2
     },
     "label": "wizard-4",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-4"
   },
   {
     "level": 5,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -7972,20 +8210,21 @@
       "arcane_recovery_levels": 3
     },
     "label": "wizard-5",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-5"
   },
   {
     "level": 6,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -8002,20 +8241,21 @@
       "arcane_recovery_levels": 3
     },
     "label": "wizard-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-6"
   },
   {
     "level": 7,
     "ability_score_bonuses": 1,
     "prof_bonus": 3,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -8032,19 +8272,20 @@
       "arcane_recovery_levels": 4
     },
     "label": "wizard-7",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-7"
   },
   {
     "level": 8,
     "ability_score_bonuses": 2,
     "prof_bonus": 3,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "wizard-ability-score-improvement-2",
@@ -8068,20 +8309,21 @@
       "arcane_recovery_levels": 4
     },
     "label": "wizard-8",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-8"
   },
   {
     "level": 9,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 4,
       "spell_slots_level_1": 4,
@@ -8098,20 +8340,21 @@
       "arcane_recovery_levels": 5
     },
     "label": "wizard-9",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-9"
   },
   {
     "level": 10,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spell_slots_level_1": 4,
@@ -8128,20 +8371,21 @@
       "arcane_recovery_levels": 5
     },
     "label": "wizard-10",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-10"
   },
   {
     "level": 11,
     "ability_score_bonuses": 2,
     "prof_bonus": 4,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spell_slots_level_1": 4,
@@ -8158,19 +8402,20 @@
       "arcane_recovery_levels": 6
     },
     "label": "wizard-11",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-11"
   },
   {
     "level": 12,
     "ability_score_bonuses": 3,
     "prof_bonus": 4,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "wizard-ability-score-improvement-3",
@@ -8194,20 +8439,21 @@
       "arcane_recovery_levels": 6
     },
     "label": "wizard-12",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-12"
   },
   {
     "level": 13,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spell_slots_level_1": 4,
@@ -8224,20 +8470,21 @@
       "arcane_recovery_levels": 7
     },
     "label": "wizard-13",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-13"
   },
   {
     "level": 14,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spell_slots_level_1": 4,
@@ -8254,20 +8501,21 @@
       "arcane_recovery_levels": 7
     },
     "label": "wizard-14",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-14"
   },
   {
     "level": 15,
     "ability_score_bonuses": 3,
     "prof_bonus": 5,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spell_slots_level_1": 4,
@@ -8284,19 +8532,20 @@
       "arcane_recovery_levels": 8
     },
     "label": "wizard-15",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-15"
   },
   {
     "level": 16,
     "ability_score_bonuses": 4,
     "prof_bonus": 5,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "wizard-ability-score-improvement-4",
@@ -8320,20 +8569,21 @@
       "arcane_recovery_levels": 8
     },
     "label": "wizard-16",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-16"
   },
   {
     "level": 17,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
-    "features": [],
+    "feature_choices": null,
+    "features": null,
     "spellcasting": {
       "cantrips_known": 5,
       "spell_slots_level_1": 4,
@@ -8350,19 +8600,20 @@
       "arcane_recovery_levels": 9
     },
     "label": "wizard-17",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-17"
   },
   {
     "level": 18,
     "ability_score_bonuses": 4,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "spell-mastery",
@@ -8386,19 +8637,20 @@
       "arcane_recovery_levels": 9
     },
     "label": "wizard-18",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-18"
   },
   {
     "level": 19,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "wizard-ability-score-improvement-5",
@@ -8422,19 +8674,20 @@
       "arcane_recovery_levels": 10
     },
     "label": "wizard-19",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-19"
   },
   {
     "level": 20,
     "ability_score_bonuses": 5,
     "prof_bonus": 6,
-    "feature_choices": [],
+    "feature_choices": null,
     "features": [
       {
         "label": "signature-spell",
@@ -8458,17 +8711,20 @@
       "arcane_recovery_levels": 10
     },
     "label": "wizard-20",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {},
+    "subclass_association": null,
     "url": "levels/wizard-20"
   },
   {
     "level": 3,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "frenzy",
@@ -8476,13 +8732,15 @@
         "url": "features/frenzy"
       }
     ],
-    "spellcasting": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "berserker",
       "name": "Berserker",
       "url": "subclasses/berserker"
@@ -8492,7 +8750,9 @@
   },
   {
     "level": 6,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "mindless-rage",
@@ -8500,14 +8760,16 @@
         "url": "features/mindless-rage"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
+    "class_specific": null,
     "label": "berserker-6",
-    "class": {
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "berserker",
       "name": "Berserker",
       "url": "subclasses/berserker"
@@ -8516,7 +8778,9 @@
   },
   {
     "level": 10,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "intimidating-presence",
@@ -8524,13 +8788,15 @@
         "url": "features/intimidating-presence"
       }
     ],
-    "spellcasting": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "berserker",
       "name": "Berserker",
       "url": "subclasses/berserker"
@@ -8540,7 +8806,9 @@
   },
   {
     "level": 14,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "retaliation",
@@ -8548,13 +8816,15 @@
         "url": "features/retaliation"
       }
     ],
-    "spellcasting": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
       "url": "classes/barbarian"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "berserker",
       "name": "Berserker",
       "url": "subclasses/berserker"
@@ -8564,7 +8834,9 @@
   },
   {
     "level": 3,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "bonus-proficiencies",
@@ -8577,16 +8849,17 @@
         "url": "features/cutting-words"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
+    "class_specific": null,
     "subclass_specific": {
       "additional_magical_secrets_max_lvl": 0
     },
-    "class": {
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "lore",
       "name": "Lore",
       "url": "subclasses/lore"
@@ -8596,7 +8869,9 @@
   },
   {
     "level": 6,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "additional-magical-secrets",
@@ -8604,16 +8879,17 @@
         "url": "features/additional-magical-secrets"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
+    "class_specific": null,
     "subclass_specific": {
       "additional_magical_secrets_max_lvl": 3
     },
-    "class": {
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "lore",
       "name": "Lore",
       "url": "subclasses/lore"
@@ -8623,7 +8899,9 @@
   },
   {
     "level": 14,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "peerless-skill",
@@ -8631,16 +8909,17 @@
         "url": "features/peerless-skill"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
+    "class_specific": null,
     "subclass_specific": {
       "additional_magical_secrets_max_lvl": 3
     },
-    "class": {
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "lore",
       "name": "Lore",
       "url": "subclasses/lore"
@@ -8650,7 +8929,9 @@
   },
   {
     "level": 1,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "bonus-proficiency",
@@ -8663,14 +8944,15 @@
         "url": "features/disciple-of-life"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "life",
       "name": "Life",
       "url": "subclasses/life"
@@ -8680,7 +8962,9 @@
   },
   {
     "level": 2,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "channel-divinity-preserve-life",
@@ -8688,14 +8972,15 @@
         "url": "features/channel-divinity-preserve-life"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "life",
       "name": "Life",
       "url": "subclasses/life"
@@ -8705,7 +8990,9 @@
   },
   {
     "level": 6,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "blessed-healer",
@@ -8713,14 +9000,15 @@
         "url": "features/blessed-healer"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "life",
       "name": "Life",
       "url": "subclasses/life"
@@ -8730,7 +9018,9 @@
   },
   {
     "level": 8,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "divine-strike",
@@ -8738,14 +9028,15 @@
         "url": "features/divine-strike"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "life",
       "name": "Life",
       "url": "subclasses/life"
@@ -8755,7 +9046,9 @@
   },
   {
     "level": 17,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "supreme-healing",
@@ -8763,14 +9056,15 @@
         "url": "features/supreme-healing"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "life",
       "name": "Life",
       "url": "subclasses/life"
@@ -8780,7 +9074,9 @@
   },
   {
     "level": 2,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "bonus-cantrip",
@@ -8793,14 +9089,15 @@
         "url": "features/natural-recovery"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "land",
       "name": "Land",
       "url": "subclasses/land"
@@ -8810,7 +9107,9 @@
   },
   {
     "level": 6,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "druid-lands-stride",
@@ -8818,14 +9117,15 @@
         "url": "features/druid-lands-stride"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "land",
       "name": "Land",
       "url": "subclasses/land"
@@ -8835,7 +9135,9 @@
   },
   {
     "level": 10,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "natures-ward",
@@ -8843,14 +9145,15 @@
         "url": "features/natures-ward"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "land",
       "name": "Land",
       "url": "subclasses/land"
@@ -8860,7 +9163,9 @@
   },
   {
     "level": 14,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "natures-sanctuary",
@@ -8868,14 +9173,15 @@
         "url": "features/natures-sanctuary"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "land",
       "name": "Land",
       "url": "subclasses/land"
@@ -8885,7 +9191,9 @@
   },
   {
     "level": 3,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "improved-critical",
@@ -8893,14 +9201,15 @@
         "url": "features/improved-critical"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
@@ -8910,7 +9219,9 @@
   },
   {
     "level": 7,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "remarkable-athlete",
@@ -8918,14 +9229,15 @@
         "url": "features/remarkable-athlete"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
@@ -8935,6 +9247,8 @@
   },
   {
     "level": 10,
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
     "feature_choices": [
       {
         "label": "choose-additional-fighting-style",
@@ -8942,15 +9256,16 @@
         "url": "features/choose-additional-fighting-style"
       }
     ],
-    "features": [],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "features": null,
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
@@ -8960,7 +9275,9 @@
   },
   {
     "level": 15,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "superior-critical",
@@ -8968,14 +9285,15 @@
         "url": "features/superior-critical"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
@@ -8985,7 +9303,9 @@
   },
   {
     "level": 18,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "survivor",
@@ -8993,14 +9313,15 @@
         "url": "features/survivor"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "fighter",
       "name": "Fighter",
       "url": "classes/fighter"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "champion",
       "name": "Champion",
       "url": "subclasses/champion"
@@ -9010,7 +9331,9 @@
   },
   {
     "level": 3,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "open-hand-technique",
@@ -9018,14 +9341,15 @@
         "url": "features/open-hand-technique"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "open-hand",
       "name": "Open Hand",
       "url": "subclasses/open-hand"
@@ -9035,7 +9359,9 @@
   },
   {
     "level": 6,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "wholeness-of-body",
@@ -9043,14 +9369,15 @@
         "url": "features/wholeness-of-body"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "open-hand",
       "name": "Open Hand",
       "url": "subclasses/open-hand"
@@ -9060,7 +9387,9 @@
   },
   {
     "level": 11,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "tranquility",
@@ -9068,14 +9397,15 @@
         "url": "features/tranquility"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "open-hand",
       "name": "Open Hand",
       "url": "subclasses/open-hand"
@@ -9085,7 +9415,9 @@
   },
   {
     "level": 17,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "quivering-palm",
@@ -9093,14 +9425,15 @@
         "url": "features/quivering-palm"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "monk",
       "name": "Monk",
       "url": "classes/monk"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "open-hand",
       "name": "Open Hand",
       "url": "subclasses/open-hand"
@@ -9110,7 +9443,9 @@
   },
   {
     "level": 3,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "channel-divinity",
@@ -9118,14 +9453,15 @@
         "url": "features/channel-divinity"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
@@ -9135,7 +9471,9 @@
   },
   {
     "level": 7,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "aura-of-devotion",
@@ -9143,16 +9481,17 @@
         "url": "features/aura-of-devotion"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
+    "class_specific": null,
     "subclass_specific": {
       "aura_range": 10
     },
-    "class": {
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
@@ -9162,7 +9501,9 @@
   },
   {
     "level": 15,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "purity-of-spirit",
@@ -9170,16 +9511,17 @@
         "url": "features/purity-of-spirit"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
+    "class_specific": null,
     "subclass_specific": {
       "aura_range": 10
     },
-    "class": {
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
@@ -9189,18 +9531,21 @@
   },
   {
     "level": 18,
-    "feature_choices": [],
-    "features": [],
-    "spellcasting": {},
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
+    "features": null,
+    "spellcasting": null,
+    "class_specific": null,
     "subclass_specific": {
       "aura_range": 30
     },
-    "class": {
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
@@ -9210,7 +9555,9 @@
   },
   {
     "level": 20,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "holy-nimbus",
@@ -9218,16 +9565,17 @@
         "url": "features/holy-nimbus"
       }
     ],
-    "spellcasting": {},
+    "spellcasting": null,
+    "class_specific": null,
     "subclass_specific": {
       "aura_range": 30
     },
-    "class": {
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "devotion",
       "name": "Devotion",
       "url": "subclasses/devotion"
@@ -9237,6 +9585,8 @@
   },
   {
     "level": 3,
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
     "feature_choices": [
       {
         "label": "choose-hunters-prey",
@@ -9244,15 +9594,16 @@
         "url": "features/choose-hunters-prey"
       }
     ],
-    "features": [],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "features": null,
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "hunter",
       "name": "Hunter",
       "url": "subclasses/hunter"
@@ -9262,6 +9613,8 @@
   },
   {
     "level": 7,
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
     "feature_choices": [
       {
         "label": "choose-defensive-tactics",
@@ -9269,15 +9622,16 @@
         "url": "features/choose-defensive-tactics"
       }
     ],
-    "features": [],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "features": null,
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "hunter",
       "name": "Hunter",
       "url": "subclasses/hunter"
@@ -9287,6 +9641,8 @@
   },
   {
     "level": 11,
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
     "feature_choices": [
       {
         "label": "choose-multiattack",
@@ -9294,15 +9650,16 @@
         "url": "features/choose-multiattack"
       }
     ],
-    "features": [],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "features": null,
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "hunter",
       "name": "Hunter",
       "url": "subclasses/hunter"
@@ -9312,6 +9669,8 @@
   },
   {
     "level": 15,
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
     "feature_choices": [
       {
         "label": "choose-superior-hunters-defense",
@@ -9319,15 +9678,16 @@
         "url": "features/choose-superior-hunters-defense"
       }
     ],
-    "features": [],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "features": null,
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "hunter",
       "name": "Hunter",
       "url": "subclasses/hunter"
@@ -9337,7 +9697,9 @@
   },
   {
     "level": 3,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "fast-hands",
@@ -9350,14 +9712,15 @@
         "url": "features/second-story-work"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "thief",
       "name": "Thief",
       "url": "subclasses/thief"
@@ -9367,7 +9730,9 @@
   },
   {
     "level": 9,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "supreme-sneak",
@@ -9375,14 +9740,15 @@
         "url": "features/supreme-sneak"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "thief",
       "name": "Thief",
       "url": "subclasses/thief"
@@ -9392,7 +9758,9 @@
   },
   {
     "level": 13,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "use-magic-device",
@@ -9400,14 +9768,15 @@
         "url": "features/use-magic-device"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "thief",
       "name": "Thief",
       "url": "subclasses/thief"
@@ -9417,7 +9786,9 @@
   },
   {
     "level": 17,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "thiefs-reflexes",
@@ -9425,14 +9796,15 @@
         "url": "features/thiefs-reflexes"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "rogue",
       "name": "Rogue",
       "url": "classes/rogue"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "thief",
       "name": "Thief",
       "url": "subclasses/thief"
@@ -9442,6 +9814,8 @@
   },
   {
     "level": 1,
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
     "feature_choices": [
       {
         "label": "choose-dragon-ancestor",
@@ -9456,14 +9830,15 @@
         "url": "features/draconic-resilience"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "draconic",
       "name": "Draconic",
       "url": "subclasses/draconic"
@@ -9473,7 +9848,9 @@
   },
   {
     "level": 6,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "elemental-affinity",
@@ -9481,14 +9858,15 @@
         "url": "features/elemental-affinity"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "draconic",
       "name": "Draconic",
       "url": "subclasses/draconic"
@@ -9498,7 +9876,9 @@
   },
   {
     "level": 14,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "dragon-wings",
@@ -9506,14 +9886,15 @@
         "url": "features/dragon-wings"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "draconic",
       "name": "Draconic",
       "url": "subclasses/draconic"
@@ -9523,7 +9904,9 @@
   },
   {
     "level": 18,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "draconic-presence",
@@ -9531,14 +9914,15 @@
         "url": "features/draconic-presence"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "draconic",
       "name": "Draconic",
       "url": "subclasses/draconic"
@@ -9548,7 +9932,9 @@
   },
   {
     "level": 1,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "dark-ones-blessing",
@@ -9556,14 +9942,15 @@
         "url": "features/dark-ones-blessing"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "fiend",
       "name": "The Fiend",
       "url": "subclasses/fiend"
@@ -9573,7 +9960,9 @@
   },
   {
     "level": 6,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "dark-ones-own-luck",
@@ -9581,14 +9970,15 @@
         "url": "features/dark-ones-own-luck"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "fiend",
       "name": "The Fiend",
       "url": "subclasses/fiend"
@@ -9598,7 +9988,9 @@
   },
   {
     "level": 10,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "fiendish-resilience",
@@ -9606,14 +9998,15 @@
         "url": "features/fiendish-resilience"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "fiend",
       "name": "The Fiend",
       "url": "subclasses/fiend"
@@ -9623,7 +10016,9 @@
   },
   {
     "level": 14,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "hurl-through-hell",
@@ -9631,14 +10026,15 @@
         "url": "features/hurl-through-hell"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "fiend",
       "name": "Fiend",
       "url": "subclasses/fiend"
@@ -9648,7 +10044,9 @@
   },
   {
     "level": 2,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "evocation-savant",
@@ -9661,14 +10059,15 @@
         "url": "features/sculpt-spells"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "evocation",
       "name": "Evocation",
       "url": "subclasses/evocation"
@@ -9678,7 +10077,9 @@
   },
   {
     "level": 6,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "potent-cantrip",
@@ -9686,14 +10087,15 @@
         "url": "features/potent-cantrip"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "evocation",
       "name": "Evocation",
       "url": "subclasses/evocation"
@@ -9703,7 +10105,9 @@
   },
   {
     "level": 10,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "empowered-evocation",
@@ -9711,14 +10115,15 @@
         "url": "features/empowered-evocation"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "evocation",
       "name": "Evocation",
       "url": "subclasses/evocation"
@@ -9728,7 +10133,9 @@
   },
   {
     "level": 14,
-    "feature_choices": [],
+    "ability_score_bonuses": null,
+    "prof_bonus": null,
+    "feature_choices": null,
     "features": [
       {
         "label": "overchannel",
@@ -9736,14 +10143,15 @@
         "url": "features/overchannel"
       }
     ],
-    "spellcasting": {},
-    "subclass_specific": {},
-    "class": {
+    "spellcasting": null,
+    "class_specific": null,
+    "subclass_specific": null,
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"
     },
-    "subclass": {
+    "subclass_association": {
       "label": "evocation",
       "name": "Evocation",
       "url": "subclasses/evocation"

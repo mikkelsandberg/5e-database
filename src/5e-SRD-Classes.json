@@ -82,15 +82,15 @@
     ],
     "starting_equipment": "starting-equipment-items/barbarian",
     "class_levels": "classes/barbarian/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "berserker",
         "name": "Berserker",
         "url": "subclasses/berserker"
       }
     ],
-    "spellcasting": {},
-    "spells": "classes/barbarian/spells",
+    "spellcasting": null,
+    "spells": null,
     "url": "classes/barbarian"
   },
   {
@@ -297,7 +297,7 @@
     ],
     "starting_equipment": "starting-equipment-items/bard",
     "class_levels": "classes/bard/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "lore",
         "name": "Lore",
@@ -381,7 +381,7 @@
     ],
     "starting_equipment": "starting-equipment-items/cleric",
     "class_levels": "classes/cleric/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "life",
         "name": "Life",
@@ -530,7 +530,7 @@
     ],
     "starting_equipment": "starting-equipment-items/druid",
     "class_levels": "classes/druid/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "land",
         "name": "Land",
@@ -629,15 +629,15 @@
     ],
     "starting_equipment": "starting-equipment-items/fighter",
     "class_levels": "classes/fighter/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "champion",
         "name": "Champion",
         "url": "subclasses/champion"
       }
     ],
-    "spellcasting": {},
-    "spells": "classes/fighter/spells",
+    "spellcasting": null,
+    "spells": null,
     "url": "classes/fighter"
   },
   {
@@ -865,15 +865,15 @@
     ],
     "starting_equipment": "starting-equipment-items/monk",
     "class_levels": "classes/monk/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "open-hand",
         "name": "Open Hand",
         "url": "subclasses/open-hand"
       }
     ],
-    "spellcasting": {},
-    "spells": "classes/monk/spells",
+    "spellcasting": null,
+    "spells": null,
     "url": "classes/monk"
   },
   {
@@ -954,7 +954,7 @@
     ],
     "starting_equipment": "starting-equipment-items/paladin",
     "class_levels": "classes/paladin/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "devotion",
         "name": "Devotion",
@@ -1058,7 +1058,7 @@
     ],
     "starting_equipment": "starting-equipment-items/ranger",
     "class_levels": "classes/ranger/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "hunter",
         "name": "Hunter",
@@ -1187,15 +1187,15 @@
     ],
     "starting_equipment": "starting-equipment-items/rogue",
     "class_levels": "classes/rogue/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "thief",
         "name": "Thief",
         "url": "subclasses/thief"
       }
     ],
-    "spellcasting": {},
-    "spells": "classes/rogue/spells",
+    "spellcasting": null,
+    "spells": null,
     "url": "classes/rogue"
   },
   {
@@ -1276,7 +1276,7 @@
     ],
     "starting_equipment": "starting-equipment-items/sorcerer",
     "class_levels": "classes/sorcerer/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "draconic",
         "name": "Draconic",
@@ -1360,7 +1360,7 @@
     ],
     "starting_equipment": "starting-equipment-items/warlock",
     "class_levels": "classes/warlock/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "fiend",
         "name": "Fiend",
@@ -1449,7 +1449,7 @@
     ],
     "starting_equipment": "starting-equipment-items/wizard",
     "class_levels": "classes/wizard/levels",
-    "subclasses": [
+    "subclass_associations": [
       {
         "label": "evocation",
         "name": "Evocation",

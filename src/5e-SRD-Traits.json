@@ -1,7 +1,7 @@
 [
   {
     "label": "darkvision",
-    "races": [
+    "race_associations": [
       {
         "label": "dwarf",
         "name": "Dwarf",
@@ -28,7 +28,7 @@
         "url": "races/half-orc"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "hill-dwarf",
         "name": "Hill Dwarf",
@@ -53,14 +53,14 @@
   },
   {
     "label": "dwarven-resilience",
-    "races": [
+    "race_associations": [
       {
         "label": "dwarf",
         "name": "Dwarf",
         "url": "races/dwarf"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "hill-dwarf",
         "name": "Hill Dwarf",
@@ -75,14 +75,14 @@
   },
   {
     "label": "dwarven-combat-training",
-    "races": [
+    "race_associations": [
       {
         "label": "dwarf",
         "name": "Dwarf",
         "url": "races/dwarf"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "hill-dwarf",
         "name": "Hill Dwarf",
@@ -97,14 +97,14 @@
   },
   {
     "label": "stonecunning",
-    "races": [
+    "race_associations": [
       {
         "label": "dwarf",
         "name": "Dwarf",
         "url": "races/dwarf"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "hill-dwarf",
         "name": "Hill Dwarf",
@@ -119,8 +119,8 @@
   },
   {
     "label": "dwarven-toughness",
-    "races": [],
-    "subraces": [
+    "race_associations": null,
+    "subrace_associations": [
       {
         "label": "hill-dwarf",
         "name": "Hill Dwarf",
@@ -135,14 +135,14 @@
   },
   {
     "label": "keen-senses",
-    "races": [
+    "race_associations": [
       {
         "label": "elf",
         "name": "Elf",
         "url": "races/elf"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -157,7 +157,7 @@
   },
   {
     "label": "fey-ancestry",
-    "races": [
+    "race_associations": [
       {
         "label": "elf",
         "name": "Elf",
@@ -169,7 +169,7 @@
         "url": "races/half-elf"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -184,14 +184,14 @@
   },
   {
     "label": "trance",
-    "races": [
+    "race_associations": [
       {
         "label": "elf",
         "name": "Elf",
         "url": "races/elf"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -206,14 +206,14 @@
   },
   {
     "label": "elf-weapon-training",
-    "races": [
+    "race_associations": [
       {
         "label": "elf",
         "name": "Elf",
         "url": "races/elf"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -228,8 +228,8 @@
   },
   {
     "label": "high-elf-cantrip",
-    "races": [],
-    "subraces": [
+    "race_associations": null,
+    "subrace_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -244,8 +244,8 @@
   },
   {
     "label": "extra-language",
-    "races": [],
-    "subraces": [
+    "race_associations": null,
+    "subrace_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -260,14 +260,14 @@
   },
   {
     "label": "lucky",
-    "races": [
+    "race_associations": [
       {
         "label": "halfling",
         "name": "Halfling",
         "url": "races/halfling"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "lightfoot-halfling",
         "name": "Lightfoot Halfling",
@@ -282,14 +282,14 @@
   },
   {
     "label": "brave",
-    "races": [
+    "race_associations": [
       {
         "label": "halfling",
         "name": "Halfling",
         "url": "races/halfling"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "lightfoot-halfling",
         "name": "Lightfoot Halfling",
@@ -304,14 +304,14 @@
   },
   {
     "label": "halfling-nimbleness",
-    "races": [
+    "race_associations": [
       {
         "label": "halfling",
         "name": "Halfling",
         "url": "races/halfling"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "lightfoot-halfling",
         "name": "Lightfoot Halfling",
@@ -326,8 +326,8 @@
   },
   {
     "label": "naturally-stealthy",
-    "races": [],
-    "subraces": [
+    "race_associations": null,
+    "subrace_associations": [
       {
         "label": "lightfoot-halfling",
         "name": "Lightfoot Halfling",
@@ -342,14 +342,14 @@
   },
   {
     "label": "draconic-ancestry",
-    "races": [
+    "race_associations": [
       {
         "label": "dragonborn",
         "name": "Dragonborn",
         "url": "races/dragonborn"
       }
     ],
-    "subraces": [],
+    "subrace_associations": null,
     "name": "Draconic Ancestry",
     "desc": [
       "You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
@@ -358,14 +358,14 @@
   },
   {
     "label": "breath-weapon",
-    "races": [
+    "race_associations": [
       {
         "label": "dragonborn",
         "name": "Dragonborn",
         "url": "races/dragonborn"
       }
     ],
-    "subraces": [],
+    "subrace_associations": null,
     "name": "Breath Weapon",
     "desc": [
       "You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.",
@@ -376,14 +376,14 @@
   },
   {
     "label": "damage-resistance",
-    "races": [
+    "race_associations": [
       {
         "label": "dragonborn",
         "name": "Dragonborn",
         "url": "races/dragonborn"
       }
     ],
-    "subraces": [],
+    "subrace_associations": null,
     "name": "Damage Resistance",
     "desc": [
       "You have resistance to the damage type associated with your draconic ancestry."
@@ -392,14 +392,14 @@
   },
   {
     "label": "gnome-cunning",
-    "races": [
+    "race_associations": [
       {
         "label": "gnome",
         "name": "Gnome",
         "url": "races/gnome"
       }
     ],
-    "subraces": [
+    "subrace_associations": [
       {
         "label": "rock-gnome",
         "name": "Rock Gnome",
@@ -414,8 +414,8 @@
   },
   {
     "label": "artificers-lore",
-    "races": [],
-    "subraces": [
+    "race_associations": null,
+    "subrace_associations": [
       {
         "label": "rock-gnome",
         "name": "Rock Gnome",
@@ -430,8 +430,8 @@
   },
   {
     "label": "tinker",
-    "races": [],
-    "subraces": [
+    "race_associations": null,
+    "subrace_associations": [
       {
         "label": "rock-gnome",
         "name": "Rock Gnome",
@@ -450,14 +450,14 @@
   },
   {
     "label": "skill-versatility",
-    "races": [
+    "race_associations": [
       {
         "label": "half-elf",
         "name": "Half-Elf",
         "url": "races/half-elf"
       }
     ],
-    "subraces": [],
+    "subrace_associations": null,
     "name": "Skill Versatility",
     "desc": [
       "You gain proficiency in two skills of your choice."
@@ -466,14 +466,14 @@
   },
   {
     "label": "menacing",
-    "races": [
+    "race_associations": [
       {
         "label": "half-orc",
         "name": "Half-Orc",
         "url": "races/half-orc"
       }
     ],
-    "subraces": [],
+    "subrace_associations": null,
     "name": "Menacing",
     "desc": [
       "You gain proficiency in the Intimidation skill."
@@ -482,14 +482,14 @@
   },
   {
     "label": "relentless-endurance",
-    "races": [
+    "race_associations": [
       {
         "label": "half-orc",
         "name": "Half-Orc",
         "url": "races/half-orc"
       }
     ],
-    "subraces": [],
+    "subrace_associations": null,
     "name": "Relentless Endurance",
     "desc": [
       "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. you cannot use this feature again until you finish a long rest."
@@ -498,14 +498,14 @@
   },
   {
     "label": "savage-attacks",
-    "races": [
+    "race_associations": [
       {
         "label": "half-orc",
         "name": "Half-Orc",
         "url": "races/half-orc"
       }
     ],
-    "subraces": [],
+    "subrace_associations": null,
     "name": "Savage Attacks",
     "desc": [
       "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
@@ -514,14 +514,14 @@
   },
   {
     "label": "hellish-resistance",
-    "races": [
+    "race_associations": [
       {
         "label": "tiefling",
         "name": "Tiefling",
         "url": "races/tiefling"
       }
     ],
-    "subraces": [],
+    "subrace_associations": null,
     "name": "Hellish Resistance",
     "desc": [
       "You have resistance to fire damage."
@@ -530,14 +530,14 @@
   },
   {
     "label": "infernal-legacy",
-    "races": [
+    "race_associations": [
       {
         "label": "tiefling",
         "name": "Tiefling",
         "url": "races/tiefling"
       }
     ],
-    "subraces": [],
+    "subrace_associations": null,
     "name": "Infernal Legacy",
     "desc": [
       "You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5h level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
