@@ -9459,7 +9459,7 @@
             "name": "CHA",
             "url": "ability-scores/cha"
           },
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Magic",
@@ -10193,7 +10193,7 @@
             "url": "ability-scores/int"
           },
           "dc": 11,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Nondetection",
@@ -10542,7 +10542,7 @@
           },
           "dc": 17,
           "modifier": 9,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Evil and Good",
@@ -11217,7 +11217,7 @@
             "url": "ability-scores/wis"
           },
           "dc": 13,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Entangle",
@@ -11464,7 +11464,7 @@
           },
           "dc": 11,
           "modifier": 0,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Dancing Lights",
@@ -11596,7 +11596,7 @@
             "url": "ability-scores/cha"
           },
           "dc": 14,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Druidcraft",
@@ -12141,7 +12141,7 @@
           },
           "dc": 15,
           "modifier": 7,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Magic",
@@ -14233,7 +14233,7 @@
             "url": "ability-scores/int"
           },
           "dc": 16,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Darkness",
@@ -15186,7 +15186,7 @@
             "url": "ability-scores/cha"
           },
           "dc": 12,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Dancing Lights",
@@ -17568,7 +17568,7 @@
             "name": "CHA",
             "url": "ability-scores/cha"
           },
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Fog Cloud",
@@ -18493,7 +18493,7 @@
             "url": "ability-scores/cha"
           },
           "dc": 13,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Major Image",
@@ -21314,7 +21314,7 @@
           },
           "dc": 14,
           "modifier": 6,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Magic",
@@ -21875,7 +21875,7 @@
             "url": "ability-scores/cha"
           },
           "dc": 13,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Darkness",
@@ -22535,7 +22535,7 @@
             "url": "ability-scores/cha"
           },
           "dc": 21,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Magic",
@@ -22779,7 +22779,7 @@
             "url": "ability-scores/cha"
           },
           "dc": 20,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Evil and Good",
@@ -23412,7 +23412,7 @@
           },
           "dc": 18,
           "modifier": 10,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Thoughts",
@@ -25558,7 +25558,7 @@
             "url": "ability-scores/cha"
           },
           "dc": 25,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Evil and Good",
@@ -26782,7 +26782,7 @@
             "url": "ability-scores/cha"
           },
           "dc": 17,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Magic",
@@ -27836,7 +27836,7 @@
             "url": "ability-scores/cha"
           },
           "dc": 14,
-          "components_required": [],
+          "components_required": null,
           "spells": [
             {
               "name": "Detect Evil and Good",
