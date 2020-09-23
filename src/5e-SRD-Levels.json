@@ -6069,7 +6069,7 @@
     "class_specific": {
       "sorcery_points": 0,
       "metamagic_known": 0,
-      "creating_spell_slots": []
+      "creating_spell_slots": null
     },
     "label": "sorcerer-1",
     "subclass_specific": null,

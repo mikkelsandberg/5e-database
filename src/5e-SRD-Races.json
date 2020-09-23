@@ -534,7 +534,7 @@
         "url": "traits/gnome-cunning"
       }
     ],
-    "trait_options": {},
+    "trait_options": null,
     "subrace_associations": [
       {
         "label": "rock-gnome",
@@ -704,7 +704,7 @@
         "url": "traits/skill-versatility"
       }
     ],
-    "trait_options": {},
+    "trait_options": null,
     "subrace_associations": null,
     "url": "races/half-elf"
   },
@@ -770,7 +770,7 @@
         "url": "traits/relentless-endurance"
       }
     ],
-    "trait_options": {},
+    "trait_options": null,
     "subrace_associations": null,
     "url": "races/half-orc"
   },
@@ -830,7 +830,7 @@
         "url": "traits/infernal-legacy"
       }
     ],
-    "trait_options": {},
+    "trait_options": null,
     "subrace_associations": null,
     "url": "races/tiefling"
   }
