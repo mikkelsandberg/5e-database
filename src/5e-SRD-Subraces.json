@@ -2,12 +2,14 @@
   {
     "label": "hill-dwarf",
     "name": "Hill Dwarf",
-    "race": {
+    "race_association": {
       "label": "dwarf",
       "name": "Dwarf",
       "url": "races/dwarf"
     },
-    "desc": "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.",
+    "desc": [
+      "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience."
+    ],
     "ability_bonuses": [
       {
         "label": "wis",
@@ -16,11 +18,9 @@
         "url": "ability-scores/wis"
       }
     ],
-    "ability_bonus_options": {},
-    "starting_proficiencies": [],
-    "starting_proficiency_options": {},
-    "languages": [],
-    "language_options": {},
+    "starting_proficiencies": null,
+    "languages": null,
+    "language_options": null,
     "racial_traits": [
       {
         "label": "dwarven-toughness",
@@ -28,18 +28,20 @@
         "url": "traits/dwarven-toughness"
       }
     ],
-    "racial_trait_options": {},
+    "racial_trait_options": null,
     "url": "subraces/hill-dwarf"
   },
   {
     "label": "high-elf",
     "name": "High Elf",
-    "race": {
+    "race_association": {
       "label": "elf",
       "name": "Elf",
       "url": "races/elf"
     },
-    "desc": "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races.",
+    "desc": [
+      "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races."
+    ],
     "ability_bonuses": [
       {
         "label": "int",
@@ -48,7 +50,6 @@
         "url": "ability-scores/int"
       }
     ],
-    "ability_bonus_options": {},
     "starting_proficiencies": [
       {
         "label": "longswords",
@@ -71,8 +72,7 @@
         "url": "proficiencies/longbows"
       }
     ],
-    "starting_proficiency_options": {},
-    "languages": [],
+    "languages": null,
     "language_options": {
       "choose": 1,
       "from": [
@@ -149,7 +149,7 @@
       ],
       "type": "language"
     },
-    "racial_traits": [],
+    "racial_traits": null,
     "racial_trait_options": {
       "choose": 1,
       "from": [
@@ -221,12 +221,14 @@
   {
     "label": "lightfoot-halfling",
     "name": "Lightfoot Halfling",
-    "race": {
+    "race_association": {
       "label": "halfling",
       "name": "Halfling",
       "url": "races/halfling"
     },
-    "desc": "As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.",
+    "desc": [
+      "As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life."
+    ],
     "ability_bonuses": [
       {
         "label": "cha",
@@ -235,11 +237,9 @@
         "url": "ability-scores/cha"
       }
     ],
-    "ability_bonus_options": {},
-    "starting_proficiencies": [],
-    "starting_proficiency_options": {},
-    "languages": [],
-    "language_options": {},
+    "starting_proficiencies": null,
+    "languages": null,
+    "language_options": null,
     "racial_traits": [
       {
         "label": "naturally-stealthy",
@@ -247,18 +247,18 @@
         "url": "traits/naturally-stealthy"
       }
     ],
-    "racial_trait_options": {},
+    "racial_trait_options": null,
     "url": "subraces/lightfoot-halfling"
   },
   {
     "label": "rock-gnome",
     "name": "Rock Gnome",
-    "race": {
+    "race_association": {
       "label": "gnome",
       "name": "Gnome",
       "url": "races/gnome"
     },
-    "desc": "As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.",
+    "desc": ["As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes."],
     "ability_bonuses": [
       {
         "label": "con",
@@ -267,8 +267,7 @@
         "url": "ability-scores/con"
       }
     ],
-    "starting_proficiencies": [],
-    "starting_proficiency_options": {},
+    "starting_proficiencies": null,
     "languages": [
       {
         "label": "common",
@@ -281,7 +280,7 @@
         "url": "languages/gnomish"
       }
     ],
-    "language_options": {},
+    "language_options": null,
     "racial_traits": [
       {
         "label": "artificers-lore",
@@ -294,7 +293,7 @@
         "url": "traits/tinker"
       }
     ],
-    "racial_trait_options": {},
+    "racial_trait_options": null,
     "url": "subraces/rock-gnome"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "label": "bard",
-    "class": {
+    "class_association": {
       "label": "bard",
       "name": "Bard",
       "url": "classes/bard"
@@ -60,7 +60,7 @@
   },
   {
     "label": "cleric",
-    "class": {
+    "class_association": {
       "label": "cleric",
       "name": "Cleric",
       "url": "classes/cleric"
@@ -112,7 +112,7 @@
   },
   {
     "label": "druid",
-    "class": {
+    "class_association": {
       "label": "druid",
       "name": "Druid",
       "url": "classes/druid"
@@ -162,7 +162,7 @@
   },
   {
     "label": "paladin",
-    "class": {
+    "class_association": {
       "label": "paladin",
       "name": "Paladin",
       "url": "classes/paladin"
@@ -200,7 +200,7 @@
   },
   {
     "label": "ranger",
-    "class": {
+    "class_association": {
       "label": "ranger",
       "name": "Ranger",
       "url": "classes/ranger"
@@ -238,7 +238,7 @@
   },
   {
     "label": "sorcerer",
-    "class": {
+    "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
       "url": "classes/sorcerer"
@@ -288,7 +288,7 @@
   },
   {
     "label": "warlock",
-    "class": {
+    "class_association": {
       "label": "warlock",
       "name": "Warlock",
       "url": "classes/warlock"
@@ -339,7 +339,7 @@
   },
   {
     "label": "wizard",
-    "class": {
+    "class_association": {
       "label": "wizard",
       "name": "Wizard",
       "url": "classes/wizard"

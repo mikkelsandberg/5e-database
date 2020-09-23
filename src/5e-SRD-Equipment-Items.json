@@ -39,6 +39,21 @@
         "url": "weapon-traits/monk"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/club"
   },
   {
@@ -95,6 +110,20 @@
       "normal": 20,
       "long": 60
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/dagger"
   },
   {
@@ -132,6 +161,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/greatclub"
   },
   {
@@ -183,6 +227,20 @@
       "normal": 20,
       "long": 60
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/handaxe"
   },
   {
@@ -229,6 +287,20 @@
       "normal": 30,
       "long": 120
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/javelin"
   },
   {
@@ -280,6 +352,20 @@
       "normal": 20,
       "long": 60
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/light-hammer"
   },
   {
@@ -317,6 +403,21 @@
         "url": "weapon-traits/monk"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/mace"
   },
   {
@@ -359,7 +460,7 @@
         "url": "weapon-traits/monk"
       }
     ],
-    "2h_damage": {
+    "two_handed_damage": {
       "damage_dice": "1d8",
       "damage_type": {
         "label": "bludgeoning",
@@ -367,6 +468,20 @@
         "url": "damage-types/bludgeoning"
       }
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "vehicle_category": null,
     "url": "equipment-items/quarterstaff"
   },
   {
@@ -409,6 +524,21 @@
         "url": "weapon-traits/monk"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/sickle"
   },
   {
@@ -460,7 +590,7 @@
       "normal": 20,
       "long": 60
     },
-    "2h_damage": {
+    "two_handed_damage": {
       "damage_dice": "1d8",
       "damage_type": {
         "label": "piercing",
@@ -468,6 +598,19 @@
         "url": "damage-types/piercing"
       }
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "tool_category": null,
+    "vehicle_category": null,
     "url": "equipment-items/spear"
   },
   {
@@ -515,6 +658,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/crossbow-light"
   },
   {
@@ -561,6 +719,20 @@
       "normal": 20,
       "long": 60
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/dart"
   },
   {
@@ -603,6 +775,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/shortbow"
   },
   {
@@ -640,6 +827,21 @@
         "url": "weapon-traits/ammunition"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/sling"
   },
   {
@@ -677,7 +879,7 @@
         "url": "weapon-traits/versatile"
       }
     ],
-    "2h_damage": {
+    "two_handed_damage": {
       "damage_dice": "1d10",
       "damage_type": {
         "label": "slashing",
@@ -685,6 +887,20 @@
         "url": "damage-types/slashing"
       }
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "vehicle_category": null,
     "url": "equipment-items/battleaxe"
   },
   {
@@ -715,7 +931,22 @@
       "long": null
     },
     "weight": 2,
-    "properties": [],
+    "properties": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/flail"
   },
   {
@@ -763,6 +994,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/glaive"
   },
   {
@@ -805,6 +1051,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/greataxe"
   },
   {
@@ -847,6 +1108,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/greatsword"
   },
   {
@@ -894,6 +1170,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/halberd"
   },
   {
@@ -939,6 +1230,20 @@
     "special": [
       "You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted."
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/lance"
   },
   {
@@ -976,7 +1281,7 @@
         "url": "weapon-traits/versatile"
       }
     ],
-    "2h_damage": {
+    "two_handed_damage": {
       "damage_dice": "1d10",
       "damage_type": {
         "label": "slashing",
@@ -984,6 +1289,20 @@
         "url": "damage-types/slashing"
       }
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "vehicle_category": null,
     "url": "equipment-items/longsword"
   },
   {
@@ -1026,6 +1345,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/maul"
   },
   {
@@ -1056,7 +1390,22 @@
       "long": null
     },
     "weight": 4,
-    "properties": [],
+    "properties": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/morningstar"
   },
   {
@@ -1104,6 +1453,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/pike"
   },
   {
@@ -1141,6 +1505,21 @@
         "url": "weapon-traits/finesse"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/rapier"
   },
   {
@@ -1183,6 +1562,21 @@
         "url": "weapon-traits/light"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/scimitar"
   },
   {
@@ -1230,6 +1624,21 @@
         "url": "weapon-traits/monk"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/shortsword"
   },
   {
@@ -1276,7 +1685,7 @@
       "normal": 20,
       "long": 60
     },
-    "2h_damage": {
+    "two_handed_damage": {
       "damage_dice": "1d8",
       "damage_type": {
         "label": "piercing",
@@ -1284,6 +1693,19 @@
         "url": "damage-types/piercing"
       }
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "tool_category": null,
+    "vehicle_category": null,
     "url": "equipment-items/trident"
   },
   {
@@ -1314,7 +1736,22 @@
       "long": null
     },
     "weight": 2,
-    "properties": [],
+    "properties": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/war-pick"
   },
   {
@@ -1352,7 +1789,7 @@
         "url": "weapon-traits/versatile"
       }
     ],
-    "2h_damage": {
+    "two_handed_damage": {
       "damage_dice": "1d10",
       "damage_type": {
         "label": "bludgeoning",
@@ -1360,6 +1797,20 @@
         "url": "damage-types/bludgeoning"
       }
     },
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "vehicle_category": null,
     "url": "equipment-items/warhammer"
   },
   {
@@ -1402,6 +1853,21 @@
         "url": "weapon-traits/reach"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/whip"
   },
   {
@@ -1444,6 +1910,21 @@
         "url": "weapon-traits/loading"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/blowgun"
   },
   {
@@ -1491,6 +1972,21 @@
         "url": "weapon-traits/loading"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/crossbow-hand"
   },
   {
@@ -1543,6 +2039,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/crossbow-heavy"
   },
   {
@@ -1590,6 +2101,21 @@
         "url": "weapon-traits/two-handed"
       }
     ],
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/longbow"
   },
   {
@@ -1631,6 +2157,20 @@
       "normal": 5,
       "long": 15
     },
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/net"
   },
   {
@@ -1650,10 +2190,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": true,
     "weight": 8,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/padded"
   },
   {
@@ -1673,10 +2230,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": false,
     "weight": 10,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/leather"
   },
   {
@@ -1696,10 +2270,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": false,
     "weight": 13,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 45,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/studded-leather"
   },
   {
@@ -1719,10 +2310,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": false,
     "weight": 12,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/hide"
   },
   {
@@ -1742,10 +2350,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": false,
     "weight": 20,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/chain-shirt"
   },
   {
@@ -1765,10 +2390,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": true,
     "weight": 45,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/scale-mail"
   },
   {
@@ -1788,10 +2430,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": false,
     "weight": 20,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 400,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/breastplate"
   },
   {
@@ -1811,10 +2470,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": true,
     "weight": 40,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 750,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/half-plate"
   },
   {
@@ -1834,10 +2510,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": true,
     "weight": 40,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 30,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/ring-mail"
   },
   {
@@ -1857,10 +2550,27 @@
     "str_minimum": 13,
     "stealth_disadvantage": true,
     "weight": 55,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 75,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/chain-mail"
   },
   {
@@ -1880,10 +2590,27 @@
     "str_minimum": 15,
     "stealth_disadvantage": true,
     "weight": 60,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 200,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/splint"
   },
   {
@@ -1903,10 +2630,27 @@
     "str_minimum": 15,
     "stealth_disadvantage": true,
     "weight": 65,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1500,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/plate"
   },
   {
@@ -1926,10 +2670,27 @@
     "str_minimum": 0,
     "stealth_disadvantage": false,
     "weight": 6,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
     },
+    "properties": null,
+    "damage": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/shield"
   },
   {
@@ -1945,11 +2706,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 2,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/abacus"
   },
   {
@@ -1965,6 +2746,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -1974,6 +2758,22 @@
       "As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon.",
       "On a hit, the target takes 2d6 acid damage."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/acid-vial"
   },
   {
@@ -1989,6 +2789,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -1999,6 +2802,22 @@
       "On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames."
     ],
     "weight": 1,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/alchemists-fire-flask"
   },
   {
@@ -2015,11 +2834,30 @@
       "url": "equipment-types/ammunition"
     },
     "quantity": 20,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
     },
     "weight": 1,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/arrow"
   },
   {
@@ -2036,11 +2874,30 @@
       "url": "equipment-types/ammunition"
     },
     "quantity": 50,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
     },
     "weight": 1,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/blowgun-needle"
   },
   {
@@ -2057,11 +2914,30 @@
       "url": "equipment-types/ammunition"
     },
     "quantity": 20,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
     },
     "weight": 1.5,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/crossbow-bolt"
   },
   {
@@ -2078,11 +2954,30 @@
       "url": "equipment-types/ammunition"
     },
     "quantity": 20,
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 4,
       "unit": "cp"
     },
     "weight": 1.5,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/sling-bullet"
   },
   {
@@ -2098,6 +2993,9 @@
       "name": "Holy Symbols",
       "url": "equipment-types/holy-symbols"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -2107,6 +3005,22 @@
       "A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic.",
       "Appendix B lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/amulet"
   },
   {
@@ -2122,6 +3036,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -2130,6 +3047,22 @@
     "desc": [
       "A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/antitoxin-vial"
   },
   {
@@ -2145,6 +3078,9 @@
       "name": "Arcane Foci",
       "url": "equipment-types/arcane-foci"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -2153,6 +3089,22 @@
     "desc": [
       "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/crystal"
   },
   {
@@ -2168,6 +3120,9 @@
       "name": "Arcane Foci",
       "url": "equipment-types/arcane-foci"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 20,
       "unit": "gp"
@@ -2176,6 +3131,22 @@
     "desc": [
       "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/orb"
   },
   {
@@ -2191,6 +3162,9 @@
       "name": "Arcane Foci",
       "url": "equipment-types/arcane-foci"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -2199,6 +3173,22 @@
     "desc": [
       "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/rod"
   },
   {
@@ -2214,6 +3204,9 @@
       "name": "Arcane Foci",
       "url": "equipment-types/arcane-foci"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -2222,6 +3215,22 @@
     "desc": [
       "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/staff"
   },
   {
@@ -2237,6 +3246,9 @@
       "name": "Arcane Foci",
       "url": "equipment-types/arcane-foci"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -2245,6 +3257,22 @@
     "desc": [
       "An arcane focus is a special item--an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item--designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/wand"
   },
   {
@@ -2260,11 +3288,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 5,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/backpack"
   },
   {
@@ -2280,6 +3328,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -2290,6 +3341,22 @@
       "A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone.",
       "A creature moving through the area at half speed doesn't need to make the save."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/ball-bearings-bag-of-1000"
   },
   {
@@ -2305,11 +3372,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 70,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/barrel"
   },
   {
@@ -2325,11 +3412,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 4,
       "unit": "sp"
     },
     "weight": 2,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/basket"
   },
   {
@@ -2345,11 +3452,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
     },
     "weight": 7,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/bedroll"
   },
   {
@@ -2365,11 +3492,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/bell"
   },
   {
@@ -2385,11 +3532,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "sp"
     },
     "weight": 3,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/blanket"
   },
   {
@@ -2405,6 +3572,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -2413,6 +3583,22 @@
     "desc": [
       "A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/block-and-tackle"
   },
   {
@@ -2428,6 +3614,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -2436,6 +3625,22 @@
     "desc": [
       "A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section)."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/book"
   },
   {
@@ -2451,11 +3656,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 2,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/bottle-glass"
   },
   {
@@ -2471,11 +3696,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "cp"
     },
     "weight": 2,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/bucket"
   },
   {
@@ -2491,6 +3736,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "cp"
@@ -2502,6 +3750,22 @@
       "Taking this damage reduces the creature's walking speed by 10 feet until the creature regains at least 1 hit point.",
       "A creature moving through the area at half speed doesn't need to make the save."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/caltrops"
   },
   {
@@ -2517,6 +3781,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "cp"
@@ -2525,6 +3792,22 @@
     "desc": [
       "For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/candle"
   },
   {
@@ -2540,6 +3823,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -2548,6 +3834,22 @@
     "desc": [
       "This wooden case can hold up to twenty crossbow bolts."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/case-crossbow-bolt"
   },
   {
@@ -2563,6 +3865,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -2571,6 +3876,22 @@
     "desc": [
       "This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/case-map-or-scroll"
   },
   {
@@ -2586,6 +3907,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -2594,6 +3918,22 @@
     "desc": [
       "A chain has 10 hit points. It can be burst with a successful DC 20 Strength check."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/chain-10-feet"
   },
   {
@@ -2609,11 +3949,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "cp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/chalk-1-piece"
   },
   {
@@ -2629,11 +3989,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
     },
     "weight": 25,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/chest"
   },
   {
@@ -2649,11 +4029,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "sp"
     },
     "weight": 3,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/clothes-common"
   },
   {
@@ -2669,11 +4069,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
     },
     "weight": 4,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/clothes-costume"
   },
   {
@@ -2689,11 +4109,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 15,
       "unit": "gp"
     },
     "weight": 6,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/clothes-fine"
   },
   {
@@ -2709,11 +4149,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 4,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/clothes-travelers"
   },
   {
@@ -2729,6 +4189,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -2737,6 +4200,22 @@
     "desc": [
       " A component pouch is a small, watertight leather belt pouch that has compartments to hold all the material components and other special items you need to cast your spells, except for those components that have a specific cost (as indicated in a spell's description)."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/component-pouch"
   },
   {
@@ -2752,6 +4231,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
@@ -2760,6 +4242,22 @@
     "desc": [
       "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/crowbar"
   },
   {
@@ -2775,6 +4273,9 @@
       "name": "Druidic Foci",
       "url": "equipment-types/druidic-foci"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -2783,6 +4284,22 @@
     "desc": [
       "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/sprig-of-mistletoe"
   },
   {
@@ -2798,6 +4315,9 @@
       "name": "Druidic Foci",
       "url": "equipment-types/druidic-foci"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -2806,6 +4326,22 @@
     "desc": [
       "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/totem"
   },
   {
@@ -2821,6 +4357,9 @@
       "name": "Druidic Foci",
       "url": "equipment-types/druidic-foci"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -2829,6 +4368,22 @@
     "desc": [
       "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/wooden-staff"
   },
   {
@@ -2844,6 +4399,9 @@
       "name": "Druidic Foci",
       "url": "equipment-types/druidic-foci"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -2852,6 +4410,22 @@
     "desc": [
       "A druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/yew-wand"
   },
   {
@@ -2867,6 +4441,9 @@
       "name": "Holy Symbols",
       "url": "equipment-types/holy-symbols"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -2876,6 +4453,22 @@
       "A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic.",
       "Appendix B lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/emblem"
   },
   {
@@ -2891,6 +4484,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -2899,6 +4495,22 @@
     "desc": [
       "This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/fishing-tackle"
   },
   {
@@ -2914,11 +4526,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "cp"
     },
     "weight": 1,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/flask-or-tankard"
   },
   {
@@ -2934,11 +4566,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 4,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/grappling-hook"
   },
   {
@@ -2954,11 +4606,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
     },
     "weight": 3,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/hammer"
   },
   {
@@ -2974,11 +4646,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 10,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/hammer-sledge"
   },
   {
@@ -2994,6 +4686,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -3005,6 +4700,22 @@
       "A cleric or paladin may create holy water by performing a special ritual.",
       "The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/holy-water-flask"
   },
   {
@@ -3020,11 +4731,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
     },
     "weight": 1,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/hourglass"
   },
   {
@@ -3040,6 +4771,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -3050,6 +4784,22 @@
       "A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature."
     ],
     "weight": 25,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/hunting-trap"
   },
   {
@@ -3065,11 +4815,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/ink-1-ounce-bottle"
   },
   {
@@ -3085,11 +4855,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "cp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/ink-pen"
   },
   {
@@ -3105,11 +4895,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "cp"
     },
     "weight": 4,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/jug-or-pitcher"
   },
   {
@@ -3125,6 +4935,9 @@
       "name": "Kits",
       "url": "equipment-types/kits"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -3133,6 +4946,22 @@
     "desc": [
       "A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/climbers-kit"
   },
   {
@@ -3148,6 +4977,9 @@
       "name": "Kits",
       "url": "equipment-types/kits"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -3156,6 +4988,22 @@
     "desc": [
       "This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/disguise-kit"
   },
   {
@@ -3171,6 +5019,9 @@
       "name": "Kits",
       "url": "equipment-types/kits"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 15,
       "unit": "gp"
@@ -3179,6 +5030,22 @@
     "desc": [
       "This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/forgery-kit"
   },
   {
@@ -3194,6 +5061,9 @@
       "name": "Kits",
       "url": "equipment-types/kits"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -3202,6 +5072,22 @@
     "desc": [
       "This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/herbalism-kit"
   },
   {
@@ -3217,6 +5103,9 @@
       "name": "Kits",
       "url": "equipment-types/kits"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -3225,6 +5114,22 @@
     "desc": [
       "This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/healers-kit"
   },
   {
@@ -3240,6 +5145,9 @@
       "name": "Kits",
       "url": "equipment-types/kits"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "sp"
@@ -3248,6 +5156,22 @@
     "desc": [
       "This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/mess-kit"
   },
   {
@@ -3263,6 +5187,9 @@
       "name": "Kits",
       "url": "equipment-types/kits"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -3271,6 +5198,22 @@
     "desc": [
       "A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/poisoners-kit"
   },
   {
@@ -3286,11 +5229,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "sp"
     },
     "weight": 25,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/ladder-10-foot"
   },
   {
@@ -3306,6 +5269,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "sp"
@@ -3314,6 +5280,22 @@
     "desc": [
       "A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/lamp"
   },
   {
@@ -3329,6 +5311,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -3337,6 +5322,22 @@
     "desc": [
       "A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/lantern-bullseye"
   },
   {
@@ -3352,6 +5353,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -3360,6 +5364,22 @@
     "desc": [
       "A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/lantern-hooded"
   },
   {
@@ -3375,6 +5395,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -3383,6 +5406,22 @@
     "desc": [
       "A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your GM may decide that better locks are available for higher prices."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/lock"
   },
   {
@@ -3398,6 +5437,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 100,
       "unit": "gp"
@@ -3407,6 +5449,22 @@
       "This lens allows a closer look at small objects. It is also useful as a substitute for flint and steel when starting fires. Lighting a fire with a magnifying glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.",
       "A magnifying glass grants advantage on any ability check made to appraise or inspect an item that is small or highly detailed."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/magnifying-glass"
   },
   {
@@ -3422,6 +5480,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
@@ -3431,6 +5492,22 @@
       "These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check.",
       "Each set of manacles comes with one key. Without the key, a creature proficient with thieves' tools can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/manacles"
   },
   {
@@ -3446,11 +5523,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
     },
     "weight": 0.5,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/mirror-steel"
   },
   {
@@ -3466,6 +5563,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "sp"
@@ -3478,6 +5578,22 @@
       "You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level.",
       "If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/oil-flask"
   },
   {
@@ -3493,11 +5609,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "sp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/paper-one-sheet"
   },
   {
@@ -3513,11 +5649,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "sp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/parchment-one-sheet"
   },
   {
@@ -3533,11 +5689,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/perfume-vial"
   },
   {
@@ -3553,11 +5729,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 10,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/pick-miners"
   },
   {
@@ -3573,11 +5769,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "cp"
     },
     "weight": 0.25,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/piton"
   },
   {
@@ -3593,6 +5809,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 100,
       "unit": "gp"
@@ -3601,6 +5820,22 @@
     "desc": [
       "You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/poison-basic-vial"
   },
   {
@@ -3616,11 +5851,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "cp"
     },
     "weight": 7,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/pole-10-foot"
   },
   {
@@ -3636,11 +5891,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 10,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/pot-iron"
   },
   {
@@ -3656,6 +5931,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -3664,6 +5942,22 @@
     "desc": [
       "A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/potion-of-healing"
   },
   {
@@ -3679,6 +5973,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "sp"
@@ -3687,6 +5984,22 @@
     "desc": [
       "A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section)."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/pouch"
   },
   {
@@ -3702,6 +6015,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -3710,6 +6026,22 @@
     "desc": [
       "A quiver can hold up to 20 arrows."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/quiver"
   },
   {
@@ -3725,6 +6057,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 4,
       "unit": "gp"
@@ -3733,6 +6068,22 @@
     "desc": [
       "You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/ram-portable"
   },
   {
@@ -3748,6 +6099,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "sp"
@@ -3756,6 +6110,22 @@
     "desc": [
       "Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/rations-1-day"
   },
   {
@@ -3771,6 +6141,9 @@
       "name": "Holy Symbols",
       "url": "equipment-types/holy-symbols"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -3780,6 +6153,22 @@
       "A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic.",
       "Appendix B lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/reliquary"
   },
   {
@@ -3795,11 +6184,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
     },
     "weight": 4,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/robes"
   },
   {
@@ -3815,6 +6224,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -3823,6 +6235,22 @@
     "desc": [
       "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/rope-hempen-50-feet"
   },
   {
@@ -3838,6 +6266,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -3846,6 +6277,22 @@
     "desc": [
       "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/rope-silk-50-feet"
   },
   {
@@ -3861,11 +6308,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "cp"
     },
     "weight": 0.5,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/sack"
   },
   {
@@ -3881,6 +6348,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -3889,6 +6359,22 @@
     "desc": [
       "A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/scale-merchants"
   },
   {
@@ -3904,11 +6390,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "sp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/sealing-wax"
   },
   {
@@ -3924,11 +6430,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 5,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/shovel"
   },
   {
@@ -3944,11 +6470,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "cp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/signal-whistle"
   },
   {
@@ -3964,11 +6510,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/signet-ring"
   },
   {
@@ -3984,11 +6550,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "cp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/soap"
   },
   {
@@ -4004,6 +6590,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -4012,6 +6601,22 @@
     "desc": [
       "Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/spellbook"
   },
   {
@@ -4027,11 +6632,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "sp"
     },
     "weight": 5,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/spike-iron"
   },
   {
@@ -4047,6 +6672,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1000,
       "unit": "gp"
@@ -4055,6 +6683,22 @@
     "desc": [
       "Objects viewed through a spyglass are magnified to twice their size."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/spyglass"
   },
   {
@@ -4070,6 +6714,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
@@ -4078,6 +6725,22 @@
     "desc": [
       "A simple and portable canvas shelter, a tent sleeps two."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/tent-two-person"
   },
   {
@@ -4093,6 +6756,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "sp"
@@ -4102,6 +6768,22 @@
       "This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch--or anything else with abundant, exposed fuel--takes an action.",
       "Lighting any other fire takes 1 minute."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/tinderbox"
   },
   {
@@ -4117,6 +6799,9 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "cp"
@@ -4125,6 +6810,22 @@
     "desc": [
       "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/torch"
   },
   {
@@ -4140,11 +6841,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/vial"
   },
   {
@@ -4160,11 +6881,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "sp"
     },
     "weight": 5,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/waterskin"
   },
   {
@@ -4180,11 +6921,31 @@
       "name": "Standard Gear",
       "url": "equipment-types/standard-gear"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "cp"
     },
     "weight": 1,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/whetstone"
   },
   {
@@ -4200,6 +6961,9 @@
       "name": "Equipment Packs",
       "url": "equipment-types/equipment-packs"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 16,
       "unit": "gp"
@@ -4254,6 +7018,22 @@
         "quantity": 1
       }
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/burglars-pack"
   },
   {
@@ -4269,6 +7049,9 @@
       "name": "Equipment Packs",
       "url": "equipment-types/equipment-packs"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 39,
       "unit": "gp"
@@ -4319,6 +7102,23 @@
         "quantity": 1
       }
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
+    "weight": null,
     "url": "equipment-items/diplomats-pack"
   },
   {
@@ -4334,6 +7134,9 @@
       "name": "Equipment Packs",
       "url": "equipment-types/equipment-packs"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 12,
       "unit": "gp"
@@ -4372,6 +7175,22 @@
         "quantity": 1
       }
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/dungeoneers-pack"
   },
   {
@@ -4387,6 +7206,9 @@
       "name": "Equipment Packs",
       "url": "equipment-types/equipment-packs"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 40,
       "unit": "gp"
@@ -4421,6 +7243,22 @@
         "quantity": 1
       }
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/entertainers-pack"
   },
   {
@@ -4436,6 +7274,9 @@
       "name": "Equipment Packs",
       "url": "equipment-types/equipment-packs"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -4474,6 +7315,22 @@
         "quantity": 1
       }
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/explorers-pack"
   },
   {
@@ -4489,6 +7346,9 @@
       "name": "Equipment Packs",
       "url": "equipment-types/equipment-packs"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 19,
       "unit": "gp"
@@ -4519,6 +7379,22 @@
         "quantity": 1
       }
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/priests-pack"
   },
   {
@@ -4534,6 +7410,9 @@
       "name": "Equipment Packs",
       "url": "equipment-types/equipment-packs"
     },
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 40,
       "unit": "gp"
@@ -4560,6 +7439,22 @@
         "quantity": 10
       }
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "desc": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/scholars-pack"
   },
   {
@@ -4571,6 +7466,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -4579,6 +7477,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/alchemists-supplies"
   },
   {
@@ -4590,6 +7504,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 20,
       "unit": "gp"
@@ -4598,6 +7515,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/brewers-supplies"
   },
   {
@@ -4609,6 +7542,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -4617,6 +7553,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/calligraphers-supplies"
   },
   {
@@ -4628,6 +7580,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 8,
       "unit": "gp"
@@ -4636,6 +7591,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/carpenters-tools"
   },
   {
@@ -4647,6 +7618,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 15,
       "unit": "gp"
@@ -4655,6 +7629,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/cartographers-tools"
   },
   {
@@ -4666,6 +7656,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -4674,6 +7667,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/cobblers-tools"
   },
   {
@@ -4685,6 +7694,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -4693,6 +7705,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/cooks-utensils"
   },
   {
@@ -4704,6 +7732,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 30,
       "unit": "gp"
@@ -4712,6 +7743,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/glassblowers-tools"
   },
   {
@@ -4723,6 +7770,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -4731,6 +7781,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/jewelers-tools"
   },
   {
@@ -4742,6 +7808,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -4750,6 +7819,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/leatherworkers-tools"
   },
   {
@@ -4761,6 +7846,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -4769,6 +7857,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/masons-tools"
   },
   {
@@ -4780,6 +7884,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -4788,6 +7895,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/painters-supplies"
   },
   {
@@ -4799,6 +7922,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -4807,6 +7933,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/potters-tools"
   },
   {
@@ -4818,6 +7960,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 20,
       "unit": "gp"
@@ -4826,6 +7971,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/smiths-tools"
   },
   {
@@ -4837,6 +7998,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -4845,6 +8009,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/tinkers-tools"
   },
   {
@@ -4856,6 +8036,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -4864,6 +8047,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/weavers-tools"
   },
   {
@@ -4875,6 +8074,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Artisan's Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "gp"
@@ -4883,6 +8085,22 @@
     "desc": [
       "These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/woodcarvers-tools"
   },
   {
@@ -4894,6 +8112,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Gaming Sets",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1,
       "unit": "sp"
@@ -4902,6 +8123,22 @@
     "desc": [
       "This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/dice-set"
   },
   {
@@ -4913,6 +8150,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Gaming Sets",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "sp"
@@ -4921,6 +8161,22 @@
     "desc": [
       "This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/playing-card-set"
   },
   {
@@ -4932,6 +8188,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 30,
       "unit": "gp"
@@ -4940,6 +8199,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/bagpipes"
   },
   {
@@ -4951,6 +8226,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 6,
       "unit": "gp"
@@ -4959,6 +8237,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/drum"
   },
   {
@@ -4970,6 +8264,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -4978,6 +8275,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/dulcimer"
   },
   {
@@ -4989,6 +8302,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
@@ -4997,6 +8313,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/flute"
   },
   {
@@ -5008,6 +8340,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 35,
       "unit": "gp"
@@ -5016,6 +8351,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/lute"
   },
   {
@@ -5027,6 +8378,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 30,
       "unit": "gp"
@@ -5035,6 +8389,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/lyre"
   },
   {
@@ -5046,6 +8416,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 3,
       "unit": "gp"
@@ -5054,6 +8427,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/horn"
   },
   {
@@ -5065,6 +8454,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 12,
       "unit": "gp"
@@ -5073,6 +8465,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/pan-flute"
   },
   {
@@ -5084,6 +8492,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
@@ -5092,6 +8503,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/shawm"
   },
   {
@@ -5103,6 +8530,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Musical Instrument",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 30,
       "unit": "gp"
@@ -5111,6 +8541,22 @@
     "desc": [
       "Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/viol"
   },
   {
@@ -5122,6 +8568,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Other Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -5130,6 +8579,22 @@
     "desc": [
       "This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/navigators-tools"
   },
   {
@@ -5141,6 +8606,9 @@
       "url": "equipment-types/tools"
     },
     "tool_category": "Other Tools",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -5149,6 +8617,22 @@
     "desc": [
       "This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "two_handed_damage": null,
+    "vehicle_category": null,
     "url": "equipment-items/thieves-tools"
   },
   {
@@ -5160,6 +8644,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Mounts and Other Animals",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -5169,6 +8656,21 @@
       "unit": "ft/round"
     },
     "capacity": "480 lb.",
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/camel"
   },
   {
@@ -5180,6 +8682,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Mounts and Other Animals",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 8,
       "unit": "gp"
@@ -5189,6 +8694,21 @@
       "unit": "ft/round"
     },
     "capacity": "420 lb.",
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/donkey"
   },
   {
@@ -5200,6 +8720,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Mounts and Other Animals",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 8,
       "unit": "gp"
@@ -5209,6 +8732,21 @@
       "unit": "ft/round"
     },
     "capacity": "420 lb.",
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/mule"
   },
   {
@@ -5220,6 +8758,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Mounts and Other Animals",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 200,
       "unit": "gp"
@@ -5229,6 +8770,21 @@
       "unit": "ft/round"
     },
     "capacity": "1,320 lb.",
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/elephant"
   },
   {
@@ -5240,6 +8796,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Mounts and Other Animals",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -5249,6 +8808,21 @@
       "unit": "ft/round"
     },
     "capacity": "540 lb.",
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/horse-draft"
   },
   {
@@ -5260,6 +8834,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Mounts and Other Animals",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 75,
       "unit": "gp"
@@ -5269,6 +8846,21 @@
       "unit": "ft/round"
     },
     "capacity": "480 lb.",
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/horse-riding"
   },
   {
@@ -5280,6 +8872,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Mounts and Other Animals",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25,
       "unit": "gp"
@@ -5289,6 +8884,21 @@
       "unit": "ft/round"
     },
     "capacity": "195 lb.",
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/mastiff"
   },
   {
@@ -5300,6 +8910,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Mounts and Other Animals",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 30,
       "unit": "gp"
@@ -5309,6 +8922,21 @@
       "unit": "ft/round"
     },
     "capacity": "225 lb.",
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/pony"
   },
   {
@@ -5320,6 +8948,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Mounts and Other Animals",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 400,
       "unit": "gp"
@@ -5329,6 +8960,21 @@
       "unit": "ft/round"
     },
     "capacity": "540 lb.",
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/warhorse"
   },
   {
@@ -5340,6 +8986,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 20,
       "unit": "gp"
@@ -5348,6 +8997,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-padded"
   },
   {
@@ -5359,6 +9024,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 40,
       "unit": "gp"
@@ -5367,6 +9035,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-leather"
   },
   {
@@ -5378,6 +9062,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 180,
       "unit": "gp"
@@ -5386,6 +9073,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-studded-leather"
   },
   {
@@ -5397,6 +9100,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 40,
       "unit": "gp"
@@ -5405,6 +9111,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-hide"
   },
   {
@@ -5416,6 +9138,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 200,
       "unit": "gp"
@@ -5424,6 +9149,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-chain-shirt"
   },
   {
@@ -5435,6 +9176,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 200,
       "unit": "gp"
@@ -5443,6 +9187,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-scale-mail"
   },
   {
@@ -5454,6 +9214,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 1600,
       "unit": "gp"
@@ -5462,6 +9225,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-breastplate"
   },
   {
@@ -5473,6 +9252,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 3000,
       "unit": "gp"
@@ -5481,6 +9263,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-half-plate"
   },
   {
@@ -5492,6 +9290,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 12,
       "unit": "gp"
@@ -5500,6 +9301,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-ring-mail"
   },
   {
@@ -5511,6 +9328,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 300,
       "unit": "gp"
@@ -5519,6 +9339,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-chain-mail"
   },
   {
@@ -5530,6 +9366,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 800,
       "unit": "gp"
@@ -5538,6 +9377,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-splint"
   },
   {
@@ -5549,6 +9404,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 6000,
       "unit": "gp"
@@ -5557,6 +9415,22 @@
     "desc": [
       "Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/barding-plate"
   },
   {
@@ -5568,11 +9442,31 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 2,
       "unit": "gp"
     },
     "weight": 1,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/bit-and-bridle"
   },
   {
@@ -5584,11 +9478,31 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 100,
       "unit": "gp"
     },
     "weight": 600,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/carriage"
   },
   {
@@ -5600,11 +9514,31 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 15,
       "unit": "gp"
     },
     "weight": 200,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/cart"
   },
   {
@@ -5616,11 +9550,31 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 250,
       "unit": "gp"
     },
     "weight": 100,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/chariot"
   },
   {
@@ -5632,11 +9586,31 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "cp"
     },
     "weight": 10,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/animal-feed-1-day"
   },
   {
@@ -5648,6 +9622,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 60,
       "unit": "gp"
@@ -5656,6 +9633,22 @@
     "desc": [
       "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/saddle-exotic"
   },
   {
@@ -5667,6 +9660,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 20,
       "unit": "gp"
@@ -5675,6 +9671,22 @@
     "desc": [
       "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/saddle-military"
   },
   {
@@ -5686,6 +9698,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "gp"
@@ -5694,6 +9709,22 @@
     "desc": [
       "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/saddle-pack"
   },
   {
@@ -5705,6 +9736,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10,
       "unit": "gp"
@@ -5713,6 +9747,22 @@
     "desc": [
       "A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/saddle-riding"
   },
   {
@@ -5724,11 +9774,31 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 4,
       "unit": "gp"
     },
     "weight": 8,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/saddlebags"
   },
   {
@@ -5740,11 +9810,31 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 20,
       "unit": "gp"
     },
     "weight": 300,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/sled"
   },
   {
@@ -5756,11 +9846,31 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 5,
       "unit": "sp"
     },
     "weight": 0,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/stabling-1-day"
   },
   {
@@ -5772,11 +9882,31 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Tack, Harness, and Drawn Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 35,
       "unit": "gp"
     },
     "weight": 400,
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "speed": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/wagon"
   },
   {
@@ -5788,6 +9918,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Waterborne Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 30000,
       "unit": "gp"
@@ -5796,6 +9929,22 @@
       "quantity": 4,
       "unit": "mph"
     },
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/galley"
   },
   {
@@ -5807,6 +9956,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Waterborne Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 3000,
       "unit": "gp"
@@ -5818,6 +9970,21 @@
     "desc": [
       "Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/keelboat"
   },
   {
@@ -5829,6 +9996,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Waterborne Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10000,
       "unit": "gp"
@@ -5837,6 +10007,22 @@
       "quantity": 3,
       "unit": "mph"
     },
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/longship"
   },
   {
@@ -5848,6 +10034,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Waterborne Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 50,
       "unit": "gp"
@@ -5859,6 +10048,21 @@
     "desc": [
       "Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land."
     ],
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/rowboat"
   },
   {
@@ -5870,6 +10074,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Waterborne Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 10000,
       "unit": "gp"
@@ -5878,6 +10085,22 @@
       "quantity": 2,
       "unit": "mph"
     },
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/sailing-ship"
   },
   {
@@ -5889,6 +10112,9 @@
       "url": "equipment-types/mounts-and-vehicles"
     },
     "vehicle_category": "Waterborne Vehicles",
+    "weapon_category": null,
+    "weapon_range": null,
+    "category_range": null,
     "cost": {
       "quantity": 25000,
       "unit": "gp"
@@ -5897,6 +10123,22 @@
       "quantity": 2.5,
       "unit": "mph"
     },
+    "properties": null,
+    "damage": null,
+    "armor_category": null,
+    "armor_class": null,
+    "capacity": null,
+    "contents": null,
+    "desc": null,
+    "gear_category": null,
+    "quantity": null,
+    "range": null,
+    "special": null,
+    "stealth_disadvantage": null,
+    "str_minimum": null,
+    "throw_range": null,
+    "tool_category": null,
+    "two_handed_damage": null,
     "url": "equipment-items/warship"
   }
 ]

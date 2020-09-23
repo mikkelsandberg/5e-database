@@ -7,12 +7,15 @@
       "Humans"
     ],
     "script": "Common",
+    "desc": null,
     "url": "languages/common"
   },
   {
     "label": "dwarvish",
     "name": "Dwarvish",
-    "desc": "Dwarvish is full of hard consonants and guttural sounds.",
+    "desc": [
+      "Dwarvish is full of hard consonants and guttural sounds."
+    ],
     "type": "Standard",
     "typical_speakers": [
       "Dwarves"
@@ -23,7 +26,9 @@
   {
     "label": "elvish",
     "name": "Elvish",
-    "desc": "Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.",
+    "desc": [
+      "Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
+    ],
     "type": "Standard",
     "typical_speakers": [
       "Elves"
@@ -40,12 +45,15 @@
       "Giants"
     ],
     "script": "Dwarvish",
+    "desc": null,
     "url": "languages/giant"
   },
   {
     "label": "gnomish",
     "name": "Gnomish",
-    "desc": "The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.",
+    "desc": [
+      "The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world."
+    ],
     "type": "Standard",
     "typical_speakers": [
       "Gnomes"
@@ -61,12 +69,15 @@
       "Goblinoids"
     ],
     "script": "Dwarvish",
+    "desc": null,
     "url": "languages/goblin"
   },
   {
     "label": "halfling",
     "name": "Halfling",
-    "desc": "The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong.",
+    "desc": [
+      "The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong."
+    ],
     "type": "Standard",
     "typical_speakers": [
       "Halflings"
@@ -77,7 +88,9 @@
   {
     "label": "orc",
     "name": "Orc",
-    "desc": "Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.",
+    "desc": [
+      "Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script."
+    ],
     "type": "Standard",
     "typical_speakers": [
       "Orcs"
@@ -93,6 +106,7 @@
       "Demons"
     ],
     "script": "Infernal",
+    "desc": null,
     "url": "languages/abyssal"
   },
   {
@@ -103,12 +117,15 @@
       "Celestials"
     ],
     "script": "Celestial",
+    "desc": null,
     "url": "languages/celestial"
   },
   {
     "label": "draconic",
     "name": "Draconic",
-    "desc": "Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.",
+    "desc": [
+      "Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
+    ],
     "type": "Exotic",
     "typical_speakers": [
       "Dragons",
@@ -126,6 +143,7 @@
       "Cloakers"
     ],
     "script": null,
+    "desc": null,
     "url": "languages/deep-speech"
   },
   {
@@ -136,6 +154,7 @@
       "Devils"
     ],
     "script": "Infernal",
+    "desc": null,
     "url": "languages/infernal"
   },
   {
@@ -146,6 +165,7 @@
       "Elementals"
     ],
     "script": "Dwarvish",
+    "desc": null,
     "url": "languages/primordial"
   },
   {
@@ -156,6 +176,7 @@
       "Fey creatures"
     ],
     "script": "Elvish",
+    "desc": null,
     "url": "languages/sylvan"
   },
   {
@@ -166,6 +187,7 @@
       "Underdark traders"
     ],
     "script": "Elvish",
+    "desc": null,
     "url": "languages/undercommon"
   }
 ]

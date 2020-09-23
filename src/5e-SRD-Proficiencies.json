@@ -3,7 +3,7 @@
     "label": "light-armor",
     "type": "Armor",
     "name": "Light armor",
-    "classes": [
+    "class_associations": [
       {
         "label": "barbarian",
         "name": "Barbarian",
@@ -40,7 +40,7 @@
         "url": "classes/warlock"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/light-armor",
     "references": [
       {
@@ -55,7 +55,7 @@
     "label": "medium-armor",
     "type": "Armor",
     "name": "Medium armor",
-    "classes": [
+    "class_associations": [
       {
         "label": "barbarian",
         "name": "Barbarian",
@@ -77,7 +77,7 @@
         "url": "classes/ranger"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/medium-armor",
     "references": [
       {
@@ -92,8 +92,8 @@
     "label": "heavy-armor",
     "type": "Armor",
     "name": "Heavy armor",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/heavy-armor",
     "references": [
       {
@@ -108,7 +108,7 @@
     "label": "all-armor",
     "type": "Armor",
     "name": "All armor",
-    "classes": [
+    "class_associations": [
       {
         "label": "fighter",
         "name": "Fighter",
@@ -120,7 +120,7 @@
         "url": "classes/paladin"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/all-armor",
     "references": [
       {
@@ -135,8 +135,8 @@
     "label": "padded",
     "type": "Armor",
     "name": "Padded",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/padded",
     "references": [
       {
@@ -151,8 +151,8 @@
     "label": "leather",
     "type": "Armor",
     "name": "Leather",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/leather",
     "references": [
       {
@@ -167,8 +167,8 @@
     "label": "studded-leather",
     "type": "Armor",
     "name": "Studded Leather",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/studded-leather",
     "references": [
       {
@@ -183,8 +183,8 @@
     "label": "hide",
     "type": "Armor",
     "name": "Hide",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/hide",
     "references": [
       {
@@ -199,8 +199,8 @@
     "label": "chain-shirt",
     "type": "Armor",
     "name": "Chain Shirt",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/chain-shirt",
     "references": [
       {
@@ -215,8 +215,8 @@
     "label": "scale-mail",
     "type": "Armor",
     "name": "Scale Mail",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/scale-mail",
     "references": [
       {
@@ -231,8 +231,8 @@
     "label": "breastplate",
     "type": "Armor",
     "name": "Breastplate",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/breastplate",
     "references": [
       {
@@ -247,8 +247,8 @@
     "label": "half-plate",
     "type": "Armor",
     "name": "Half Plate",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/half-plate",
     "references": [
       {
@@ -263,8 +263,8 @@
     "label": "ring-mail",
     "type": "Armor",
     "name": "Ring Mail",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/ring-mail",
     "references": [
       {
@@ -279,8 +279,8 @@
     "label": "chain-mail",
     "type": "Armor",
     "name": "Chain Mail",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/chain-mail",
     "references": [
       {
@@ -295,8 +295,8 @@
     "label": "splint",
     "type": "Armor",
     "name": "Splint",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/splint",
     "references": [
       {
@@ -311,8 +311,8 @@
     "label": "plate",
     "type": "Armor",
     "name": "Plate",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/plate",
     "references": [
       {
@@ -327,7 +327,7 @@
     "label": "shields",
     "type": "Armor",
     "name": "Shields",
-    "classes": [
+    "class_associations": [
       {
         "label": "barbarian",
         "name": "Barbarian",
@@ -359,7 +359,7 @@
         "url": "classes/ranger"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/shields",
     "references": [
       {
@@ -374,7 +374,7 @@
     "label": "simple-weapons",
     "type": "Weapons",
     "name": "Simple weapons",
-    "classes": [
+    "class_associations": [
       {
         "label": "barbarian",
         "name": "Barbarian",
@@ -421,7 +421,7 @@
         "url": "classes/warlock"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/simple-weapons",
     "references": [
       {
@@ -436,7 +436,7 @@
     "label": "martial-weapons",
     "type": "Weapons",
     "name": "Martial weapons",
-    "classes": [
+    "class_associations": [
       {
         "label": "barbarian",
         "name": "Barbarian",
@@ -458,7 +458,7 @@
         "url": "classes/ranger"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/martial-weapons",
     "references": [
       {
@@ -473,14 +473,14 @@
     "label": "clubs",
     "type": "Weapons",
     "name": "Clubs",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/clubs",
     "references": [
       {
@@ -495,7 +495,7 @@
     "label": "daggers",
     "type": "Weapons",
     "name": "Daggers",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -512,7 +512,7 @@
         "url": "classes/wizard"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/daggers",
     "references": [
       {
@@ -527,8 +527,8 @@
     "label": "greatclubs",
     "type": "Weapons",
     "name": "Greatclubs",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/greatclubs",
     "references": [
       {
@@ -543,8 +543,8 @@
     "label": "handaxes",
     "type": "Weapons",
     "name": "Handaxes",
-    "classes": [],
-    "races": [
+    "class_associations": null,
+    "race_associations": [
       {
         "label": "dwarf",
         "name": "Dwarf",
@@ -565,14 +565,14 @@
     "label": "javelins",
     "type": "Weapons",
     "name": "Javelins",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/javelins",
     "references": [
       {
@@ -587,8 +587,8 @@
     "label": "light-hammers",
     "type": "Weapons",
     "name": "Light hammers",
-    "classes": [],
-    "races": [
+    "class_associations": null,
+    "race_associations": [
       {
         "label": "dwarf",
         "name": "Dwarf",
@@ -609,14 +609,14 @@
     "label": "maces",
     "type": "Weapons",
     "name": "Maces",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/maces",
     "references": [
       {
@@ -631,7 +631,7 @@
     "label": "quarterstaffs",
     "type": "Weapons",
     "name": "Quarterstaffs",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -648,7 +648,7 @@
         "url": "classes/wizard"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/quarterstaffs",
     "references": [
       {
@@ -663,14 +663,14 @@
     "label": "sickles",
     "type": "Weapons",
     "name": "Sickles",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/sickles",
     "references": [
       {
@@ -685,14 +685,14 @@
     "label": "spears",
     "type": "Weapons",
     "name": "Spears",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/spears",
     "references": [
       {
@@ -707,8 +707,8 @@
     "label": "crossbows-light",
     "type": "Weapons",
     "name": "Crossbows, light",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/crossbows-light",
     "references": [
       {
@@ -723,7 +723,7 @@
     "label": "darts",
     "type": "Weapons",
     "name": "Darts",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -740,7 +740,7 @@
         "url": "classes/wizard"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/darts",
     "references": [
       {
@@ -755,8 +755,8 @@
     "label": "shortbows",
     "type": "Weapons",
     "name": "Shortbows",
-    "classes": [],
-    "races": [
+    "class_associations": null,
+    "race_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -777,7 +777,7 @@
     "label": "slings",
     "type": "Weapons",
     "name": "Slings",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -794,7 +794,7 @@
         "url": "classes/wizard"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/slings",
     "references": [
       {
@@ -809,8 +809,8 @@
     "label": "battleaxes",
     "type": "Weapons",
     "name": "Battleaxes",
-    "classes": [],
-    "races": [
+    "class_associations": null,
+    "race_associations": [
       {
         "label": "dwarf",
         "name": "Dwarf",
@@ -831,8 +831,8 @@
     "label": "flails",
     "type": "Weapons",
     "name": "Flails",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/flails",
     "references": [
       {
@@ -847,8 +847,8 @@
     "label": "glaives",
     "type": "Weapons",
     "name": "Glaives",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/glaives",
     "references": [
       {
@@ -863,8 +863,8 @@
     "label": "greataxes",
     "type": "Weapons",
     "name": "Greataxes",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/greataxes",
     "references": [
       {
@@ -879,8 +879,8 @@
     "label": "greatswords",
     "type": "Weapons",
     "name": "Greatswords",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/greatswords",
     "references": [
       {
@@ -895,8 +895,8 @@
     "label": "halberds",
     "type": "Weapons",
     "name": "Halberds",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/halberds",
     "references": [
       {
@@ -911,8 +911,8 @@
     "label": "lances",
     "type": "Weapons",
     "name": "Lances",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/lances",
     "references": [
       {
@@ -927,7 +927,7 @@
     "label": "longswords",
     "type": "Weapons",
     "name": "Longswords",
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -939,7 +939,7 @@
         "url": "classes/rogue"
       }
     ],
-    "races": [
+    "race_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -960,8 +960,8 @@
     "label": "mauls",
     "type": "Weapons",
     "name": "Mauls",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/mauls",
     "references": [
       {
@@ -976,8 +976,8 @@
     "label": "morningstars",
     "type": "Weapons",
     "name": "Morningstars",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/morningstars",
     "references": [
       {
@@ -992,8 +992,8 @@
     "label": "pikes",
     "type": "Weapons",
     "name": "Pikes",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/pikes",
     "references": [
       {
@@ -1008,7 +1008,7 @@
     "label": "rapiers",
     "type": "Weapons",
     "name": "Rapiers",
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -1020,7 +1020,7 @@
         "url": "classes/rogue"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/rapiers",
     "references": [
       {
@@ -1035,14 +1035,14 @@
     "label": "scimitars",
     "type": "Weapons",
     "name": "Scimitars",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/scimitars",
     "references": [
       {
@@ -1057,7 +1057,7 @@
     "label": "shortswords",
     "type": "Weapons",
     "name": "Shortswords",
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -1074,7 +1074,7 @@
         "url": "classes/rogue"
       }
     ],
-    "races": [
+    "race_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -1095,8 +1095,8 @@
     "label": "tridents",
     "type": "Weapons",
     "name": "Tridents",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/tridents",
     "references": [
       {
@@ -1111,8 +1111,8 @@
     "label": "war-picks",
     "type": "Weapons",
     "name": "War picks",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/war-picks",
     "references": [
       {
@@ -1127,8 +1127,8 @@
     "label": "warhammers",
     "type": "Weapons",
     "name": "Warhammers",
-    "classes": [],
-    "races": [
+    "class_associations": null,
+    "race_associations": [
       {
         "label": "dwarf",
         "name": "Dwarf",
@@ -1149,8 +1149,8 @@
     "label": "whips",
     "type": "Weapons",
     "name": "Whips",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/whips",
     "references": [
       {
@@ -1165,8 +1165,8 @@
     "label": "blowguns",
     "type": "Weapons",
     "name": "Blowguns",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/blowguns",
     "references": [
       {
@@ -1181,7 +1181,7 @@
     "label": "crossbows-hand",
     "type": "Weapons",
     "name": "Crossbows, hand",
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -1193,7 +1193,7 @@
         "url": "classes/rogue"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/crossbows-hand",
     "references": [
       {
@@ -1208,8 +1208,8 @@
     "label": "crossbows-heavy",
     "type": "Weapons",
     "name": "Crossbows, heavy",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/crossbows-heavy",
     "references": [
       {
@@ -1224,8 +1224,8 @@
     "label": "longbows",
     "type": "Weapons",
     "name": "Longbows",
-    "classes": [],
-    "races": [
+    "class_associations": null,
+    "race_associations": [
       {
         "label": "high-elf",
         "name": "High Elf",
@@ -1246,8 +1246,8 @@
     "label": "nets",
     "type": "Weapons",
     "name": "Nets",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/nets",
     "references": [
       {
@@ -1262,8 +1262,8 @@
     "label": "alchemists-supplies",
     "type": "Artisan's Tools",
     "name": "Alchemist's supplies",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/alchemists-supplies",
     "references": [
       {
@@ -1278,8 +1278,8 @@
     "label": "brewers-supplies",
     "type": "Artisan's Tools",
     "name": "Brewer's supplies",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/brewers-supplies",
     "references": [
       {
@@ -1294,8 +1294,8 @@
     "label": "calligraphers-supplies",
     "type": "Artisan's Tools",
     "name": "Calligrapher's supplies",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/calligraphers-supplies",
     "references": [
       {
@@ -1310,8 +1310,8 @@
     "label": "carpenters-tools",
     "type": "Artisan's Tools",
     "name": "Carpenter's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/carpenters-tools",
     "references": [
       {
@@ -1326,8 +1326,8 @@
     "label": "cartographers-tools",
     "type": "Artisan's Tools",
     "name": "Cartographer's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/cartographers-tools",
     "references": [
       {
@@ -1342,8 +1342,8 @@
     "label": "cobblers-tools",
     "type": "Artisan's Tools",
     "name": "Cobbler's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/cobblers-tools",
     "references": [
       {
@@ -1358,8 +1358,8 @@
     "label": "cooks-utensils",
     "type": "Artisan's Tools",
     "name": "Cook's utensils",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/cooks-utensils",
     "references": [
       {
@@ -1374,8 +1374,8 @@
     "label": "glassblowers-tools",
     "type": "Artisan's Tools",
     "name": "Glassblower's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/glassblowers-tools",
     "references": [
       {
@@ -1390,8 +1390,8 @@
     "label": "jewelers-tools",
     "type": "Artisan's Tools",
     "name": "Jeweler's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/jewelers-tools",
     "references": [
       {
@@ -1406,8 +1406,8 @@
     "label": "leatherworkers-tools",
     "type": "Artisan's Tools",
     "name": "Leatherworker's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/leatherworkers-tools",
     "references": [
       {
@@ -1422,8 +1422,8 @@
     "label": "masons-tools",
     "type": "Artisan's Tools",
     "name": "Mason's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/masons-tools",
     "references": [
       {
@@ -1438,8 +1438,8 @@
     "label": "painters-supplies",
     "type": "Artisan's Tools",
     "name": "Painter's supplies",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/painters-supplies",
     "references": [
       {
@@ -1454,8 +1454,8 @@
     "label": "potters-tools",
     "type": "Artisan's Tools",
     "name": "Potter's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/potters-tools",
     "references": [
       {
@@ -1470,8 +1470,8 @@
     "label": "smiths-tools",
     "type": "Artisan's Tools",
     "name": "Smith's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/smiths-tools",
     "references": [
       {
@@ -1486,8 +1486,8 @@
     "label": "tinkers-tools",
     "type": "Artisan's Tools",
     "name": "Tinker's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/tinkers-tools",
     "references": [
       {
@@ -1502,8 +1502,8 @@
     "label": "weavers-tools",
     "type": "Artisan's Tools",
     "name": "Weaver's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/weavers-tools",
     "references": [
       {
@@ -1518,8 +1518,8 @@
     "label": "woodcarvers-tools",
     "type": "Artisan's Tools",
     "name": "Woodcarver's tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/woodcarvers-tools",
     "references": [
       {
@@ -1534,8 +1534,8 @@
     "label": "disguise-kit",
     "type": "Artisan's Tools",
     "name": "Disguise kit",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/disguise-kit",
     "references": [
       {
@@ -1550,8 +1550,8 @@
     "label": "forgery-kit",
     "type": "Artisan's Tools",
     "name": "Forgery kit",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/forgery-kit",
     "references": [
       {
@@ -1566,8 +1566,8 @@
     "label": "dice-set",
     "type": "Gaming Sets",
     "name": "Dice Set",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/dice-set",
     "references": [
       {
@@ -1582,8 +1582,8 @@
     "label": "playing-card-set",
     "type": "Gaming Sets",
     "name": "Playing card set",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/playing-card-set",
     "references": [
       {
@@ -1598,8 +1598,8 @@
     "label": "bagpipes",
     "type": "Musical Instruments",
     "name": "Bagpipes",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/bagpipes",
     "references": [
       {
@@ -1614,8 +1614,8 @@
     "label": "drum",
     "type": "Musical Instruments",
     "name": "Drum",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/drum",
     "references": [
       {
@@ -1630,8 +1630,8 @@
     "label": "dulcimer",
     "type": "Musical Instruments",
     "name": "Dulcimer",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/dulcimer",
     "references": [
       {
@@ -1646,8 +1646,8 @@
     "label": "flute",
     "type": "Musical Instruments",
     "name": "Flute",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/flute",
     "references": [
       {
@@ -1662,8 +1662,8 @@
     "label": "lute",
     "type": "Musical Instruments",
     "name": "Lute",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/lute",
     "references": [
       {
@@ -1678,8 +1678,8 @@
     "label": "lyre",
     "type": "Musical Instruments",
     "name": "Lyre",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/lyre",
     "references": [
       {
@@ -1694,8 +1694,8 @@
     "label": "horn",
     "type": "Musical Instruments",
     "name": "Horn",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/horn",
     "references": [
       {
@@ -1710,8 +1710,8 @@
     "label": "pan-flute",
     "type": "Musical Instruments",
     "name": "Pan flute",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/pan-flute",
     "references": [
       {
@@ -1726,8 +1726,8 @@
     "label": "shawm",
     "type": "Musical Instruments",
     "name": "Shawm",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/shawm",
     "references": [
       {
@@ -1742,8 +1742,8 @@
     "label": "viol",
     "type": "Musical Instruments",
     "name": "Viol",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/viol",
     "references": [
       {
@@ -1758,14 +1758,14 @@
     "label": "herbalism-kit",
     "type": "Other",
     "name": "Herbalism Kit",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
         "url": "classes/druid"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/herbalism-kit",
     "references": [
       {
@@ -1780,8 +1780,8 @@
     "label": "navigators-tools",
     "type": "Other",
     "name": "Navigator's Tools",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/navigators-tools",
     "references": [
       {
@@ -1796,8 +1796,8 @@
     "label": "poisoners-kit",
     "type": "Other",
     "name": "Poisoner's Kit",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/poisoners-kit",
     "references": [
       {
@@ -1812,14 +1812,14 @@
     "label": "thieves-tools",
     "type": "Other",
     "name": "Thieves' Tools",
-    "classes": [
+    "class_associations": [
       {
         "label": "rogue",
         "name": "Rogue",
         "url": "classes/rogue"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/thieves-tools",
     "references": [
       {
@@ -1834,8 +1834,8 @@
     "label": "land-vehicles",
     "type": "Vehicles",
     "name": "Land Vehicles",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/land-vehicles",
     "references": [
       {
@@ -1850,8 +1850,8 @@
     "label": "water-vehicles",
     "type": "Vehicles",
     "name": "Water Vehicles",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/water-vehicles",
     "references": [
       {
@@ -1866,7 +1866,7 @@
     "label": "saving-throw-str",
     "type": "Saving Throws",
     "name": "Saving Throw: STR",
-    "classes": [
+    "class_associations": [
       {
         "label": "barbarian",
         "name": "Barbarian",
@@ -1888,7 +1888,7 @@
         "url": "classes/ranger"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/saving-throw-str",
     "references": [
       {
@@ -1903,7 +1903,7 @@
     "label": "saving-throw-dex",
     "type": "Saving Throws",
     "name": "Saving Throw: DEX",
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -1925,7 +1925,7 @@
         "url": "classes/rogue"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/saving-throw-dex",
     "references": [
       {
@@ -1940,7 +1940,7 @@
     "label": "saving-throw-con",
     "type": "Saving Throws",
     "name": "Saving Throw: CON",
-    "classes": [
+    "class_associations": [
       {
         "label": "barbarian",
         "name": "Barbarian",
@@ -1957,7 +1957,7 @@
         "url": "classes/sorcerer"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/saving-throw-con",
     "references": [
       {
@@ -1972,7 +1972,7 @@
     "label": "saving-throw-int",
     "type": "Saving Throws",
     "name": "Saving Throw: INT",
-    "classes": [
+    "class_associations": [
       {
         "label": "druid",
         "name": "Druid",
@@ -1989,7 +1989,7 @@
         "url": "classes/wizard"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/saving-throw-int",
     "references": [
       {
@@ -2004,7 +2004,7 @@
     "label": "saving-throw-wis",
     "type": "Saving Throws",
     "name": "Saving Throw: WIS",
-    "classes": [
+    "class_associations": [
       {
         "label": "cleric",
         "name": "Cleric",
@@ -2031,7 +2031,7 @@
         "url": "classes/wizard"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/saving-throw-wis",
     "references": [
       {
@@ -2046,7 +2046,7 @@
     "label": "saving-throw-cha",
     "type": "Saving Throws",
     "name": "Saving Throw: CHA",
-    "classes": [
+    "class_associations": [
       {
         "label": "bard",
         "name": "Bard",
@@ -2073,7 +2073,7 @@
         "url": "classes/warlock"
       }
     ],
-    "races": [],
+    "race_associations": null,
     "url": "proficiencies/saving-throw-cha",
     "references": [
       {
@@ -2088,8 +2088,8 @@
     "label": "skill-acrobatics",
     "type": "Skills",
     "name": "Skill: Acrobatics",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-acrobatics",
     "references": [
       {
@@ -2104,8 +2104,8 @@
     "label": "skill-animal-handling",
     "type": "Skills",
     "name": "Skill: Animal Handling",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-animal-handling",
     "references": [
       {
@@ -2120,8 +2120,8 @@
     "label": "skill-arcana",
     "type": "Skills",
     "name": "Skill: Arcana",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-arcana",
     "references": [
       {
@@ -2136,8 +2136,8 @@
     "label": "skill-athletics",
     "type": "Skills",
     "name": "Skill: Athletics",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-athletics",
     "references": [
       {
@@ -2152,8 +2152,8 @@
     "label": "skill-deception",
     "type": "Skills",
     "name": "Skill: Deception",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-deception",
     "references": [
       {
@@ -2168,8 +2168,8 @@
     "label": "skill-history",
     "type": "Skills",
     "name": "Skill: History",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-history",
     "references": [
       {
@@ -2184,8 +2184,8 @@
     "label": "skill-insight",
     "type": "Skills",
     "name": "Skill: Insight",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-insight",
     "references": [
       {
@@ -2200,8 +2200,8 @@
     "label": "skill-intimidation",
     "type": "Skills",
     "name": "Skill: Intimidation",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-intimidation",
     "references": [
       {
@@ -2216,8 +2216,8 @@
     "label": "skill-investigation",
     "type": "Skills",
     "name": "Skill: Investigation",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-investigation",
     "references": [
       {
@@ -2232,8 +2232,8 @@
     "label": "skill-medicine",
     "type": "Skills",
     "name": "Skill: Medicine",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-medicine",
     "references": [
       {
@@ -2248,8 +2248,8 @@
     "label": "skill-nature",
     "type": "Skills",
     "name": "Skill: Nature",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-nature",
     "references": [
       {
@@ -2264,8 +2264,8 @@
     "label": "skill-perception",
     "type": "Skills",
     "name": "Skill: Perception",
-    "classes": [],
-    "races": [
+    "class_associations": null,
+    "race_associations": [
       {
         "label": "elf",
         "name": "Elf",
@@ -2286,8 +2286,8 @@
     "label": "skill-performance",
     "type": "Skills",
     "name": "Skill: Performance",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-performance",
     "references": [
       {
@@ -2302,8 +2302,8 @@
     "label": "skill-persuasion",
     "type": "Skills",
     "name": "Skill: Persuasion",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-persuasion",
     "references": [
       {
@@ -2318,8 +2318,8 @@
     "label": "skill-religion",
     "type": "Skills",
     "name": "Skill: Religion",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-religion",
     "references": [
       {
@@ -2334,8 +2334,8 @@
     "label": "skill-sleight-of-hand",
     "type": "Skills",
     "name": "Skill: Sleight of Hand",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-sleight-of-hand",
     "references": [
       {
@@ -2350,8 +2350,8 @@
     "label": "skill-stealth",
     "type": "Skills",
     "name": "Skill: Stealth",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-stealth",
     "references": [
       {
@@ -2366,8 +2366,8 @@
     "label": "skill-survival",
     "type": "Skills",
     "name": "Skill: Survival",
-    "classes": [],
-    "races": [],
+    "class_associations": null,
+    "race_associations": null,
     "url": "proficiencies/skill-survival",
     "references": [
       {
