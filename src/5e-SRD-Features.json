@@ -751,8 +751,10 @@
     "name": "Expertise: Acrobatics",
     "prerequisites": [
       {
+        "name": "Skill: Acrobatics",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-acrobatics"
+        "value": null,
+        "url": "proficiencies/skill-acrobatics"
       }
     ],
     "desc": [
@@ -775,8 +777,10 @@
     "name": "Expertise: Animal Handling",
     "prerequisites": [
       {
+        "name": "Skill: Animal Handling",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-animal-handling"
+        "value": null,
+        "url": "proficiencies/skill-animal-handling"
       }
     ],
     "desc": [
@@ -799,8 +803,10 @@
     "name": "Expertise: Arcana",
     "prerequisites": [
       {
+        "name": "Skill: Arcana",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-arcana"
+        "value": null,
+        "url": "proficiencies/skill-arcana"
       }
     ],
     "desc": [
@@ -823,8 +829,10 @@
     "name": "Expertise: Athletics",
     "prerequisites": [
       {
+        "name": "Skill: Athletics",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-athletics"
+        "value": null,
+        "url": "proficiencies/skill-athletics"
       }
     ],
     "desc": [
@@ -847,8 +855,10 @@
     "name": "Expertise: Deception",
     "prerequisites": [
       {
+        "name": "Skill: Deception",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-deception"
+        "value": null,
+        "url": "proficiencies/skill-deception"
       }
     ],
     "desc": [
@@ -871,8 +881,10 @@
     "name": "Expertise: History",
     "prerequisites": [
       {
+        "name": "Skill: History",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-history"
+        "value": null,
+        "url": "proficiencies/skill-history"
       }
     ],
     "desc": [
@@ -895,8 +907,10 @@
     "name": "Expertise: Insight",
     "prerequisites": [
       {
+        "name": "Skill: Insight",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-insight"
+        "value": null,
+        "url": "proficiencies/skill-insight"
       }
     ],
     "desc": [
@@ -919,8 +933,10 @@
     "name": "Expertise: Intimidation",
     "prerequisites": [
       {
+        "name": "Skill: Intimidation",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-intimidation"
+        "value": null,
+        "url": "proficiencies/skill-intimidation"
       }
     ],
     "desc": [
@@ -943,8 +959,10 @@
     "name": "Expertise: Investigation",
     "prerequisites": [
       {
+        "name": "Skill: Investigation",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-investigation"
+        "value": null,
+        "url": "proficiencies/skill-investigation"
       }
     ],
     "desc": [
@@ -967,8 +985,10 @@
     "name": "Expertise: Medicine",
     "prerequisites": [
       {
+        "name": "Skill: Medicine",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-medicine"
+        "value": null,
+        "url": "proficiencies/skill-medicine"
       }
     ],
     "desc": [
@@ -991,8 +1011,10 @@
     "name": "Expertise: Nature",
     "prerequisites": [
       {
+        "name": "Skill: Nature",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-nature"
+        "value": null,
+        "url": "proficiencies/skill-nature"
       }
     ],
     "desc": [
@@ -1015,8 +1037,10 @@
     "name": "Expertise: Perception",
     "prerequisites": [
       {
+        "name": "Skill: Perception",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-perception"
+        "value": null,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "desc": [
@@ -1039,8 +1063,10 @@
     "name": "Expertise: Performance",
     "prerequisites": [
       {
+        "name": "Skill: Performance",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-performance"
+        "value": null,
+        "url": "proficiencies/skill-performance"
       }
     ],
     "desc": [
@@ -1063,8 +1089,10 @@
     "name": "Expertise: Persuasion",
     "prerequisites": [
       {
+        "name": "Skill: Persuasion",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-persuasion"
+        "value": null,
+        "url": "proficiencies/skill-persuasion"
       }
     ],
     "desc": [
@@ -1087,8 +1115,10 @@
     "name": "Expertise: Religion",
     "prerequisites": [
       {
+        "name": "Skill: Religion",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-religion"
+        "value": null,
+        "url": "proficiencies/skill-religion"
       }
     ],
     "desc": [
@@ -1111,8 +1141,10 @@
     "name": "Expertise: Sleight of Hand",
     "prerequisites": [
       {
+        "name": "Skill: Sleight of Hand",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-sleight-of-hand"
+        "value": null,
+        "url": "proficiencies/skill-sleight-of-hand"
       }
     ],
     "desc": [
@@ -1135,8 +1167,10 @@
     "name": "Expertise: Stealth",
     "prerequisites": [
       {
+        "name": "Skill: Stealth",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-stealth"
+        "value": null,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "desc": [
@@ -1159,8 +1193,10 @@
     "name": "Expertise: Survival",
     "prerequisites": [
       {
+        "name": "Skill: Survival",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-survival"
+        "value": null,
+        "url": "proficiencies/skill-survival"
       }
     ],
     "desc": [
@@ -5961,8 +5997,10 @@
     "name": "Expertise: Acrobatics",
     "prerequisites": [
       {
+        "name": "Skill: Acrobatics",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-acrobatics"
+        "value": null,
+        "url": "proficiencies/skill-acrobatics"
       }
     ],
     "desc": [
@@ -5985,8 +6023,10 @@
     "name": "Expertise: Animal Handling",
     "prerequisites": [
       {
+        "name": "Skill: Animal Handling",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-animal-handling"
+        "value": null,
+        "url": "proficiencies/skill-animal-handling"
       }
     ],
     "desc": [
@@ -6009,8 +6049,10 @@
     "name": "Expertise: Arcana",
     "prerequisites": [
       {
+        "name": "Skill: Arcana",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-arcana"
+        "value": null,
+        "url": "proficiencies/skill-arcana"
       }
     ],
     "desc": [
@@ -6033,8 +6075,10 @@
     "name": "Expertise: Athletics",
     "prerequisites": [
       {
+        "name": "Skill: Athletics",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-athletics"
+        "value": null,
+        "url": "proficiencies/skill-athletics"
       }
     ],
     "desc": [
@@ -6057,8 +6101,10 @@
     "name": "Expertise: Deception",
     "prerequisites": [
       {
+        "name": "Skill: Athletics",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-deception"
+        "value": null,
+        "url": "proficiencies/skill-deception"
       }
     ],
     "desc": [
@@ -6081,8 +6127,10 @@
     "name": "Expertise: History",
     "prerequisites": [
       {
+        "name": "Skill: History",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-history"
+        "value": null,
+        "url": "proficiencies/skill-history"
       }
     ],
     "desc": [
@@ -6105,8 +6153,10 @@
     "name": "Expertise: Insight",
     "prerequisites": [
       {
+        "name": "Skill: Insight",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-insight"
+        "value": null,
+        "url": "proficiencies/skill-insight"
       }
     ],
     "desc": [
@@ -6129,8 +6179,10 @@
     "name": "Expertise: Intimidation",
     "prerequisites": [
       {
+        "name": "Skill: Intimidation",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-intimidation"
+        "value": null,
+        "url": "proficiencies/skill-intimidation"
       }
     ],
     "desc": [
@@ -6153,8 +6205,10 @@
     "name": "Expertise: Investigation",
     "prerequisites": [
       {
+        "name": "Skill: Investigation",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-investigation"
+        "value": null,
+        "url": "proficiencies/skill-investigation"
       }
     ],
     "desc": [
@@ -6177,8 +6231,10 @@
     "name": "Expertise: Medicine",
     "prerequisites": [
       {
+        "name": "Skill: Medicine",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-medicine"
+        "value": null,
+        "url": "proficiencies/skill-medicine"
       }
     ],
     "desc": [
@@ -6201,8 +6257,10 @@
     "name": "Expertise: Nature",
     "prerequisites": [
       {
+        "name": "Skill: Nature",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-nature"
+        "value": null,
+        "url": "proficiencies/skill-nature"
       }
     ],
     "desc": [
@@ -6225,8 +6283,10 @@
     "name": "Expertise: Perception",
     "prerequisites": [
       {
+        "name": "Skill: Perception",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-perception"
+        "value": null,
+        "url": "proficiencies/skill-perception"
       }
     ],
     "desc": [
@@ -6249,8 +6309,10 @@
     "name": "Expertise: Performance",
     "prerequisites": [
       {
+        "name": "Skill: Performance",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-performance"
+        "value": null,
+        "url": "proficiencies/skill-performance"
       }
     ],
     "desc": [
@@ -6273,8 +6335,10 @@
     "name": "Expertise: Persuasion",
     "prerequisites": [
       {
+        "name": "Skill: Persuasion",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-persuasion"
+        "value": null,
+        "url": "proficiencies/skill-persuasion"
       }
     ],
     "desc": [
@@ -6297,8 +6361,10 @@
     "name": "Expertise: Religion",
     "prerequisites": [
       {
+        "name": "Skill: Religion",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-religion"
+        "value": null,
+        "url": "proficiencies/skill-religion"
       }
     ],
     "desc": [
@@ -6321,8 +6387,10 @@
     "name": "Expertise: Sleight of Hand",
     "prerequisites": [
       {
+        "name": "Skill: Sleight of Hand",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-sleight-of-hand"
+        "value": null,
+        "url": "proficiencies/skill-sleight-of-hand"
       }
     ],
     "desc": [
@@ -6345,8 +6413,10 @@
     "name": "Expertise: Stealth",
     "prerequisites": [
       {
+        "name": "Skill: Stealth",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-stealth"
+        "value": null,
+        "url": "proficiencies/skill-stealth"
       }
     ],
     "desc": [
@@ -6369,8 +6439,10 @@
     "name": "Expertise: Survival",
     "prerequisites": [
       {
+        "name": "Skill: Survival",
         "type": "proficiency",
-        "proficiency": "proficiencies/skill-survival"
+        "value": null,
+        "url": "proficiencies/skill-survival"
       }
     ],
     "desc": [
@@ -6393,8 +6465,10 @@
     "name": "Expertise: Thieves' Tools",
     "prerequisites": [
       {
+        "name": "Thieves' Tools",
         "type": "proficiency",
-        "proficiency": "proficiencies/thieves-tools"
+        "value": null,
+        "url": "proficiencies/thieves-tools"
       }
     ],
     "desc": [
@@ -8201,6 +8275,7 @@
       {
         "name": "Eldritch blast cantrip",
         "type": "spell",
+        "value": null,
         "url": "spells/eldritch-blast"
       }
     ],
@@ -8245,7 +8320,8 @@
       {
         "name": "9th level",
         "type": "level",
-        "value": 9
+        "value": 9,
+        "url": null
       }
     ],
     "desc": [
@@ -8308,7 +8384,8 @@
       {
         "name": "7th level",
         "type": "level",
-        "value": 7
+        "value": 7,
+        "url": null
       }
     ],
     "desc": [
@@ -8333,6 +8410,7 @@
       {
         "name": "Pact of the Tome feature",
         "type": "feature",
+        "value": null,
         "url": "features/pact-of-the-tome"
       }
     ],
@@ -8359,11 +8437,13 @@
       {
         "name": "15th level",
         "type": "level",
-        "value": 15
+        "value": 15,
+        "url": null
       },
       {
         "name": "Pact of the Chain feature",
         "type": "feature",
+        "value": null,
         "url": "features/pact-of-the-chain"
       }
     ],
@@ -8408,7 +8488,8 @@
       {
         "name": "7th level",
         "type": "level",
-        "value": 7
+        "value": 7,
+        "url": null
       }
     ],
     "desc": [
@@ -8452,6 +8533,7 @@
       {
         "name": "Eldritch blast cantrip",
         "type": "spell",
+        "value": null,
         "url": "spells/eldritch-blast"
       }
     ],
@@ -8534,11 +8616,13 @@
       {
         "name": "12th level",
         "type": "level",
-        "value": 12
+        "value": 12,
+        "url": null
       },
       {
         "name": "Pact of the Blade feature",
         "type": "feature",
+        "value": null,
         "url": "features/pact-of-the-blade"
       }
     ],
@@ -8583,7 +8667,8 @@
       {
         "name": "15th level",
         "type": "level",
-        "value": 15
+        "value": 15,
+        "url": null
       }
     ],
     "desc": [
@@ -8608,7 +8693,8 @@
       {
         "name": "9th level",
         "type": "level",
-        "value": 9
+        "value": 9,
+        "url": null
       }
     ],
     "desc": [
@@ -8633,7 +8719,8 @@
       {
         "name": "5th level",
         "type": "level",
-        "value": 5
+        "value": 5,
+        "url": null
       }
     ],
     "desc": [
@@ -8677,7 +8764,8 @@
       {
         "name": "5th level",
         "type": "level",
-        "value": 5
+        "value": 5,
+        "url": null
       }
     ],
     "desc": [
@@ -8702,7 +8790,8 @@
       {
         "name": "9th level",
         "type": "level",
-        "value": 9
+        "value": 9,
+        "url": null
       }
     ],
     "desc": [
@@ -8727,6 +8816,7 @@
       {
         "name": "Eldritch blast cantrip",
         "type": "spell",
+        "value": null,
         "url": "spells/eldritch-blast"
       }
     ],
@@ -8752,7 +8842,8 @@
       {
         "name": "7th level",
         "type": "level",
-        "value": 7
+        "value": 7,
+        "url": null
       }
     ],
     "desc": [
@@ -8777,7 +8868,8 @@
       {
         "name": "5th level",
         "type": "level",
-        "value": 5
+        "value": 5,
+        "url": null
       }
     ],
     "desc": [
@@ -8821,11 +8913,13 @@
       {
         "name": "5th level",
         "type": "level",
-        "value": 5
+        "value": 5,
+        "url": null
       },
       {
         "name": "Pact of the Blade feature",
         "type": "feature",
+        "value": null,
         "url": "features/pact-of-the-blade"
       }
     ],
@@ -8851,7 +8945,8 @@
       {
         "name": "15th level",
         "type": "level",
-        "value": 15
+        "value": 15,
+        "url": null
       }
     ],
     "desc": [
@@ -8876,7 +8971,8 @@
       {
         "name": "Pact of the Chain feature",
         "type": "feature",
-        "feature": "features/pact-of-the-chain"
+        "value": null,
+        "url": "features/pact-of-the-chain"
       }
     ],
     "desc": [
@@ -8902,7 +8998,8 @@
       {
         "name": "9th level",
         "type": "level",
-        "value": 9
+        "value": 9,
+        "url": null
       }
     ],
     "desc": [
@@ -8927,7 +9024,8 @@
       {
         "name": "15th level",
         "type": "level",
-        "value": 15
+        "value": 15,
+        "url": null
       }
     ],
     "desc": [

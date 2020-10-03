@@ -96,6 +96,14 @@
     "url": "damage-types/slashing"
   },
   {
+    "label": "spells",
+    "name": "Spells",
+    "desc": [
+      "Damage from spells."
+    ],
+    "url": "damage-types/spells"
+  },
+  {
     "label": "thunder",
     "name": "Thunder",
     "desc": [

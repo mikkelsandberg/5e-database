@@ -165,8 +165,36 @@
       }
     ],
     "damage_resistances": [
-      "damage from spells",
-      "non magical bludgeoning, piercing, and slashing (from stoneskin)"
+      {
+        "label": "spells",
+        "name": "Spells",
+        "desc": null,
+        "url": "damage-types/spells"
+      },
+      {
+        "label": "bludgeoning",
+        "name": "Bludgeoning",
+        "desc": [
+          "Nonmagical bludgeoning (from stoneskin)."
+        ],
+        "url": "damage-types/bludgeoning"
+      },
+      {
+        "label": "piercing",
+        "name": "Piercing",
+        "desc": [
+          "Nonmagical piercing (from stoneskin)."
+        ],
+        "url": "damage-types/piercing"
+      },
+      {
+        "label": "slashing",
+        "name": "Slashing",
+        "desc": [
+          "Nonmagical slashing (from stoneskin)."
+        ],
+        "url": "damage-types/slashing"
+      }
     ],
     "senses": {
       "passive_perception": 12
@@ -438,7 +466,12 @@
       }
     ],
     "damage_resistances": [
-      "poison"
+      {
+        "label": "poison",
+        "name": "Poison",
+        "desc": null,
+        "url": "damage-types/poison"
+      }
     ],
     "senses": {
       "passive_perception": 13
