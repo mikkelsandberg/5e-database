@@ -1,6 +1,7 @@
 [
   {
     "label": "barbarian",
+    "name": "Barbarian",
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
@@ -35,19 +36,22 @@
               "name": "Greataxe",
               "url": "equipment-items/greataxe"
             },
-            "quantity": 1
+            "quantity": 1,
+            "equipment_option": null
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "martial-melee-weapons",
                   "name": "Martial Melee Weapons",
                   "url": "equipment-types/martial-melee-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -57,6 +61,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "handaxe",
               "name": "Handaxe",
@@ -65,16 +70,18 @@
             "quantity": 2
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "simple-weapons",
                   "name": "Simple Weapons",
                   "url": "equipment-types/simple-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -84,6 +91,7 @@
   },
   {
     "label": "bard",
+    "name": "Bard",
     "class_association": {
       "label": "bard",
       "name": "Bard",
@@ -113,6 +121,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "rapier",
               "name": "Rapier",
@@ -121,6 +130,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "longsword",
               "name": "Longsword",
@@ -129,16 +139,18 @@
             "quantity": 1
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "simple-weapons",
                   "name": "Simple Weapons",
                   "url": "equipment-types/simple-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -148,6 +160,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "diplomats-pack",
               "name": "Diplomat's Pack",
@@ -156,6 +169,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "entertainers-pack",
               "name": "Entertainer's Pack",
@@ -170,23 +184,27 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "lute",
               "name": "Lute",
               "url": "equipment-items/lute"
-            }
+            },
+            "quantity": null
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "musical-instruments",
                   "name": "Musical Instruments",
                   "url": "equipment-types/musical-instruments"
                 }
-              }
+              ]
             }
           }
         ]
@@ -196,6 +214,7 @@
   },
   {
     "label": "cleric",
+    "name": "Cleric",
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
@@ -217,6 +236,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "mace",
               "name": "Mace",
@@ -225,6 +245,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "warhammer",
               "name": "Warhammer",
@@ -249,6 +270,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "scale-mail",
               "name": "Scale Mail",
@@ -257,6 +279,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "leather",
               "name": "Leather",
@@ -265,6 +288,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "chain-mail",
               "name": "Chain Mail",
@@ -307,16 +331,18 @@
             }
           ],
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "simple-weapons",
                   "name": "Simple Weapons",
                   "url": "equipment-types/simple-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -326,6 +352,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "priests-pack",
               "name": "Priest's Pack",
@@ -334,6 +361,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "explorers-pack",
               "name": "Explorer's Pack",
@@ -359,6 +387,7 @@
   },
   {
     "label": "druid",
+    "name": "Druid",
     "class_association": {
       "label": "druid",
       "name": "Druid",
@@ -388,6 +417,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "shield",
               "name": "Shield",
@@ -396,16 +426,18 @@
             "quantity": 1
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "simple-weapons",
                   "name": "Simple Weapons",
                   "url": "equipment-types/simple-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -415,6 +447,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "scimitar",
               "name": "Scimitar",
@@ -423,16 +456,18 @@
             "quantity": 1
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "simple-weapons",
                   "name": "Simple Weapons",
                   "url": "equipment-types/simple-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -453,6 +488,7 @@
   },
   {
     "label": "fighter",
+    "name": "Fighter",
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
@@ -465,6 +501,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "chain-mail",
               "name": "Chain Mail",
@@ -528,16 +565,18 @@
             }
           ],
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
-              "choose": 2,
+              "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
-                  "label": "martial-weapons",
-                  "name": "Martial Weapons",
-                  "url": "equipment-types/martial-weapons"
+              "from": [
+                {
+                  "label": "martial-melee-weapons",
+                  "name": "Martial Melee Weapons",
+                  "url": "equipment-types/martial-melee-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -547,6 +586,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "handaxe",
               "name": "Handaxe",
@@ -579,6 +619,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "dungeoneers-pack",
               "name": "Dungeoneer's Pack",
@@ -587,6 +628,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "explorers-pack",
               "name": "Explorer's Pack",
@@ -601,6 +643,7 @@
   },
   {
     "label": "monk",
+    "name": "Monk",
     "class_association": {
       "label": "monk",
       "name": "Monk",
@@ -622,6 +665,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "shortsword",
               "name": "Shortsword",
@@ -630,16 +674,18 @@
             "quantity": 1
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "simple-weapons",
                   "name": "Simple Weapons",
                   "url": "equipment-types/simple-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -649,6 +695,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "dungeoneers-pack",
               "name": "Dungeoneer's Pack",
@@ -657,6 +704,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "explorers-pack",
               "name": "Explorer's Pack",
@@ -671,6 +719,7 @@
   },
   {
     "label": "paladin",
+    "name": "Paladin",
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
@@ -715,16 +764,18 @@
             }
           ],
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
-              "choose": 2,
+              "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
-                  "label": "martial-weapons",
-                  "name": "Martial Weapons",
-                  "url": "equipment-types/martial-weapons"
+              "from": [
+                {
+                  "label": "martial-melee-weapons",
+                  "name": "Martial Melee Weapons",
+                  "url": "equipment-types/martial-melee-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -734,6 +785,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "javelin",
               "name": "Javelin",
@@ -742,14 +794,18 @@
             "quantity": 5
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "label": "simple-weapons",
-                "name": "Simple Weapons",
-                "url": "equipment-types/simple-weapons"
-              }
+              "from": [
+                {
+                  "label": "simple-weapons",
+                  "name": "Simple Weapons",
+                  "url": "equipment-types/simple-weapons"
+                }
+              ]
             }
           }
         ]
@@ -759,6 +815,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "priests-pack",
               "name": "Priest's Pack",
@@ -767,6 +824,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "explorers-pack",
               "name": "Explorer's Pack",
@@ -792,6 +850,7 @@
   },
   {
     "label": "ranger",
+    "name": "Ranger",
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
@@ -821,6 +880,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "scale-mail",
               "name": "Scale Mail",
@@ -829,6 +889,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "leather",
               "name": "Leather",
@@ -843,6 +904,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "shortsword",
               "name": "Shortsword",
@@ -851,16 +913,18 @@
             "quantity": 2
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 2,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "simple-melee-weapons",
                   "name": "Simple Melee Weapons",
                   "url": "equipment-types/simple-melee-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -870,6 +934,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "dungeoneers-pack",
               "name": "Dungeoneer's Pack",
@@ -878,6 +943,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "explorers-pack",
               "name": "Explorer's Pack",
@@ -892,6 +958,7 @@
   },
   {
     "label": "rogue",
+    "name": "Rogue",
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
@@ -929,6 +996,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "rapier",
               "name": "Rapier",
@@ -937,6 +1005,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "shortsword",
               "name": "Shortsword",
@@ -951,6 +1020,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "shortsword",
               "name": "Shortsword",
@@ -983,6 +1053,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "burglars-pack",
               "name": "Burglar's Pack",
@@ -991,6 +1062,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "dungeoneers-pack",
               "name": "Dungeoneer's Pack",
@@ -999,6 +1071,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "explorers-pack",
               "name": "Explorer's Pack",
@@ -1013,6 +1086,7 @@
   },
   {
     "label": "sorcerer",
+    "name": "Sorcerer",
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
@@ -1052,16 +1126,18 @@
             }
           ],
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "simple-weapons",
                   "name": "Simple Weapons",
                   "url": "equipment-types/simple-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -1071,6 +1147,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "component-pouch",
               "name": "Component pouch",
@@ -1079,16 +1156,18 @@
             "quantity": 1
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "arcane-foci",
                   "name": "Arcane Foci",
                   "url": "equipment-types/arcane-foci"
                 }
-              }
+              ]
             }
           }
         ]
@@ -1098,6 +1177,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "dungeoneers-pack",
               "name": "Dungeoneer's Pack",
@@ -1106,6 +1186,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "explorers-pack",
               "name": "Explorer's Pack",
@@ -1120,6 +1201,7 @@
   },
   {
     "label": "warlock",
+    "name": "Warlock",
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
@@ -1167,16 +1249,18 @@
             }
           ],
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "simple-weapons",
                   "name": "Simple Weapons",
                   "url": "equipment-types/simple-weapons"
                 }
-              }
+              ]
             }
           }
         ]
@@ -1186,6 +1270,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "component-pouch",
               "name": "Component pouch",
@@ -1194,16 +1279,18 @@
             "quantity": 1
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "arcane-foci",
                   "name": "Arcane foci",
                   "url": "equipment-types/arcane-foci"
                 }
-              }
+              ]
             }
           }
         ]
@@ -1213,6 +1300,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "scholars-pack",
               "name": "Scholar's Pack",
@@ -1221,6 +1309,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "dungeoneers-pack",
               "name": "Dungeoneer's Pack",
@@ -1246,6 +1335,7 @@
   },
   {
     "label": "wizard",
+    "name": "Wizard",
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
@@ -1267,6 +1357,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "dagger",
               "name": "Dagger",
@@ -1275,6 +1366,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "quarterstaff",
               "name": "Quarterstaff",
@@ -1289,6 +1381,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "component-pouch",
               "name": "Component pouch",
@@ -1297,16 +1390,18 @@
             "quantity": 1
           },
           {
+            "equipment": null,
+            "quantity": null,
             "equipment_option": {
               "choose": 1,
               "type": "equipment",
-              "from": {
-                "equipment_category": {
+              "from": [
+                {
                   "label": "arcane-foci",
                   "name": "Arcane Foci",
                   "url": "equipment-types/arcane-foci"
                 }
-              }
+              ]
             }
           }
         ]
@@ -1316,6 +1411,7 @@
         "type": "equipment",
         "from": [
           {
+            "equipment_option": null,
             "equipment": {
               "label": "scholars-pack",
               "name": "Scholar's Pack",
@@ -1324,6 +1420,7 @@
             "quantity": 1
           },
           {
+            "equipment_option": null,
             "equipment": {
               "label": "dungeoneers-pack",
               "name": "Dungeoneer's Pack",
