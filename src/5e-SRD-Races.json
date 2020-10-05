@@ -93,6 +93,11 @@
         "label": "dwarven-combat-training",
         "name": "Dwarven Combat Training",
         "url": "traits/dwarven-combat-training"
+      },
+      {
+        "index": "tool-proficiency",
+        "name": "Tool Proficiency",
+        "url": "traits/tool-proficiency"
       }
     ],
     "subrace_associations": [

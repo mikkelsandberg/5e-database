@@ -66,32 +66,32 @@
             {
               "name": "Light",
               "level": 0,
-              "url": "spells/180"
+              "url": "spells/light"
             },
             {
               "name": "Sacred Flame",
               "level": 0,
-              "url": "spells/250"
+              "url": "spells/sacred-flame"
             },
             {
               "name": "Thaumaturgy",
               "level": 0,
-              "url": "spells/291"
+              "url": "spells/thaumaturgy"
             },
             {
               "name": "Bless",
               "level": 1,
-              "url": "spells/29"
+              "url": "spells/bless"
             },
             {
               "name": "Cure Wounds",
               "level": 1,
-              "url": "spells/70"
+              "url": "spells/cure-wounds"
             },
             {
               "name": "Sanctuary",
               "level": 1,
-              "url": "spells/251"
+              "url": "spells/sanctuary"
             }
           ]
         }
@@ -242,14 +242,16 @@
           "spells": [
             {
               "name": "Disguise Self",
-              "url": "spells/83",
+              "level": 1,
+              "url": "spells/disguise-self",
               "usage": {
                 "type": "at will"
               }
             },
             {
               "name": "Invisibility",
-              "url": "spells/173",
+              "level": 2,
+              "url": "spells/invisibility",
               "usage": {
                 "type": "at will"
               }
@@ -257,130 +259,130 @@
             {
               "name": "Fire Bolt",
               "level": 0,
-              "url": "spells/116"
+              "url": "spells/fire-bolt"
             },
             {
               "name": "Light",
               "level": 0,
-              "url": "spells/180"
+              "url": "spells/light"
             },
             {
               "name": "Mage Hand",
               "level": 0,
-              "url": "spells/187"
+              "url": "spells/mage-hand"
             },
             {
               "name": "Prestidigitation",
               "level": 0,
-              "url": "spells/227"
+              "url": "spells/prestidigitation"
             },
             {
               "name": "Shocking Grasp",
               "level": 0,
-              "url": "spells/264"
+              "url": "spells/shocking-grasp"
             },
             {
               "name": "Detect Magic",
               "level": 1,
-              "url": "spells/79"
+              "url": "spells/detect-magic"
             },
             {
               "name": "Identify",
               "level": 1,
-              "url": "spells/166"
+              "url": "spells/identify"
             },
             {
               "name": "Mage Armor",
               "level": 1,
-              "url": "spells/186",
-              "note": "Cast on self before combat"
+              "url": "spells/mage-armor",
+              "notes": "Cast on self before combat"
             },
             {
               "name": "Magic Missile",
               "level": 1,
-              "url": "spells/190"
+              "url": "spells/magic-missile"
             },
             {
               "name": "Detect Thoughts",
               "level": 2,
-              "url": "spells/81"
+              "url": "spells/detect-thoughts"
             },
             {
               "name": "Mirror Image",
               "level": 2,
-              "url": "spells/207"
+              "url": "spells/mirror-image"
             },
             {
               "name": "Misty Step",
               "level": 2,
-              "url": "spells/209"
+              "url": "spells/misty-step"
             },
             {
               "name": "Counterspell",
               "level": 3,
-              "url": "spells/65"
+              "url": "spells/counterspell"
             },
             {
               "name": "Fly",
               "level": 3,
-              "url": "spells/125"
+              "url": "spells/fly"
             },
             {
               "name": "Lightning Bolt",
               "level": 3,
-              "url": "spells/181"
+              "url": "spells/lightning-bolt"
             },
             {
               "name": "Banishment",
               "level": 4,
-              "url": "spells/23"
+              "url": "spells/banishment"
             },
             {
               "name": "Fire Shield",
               "level": 4,
-              "url": "spells/117"
+              "url": "spells/fire-shield"
             },
             {
               "name": "Stoneskin",
               "level": 4,
-              "url": "spells/281",
-              "note": "Cast on self before combat"
+              "url": "spells/stoneskin",
+              "notes": "Cast on self before combat"
             },
             {
               "name": "Cone of Cold",
               "level": 5,
-              "url": "spells/51"
+              "url": "spells/cone-of-cold"
             },
             {
               "name": "Scrying",
               "level": 5,
-              "url": "spells/253"
+              "url": "spells/scrying"
             },
             {
               "name": "Wall of Force",
               "level": 5,
-              "url": "spells/306"
+              "url": "spells/wall-of-force"
             },
             {
               "name": "Globe of Invulnerability",
               "level": 6,
-              "url": "spells/138"
+              "url": "spells/globe-of-invulnerability"
             },
             {
               "name": "Teleport",
               "level": 7,
-              "url": "spells/289"
+              "url": "spells/teleport"
             },
             {
               "name": "Mind Blank",
               "level": 8,
-              "url": "spells/204",
-              "note": "Cast on self before combat"
+              "url": "spells/mind-blank",
+              "notes": "Cast on self before combat"
             },
             {
               "name": "Time Stop",
               "level": 9,
-              "url": "spells/293"
+              "url": "spells/time-stop"
             }
           ]
         }
@@ -974,42 +976,42 @@
             {
               "name": "Light",
               "level": 0,
-              "url": "spells/180"
+              "url": "spells/light"
             },
             {
               "name": "Sacred Flame",
               "level": 0,
-              "url": "spells/250"
+              "url": "spells/sacred-flame"
             },
             {
               "name": "Thaumaturgy",
               "level": 0,
-              "url": "spells/291"
+              "url": "spells/thaumaturgy"
             },
             {
               "name": "Command",
-              "level": 0,
-              "url": "spells/46"
+              "level": 1,
+              "url": "spells/command"
             },
             {
               "name": "Inflict Wounds",
-              "level": 0,
-              "url": "spells/170"
+              "level": 1,
+              "url": "spells/inflict-wounds"
             },
             {
               "name": "Shield of Faith",
-              "level": 0,
-              "url": "spells/262"
+              "level": 1,
+              "url": "spells/shield-of-faith"
             },
             {
               "name": "Hold Person",
-              "level": 0,
-              "url": "spells/161"
+              "level": 2,
+              "url": "spells/hold-person"
             },
             {
               "name": "Spiritual Weapon",
-              "level": 0,
-              "url": "spells/278"
+              "level": 2,
+              "url": "spells/spiritual-weapon"
             }
           ]
         }
@@ -1198,47 +1200,47 @@
             {
               "name": "Druidcraft",
               "level": 0,
-              "url": "spells/94"
+              "url": "spells/druidcraft"
             },
             {
               "name": "Produce Flame",
               "level": 0,
-              "url": "spells/231"
+              "url": "spells/produce-flame"
             },
             {
               "name": "Shillelagh",
               "level": 0,
-              "url": "spells/263"
+              "url": "spells/shillelagh"
             },
             {
               "name": "Entangle",
               "level": 1,
-              "url": "spells/99"
+              "url": "spells/entangle"
             },
             {
               "name": "Longstrider",
               "level": 1,
-              "url": "spells/185"
+              "url": "spells/longstrider"
             },
             {
               "name": "Speak with Animals",
               "level": 1,
-              "url": "spells/272"
+              "url": "spells/speak-with-animals"
             },
             {
               "name": "Thunderwave",
               "level": 1,
-              "url": "spells/292"
+              "url": "spells/thunderwave"
             },
             {
               "name": "Animal Messenger",
               "level": 2,
-              "url": "spells/7"
+              "url": "spells/animal-messenger"
             },
             {
               "name": "Barkskin",
               "level": 2,
-              "url": "spells/24"
+              "url": "spells/barkskin"
             }
           ]
         }
@@ -1745,82 +1747,82 @@
             {
               "name": "Fire Bolt",
               "level": 0,
-              "url": "spells/116"
+              "url": "spells/fire-bolt"
             },
             {
               "name": "Light",
               "level": 0,
-              "url": "spells/180"
+              "url": "spells/light"
             },
             {
               "name": "Mage Hand",
               "level": 0,
-              "url": "spells/187"
+              "url": "spells/mage-hand"
             },
             {
               "name": "Prestidigitation",
               "level": 0,
-              "url": "spells/227"
+              "url": "spells/prestidigitation"
             },
             {
               "name": "Detect Magic",
               "level": 1,
-              "url": "spells/79"
+              "url": "spells/detect-magic"
             },
             {
               "name": "Mage Armor",
               "level": 1,
-              "url": "spells/186"
+              "url": "spells/mage-armor"
             },
             {
               "name": "Magic Missile",
               "level": 1,
-              "url": "spells/190"
+              "url": "spells/magic-missile"
             },
             {
               "name": "Shield",
               "level": 1,
-              "url": "spells/261"
+              "url": "spells/shield"
             },
             {
               "name": "Misty Step",
               "level": 2,
-              "url": "spells/209"
+              "url": "spells/misty-step"
             },
             {
               "name": "Suggestion",
               "level": 2,
-              "url": "spells/283"
+              "url": "spells/suggestion"
             },
             {
               "name": "Counterspell",
               "level": 3,
-              "url": "spells/65"
+              "url": "spells/counterspell"
             },
             {
               "name": "Fireball",
               "level": 3,
-              "url": "spells/119"
+              "url": "spells/fireball"
             },
             {
               "name": "Fly",
               "level": 3,
-              "url": "spells/125"
+              "url": "spells/fly"
             },
             {
               "name": "Greater Invisibility",
               "level": 4,
-              "url": "spells/142"
+              "url": "spells/greater-invisibility"
             },
             {
               "name": "Ice Storm",
               "level": 4,
-              "url": "spells/165"
+              "url": "spells/ice-storm"
             },
             {
               "name": "Cone of Cold",
               "level": 5,
-              "url": "spells/51"
+              "url": "spells/cone-of-cold"
             }
           ]
         }
@@ -2004,52 +2006,52 @@
             {
               "name": "Light",
               "level": 0,
-              "url": "spells/180"
+              "url": "spells/light"
             },
             {
               "name": "Sacred Flame",
               "level": 0,
-              "url": "spells/250"
+              "url": "spells/sacred-flame"
             },
             {
               "name": "Thaumaturgy",
               "level": 0,
-              "url": "spells/291"
+              "url": "spells/thaumaturgy"
             },
             {
               "name": "Cure Wounds",
               "level": 1,
-              "url": "spells/70"
+              "url": "spells/cure-wounds"
             },
             {
               "name": "Guiding Bolt",
               "level": 1,
-              "url": "spells/147"
+              "url": "spells/guiding-bolt"
             },
             {
               "name": "Sanctuary",
               "level": 1,
-              "url": "spells/251"
+              "url": "spells/sanctuary"
             },
             {
               "name": "Lesser Restoration",
               "level": 2,
-              "url": "spells/178"
+              "url": "spells/lesser-restoration"
             },
             {
               "name": "Spiritual Weapon",
               "level": 2,
-              "url": "spells/278"
+              "url": "spells/spiritual-weapon"
             },
             {
               "name": "Dispel Magic",
               "level": 3,
-              "url": "spells/86"
+              "url": "spells/dispel-magic"
             },
             {
               "name": "Spirit Guardians",
               "level": 3,
-              "url": "spells/277"
+              "url": "spells/spirit-guardians"
             }
           ]
         }
@@ -2558,7 +2560,7 @@
               },
               {
                 "name": "Shortsword",
-                "note": "If shortsword is drawn",
+                "notes": "If shortsword is drawn",
                 "count": 2,
                 "type": "melee"
               }

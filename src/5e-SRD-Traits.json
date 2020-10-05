@@ -26,25 +26,14 @@
         "label": "half-orc",
         "name": "Half-Orc",
         "url": "races/half-orc"
-      }
-    ],
-    "subrace_associations": [
-      {
-        "label": "hill-dwarf",
-        "name": "Hill Dwarf",
-        "url": "subraces/hill-dwarf"
       },
       {
-        "label": "high-elf",
-        "name": "High Elf",
-        "url": "subraces/high-elf"
-      },
-      {
-        "label": "rock-gnome",
-        "name": "Rock Gnome",
-        "url": "subraces/rock-gnome"
+        "index": "tiefling",
+        "name": "Tiefling",
+        "url": "races/tiefling"
       }
     ],
+    "subrace_associations": null,
     "name": "Darkvision",
     "desc": [
       "You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness, only shades of gray."
@@ -60,13 +49,7 @@
         "url": "races/dwarf"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "hill-dwarf",
-        "name": "Hill Dwarf",
-        "url": "subraces/hill-dwarf"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Dwarven Resilience",
     "desc": [
       "You have advantage on saving throws against poison, and you have resistance against poison damage."
@@ -82,18 +65,28 @@
         "url": "races/dwarf"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "hill-dwarf",
-        "name": "Hill Dwarf",
-        "url": "subraces/hill-dwarf"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Dwarven Combat Training",
     "desc": [
       "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer."
     ],
     "url": "traits/dwarven-combat-training"
+  },
+  {
+    "index": "tool-proficiency",
+    "race_associations": [
+      {
+        "index": "dwarf",
+        "name": "Dwarf",
+        "url": "races/dwarf"
+      }
+    ],
+    "subrace_associations": null,
+    "name": "Tool Proficiency",
+    "desc": [
+      "You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools."
+    ],
+    "url": "traits/tool-proficiency"
   },
   {
     "label": "stonecunning",
@@ -104,13 +97,7 @@
         "url": "races/dwarf"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "hill-dwarf",
-        "name": "Hill Dwarf",
-        "url": "subraces/hill-dwarf"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Stonecunning",
     "desc": [
       "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
@@ -142,13 +129,7 @@
         "url": "races/elf"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "high-elf",
-        "name": "High Elf",
-        "url": "subraces/high-elf"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Keen Senses",
     "desc": [
       "You have proficiency in the Perception skill."
@@ -169,13 +150,7 @@
         "url": "races/half-elf"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "high-elf",
-        "name": "High Elf",
-        "url": "subraces/high-elf"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Fey Ancestry",
     "desc": [
       "You have advantage on saving throws against being charmed, and magic cannot put you to sleep."
@@ -191,13 +166,7 @@
         "url": "races/elf"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "high-elf",
-        "name": "High Elf",
-        "url": "subraces/high-elf"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Trance",
     "desc": [
       "Elves do not need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting this way, you gain the same benefit that a human does from 8 hours of sleep."
@@ -206,13 +175,7 @@
   },
   {
     "label": "elf-weapon-training",
-    "race_associations": [
-      {
-        "label": "elf",
-        "name": "Elf",
-        "url": "races/elf"
-      }
-    ],
+    "race_associations": null,
     "subrace_associations": [
       {
         "label": "high-elf",
@@ -267,13 +230,7 @@
         "url": "races/halfling"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "lightfoot-halfling",
-        "name": "Lightfoot Halfling",
-        "url": "subraces/lightfoot-halfling"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Lucky",
     "desc": [
       "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
@@ -289,13 +246,7 @@
         "url": "races/halfling"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "lightfoot-halfling",
-        "name": "Lightfoot Halfling",
-        "url": "subraces/lightfoot-halfling"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Brave",
     "desc": [
       "You have advantage on saving throw against being frightened."
@@ -311,13 +262,7 @@
         "url": "races/halfling"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "lightfoot-halfling",
-        "name": "Lightfoot Halfling",
-        "url": "subraces/lightfoot-halfling"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Halfling Nimbleness",
     "desc": [
       "You can move through the space of any creature that is of a size larger than yours."
@@ -399,13 +344,7 @@
         "url": "races/gnome"
       }
     ],
-    "subrace_associations": [
-      {
-        "label": "rock-gnome",
-        "name": "Rock Gnome",
-        "url": "subraces/rock-gnome"
-      }
-    ],
+    "subrace_associations": null,
     "name": "Gnome Cunning",
     "desc": [
       "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."

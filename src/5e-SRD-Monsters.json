@@ -6308,77 +6308,77 @@
             {
               "name": "Sacred Flame",
               "level": 0,
-              "url": "spells/250"
+              "url": "spells/sacred-flame"
             },
             {
               "name": "Spare the Dying",
               "level": 0,
-              "url": "spells/271"
+              "url": "spells/spare-the-dying"
             },
             {
               "name": "Thaumaturgy",
               "level": 0,
-              "url": "spells/291"
+              "url": "spells/thaumaturgy"
             },
             {
               "name": "Command",
               "level": 1,
-              "url": "spells/46"
+              "url": "spells/command"
             },
             {
               "name": "Detect Evil and Good",
               "level": 1,
-              "url": "spells/78"
+              "url": "spells/detect-evil-and-good"
             },
             {
               "name": "Detect Magic",
               "level": 1,
-              "url": "spells/79"
+              "url": "spells/detect-magic"
             },
             {
               "name": "Lesser Restoration",
               "level": 2,
-              "url": "spells/178"
+              "url": "spells/lesser-restoration"
             },
             {
               "name": "Zone of Truth",
               "level": 2,
-              "url": "spells/319"
+              "url": "spells/zone-of-truth"
             },
             {
               "name": "Dispel Magic",
               "level": 3,
-              "url": "spells/86"
+              "url": "spells/dispel-magic"
             },
             {
               "name": "Tongues",
               "level": 3,
-              "url": "spells/295"
+              "url": "spells/tongues"
             },
             {
               "name": "Banishment",
               "level": 4,
-              "url": "spells/23"
+              "url": "spells/banishment"
             },
             {
               "name": "Freedom of Movement",
               "level": 4,
-              "url": "spells/130"
+              "url": "spells/freedom-of-movement"
             },
             {
               "name": "Flame Strike",
               "level": 5,
-              "url": "spells/121"
+              "url": "spells/flame-strike"
             },
             {
               "name": "Greater Restoration",
               "level": 5,
-              "url": "spells/143"
+              "url": "spells/greater-restoration"
             },
             {
               "name": "Heroes' Feast",
               "level": 6,
-              "url": "spells/157"
+              "url": "spells/heroes-feast"
             }
           ]
         }
@@ -9431,19 +9431,19 @@
             [
               {
                 "name": "Fire Breath",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "ability"
               },
               {
                 "name": "Horns",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Claws",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "melee"
               }
@@ -9451,19 +9451,19 @@
             [
               {
                 "name": "Bite",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Fire Breath",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "ability"
               },
               {
                 "name": "Claws",
-                "note": "When Fire Breath is available",
+                "notes": "When Fire Breath is available",
                 "count": 1,
                 "type": "melee"
               }
@@ -9648,13 +9648,13 @@
             [
               {
                 "name": "Pincer",
-                "note": "When chuul is grappling",
+                "notes": "When chuul is grappling",
                 "count": 2,
                 "type": "melee"
               },
               {
                 "name": "Tentacles",
-                "note": "When chuul is grappling",
+                "notes": "When chuul is grappling",
                 "count": 1,
                 "type": "melee"
               }
@@ -10141,6 +10141,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -10148,6 +10149,7 @@
             },
             {
               "name": "Fog Cloud",
+              "level": 1,
               "url": "spells/fog-cloud",
               "usage": {
                 "type": "at will"
@@ -10155,6 +10157,7 @@
             },
             {
               "name": "Light",
+              "level": 0,
               "url": "spells/light",
               "usage": {
                 "type": "at will"
@@ -10162,6 +10165,7 @@
             },
             {
               "name": "Feather Fall",
+              "level": 1,
               "url": "spells/feather-fall",
               "usage": {
                 "type": "per day",
@@ -10170,6 +10174,7 @@
             },
             {
               "name": "Fly",
+              "level": 3,
               "url": "spells/fly",
               "usage": {
                 "type": "per day",
@@ -10178,6 +10183,7 @@
             },
             {
               "name": "Misty Step",
+              "level": 2,
               "url": "spells/misty-step",
               "usage": {
                 "type": "per day",
@@ -10186,6 +10192,7 @@
             },
             {
               "name": "Telekinesis",
+              "level": 5,
               "url": "spells/telekinesis",
               "usage": {
                 "type": "per day",
@@ -10194,6 +10201,7 @@
             },
             {
               "name": "Control Weather",
+              "level": 8,
               "url": "spells/control-weather",
               "usage": {
                 "type": "per day",
@@ -10202,6 +10210,7 @@
             },
             {
               "name": "Gaseous Form",
+              "level": 3,
               "url": "spells/gaseous-form",
               "usage": {
                 "type": "per day",
@@ -10598,6 +10607,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -10605,6 +10615,7 @@
             },
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -10612,6 +10623,7 @@
             },
             {
               "name": "Detect Thoughts",
+              "level": 2,
               "url": "spells/detect-thoughts",
               "usage": {
                 "type": "at will"
@@ -10619,6 +10631,7 @@
             },
             {
               "name": "Bless",
+              "level": 1,
               "url": "spells/bless",
               "usage": {
                 "type": "per day",
@@ -10627,6 +10640,7 @@
             },
             {
               "name": "Create Food and Water",
+              "level": 3,
               "url": "spells/create-food-and-water",
               "usage": {
                 "type": "per day",
@@ -10635,6 +10649,7 @@
             },
             {
               "name": "Cure Wounds",
+              "level": 1,
               "url": "spells/cure-wounds",
               "usage": {
                 "type": "per day",
@@ -10643,6 +10658,7 @@
             },
             {
               "name": "Lesser Restoration",
+              "level": 2,
               "url": "spells/lesser-restoration",
               "usage": {
                 "type": "per day",
@@ -10651,6 +10667,7 @@
             },
             {
               "name": "Protection from Poison",
+              "level": 2,
               "url": "spells/protection-from-poison",
               "usage": {
                 "type": "per day",
@@ -10659,6 +10676,7 @@
             },
             {
               "name": "Sanctuary",
+              "level": 1,
               "url": "spells/sanctuary",
               "usage": {
                 "type": "per day",
@@ -10667,6 +10685,7 @@
             },
             {
               "name": "Shield",
+              "level": 1,
               "url": "spells/shield",
               "usage": {
                 "type": "per day",
@@ -10675,6 +10694,7 @@
             },
             {
               "name": "Dream",
+              "level": 5,
               "url": "spells/dream",
               "usage": {
                 "type": "per day",
@@ -10683,6 +10703,7 @@
             },
             {
               "name": "Greater Restoration",
+              "level": 5,
               "url": "spells/greater-restoration",
               "usage": {
                 "type": "per day",
@@ -10691,6 +10712,7 @@
             },
             {
               "name": "Scrying",
+              "level": 5,
               "url": "spells/scrying",
               "usage": {
                 "type": "per day",
@@ -10933,6 +10955,7 @@
           "spells": [
             {
               "name": "Nondetection",
+              "level": 3,
               "notes": "Self only",
               "url": "spells/nondetection",
               "usage": {
@@ -10941,6 +10964,7 @@
             },
             {
               "name": "Blindness/Deafness",
+              "level": 2,
               "url": "spells/blindness-deafness",
               "usage": {
                 "type": "per day",
@@ -10949,6 +10973,7 @@
             },
             {
               "name": "Blur",
+              "level": 2,
               "url": "spells/blur",
               "usage": {
                 "type": "per day",
@@ -10957,6 +10982,7 @@
             },
             {
               "name": "Disguise Self",
+              "level": 1,
               "url": "spells/disguise-self",
               "usage": {
                 "type": "per day",
@@ -11143,6 +11169,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -11150,6 +11177,7 @@
             },
             {
               "name": "Commune",
+              "level": 5,
               "url": "spells/commune",
               "usage": {
                 "type": "per day",
@@ -11158,6 +11186,7 @@
             },
             {
               "name": "Raise Dead",
+              "level": 5,
               "url": "spells/raise-dead",
               "usage": {
                 "type": "per day",
@@ -11331,6 +11360,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -11338,6 +11368,7 @@
             },
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -11345,6 +11376,7 @@
             },
             {
               "name": "Thunderwave",
+              "level": 1,
               "url": "spells/thunderwave",
               "usage": {
                 "type": "at will"
@@ -11352,6 +11384,7 @@
             },
             {
               "name": "Create Food and Water",
+              "level": 3,
               "notes": "Can create wine instead of water",
               "url": "spells/create-food-and-water",
               "usage": {
@@ -11361,6 +11394,7 @@
             },
             {
               "name": "Tongues",
+              "level": 3,
               "url": "spells/tongues",
               "usage": {
                 "type": "per day",
@@ -11369,6 +11403,7 @@
             },
             {
               "name": "Wind Walk",
+              "level": 6,
               "url": "spells/wind-walk",
               "usage": {
                 "type": "per day",
@@ -11377,6 +11412,7 @@
             },
             {
               "name": "Conjure Elemental",
+              "level": 5,
               "notes": "Air Elemental Only",
               "url": "spells/conjure-elemental",
               "usage": {
@@ -11386,6 +11422,7 @@
             },
             {
               "name": "Creation",
+              "level": 5,
               "url": "spells/creation",
               "usage": {
                 "type": "per day",
@@ -11394,6 +11431,7 @@
             },
             {
               "name": "Gaseous Form",
+              "level": 3,
               "url": "spells/gaseous-form",
               "usage": {
                 "type": "per day",
@@ -11402,6 +11440,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "url": "spells/invisibility",
               "usage": {
                 "type": "per day",
@@ -11410,6 +11449,7 @@
             },
             {
               "name": "Major Image",
+              "level": 3,
               "url": "spells/major-image",
               "usage": {
                 "type": "per day",
@@ -11418,6 +11458,7 @@
             },
             {
               "name": "Plane Shift",
+              "level": 7,
               "url": "spells/plane-shift",
               "usage": {
                 "type": "per day",
@@ -12051,6 +12092,7 @@
           "spells": [
             {
               "name": "Entangle",
+              "level": 1,
               "url": "spells/dancing-lights",
               "usage": {
                 "type": "at will"
@@ -12058,6 +12100,7 @@
             },
             {
               "name": "Darkness",
+              "level": 2,
               "url": "spells/darkness",
               "usage": {
                 "type": "per day",
@@ -12066,6 +12109,7 @@
             },
             {
               "name": "Faerie Fire",
+              "level": 1,
               "url": "spells/faerie-fire",
               "usage": {
                 "type": "per day",
@@ -12303,6 +12347,7 @@
           "spells": [
             {
               "name": "Dancing Lights",
+              "level": 0,
               "url": "spells/dancing-lights",
               "usage": {
                 "type": "at will"
@@ -12310,6 +12355,7 @@
             },
             {
               "name": "Darkness",
+              "level": 2,
               "url": "spells/entangle",
               "usage": {
                 "type": "per day",
@@ -12318,6 +12364,7 @@
             },
             {
               "name": "Faerie Fire",
+              "level": 1,
               "url": "spells/faerie-fire",
               "usage": {
                 "type": "per day",
@@ -12440,6 +12487,7 @@
           "spells": [
             {
               "name": "Druidcraft",
+              "level": 0,
               "url": "spells/druidcraft",
               "usage": {
                 "type": "at will"
@@ -12447,6 +12495,7 @@
             },
             {
               "name": "Entangle",
+              "level": 1,
               "url": "spells/entangle",
               "usage": {
                 "type": "per day",
@@ -12455,6 +12504,7 @@
             },
             {
               "name": "Goodberry",
+              "level": 1,
               "url": "spells/goodberry",
               "usage": {
                 "type": "per day",
@@ -12463,6 +12513,7 @@
             },
             {
               "name": "Barkskin",
+              "level": 2,
               "url": "spells/barkskin",
               "usage": {
                 "type": "per day",
@@ -12471,6 +12522,7 @@
             },
             {
               "name": "Pass without Trace",
+              "level": 2,
               "url": "spells/pass-without-trace",
               "usage": {
                 "type": "per day",
@@ -12479,6 +12531,7 @@
             },
             {
               "name": "Shillelagh",
+              "level": 0,
               "url": "spells/shillelagh",
               "usage": {
                 "type": "per day",
@@ -12759,9 +12812,25 @@
         "desc": [
           "The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma."
         ],
-        "usage": {
-          "type": "per day",
-          "times": 1
+        "spellcasting": {
+          "ability": {
+            "label": "cha",
+            "name": "CHA",
+            "url": "ability-scores/cha"
+          },
+          "dc": 10,
+          "components_required": null,
+          "spells": [
+            {
+              "name": "Sleep",
+              "level": 1,
+              "url": "spells/sleep",
+              "usage": {
+                "type": "per day",
+                "times": 1
+              }
+            }
+          ]
         }
       }
     ],
@@ -13061,6 +13130,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -13068,6 +13138,7 @@
             },
             {
               "name": "Enlarge/Reduce",
+              "level": 2,
               "url": "spells/enlarge-reduce",
               "usage": {
                 "type": "per day",
@@ -13076,6 +13147,7 @@
             },
             {
               "name": "Tongues",
+              "level": 3,
               "url": "spells/tongues",
               "usage": {
                 "type": "per day",
@@ -13084,6 +13156,7 @@
             },
             {
               "name": "Conjure Elemental",
+              "level": 5,
               "notes": "Fire Elemental only",
               "url": "spells/conjure-elemental",
               "usage": {
@@ -13093,6 +13166,7 @@
             },
             {
               "name": "Gaseous Form",
+              "level": 3,
               "url": "spells/gaseous-form",
               "usage": {
                 "type": "per day",
@@ -13101,6 +13175,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "url": "spells/invisibility",
               "usage": {
                 "type": "per day",
@@ -13109,6 +13184,7 @@
             },
             {
               "name": "Major Image",
+              "level": 3,
               "url": "spells/major-image",
               "usage": {
                 "type": "per day",
@@ -13117,6 +13193,7 @@
             },
             {
               "name": "Plane Shift",
+              "level": 7,
               "url": "spells/plane-shift",
               "usage": {
                 "type": "per day",
@@ -13125,6 +13202,7 @@
             },
             {
               "name": "Wall of Fire",
+              "level": 4,
               "url": "spells/wall-of-fire",
               "usage": {
                 "type": "per day",
@@ -15522,6 +15600,7 @@
           "spells": [
             {
               "name": "Darkness",
+              "level": 2,
               "url": "spells/darkness",
               "usage": {
                 "type": "at will"
@@ -15529,6 +15608,7 @@
             },
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -15536,6 +15616,7 @@
             },
             {
               "name": "Dispel Magic",
+              "level": 3,
               "url": "spells/dispel-magic",
               "usage": {
                 "type": "at will"
@@ -15543,6 +15624,7 @@
             },
             {
               "name": "Confusion",
+              "level": 4,
               "url": "spells/confusion",
               "usage": {
                 "type": "per day",
@@ -15551,6 +15633,7 @@
             },
             {
               "name": "Fly",
+              "level": 3,
               "url": "spells/haste",
               "usage": {
                 "type": "per day",
@@ -15559,6 +15642,7 @@
             },
             {
               "name": "Power Word Stun",
+              "level": 8,
               "url": "spells/power-word-stun",
               "usage": {
                 "type": "per day",
@@ -16538,6 +16622,7 @@
           "spells": [
             {
               "name": "Dancing Lights",
+              "level": 0,
               "url": "spells/dancing-lights",
               "usage": {
                 "type": "at will"
@@ -16545,6 +16630,7 @@
             },
             {
               "name": "Minor Illusion",
+              "level": 0,
               "url": "spells/minor-illusion",
               "usage": {
                 "type": "at will"
@@ -16552,6 +16638,7 @@
             },
             {
               "name": "Vicious Mockery",
+              "level": 0,
               "url": "spells/vicious-mockery",
               "usage": {
                 "type": "at will"
@@ -16706,7 +16793,7 @@
               },
               {
                 "name": "Beak",
-                "note": "If tentacles attack hits",
+                "notes": "If tentacles attack hits",
                 "count": 1,
                 "type": "melee"
               }
@@ -17104,77 +17191,77 @@
             {
               "name": "Mending",
               "level": 0,
-              "url": "spells/201"
+              "url": "spells/mending"
             },
             {
               "name": "Sacred Flame",
               "level": 0,
-              "url": "spells/250"
+              "url": "spells/sacred-flame"
             },
             {
               "name": "Thaumaturgy",
               "level": 0,
-              "url": "spells/291"
+              "url": "spells/thaumaturgy"
             },
             {
               "name": "Command",
               "level": 1,
-              "url": "spells/46"
+              "url": "spells/command"
             },
             {
               "name": "Cure Wounds",
               "level": 1,
-              "url": "spells/70"
+              "url": "spells/cure-wounds"
             },
             {
               "name": "Shield of Faith",
               "level": 1,
-              "url": "spells/262"
+              "url": "spells/shield-of-faith"
             },
             {
               "name": "Calm Emotions",
               "level": 2,
-              "url": "spells/37"
+              "url": "spells/calm-emotions"
             },
             {
               "name": "Hold Person",
               "level": 2,
-              "url": "spells/161"
+              "url": "spells/hold-person"
             },
             {
               "name": "Bestow Curse",
               "level": 3,
-              "url": "spells/26"
+              "url": "spells/bestow-curse"
             },
             {
               "name": "Clairvoyance",
               "level": 3,
-              "url": "spells/42"
+              "url": "spells/clairvoyance"
             },
             {
               "name": "Banishment",
               "level": 4,
-              "url": "spells/23"
+              "url": "spells/banishment"
             },
             {
               "name": "Freedom of Movement",
               "level": 4,
-              "url": "spells/130"
+              "url": "spells/freedom-of-movement"
             },
             {
               "name": "Flame Strike",
               "level": 5,
-              "url": "spells/121"
+              "url": "spells/flame-strike"
             },
             {
               "name": "Geas",
               "level": 5,
-              "url": "spells/134"
+              "url": "spells/geas"
             },
             {
               "name": "True Seeing",
               "level": 6,
-              "url": "spells/300"
+              "url": "spells/true-seeing"
             }
           ]
         }
@@ -17359,77 +17446,77 @@
             {
               "name": "Mage Hand",
               "level": 0,
-              "url": "spells/187"
+              "url": "spells/mage-hand"
             },
             {
               "name": "Minor Illusion",
               "level": 0,
-              "url": "spells/205"
+              "url": "spells/minor-illusion"
             },
             {
               "name": "Prestidigitation",
               "level": 0,
-              "url": "spells/227"
+              "url": "spells/prestidigitation"
             },
             {
               "name": "Detect Magic",
               "level": 1,
-              "url": "spells/79"
+              "url": "spells/detect-magic"
             },
             {
               "name": "Identify",
               "level": 1,
-              "url": "spells/166"
+              "url": "spells/identify"
             },
             {
               "name": "Shield",
               "level": 1,
-              "url": "spells/261"
+              "url": "spells/shield"
             },
             {
               "name": "Darkness",
               "level": 2,
-              "url": "spells/72"
+              "url": "spells/darkness"
             },
             {
               "name": "Locate Object",
               "level": 2,
-              "url": "spells/184"
+              "url": "spells/locate-object"
             },
             {
               "name": "Suggestion",
               "level": 2,
-              "url": "spells/198"
+              "url": "spells/suggestion"
             },
             {
               "name": "Dispel Magic",
               "level": 3,
-              "url": "spells/86"
+              "url": "spells/dispel-magic"
             },
             {
               "name": "Remove Curse",
               "level": 3,
-              "url": "spells/243"
+              "url": "spells/remove-curse"
             },
             {
               "name": "Tongues",
               "level": 3,
-              "url": "spells/295"
+              "url": "spells/tongues"
             },
             {
               "name": "Banishment",
               "level": 4,
-              "url": "spells/23"
+              "url": "spells/banishment"
             },
             {
               "name": "Greater Invisibility",
               "level": 4,
-              "url": "spells/142"
+              "url": "spells/greater-invisibility"
             },
             {
               "name": "Legend Lore",
               "level": 5,
-              "url": "spells/177"
+              "url": "spells/legend-lore"
             }
           ]
         }
@@ -17556,7 +17643,7 @@
               },
               {
                 "name": "Shortsword",
-                "note": "If shortsword is drawn",
+                "notes": "If shortsword is drawn",
                 "count": 1,
                 "type": "melee"
               }
@@ -19212,6 +19299,7 @@
           "spells": [
             {
               "name": "Fog Cloud",
+              "level": 1,
               "url": "spells/fog-cloud",
               "usage": {
                 "type": "per day",
@@ -20312,6 +20400,7 @@
           "spells": [
             {
               "name": "Major Image",
+              "level": 3,
               "url": "spells/major-image",
               "notes": "Any Humanoid Form",
               "usage": {
@@ -20320,6 +20409,7 @@
             },
             {
               "name": "Charm Person",
+              "level": 1,
               "url": "spells/charm-person",
               "usage": {
                 "type": "per day",
@@ -20328,6 +20418,7 @@
             },
             {
               "name": "Mirror Image",
+              "level": 2,
               "url": "spells/mirror-image",
               "usage": {
                 "type": "per day",
@@ -20336,6 +20427,7 @@
             },
             {
               "name": "Scrying",
+              "level": 5,
               "url": "spells/scrying",
               "usage": {
                 "type": "per day",
@@ -20344,6 +20436,7 @@
             },
             {
               "name": "Suggestion",
+              "level": 2,
               "url": "spells/suggestion",
               "usage": {
                 "type": "per day",
@@ -20352,6 +20445,7 @@
             },
             {
               "name": "Geas",
+              "level": 5,
               "url": "spells/geas",
               "usage": {
                 "type": "per day",
@@ -20767,132 +20861,132 @@
             {
               "name": "Mage Hand",
               "level": 0,
-              "url": "spells/187"
+              "url": "spells/mage-hand"
             },
             {
               "name": "Prestidigitation",
               "level": 0,
-              "url": "spells/227"
+              "url": "spells/prestidigitation"
             },
             {
               "name": "Ray of Frost",
               "level": 0,
-              "url": "spells/240"
+              "url": "spells/ray-of-frost"
             },
             {
               "name": "Detect Magic",
               "level": 1,
-              "url": "spells/179"
+              "url": "spells/detect-magic"
             },
             {
               "name": "Magic Missile",
               "level": 1,
-              "url": "spells/190"
+              "url": "spells/magic-missile"
             },
             {
               "name": "Shield",
               "level": 1,
-              "url": "spells/261"
+              "url": "spells/shield"
             },
             {
               "name": "Thunderwave",
               "level": 1,
-              "url": "spells/292"
+              "url": "spells/thunderwave"
             },
             {
               "name": "Acid Arrow",
               "level": 2,
-              "url": "spells/1"
+              "url": "spells/acid-arrow"
             },
             {
               "name": "Detect Thoughts",
               "level": 2,
-              "url": "spells/81"
+              "url": "spells/detect-thoughts"
             },
             {
               "name": "Invisibility",
               "level": 2,
-              "url": "spells/172"
+              "url": "spells/invisibility"
             },
             {
               "name": "Mirror Image",
               "level": 2,
-              "url": "spells/207"
+              "url": "spells/mirror-image"
             },
             {
               "name": "Animate Dead",
               "level": 3,
-              "url": "spells/9"
+              "url": "spells/animate-dead"
             },
             {
               "name": "Counterspell",
               "level": 3,
-              "url": "spells/65"
+              "url": "spells/counterspell"
             },
             {
               "name": "Dispel Magic",
               "level": 3,
-              "url": "spells/86"
+              "url": "spells/dispel-magic"
             },
             {
               "name": "Fireball",
               "level": 3,
-              "url": "spells/119"
+              "url": "spells/fireball"
             },
             {
               "name": "Blight",
               "level": 4,
-              "url": "spells/30"
+              "url": "spells/blight"
             },
             {
               "name": "Dimension Door",
               "level": 4,
-              "url": "spells/82"
+              "url": "spells/dimension-door"
             },
             {
               "name": "Cloudkill",
               "level": 5,
-              "url": "spells/44"
+              "url": "spells/cloudkill"
             },
             {
               "name": "Scrying",
               "level": 5,
-              "url": "spells/253"
+              "url": "spells/scrying"
             },
             {
               "name": "Disintegrate",
               "level": 6,
-              "url": "spells/84"
+              "url": "spells/disintegrate"
             },
             {
               "name": "Globe of Invulnerability",
               "level": 6,
-              "url": "spells/138"
+              "url": "spells/globe-of-invulnerability"
             },
             {
               "name": "Finger of Death",
               "level": 7,
-              "url": "spells/115"
+              "url": "spells/finger-of-death"
             },
             {
               "name": "Plane Shift",
               "level": 7,
-              "url": "spells/220"
+              "url": "spells/plane-shift"
             },
             {
               "name": "Dominate Monster",
               "level": 8,
-              "url": "spells/91"
+              "url": "spells/dominate-monster"
             },
             {
               "name": "Power Word Stun",
               "level": 8,
-              "url": "spells/225"
+              "url": "spells/power-word-stun"
             },
             {
               "name": "Power Word Kill",
               "level": 9,
-              "url": "spells/224"
+              "url": "spells/power-word-kill"
             }
           ]
         }
@@ -21306,9 +21400,25 @@
         "desc": [
           "The mephit can innately cast heat metal (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma."
         ],
-        "usage": {
-          "type": "per day",
-          "times": 1
+        "spellcasting": {
+          "ability": {
+            "label": "cha",
+            "name": "CHA",
+            "url": "ability-scores/cha"
+          },
+          "components_required": null,
+          "dc": 10,
+          "spells": [
+            {
+              "name": "Heat Metal",
+              "level": 2,
+              "url": "spells/heat-metal",
+              "usage": {
+                "type": "per day",
+                "times": 1
+              }
+            }
+          ]
         }
       }
     ],
@@ -23000,77 +23110,77 @@
             {
               "name": "Sacred Flame",
               "level": 0,
-              "url": "spells/250"
+              "url": "spells/sacred-flame"
             },
             {
               "name": "Thaumaturgy",
               "level": 0,
-              "url": "spells/291"
+              "url": "spells/thaumaturgy"
             },
             {
               "name": "Command",
               "level": 1,
-              "url": "spells/46"
+              "url": "spells/command"
             },
             {
               "name": "Guiding Bolt",
               "level": 1,
-              "url": "spells/147"
+              "url": "spells/guiding-bolt"
             },
             {
               "name": "Shield of Faith",
               "level": 1,
-              "url": "spells/262"
+              "url": "spells/shield-of-faith"
             },
             {
               "name": "Hold Person",
               "level": 2,
-              "url": "spells/161"
+              "url": "spells/hold-person"
             },
             {
               "name": "Silence",
               "level": 2,
-              "url": "spells/265"
+              "url": "spells/silence"
             },
             {
               "name": "Spiritual Weapon",
               "level": 2,
-              "url": "spells/278"
+              "url": "spells/spiritual-weapon"
             },
             {
               "name": "Animate Dead",
               "level": 3,
-              "url": "spells/9"
+              "url": "spells/animate-dead"
             },
             {
               "name": "Dispel Magic",
               "level": 3,
-              "url": "spells/86"
+              "url": "spells/dispel-magic"
             },
             {
               "name": "Divination",
               "level": 4,
-              "url": "spells/87"
+              "url": "spells/divination"
             },
             {
               "name": "Guardian of Faith",
               "level": 4,
-              "url": "spells/144"
+              "url": "spells/guardian-of-faith"
             },
             {
               "name": "Contagion",
-              "level": 60,
-              "url": "spells/180"
+              "level": 5,
+              "url": "spells/light"
             },
             {
               "name": "Insect Plague",
               "level": 5,
-              "url": "spells/171"
+              "url": "spells/insect-plague"
             },
             {
               "name": "Harm",
               "level": 6,
-              "url": "spells/151"
+              "url": "spells/harm"
             }
           ]
         }
@@ -23332,7 +23442,7 @@
             [
               {
                 "name": "Horror Nimbus",
-                "note": "If it can use Horror Nimbus",
+                "notes": "If it can use Horror Nimbus",
                 "count": 1,
                 "type": "ability"
               },
@@ -23548,6 +23658,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -23555,6 +23666,7 @@
             },
             {
               "name": "Magic Missile",
+              "level": 1,
               "url": "spells/magic-missile",
               "usage": {
                 "type": "at will"
@@ -23562,6 +23674,7 @@
             },
             {
               "name": "Plane Shift",
+              "level": 7,
               "notes": "Self Only",
               "url": "spells/plane-shift",
               "usage": {
@@ -23571,6 +23684,7 @@
             },
             {
               "name": "Ray of Enfeeblement",
+              "level": 2,
               "url": "spells/ray-of-enfeeblement",
               "usage": {
                 "type": "per day",
@@ -23579,6 +23693,7 @@
             },
             {
               "name": "Sleep",
+              "level": 1,
               "url": "spells/sleep",
               "usage": {
                 "type": "per day",
@@ -24163,6 +24278,7 @@
           "spells": [
             {
               "name": "Darkness",
+              "level": 2,
               "url": "spells/darkness",
               "usage": {
                 "type": "at will"
@@ -24170,6 +24286,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "url": "spells/invisibility",
               "usage": {
                 "type": "at will"
@@ -24177,6 +24294,7 @@
             },
             {
               "name": "Charm Person",
+              "level": 1,
               "url": "spells/charm-person",
               "usage": {
                 "type": "per day",
@@ -24185,6 +24303,7 @@
             },
             {
               "name": "Cone of Cold",
+              "level": 5,
               "url": "spells/cone-of-cold",
               "usage": {
                 "type": "per day",
@@ -24193,6 +24312,7 @@
             },
             {
               "name": "Gaseous Form",
+              "level": 3,
               "url": "spells/gaseous-form",
               "usage": {
                 "type": "per day",
@@ -24201,6 +24321,7 @@
             },
             {
               "name": "Sleep",
+              "level": 1,
               "url": "spells/sleep",
               "usage": {
                 "type": "per day",
@@ -24242,7 +24363,7 @@
             [
               {
                 "name": "Claw",
-                "note": "If in Oni form",
+                "notes": "If in Oni form",
                 "count": 2,
                 "type": "melee"
               }
@@ -24250,13 +24371,13 @@
             [
               {
                 "name": "Glaive",
-                "note": "If in Oni form",
+                "notes": "If in Oni form",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Claw",
-                "note": "If in Oni form",
+                "notes": "If in Oni form",
                 "count": 1,
                 "type": "melee"
               }
@@ -24885,6 +25006,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -24892,6 +25014,7 @@
             },
             {
               "name": "Fireball",
+              "level": 3,
               "url": "spells/fireball",
               "usage": {
                 "type": "at will"
@@ -24899,6 +25022,7 @@
             },
             {
               "name": "Hold Monster",
+              "level": 5,
               "url": "spells/hold-monster",
               "usage": {
                 "type": "per day",
@@ -24907,6 +25031,7 @@
             },
             {
               "name": "Wall of Fire",
+              "level": 4,
               "url": "spells/wall-of-fire",
               "usage": {
                 "type": "per day",
@@ -25164,6 +25289,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -25171,6 +25297,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "notes": "Self Only",
               "url": "spells/invisibility",
               "usage": {
@@ -25179,6 +25306,7 @@
             },
             {
               "name": "Blade Barrier",
+              "level": 6,
               "url": "spells/blade-barrier",
               "usage": {
                 "type": "per day",
@@ -25187,6 +25315,7 @@
             },
             {
               "name": "Dispel Evil and Good",
+              "level": 5,
               "url": "spells/dispel-evil-and-good",
               "usage": {
                 "type": "per day",
@@ -25195,6 +25324,7 @@
             },
             {
               "name": "Flame Strike",
+              "level": 5,
               "url": "spells/flame-strike",
               "usage": {
                 "type": "per day",
@@ -25203,6 +25333,7 @@
             },
             {
               "name": "Raise Dead",
+              "level": 5,
               "url": "spells/raise-dead",
               "usage": {
                 "type": "per day",
@@ -25211,6 +25342,7 @@
             },
             {
               "name": "Commune",
+              "level": 5,
               "url": "spells/commune",
               "usage": {
                 "type": "per day",
@@ -25219,6 +25351,7 @@
             },
             {
               "name": "Control Weather",
+              "level": 8,
               "url": "spells/control-weather",
               "usage": {
                 "type": "per day",
@@ -25227,6 +25360,7 @@
             },
             {
               "name": "Insect Plague",
+              "level": 5,
               "url": "spells/insect-plague",
               "usage": {
                 "type": "per day",
@@ -25893,6 +26027,7 @@
           "spells": [
             {
               "name": "Detect Thoughts",
+              "level": 2,
               "url": "spells/detect-thoughts",
               "usage": {
                 "type": "at will"
@@ -25900,6 +26035,7 @@
             },
             {
               "name": "Disguise Self",
+              "level": 1,
               "url": "spells/disguise-self",
               "usage": {
                 "type": "at will"
@@ -25907,6 +26043,7 @@
             },
             {
               "name": "Mage Hand",
+              "level": 0,
               "url": "spells/mage-hand",
               "usage": {
                 "type": "at will"
@@ -25914,6 +26051,7 @@
             },
             {
               "name": "Minor Illusion",
+              "level": 0,
               "url": "spells/minor-illusion",
               "usage": {
                 "type": "at will"
@@ -25921,6 +26059,7 @@
             },
             {
               "name": "Charm Person",
+              "level": 1,
               "url": "spells/charm-person",
               "usage": {
                 "type": "per day",
@@ -25929,6 +26068,7 @@
             },
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "spells/detect-magic",
               "usage": {
                 "type": "per day",
@@ -25937,6 +26077,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "url": "spells/invisibility",
               "usage": {
                 "type": "per day",
@@ -25945,6 +26086,7 @@
             },
             {
               "name": "Major Image",
+              "level": 3,
               "url": "spells/major-image",
               "usage": {
                 "type": "per day",
@@ -25953,6 +26095,7 @@
             },
             {
               "name": "Suggestion",
+              "level": 2,
               "url": "spells/mass-suggestion",
               "usage": {
                 "type": "per day",
@@ -25961,6 +26104,7 @@
             },
             {
               "name": "Dominate Person",
+              "level": 5,
               "url": "spells/dominate-person",
               "usage": {
                 "type": "per day",
@@ -25969,6 +26113,7 @@
             },
             {
               "name": "Fly",
+              "level": 3,
               "url": "spells/fly",
               "usage": {
                 "type": "per day",
@@ -25977,6 +26122,7 @@
             },
             {
               "name": "Plane Shift",
+              "level": 7,
               "url": "spells/plane-shift",
               "usage": {
                 "type": "per day",
@@ -25985,6 +26131,7 @@
             },
             {
               "name": "True Seeing",
+              "level": 6,
               "url": "spells/true-seeing",
               "usage": {
                 "type": "per day",
@@ -27668,13 +27815,13 @@
             [
               {
                 "name": "Slam",
-                "note": "If both slam attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.",
+                "notes": "If both slam attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.",
                 "count": 2,
                 "type": "melee"
               },
               {
                 "name": "Engulf",
-                "note": "If both slam attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.",
+                "notes": "If both slam attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.",
                 "count": 2,
                 "type": "melee"
               }
@@ -28334,6 +28481,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -28341,6 +28489,7 @@
             },
             {
               "name": "Invisibility",
+              "level": 2,
               "notes": "Self Only",
               "url": "spells/invisibility",
               "usage": {
@@ -28349,6 +28498,7 @@
             },
             {
               "name": "Blade Barrier",
+              "level": 6,
               "url": "spells/blade-barrier",
               "usage": {
                 "type": "per day",
@@ -28357,6 +28507,7 @@
             },
             {
               "name": "Dispel Evil and Good",
+              "level": 5,
               "url": "spells/dispel-evil-and-good",
               "usage": {
                 "type": "per day",
@@ -28365,6 +28516,7 @@
             },
             {
               "name": "Resurrection",
+              "level": 7,
               "url": "spells/resurrection",
               "usage": {
                 "type": "per day",
@@ -28373,6 +28525,7 @@
             },
             {
               "name": "Commune",
+              "level": 5,
               "url": "spells/commune",
               "usage": {
                 "type": "per day",
@@ -28381,6 +28534,7 @@
             },
             {
               "name": "Control Weather",
+              "level": 8,
               "url": "spells/control-weather",
               "usage": {
                 "type": "per day",
@@ -28855,67 +29009,67 @@
             {
               "name": "Mage Hand",
               "level": 0,
-              "url": "spells/180"
+              "url": "spells/light"
             },
             {
               "name": "Minor Illusion",
               "level": 0,
-              "url": "spells/205"
+              "url": "spells/minor-illusion"
             },
             {
               "name": "Ray of Frost",
               "level": 0,
-              "url": "spells/240"
+              "url": "spells/ray-of-frost"
             },
             {
               "name": "Charm Person",
               "level": 1,
-              "url": "spells/39"
+              "url": "spells/charm-person"
             },
             {
               "name": "Detect Magic",
               "level": 1,
-              "url": "spells/79"
+              "url": "spells/detect-magic"
             },
             {
               "name": "Sleep",
               "level": 1,
-              "url": "spells/268"
+              "url": "spells/sleep"
             },
             {
               "name": "Detect Thoughts",
               "level": 2,
-              "url": "spells/81"
+              "url": "spells/detect-thoughts"
             },
             {
               "name": "Hold Person",
               "level": 2,
-              "url": "spells/161"
+              "url": "spells/hold-person"
             },
             {
               "name": "Lightning Bolt",
               "level": 3,
-              "url": "spells/181"
+              "url": "spells/lightning-bolt"
             },
             {
               "name": "Water Breathing",
               "level": 3,
-              "url": "spells/311"
+              "url": "spells/water-breathing"
             },
             {
               "name": "Blight",
               "level": 4,
-              "url": "spells/30"
+              "url": "spells/blight"
             },
             {
               "name": "Dimension Door",
               "level": 4,
-              "url": "spells/82"
+              "url": "spells/dimension-door"
             },
             {
               "name": "Dominate Person",
               "level": 5,
-              "url": "spells/92"
+              "url": "spells/dominate-person"
             }
           ]
         }
@@ -29141,9 +29295,25 @@
         "desc": [
           "The mephit can innately cast blur, requiring no material components. Its innate spellcasting ability is Charisma."
         ],
-        "usage": {
-          "type": "per day",
-          "times": 1
+        "spellcasting": {
+          "ability": {
+            "label": "cha",
+            "name": "CHA",
+            "url": "ability-scores/cha"
+          },
+          "dc": 11,
+          "components_required": null,
+          "spells": [
+            {
+              "name": "Blur",
+              "level": 2,
+              "url": "spells/blur",
+              "usage": {
+                "type": "per day",
+                "times": 1
+              }
+            }
+          ]
         }
       }
     ],
@@ -29731,6 +29901,7 @@
           "spells": [
             {
               "name": "Detect Magic",
+              "level": 1,
               "url": "spells/detect-magic",
               "usage": {
                 "type": "at will"
@@ -29738,6 +29909,7 @@
             },
             {
               "name": "Feather Fall",
+              "level": 1,
               "url": "spells/feather-fall",
               "usage": {
                 "type": "at will"
@@ -29745,6 +29917,7 @@
             },
             {
               "name": "Levitate",
+              "level": 2,
               "url": "spells/levitate",
               "usage": {
                 "type": "at will"
@@ -29752,6 +29925,7 @@
             },
             {
               "name": "Light",
+              "level": 0,
               "url": "spells/light",
               "usage": {
                 "type": "at will"
@@ -29759,6 +29933,7 @@
             },
             {
               "name": "Control Weather",
+              "level": 8,
               "url": "spells/control-weather",
               "usage": {
                 "type": "per day",
@@ -29767,6 +29942,7 @@
             },
             {
               "name": "Water Breathing",
+              "level": 3,
               "url": "spells/water-breathing",
               "usage": {
                 "type": "per day",
@@ -30247,7 +30423,7 @@
               },
               {
                 "name": "Swallow",
-                "note": "If the target is grappled",
+                "notes": "If the target is grappled",
                 "count": 1,
                 "type": "ability"
               },
@@ -30782,13 +30958,13 @@
             [
               {
                 "name": "Bite",
-                "note": "It can't make both attacks against the same target",
+                "notes": "It can't make both attacks against the same target",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Tail",
-                "note": "It can't make both attacks against the same target",
+                "notes": "It can't make both attacks against the same target",
                 "count": 1,
                 "type": "melee"
               }
@@ -30921,6 +31097,7 @@
           "spells": [
             {
               "name": "Detect Evil and Good",
+              "level": 1,
               "url": "spells/detect-evil-and-good",
               "usage": {
                 "type": "at will"
@@ -30928,6 +31105,7 @@
             },
             {
               "name": "Druidcraft",
+              "level": 0,
               "url": "spells/druidcraft",
               "usage": {
                 "type": "at will"
@@ -30935,6 +31113,7 @@
             },
             {
               "name": "Pass without Trace",
+              "level": 2,
               "url": "spells/pass-without-trace",
               "usage": {
                 "type": "at will"
@@ -30942,6 +31121,7 @@
             },
             {
               "name": "Calm Emotions",
+              "level": 2,
               "url": "spells/calm-emotions",
               "usage": {
                 "type": "per day",
@@ -30950,6 +31130,7 @@
             },
             {
               "name": "Dispel Evil and Good",
+              "level": 5,
               "url": "spells/dispel-evil-and-good",
               "usage": {
                 "type": "per day",
@@ -30958,6 +31139,7 @@
             },
             {
               "name": "Entangle",
+              "level": 1,
               "url": "spells/entangle",
               "usage": {
                 "type": "per day",
@@ -32233,7 +32415,7 @@
             [
               {
                 "name": "Claw",
-                "note": "Bear or Hybrid Form Only",
+                "notes": "Bear or Hybrid Form Only",
                 "count": 2,
                 "type": "melee"
               }
@@ -32241,7 +32423,7 @@
             [
               {
                 "name": "Greataxe",
-                "note": "Humanoid or Hybrid Form Only",
+                "notes": "Humanoid or Hybrid Form Only",
                 "count": 2,
                 "type": "melee"
               }
@@ -32249,13 +32431,13 @@
             [
               {
                 "name": "Greataxe",
-                "note": "Hybrid Form Only",
+                "notes": "Hybrid Form Only",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Claw",
-                "note": "Hybrid Form Only",
+                "notes": "Hybrid Form Only",
                 "count": 1,
                 "type": "melee"
               }
@@ -33706,13 +33888,13 @@
             [
               {
                 "name": "Bite",
-                "note": "If flying",
+                "notes": "If flying",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Claws",
-                "note": "If flying",
+                "notes": "If flying",
                 "count": 1,
                 "type": "melee"
               }
@@ -33720,13 +33902,13 @@
             [
               {
                 "name": "Stinger",
-                "note": "If flying",
+                "notes": "If flying",
                 "count": 1,
                 "type": "melee"
               },
               {
                 "name": "Claws",
-                "note": "If flying",
+                "notes": "If flying",
                 "count": 1,
                 "type": "melee"
               }
