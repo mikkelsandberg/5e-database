@@ -4,7 +4,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "name": "Berserker",
     "subclass_flavor": "Primal Path",
@@ -20,7 +20,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "name": "Lore",
     "subclass_flavor": "Bard College",
@@ -36,7 +36,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "name": "Life",
     "subclass_flavor": "Divine Domain",
@@ -188,7 +188,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "name": "Land",
     "subclass_flavor": "Druid Circle",
@@ -1381,7 +1381,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "name": "Champion",
     "subclass_flavor": "Martial Archetype",
@@ -1397,7 +1397,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "name": "Open Hand",
     "subclass_flavor": "Monastic Tradition",
@@ -1413,7 +1413,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "name": "Devotion",
     "subclass_flavor": "Sacred Oath",
@@ -1565,7 +1565,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "name": "Hunter",
     "subclass_flavor": "Ranger Archetype",
@@ -1581,7 +1581,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "name": "Thief",
     "subclass_flavor": "Roguish Archetype",
@@ -1597,7 +1597,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "name": "Draconic",
     "subclass_flavor": "Sorcerous Origins",
@@ -1613,7 +1613,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "name": "Fiend",
     "subclass_flavor": "Otherworldly Patron",
@@ -1780,7 +1780,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "name": "Evocation",
     "subclass_flavor": "Arcane Tradition",

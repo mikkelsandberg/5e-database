@@ -4,7 +4,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Rage",
@@ -29,7 +29,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Unarmored Defense",
@@ -48,7 +48,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Reckless Attack",
@@ -67,7 +67,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Danger Sense",
@@ -86,7 +86,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Primal Path",
@@ -105,7 +105,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": {
       "label": "berserker",
@@ -128,7 +128,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Barbarian: Ability Score Improvement 1",
@@ -147,7 +147,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Extra Attack",
@@ -166,7 +166,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Fast Movement",
@@ -185,7 +185,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": {
       "label": "berserker",
@@ -208,7 +208,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Feral Instinct",
@@ -228,7 +228,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Barbarian: Ability Score Improvement 2",
@@ -247,7 +247,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Brutal Critical (1 die)",
@@ -266,7 +266,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": {
       "label": "berserker",
@@ -290,7 +290,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Relentless Rage",
@@ -310,7 +310,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Barbarian: Ability Score Improvement 3",
@@ -329,7 +329,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Brutal Critical (2 dice)",
@@ -348,7 +348,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": {
       "label": "berserker",
@@ -371,7 +371,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Persistent Rage",
@@ -390,7 +390,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Barbarian: Ability Score Improvement 4",
@@ -409,7 +409,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Brutal Critical (3 dice)",
@@ -428,7 +428,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Indomitable Might",
@@ -447,7 +447,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Barbarian: Ability Score Improvement 5",
@@ -466,7 +466,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "subclass_association": null,
     "name": "Primal Champion",
@@ -485,7 +485,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Spellcasting: Bard",
@@ -504,7 +504,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bardic Inspiration (d6)",
@@ -525,7 +525,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Jack of All Trades",
@@ -544,7 +544,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Song of Rest (d6)",
@@ -564,7 +564,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bard College",
@@ -583,7 +583,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": {
       "label": "lore",
@@ -606,7 +606,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": {
       "label": "lore",
@@ -631,7 +631,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Choose: Expertise 1",
@@ -745,7 +745,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Acrobatics",
@@ -771,7 +771,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Animal Handling",
@@ -797,7 +797,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Arcana",
@@ -823,7 +823,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Athletics",
@@ -849,7 +849,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Deception",
@@ -875,7 +875,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: History",
@@ -901,7 +901,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Insight",
@@ -927,7 +927,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Intimidation",
@@ -953,7 +953,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Investigation",
@@ -979,7 +979,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Medicine",
@@ -1005,7 +1005,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Nature",
@@ -1031,7 +1031,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Perception",
@@ -1057,7 +1057,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Performance",
@@ -1083,7 +1083,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Persuasion",
@@ -1109,7 +1109,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Religion",
@@ -1135,7 +1135,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Sleight of Hand",
@@ -1161,7 +1161,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Stealth",
@@ -1187,7 +1187,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Expertise: Survival",
@@ -1213,7 +1213,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bard: Ability Score Improvement 1",
@@ -1232,7 +1232,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bardic Inspiration (d8)",
@@ -1253,7 +1253,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Font of Inspiration",
@@ -1272,7 +1272,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Countercharm",
@@ -1291,7 +1291,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": {
       "label": "lore",
@@ -1314,7 +1314,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bard: Ability Score Improvement 2",
@@ -1333,7 +1333,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Song of Rest (d8)",
@@ -1353,7 +1353,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bardic Inspiration (d10)",
@@ -1374,7 +1374,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Choose: Expertise 2",
@@ -1488,7 +1488,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Magical Secrets 1",
@@ -1509,7 +1509,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bard: Ability Score Improvement 3",
@@ -1528,7 +1528,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Song of Rest (d10)",
@@ -1548,7 +1548,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Magical Secrets 2",
@@ -1569,7 +1569,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": {
       "label": "lore",
@@ -1592,7 +1592,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bardic Inspiration (d12)",
@@ -1613,7 +1613,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bard: Ability Score Improvement 4",
@@ -1632,7 +1632,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Song of Rest (d12)",
@@ -1652,7 +1652,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Magical Secrets 3",
@@ -1673,7 +1673,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Bard: Ability Score Improvement 5",
@@ -1692,7 +1692,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "subclass_association": null,
     "name": "Superior Inspiration",
@@ -1711,7 +1711,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Spellcasting: Cleric",
@@ -1730,7 +1730,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Divine Domain",
@@ -1749,7 +1749,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Domain Spells 1",
@@ -1769,7 +1769,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": {
       "label": "life",
@@ -1792,7 +1792,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": {
       "label": "life",
@@ -1815,7 +1815,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Channel Divinity (1/rest)",
@@ -1837,7 +1837,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Channel Divinity: Turn Undead",
@@ -1857,7 +1857,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": {
       "label": "life",
@@ -1882,7 +1882,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Domain Spells 2",
@@ -1902,7 +1902,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Cleric: Ability Score Improvement 1",
@@ -1921,7 +1921,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Domain Spells 3",
@@ -1941,7 +1941,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Destroy Undead (CR 1/2 or below)",
@@ -1960,7 +1960,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Channel Divinity (2/rest)",
@@ -1979,7 +1979,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": {
       "label": "life",
@@ -2002,7 +2002,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Domain Spells 4",
@@ -2022,7 +2022,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Cleric: Ability Score Improvement 2",
@@ -2041,7 +2041,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Destroy Undead (CR 1 or below)",
@@ -2060,7 +2060,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": {
       "label": "life",
@@ -2083,7 +2083,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Domain Spells 5",
@@ -2103,7 +2103,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Divine Intervention",
@@ -2125,7 +2125,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Destroy Undead (CR 2 or below)",
@@ -2144,7 +2144,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Cleric: Ability Score Improvement 3",
@@ -2163,7 +2163,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Destroy Undead (CR 3 or below)",
@@ -2182,7 +2182,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Cleric: Ability Score Improvement 4",
@@ -2201,7 +2201,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Destroy Undead (CR 4 or below)",
@@ -2220,7 +2220,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Supreme Healing",
@@ -2239,7 +2239,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Channel Divinity (3/rest)",
@@ -2258,7 +2258,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Cleric: Ability Score Improvement 5",
@@ -2277,7 +2277,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "subclass_association": null,
     "name": "Divine Intervention Improvement",
@@ -2296,7 +2296,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Spellcasting: Druid",
@@ -2315,7 +2315,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Druidic",
@@ -2334,7 +2334,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Wild Shape (CR 1/4 or below, no flying or swim speed)",
@@ -2361,7 +2361,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Druid Circle",
@@ -2380,7 +2380,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2443,7 +2443,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2466,7 +2466,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2489,7 +2489,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2512,7 +2512,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2535,7 +2535,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2558,7 +2558,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2581,7 +2581,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2604,7 +2604,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2627,7 +2627,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2651,7 +2651,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2676,7 +2676,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Wild Shape (CR 1/2 or below, no flying speed)",
@@ -2703,7 +2703,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Druid: Ability Score Improvement 1",
@@ -2722,7 +2722,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2747,7 +2747,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2771,7 +2771,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2796,7 +2796,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Wild Shape (CR 1 or below)",
@@ -2823,7 +2823,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Druid: Ability Score Improvement 2",
@@ -2842,7 +2842,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2867,7 +2867,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2890,7 +2890,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Druid: Ability Score Improvement 3",
@@ -2909,7 +2909,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": {
       "label": "land",
@@ -2932,7 +2932,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Druid: Ability Score Improvement 4",
@@ -2951,7 +2951,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Timeless Body",
@@ -2970,7 +2970,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Beast Spells",
@@ -2989,7 +2989,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Druid: Ability Score Improvement 5",
@@ -3008,7 +3008,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "subclass_association": null,
     "name": "Archdruid",
@@ -3028,7 +3028,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Choose: Fighting Style",
@@ -3082,7 +3082,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighting Style: Archery",
@@ -3101,7 +3101,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighting Style: Defense",
@@ -3120,7 +3120,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighting Style: Dueling",
@@ -3139,7 +3139,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighting Style: Great Weapon Fighting",
@@ -3158,7 +3158,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighting Style: Protection",
@@ -3177,7 +3177,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighting Style: Two-Weapon Fighting",
@@ -3196,7 +3196,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Second Wind",
@@ -3215,7 +3215,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Action Surge (1 use)",
@@ -3235,7 +3235,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Martial Archetype",
@@ -3254,7 +3254,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": {
       "label": "champion",
@@ -3277,7 +3277,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighter: Ability Score Improvement 1",
@@ -3296,7 +3296,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Extra Attack (1)",
@@ -3315,7 +3315,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighter: Ability Score Improvement 2",
@@ -3334,7 +3334,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": {
       "label": "champion",
@@ -3357,7 +3357,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighter: Ability Score Improvement 3",
@@ -3376,7 +3376,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Indomitable (1 use)",
@@ -3395,7 +3395,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": {
       "label": "champion",
@@ -3453,7 +3453,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Extra Attack (2)",
@@ -3472,7 +3472,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighter: Ability Score Improvement 4",
@@ -3491,7 +3491,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Indomitable (2 uses)",
@@ -3510,7 +3510,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighter: Ability Score Improvement 5",
@@ -3529,7 +3529,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": {
       "label": "champion",
@@ -3552,7 +3552,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighter: Ability Score Improvement 6",
@@ -3571,7 +3571,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Action Surge (2 uses)",
@@ -3591,7 +3591,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Indomitable (3 uses)",
@@ -3610,7 +3610,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": {
       "label": "champion",
@@ -3633,7 +3633,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Fighter: Ability Score Improvement 7",
@@ -3652,7 +3652,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "subclass_association": null,
     "name": "Extra Attack (3)",
@@ -3671,7 +3671,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Unarmored Defense",
@@ -3690,7 +3690,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Martial Arts",
@@ -3714,7 +3714,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Ki",
@@ -3737,7 +3737,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Flurry of Blows",
@@ -3756,7 +3756,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Patient Defense",
@@ -3775,7 +3775,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Step of the Wind",
@@ -3794,7 +3794,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Unarmored Movement 1",
@@ -3814,7 +3814,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Monastic Tradition",
@@ -3833,7 +3833,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Deflect Missiles",
@@ -3853,7 +3853,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": {
       "label": "open-hand",
@@ -3879,7 +3879,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Monk: Ability Score Improvement 1",
@@ -3898,7 +3898,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Slow Fall",
@@ -3917,7 +3917,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Extra Attack",
@@ -3936,7 +3936,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Stunning Strike",
@@ -3955,7 +3955,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Ki Empowered Strikes",
@@ -3974,7 +3974,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": {
       "label": "open-hand",
@@ -3997,7 +3997,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Evasion",
@@ -4016,7 +4016,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Stillness of Mind",
@@ -4035,7 +4035,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Monk: Ability Score Improvement 2",
@@ -4054,7 +4054,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Unarmored Movement 2",
@@ -4074,7 +4074,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Purity of Body",
@@ -4093,7 +4093,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": {
       "label": "open-hand",
@@ -4116,7 +4116,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Monk: Ability Score Improvement 3",
@@ -4135,7 +4135,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Tongue of the Sun and Moon",
@@ -4154,7 +4154,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Diamond Soul",
@@ -4174,7 +4174,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Timeless Body",
@@ -4193,7 +4193,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Monk: Ability Score Improvement 4",
@@ -4212,7 +4212,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": {
       "label": "open-hand",
@@ -4236,7 +4236,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Empty Body",
@@ -4256,7 +4256,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Monk: Ability Score Improvement 5",
@@ -4275,7 +4275,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "subclass_association": null,
     "name": "Perfect Self",
@@ -4294,7 +4294,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Divine Sense",
@@ -4314,7 +4314,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Lay on Hands",
@@ -4336,7 +4336,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Choose: Fighting Style",
@@ -4380,7 +4380,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Fighting Style: Defense",
@@ -4399,7 +4399,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Fighting Style: Dueling",
@@ -4418,7 +4418,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Fighting Style: Great Weapon Fighting",
@@ -4437,7 +4437,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Fighting Style: Protection",
@@ -4456,7 +4456,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Spellcasting: Paladin",
@@ -4475,7 +4475,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Divine Smite",
@@ -4494,7 +4494,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Divine Health",
@@ -4513,7 +4513,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Sacred Oath",
@@ -4533,7 +4533,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Oath Spells",
@@ -4553,7 +4553,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Channel Divinity",
@@ -4574,7 +4574,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": {
       "label": "devotion",
@@ -4598,7 +4598,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": {
       "label": "devotion",
@@ -4622,7 +4622,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Paladin: Ability Score Improvement 1",
@@ -4641,7 +4641,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Extra Attack",
@@ -4660,7 +4660,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Aura of Protection",
@@ -4680,7 +4680,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": {
       "label": "devotion",
@@ -4704,7 +4704,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Paladin: Ability Score Improvement 2",
@@ -4723,7 +4723,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Aura of Courage",
@@ -4743,7 +4743,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Improved Divine Smite",
@@ -4762,7 +4762,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Paladin: Ability Score Improvement 3",
@@ -4781,7 +4781,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Cleansing Touch",
@@ -4801,7 +4801,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": {
       "label": "devotion",
@@ -4824,7 +4824,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Paladin: Ability Score Improvement 4",
@@ -4843,7 +4843,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Aura improvements",
@@ -4862,7 +4862,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": null,
     "name": "Paladin: Ability Score Improvement 5",
@@ -4881,7 +4881,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "subclass_association": {
       "label": "devotion",
@@ -4906,7 +4906,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Favored Enemy (1 type)",
@@ -4929,7 +4929,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Natural Explorer (1 terrain type)",
@@ -4956,7 +4956,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Choose: Fighting Style",
@@ -5000,7 +5000,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Fighting Style: Archery",
@@ -5019,7 +5019,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Fighting Style: Defense",
@@ -5038,7 +5038,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Fighting Style: Dueling",
@@ -5057,7 +5057,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Fighting Style: Two-Weapon Fighting",
@@ -5076,7 +5076,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Spellcasting: Ranger",
@@ -5095,7 +5095,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Ranger Archetype",
@@ -5114,7 +5114,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5160,7 +5160,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5183,7 +5183,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5206,7 +5206,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5229,7 +5229,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Primeval Awareness",
@@ -5248,7 +5248,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Ranger: Ability Score Improvement 1",
@@ -5267,7 +5267,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Extra Attack",
@@ -5286,7 +5286,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Favored Enemy (2 types)",
@@ -5309,7 +5309,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Natural Explorer (2 terrain types)",
@@ -5336,7 +5336,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5382,7 +5382,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5405,7 +5405,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5428,7 +5428,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5451,7 +5451,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Ranger: Ability Score Improvement 2",
@@ -5470,7 +5470,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Land's Stride",
@@ -5490,7 +5490,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Natural Explorer (3 terrain types)",
@@ -5517,7 +5517,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Hide in Plain Sight",
@@ -5537,7 +5537,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5577,7 +5577,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5600,7 +5600,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5623,7 +5623,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Ranger: Ability Score Improvement 3",
@@ -5642,7 +5642,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Favored Enemy (3 enemies)",
@@ -5665,7 +5665,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Vanish",
@@ -5684,7 +5684,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5730,7 +5730,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5753,7 +5753,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5776,7 +5776,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": {
       "label": "hunter",
@@ -5799,7 +5799,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Ranger: Ability Score Improvement 4",
@@ -5818,7 +5818,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Feral Senses",
@@ -5838,7 +5838,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Ranger: Ability Score Improvement 5",
@@ -5857,7 +5857,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "subclass_association": null,
     "name": "Foe Slayer",
@@ -5876,7 +5876,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Choose: Expertise 1",
@@ -5991,7 +5991,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Acrobatics",
@@ -6017,7 +6017,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Animal Handling",
@@ -6043,7 +6043,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Arcana",
@@ -6069,7 +6069,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Athletics",
@@ -6095,7 +6095,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Deception",
@@ -6121,7 +6121,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: History",
@@ -6147,7 +6147,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Insight",
@@ -6173,7 +6173,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Intimidation",
@@ -6199,7 +6199,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Investigation",
@@ -6225,7 +6225,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Medicine",
@@ -6251,7 +6251,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Nature",
@@ -6277,7 +6277,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Perception",
@@ -6303,7 +6303,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Performance",
@@ -6329,7 +6329,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Persuasion",
@@ -6355,7 +6355,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Religion",
@@ -6381,7 +6381,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Sleight of Hand",
@@ -6407,7 +6407,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Stealth",
@@ -6433,7 +6433,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Survival",
@@ -6459,7 +6459,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Expertise: Thieves' Tools",
@@ -6485,7 +6485,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Sneak Attack",
@@ -6506,7 +6506,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Thieves' Cant",
@@ -6526,7 +6526,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Cunning Action",
@@ -6545,7 +6545,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Roguish Archetype",
@@ -6564,7 +6564,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": {
       "label": "thief",
@@ -6587,7 +6587,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": {
       "label": "thief",
@@ -6611,7 +6611,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Rogue: Ability Score Improvement 1",
@@ -6630,7 +6630,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Uncanny Dodge",
@@ -6649,7 +6649,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Choose: Expertise 2",
@@ -6764,7 +6764,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Evasion",
@@ -6783,7 +6783,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Rogue: Ability Score Improvement 2",
@@ -6802,7 +6802,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": {
       "label": "thief",
@@ -6825,7 +6825,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Rogue: Ability Score Improvement 3",
@@ -6844,7 +6844,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Reliable Talent",
@@ -6863,7 +6863,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Rogue: Ability Score Improvement 4",
@@ -6882,7 +6882,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": {
       "label": "thief",
@@ -6905,7 +6905,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Blindsense",
@@ -6924,7 +6924,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Slippery Mind",
@@ -6943,7 +6943,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Rogue: Ability Score Improvement 5",
@@ -6962,7 +6962,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": {
       "label": "thief",
@@ -6985,7 +6985,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Elusive",
@@ -7004,7 +7004,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Rogue: Ability Score Improvement 6",
@@ -7023,7 +7023,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "subclass_association": null,
     "name": "Stroke of Luck",
@@ -7043,7 +7043,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Spellcasting: Sorcerer",
@@ -7062,7 +7062,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Sorcerous Origin",
@@ -7082,7 +7082,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7161,7 +7161,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7185,7 +7185,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7209,7 +7209,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7233,7 +7233,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7257,7 +7257,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7281,7 +7281,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7305,7 +7305,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7329,7 +7329,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7353,7 +7353,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7377,7 +7377,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7401,7 +7401,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7425,7 +7425,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Font of Magic",
@@ -7446,7 +7446,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Flexible Casting: Creating Spell Slots",
@@ -7466,7 +7466,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Flexible Casting: Converting Spell Slot",
@@ -7485,7 +7485,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Choose: Metamagic",
@@ -7550,7 +7550,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Metamagic: Careful Spell",
@@ -7569,7 +7569,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Metamagic: Distant Spell",
@@ -7589,7 +7589,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Metamagic: Empowered Spell",
@@ -7609,7 +7609,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Metamagic: Extended Spell",
@@ -7628,7 +7628,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Metamagic: Heightened Spell",
@@ -7647,7 +7647,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Metamagic: Quickened Spell",
@@ -7666,7 +7666,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Metamagic: Subtle Spell",
@@ -7685,7 +7685,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Metamagic: Twinned Spell",
@@ -7705,7 +7705,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Sorcerer: Ability Score Improvement 1",
@@ -7724,7 +7724,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7747,7 +7747,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Sorcerer: Ability Score Improvement 2",
@@ -7766,7 +7766,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Choose: Additional Metamagic",
@@ -7831,7 +7831,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Sorcerer: Ability Score Improvement 3",
@@ -7850,7 +7850,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7874,7 +7874,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Sorcerer: Ability Score Improvement 4",
@@ -7893,7 +7893,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Choose: Additional Metamagic",
@@ -7958,7 +7958,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": {
       "label": "draconic",
@@ -7981,7 +7981,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Sorcerer: Ability Score Improvement 5",
@@ -8000,7 +8000,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "subclass_association": null,
     "name": "Sorcerous Restoration",
@@ -8019,7 +8019,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Otherworldly Patron",
@@ -8038,7 +8038,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": {
       "label": "fiend",
@@ -8061,7 +8061,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Pact Magic",
@@ -8080,7 +8080,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Choose: Eldritch Invocations",
@@ -8266,7 +8266,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Agonizing Blast",
@@ -8292,7 +8292,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Armor of Shadows",
@@ -8311,7 +8311,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Ascendant Step",
@@ -8337,7 +8337,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Beast Speech",
@@ -8356,7 +8356,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Beguiling Influence",
@@ -8375,7 +8375,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Bewitching Whispers",
@@ -8401,7 +8401,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Book of Ancient Secrets",
@@ -8428,7 +8428,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Chains of Carceri",
@@ -8460,7 +8460,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Devil's Sight",
@@ -8479,7 +8479,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Dreadful Word",
@@ -8505,7 +8505,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Eldritch Sight",
@@ -8524,7 +8524,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Eldritch Spear",
@@ -8550,7 +8550,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Eyes of the Rune Keeper",
@@ -8569,7 +8569,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Fiendish Vigor",
@@ -8588,7 +8588,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Gaze of Two Minds",
@@ -8607,7 +8607,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Lifedrinker",
@@ -8639,7 +8639,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Mask of Many Faces",
@@ -8658,7 +8658,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Master of Myriad Forms",
@@ -8684,7 +8684,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Minions of Chaos",
@@ -8710,7 +8710,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Mire the Mind",
@@ -8736,7 +8736,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Misty Visions",
@@ -8755,7 +8755,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: One with Shadows",
@@ -8781,7 +8781,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Otherworldly Leap",
@@ -8807,7 +8807,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Repelling Blast",
@@ -8833,7 +8833,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Sculptor of Flesh",
@@ -8859,7 +8859,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Sign of Ill Omen",
@@ -8885,7 +8885,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Thief of Five Fates",
@@ -8904,7 +8904,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Thirsting Blade",
@@ -8936,7 +8936,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Visions of Distant Realms",
@@ -8962,7 +8962,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Voice of the Chain Master",
@@ -8989,7 +8989,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Whispers of the Grave",
@@ -9015,7 +9015,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Invocation: Witch Sight",
@@ -9041,7 +9041,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Choose: Pact Boon",
@@ -9080,7 +9080,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Pact of the Chain",
@@ -9102,7 +9102,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Pact of the Blade",
@@ -9124,7 +9124,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Pact of the Tome",
@@ -9145,7 +9145,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Warlock: Ability Score Improvement 1",
@@ -9164,7 +9164,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Choose: Additional Eldritch Invocation",
@@ -9350,7 +9350,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": {
       "label": "fiend",
@@ -9374,7 +9374,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Choose: Additional Eldritch Invocation",
@@ -9560,7 +9560,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Warlock: Ability Score Improvement 2",
@@ -9579,7 +9579,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Choose: Additional Eldritch Invocation",
@@ -9765,7 +9765,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": {
       "label": "fiend",
@@ -9788,7 +9788,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Mystic Arcanum (6th level)",
@@ -9809,7 +9809,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Warlock: Ability Score Improvement 3",
@@ -9828,7 +9828,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Choose: Additional Eldritch Invocation",
@@ -10014,7 +10014,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Mystic Arcanum (7th level)",
@@ -10035,7 +10035,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": {
       "label": "fiend",
@@ -10060,7 +10060,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Mystic Arcanum (8th level)",
@@ -10081,7 +10081,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Choose: Additional Eldritch Invocation",
@@ -10267,7 +10267,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Warlock: Ability Score Improvement 4",
@@ -10286,7 +10286,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Mystic Arcanum (9th level)",
@@ -10307,7 +10307,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Choose: Additional Eldritch Invocation",
@@ -10493,7 +10493,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Warlock: Ability Score Improvement 5",
@@ -10512,7 +10512,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Eldritch Master",
@@ -10532,7 +10532,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "subclass_association": null,
     "name": "Choose: Additional Eldritch Invocation",
@@ -10718,7 +10718,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Spellcasting: Wizard",
@@ -10737,7 +10737,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Arcane Recovery",
@@ -10757,7 +10757,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Arcane Tradition",
@@ -10777,7 +10777,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": {
       "label": "evocation",
@@ -10800,7 +10800,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": {
       "label": "evocation",
@@ -10823,7 +10823,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Wizard: Ability Score Improvement 1",
@@ -10842,7 +10842,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": {
       "label": "evocation",
@@ -10865,7 +10865,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Wizard: Ability Score Improvement 2",
@@ -10884,7 +10884,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": {
       "label": "evocation",
@@ -10907,7 +10907,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Wizard: Ability Score Improvement 3",
@@ -10926,7 +10926,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": {
       "label": "evocation",
@@ -10950,7 +10950,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Wizard: Ability Score Improvement 4",
@@ -10969,7 +10969,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Spell Mastery",
@@ -10989,7 +10989,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Wizard: Ability Score Improvement 5",
@@ -11008,7 +11008,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "subclass_association": null,
     "name": "Signature Spell",

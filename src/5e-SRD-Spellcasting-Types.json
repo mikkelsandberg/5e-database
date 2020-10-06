@@ -5,7 +5,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "level": 1,
     "spellcasting_ability": {
@@ -65,7 +65,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "level": 1,
     "spellcasting_ability": {
@@ -118,7 +118,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "level": 1,
     "spellcasting_ability": {
@@ -169,7 +169,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "level": 2,
     "spellcasting_ability": {
@@ -208,7 +208,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "level": 2,
     "spellcasting_ability": {
@@ -247,7 +247,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "level": 1,
     "spellcasting_ability": {
@@ -298,7 +298,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "level": 1,
     "spellcasting_ability": {
@@ -350,7 +350,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "level": 1,
     "spellcasting_ability": {

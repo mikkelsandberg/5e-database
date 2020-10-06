@@ -7,37 +7,37 @@
       {
         "label": "barbarian",
         "name": "Barbarian",
-        "url": "classes/barbarian"
+        "url": "character-classes/barbarian"
       },
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "rogue",
         "name": "Rogue",
-        "url": "classes/rogue"
+        "url": "character-classes/rogue"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       }
     ],
     "race_associations": null,
@@ -59,22 +59,22 @@
       {
         "label": "barbarian",
         "name": "Barbarian",
-        "url": "classes/barbarian"
+        "url": "character-classes/barbarian"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "race_associations": null,
@@ -112,12 +112,12 @@
       {
         "label": "fighter",
         "name": "Fighter",
-        "url": "classes/fighter"
+        "url": "character-classes/fighter"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "race_associations": null,
@@ -331,32 +331,32 @@
       {
         "label": "barbarian",
         "name": "Barbarian",
-        "url": "classes/barbarian"
+        "url": "character-classes/barbarian"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "fighter",
         "name": "Fighter",
-        "url": "classes/fighter"
+        "url": "character-classes/fighter"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "race_associations": null,
@@ -378,47 +378,47 @@
       {
         "label": "barbarian",
         "name": "Barbarian",
-        "url": "classes/barbarian"
+        "url": "character-classes/barbarian"
       },
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "fighter",
         "name": "Fighter",
-        "url": "classes/fighter"
+        "url": "character-classes/fighter"
       },
       {
         "label": "monk",
         "name": "Monk",
-        "url": "classes/monk"
+        "url": "character-classes/monk"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "rogue",
         "name": "Rogue",
-        "url": "classes/rogue"
+        "url": "character-classes/rogue"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       }
     ],
     "race_associations": null,
@@ -440,22 +440,22 @@
       {
         "label": "barbarian",
         "name": "Barbarian",
-        "url": "classes/barbarian"
+        "url": "character-classes/barbarian"
       },
       {
         "label": "fighter",
         "name": "Fighter",
-        "url": "classes/fighter"
+        "url": "character-classes/fighter"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "race_associations": null,
@@ -477,7 +477,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "race_associations": null,
@@ -499,17 +499,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "race_associations": null,
@@ -569,7 +569,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "race_associations": null,
@@ -613,7 +613,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "race_associations": null,
@@ -635,17 +635,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "race_associations": null,
@@ -667,7 +667,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "race_associations": null,
@@ -689,7 +689,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "race_associations": null,
@@ -727,17 +727,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "race_associations": null,
@@ -781,17 +781,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "race_associations": null,
@@ -931,12 +931,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "rogue",
         "name": "Rogue",
-        "url": "classes/rogue"
+        "url": "character-classes/rogue"
       }
     ],
     "race_associations": [
@@ -1012,12 +1012,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "rogue",
         "name": "Rogue",
-        "url": "classes/rogue"
+        "url": "character-classes/rogue"
       }
     ],
     "race_associations": null,
@@ -1039,7 +1039,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "race_associations": null,
@@ -1061,17 +1061,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "monk",
         "name": "Monk",
-        "url": "classes/monk"
+        "url": "character-classes/monk"
       },
       {
         "label": "rogue",
         "name": "Rogue",
-        "url": "classes/rogue"
+        "url": "character-classes/rogue"
       }
     ],
     "race_associations": [
@@ -1185,12 +1185,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "rogue",
         "name": "Rogue",
-        "url": "classes/rogue"
+        "url": "character-classes/rogue"
       }
     ],
     "race_associations": null,
@@ -1762,7 +1762,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "race_associations": null,
@@ -1816,7 +1816,7 @@
       {
         "label": "rogue",
         "name": "Rogue",
-        "url": "classes/rogue"
+        "url": "character-classes/rogue"
       }
     ],
     "race_associations": null,
@@ -1870,22 +1870,22 @@
       {
         "label": "barbarian",
         "name": "Barbarian",
-        "url": "classes/barbarian"
+        "url": "character-classes/barbarian"
       },
       {
         "label": "fighter",
         "name": "Fighter",
-        "url": "classes/fighter"
+        "url": "character-classes/fighter"
       },
       {
         "label": "monk",
         "name": "Monk",
-        "url": "classes/monk"
+        "url": "character-classes/monk"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "race_associations": null,
@@ -1907,22 +1907,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "monk",
         "name": "Monk",
-        "url": "classes/monk"
+        "url": "character-classes/monk"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "rogue",
         "name": "Rogue",
-        "url": "classes/rogue"
+        "url": "character-classes/rogue"
       }
     ],
     "race_associations": null,
@@ -1944,17 +1944,17 @@
       {
         "label": "barbarian",
         "name": "Barbarian",
-        "url": "classes/barbarian"
+        "url": "character-classes/barbarian"
       },
       {
         "label": "fighter",
         "name": "Fighter",
-        "url": "classes/fighter"
+        "url": "character-classes/fighter"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       }
     ],
     "race_associations": null,
@@ -1976,17 +1976,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "rogue",
         "name": "Rogue",
-        "url": "classes/rogue"
+        "url": "character-classes/rogue"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "race_associations": null,
@@ -2008,27 +2008,27 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "race_associations": null,
@@ -2050,27 +2050,27 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       }
     ],
     "race_associations": null,
