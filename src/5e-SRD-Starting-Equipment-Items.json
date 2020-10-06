@@ -5,7 +5,7 @@
     "class_association": {
       "label": "barbarian",
       "name": "Barbarian",
-      "url": "classes/barbarian"
+      "url": "character-classes/barbarian"
     },
     "starting_equipment": [
       {
@@ -95,7 +95,7 @@
     "class_association": {
       "label": "bard",
       "name": "Bard",
-      "url": "classes/bard"
+      "url": "character-classes/bard"
     },
     "starting_equipment": [
       {
@@ -218,7 +218,7 @@
     "class_association": {
       "label": "cleric",
       "name": "Cleric",
-      "url": "classes/cleric"
+      "url": "character-classes/cleric"
     },
     "starting_equipment": [
       {
@@ -391,7 +391,7 @@
     "class_association": {
       "label": "druid",
       "name": "Druid",
-      "url": "classes/druid"
+      "url": "character-classes/druid"
     },
     "starting_equipment": [
       {
@@ -492,7 +492,7 @@
     "class_association": {
       "label": "fighter",
       "name": "Fighter",
-      "url": "classes/fighter"
+      "url": "character-classes/fighter"
     },
     "starting_equipment": null,
     "starting_equipment_options": [
@@ -647,7 +647,7 @@
     "class_association": {
       "label": "monk",
       "name": "Monk",
-      "url": "classes/monk"
+      "url": "character-classes/monk"
     },
     "starting_equipment": [
       {
@@ -723,7 +723,7 @@
     "class_association": {
       "label": "paladin",
       "name": "Paladin",
-      "url": "classes/paladin"
+      "url": "character-classes/paladin"
     },
     "starting_equipment": [
       {
@@ -854,7 +854,7 @@
     "class_association": {
       "label": "ranger",
       "name": "Ranger",
-      "url": "classes/ranger"
+      "url": "character-classes/ranger"
     },
     "starting_equipment": [
       {
@@ -962,7 +962,7 @@
     "class_association": {
       "label": "rogue",
       "name": "Rogue",
-      "url": "classes/rogue"
+      "url": "character-classes/rogue"
     },
     "starting_equipment": [
       {
@@ -1090,7 +1090,7 @@
     "class_association": {
       "label": "sorcerer",
       "name": "Sorcerer",
-      "url": "classes/sorcerer"
+      "url": "character-classes/sorcerer"
     },
     "starting_equipment": [
       {
@@ -1205,7 +1205,7 @@
     "class_association": {
       "label": "warlock",
       "name": "Warlock",
-      "url": "classes/warlock"
+      "url": "character-classes/warlock"
     },
     "starting_equipment": [
       {
@@ -1339,7 +1339,7 @@
     "class_association": {
       "label": "wizard",
       "name": "Wizard",
-      "url": "classes/wizard"
+      "url": "character-classes/wizard"
     },
     "starting_equipment": [
       {

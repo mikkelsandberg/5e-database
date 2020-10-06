@@ -89,7 +89,7 @@
       }
     ],
     "spellcasting": null,
-    "url": "classes/barbarian"
+    "url": "character-classes/barbarian"
   },
   {
     "label": "bard",
@@ -302,7 +302,7 @@
       }
     ],
     "spellcasting": "spellcasting-types/bard",
-    "url": "classes/bard"
+    "url": "character-classes/bard"
   },
   {
     "label": "cleric",
@@ -384,7 +384,7 @@
       }
     ],
     "spellcasting": "spellcasting-types/cleric",
-    "url": "classes/cleric"
+    "url": "character-classes/cleric"
   },
   {
     "label": "druid",
@@ -531,7 +531,7 @@
       }
     ],
     "spellcasting": "spellcasting-types/druid",
-    "url": "classes/druid"
+    "url": "character-classes/druid"
   },
   {
     "label": "fighter",
@@ -628,7 +628,7 @@
       }
     ],
     "spellcasting": null,
-    "url": "classes/fighter"
+    "url": "character-classes/fighter"
   },
   {
     "label": "monk",
@@ -862,7 +862,7 @@
       }
     ],
     "spellcasting": null,
-    "url": "classes/monk"
+    "url": "character-classes/monk"
   },
   {
     "label": "paladin",
@@ -949,7 +949,7 @@
       }
     ],
     "spellcasting": "spellcasting-types/paladin",
-    "url": "classes/paladin"
+    "url": "character-classes/paladin"
   },
   {
     "label": "ranger",
@@ -1051,7 +1051,7 @@
       }
     ],
     "spellcasting": "spellcasting-types/ranger",
-    "url": "classes/ranger"
+    "url": "character-classes/ranger"
   },
   {
     "label": "rogue",
@@ -1178,7 +1178,7 @@
       }
     ],
     "spellcasting": null,
-    "url": "classes/rogue"
+    "url": "character-classes/rogue"
   },
   {
     "label": "sorcerer",
@@ -1265,7 +1265,7 @@
       }
     ],
     "spellcasting": "spellcasting-types/sorcerer",
-    "url": "classes/sorcerer"
+    "url": "character-classes/sorcerer"
   },
   {
     "label": "warlock",
@@ -1347,7 +1347,7 @@
       }
     ],
     "spellcasting": "spellcasting-types/warlock",
-    "url": "classes/warlock"
+    "url": "character-classes/warlock"
   },
   {
     "label": "wizard",
@@ -1434,6 +1434,6 @@
       }
     ],
     "spellcasting": "spellcasting-types/wizard",
-    "url": "classes/wizard"
+    "url": "character-classes/wizard"
   }
 ]

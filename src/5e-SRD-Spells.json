@@ -48,7 +48,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -117,12 +117,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -179,12 +179,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -233,12 +233,12 @@
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -286,12 +286,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -346,22 +346,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": null,
@@ -403,17 +403,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -457,7 +457,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -502,12 +502,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -555,17 +555,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -608,7 +608,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -667,12 +667,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -721,12 +721,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -770,12 +770,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -826,7 +826,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -865,7 +865,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -923,12 +923,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -970,7 +970,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -1020,17 +1020,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -1075,7 +1075,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -1121,12 +1121,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -1177,12 +1177,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -1239,27 +1239,27 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -1296,12 +1296,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -1349,7 +1349,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -1422,17 +1422,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -1504,7 +1504,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -1563,7 +1563,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -1603,12 +1603,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -1685,22 +1685,22 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -1752,22 +1752,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -1815,12 +1815,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -1863,12 +1863,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -1925,7 +1925,7 @@
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": null,
@@ -1998,12 +1998,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -2074,7 +2074,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -2134,12 +2134,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -2207,12 +2207,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -2258,27 +2258,27 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -2337,17 +2337,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -2421,17 +2421,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -2468,22 +2468,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -2529,7 +2529,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -2601,12 +2601,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -2656,12 +2656,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -2724,12 +2724,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -2780,7 +2780,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -2830,12 +2830,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -2882,22 +2882,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -2950,7 +2950,7 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       }
     ],
     "subclass_associations": null,
@@ -3023,12 +3023,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -3087,22 +3087,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -3146,12 +3146,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -3199,7 +3199,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -3248,12 +3248,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -3300,12 +3300,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       }
     ],
     "subclass_associations": null,
@@ -3352,12 +3352,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -3406,12 +3406,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": null,
@@ -3458,12 +3458,12 @@
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -3535,12 +3535,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -3579,7 +3579,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -3618,12 +3618,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -3704,17 +3704,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -3752,17 +3752,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -3804,17 +3804,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -3852,17 +3852,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -3918,17 +3918,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -3977,12 +3977,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -4044,12 +4044,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -4098,27 +4098,27 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -4168,17 +4168,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -4228,17 +4228,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -4287,22 +4287,22 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -4351,27 +4351,27 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       }
     ],
     "subclass_associations": [
@@ -4421,12 +4421,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -4504,12 +4504,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -4542,12 +4542,12 @@
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -4590,12 +4590,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -4643,37 +4643,37 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -4723,22 +4723,22 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -4786,17 +4786,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -4851,22 +4851,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -4905,17 +4905,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -4991,12 +4991,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -5047,12 +5047,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": null,
@@ -5091,37 +5091,37 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -5173,7 +5173,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -5227,7 +5227,7 @@
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -5285,7 +5285,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -5336,12 +5336,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       }
     ],
     "subclass_associations": null,
@@ -5394,22 +5394,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -5462,17 +5462,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -5536,17 +5536,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -5591,7 +5591,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -5641,17 +5641,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       }
     ],
     "subclass_associations": null,
@@ -5702,7 +5702,7 @@
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       }
     ],
     "subclass_associations": [
@@ -5761,22 +5761,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       }
     ],
     "subclass_associations": [
@@ -5834,12 +5834,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -5896,7 +5896,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -5947,12 +5947,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       }
     ],
     "subclass_associations": [
@@ -6002,27 +6002,27 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -6059,17 +6059,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -6130,22 +6130,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -6184,7 +6184,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -6235,7 +6235,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -6293,7 +6293,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -6344,12 +6344,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -6408,22 +6408,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -6465,17 +6465,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -6545,22 +6545,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -6603,7 +6603,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -6644,7 +6644,7 @@
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -6689,17 +6689,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -6746,12 +6746,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -6809,17 +6809,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -6871,12 +6871,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -6931,7 +6931,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -6997,17 +6997,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       }
     ],
     "subclass_associations": null,
@@ -7078,12 +7078,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -7143,7 +7143,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -7217,7 +7217,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -7277,12 +7277,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -7339,12 +7339,12 @@
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -7384,7 +7384,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -7432,17 +7432,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -7491,22 +7491,22 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -7557,7 +7557,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -7604,17 +7604,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -7653,22 +7653,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -7708,22 +7708,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -7802,7 +7802,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -7839,17 +7839,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -7902,17 +7902,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -7962,27 +7962,27 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -8021,12 +8021,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -8072,7 +8072,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -8109,12 +8109,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       }
     ],
     "subclass_associations": null,
@@ -8162,12 +8162,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -8215,17 +8215,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -8270,12 +8270,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": null,
@@ -8328,7 +8328,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -8369,17 +8369,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -8430,17 +8430,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -8500,12 +8500,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": null,
@@ -8563,12 +8563,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -8604,12 +8604,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -8676,7 +8676,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -8735,17 +8735,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -8823,7 +8823,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -8871,22 +8871,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -8948,7 +8948,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -8987,12 +8987,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -9049,12 +9049,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -9103,17 +9103,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -9190,12 +9190,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -9255,7 +9255,7 @@
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       }
     ],
     "subclass_associations": null,
@@ -9294,12 +9294,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -9336,12 +9336,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -9397,12 +9397,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -9458,22 +9458,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -9522,32 +9522,32 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -9599,7 +9599,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -9637,12 +9637,12 @@
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": null,
@@ -9692,22 +9692,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -9784,17 +9784,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -9836,12 +9836,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -9888,17 +9888,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -9968,12 +9968,12 @@
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -10035,12 +10035,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -10098,7 +10098,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -10173,17 +10173,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       }
     ],
     "subclass_associations": [
@@ -10227,7 +10227,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -10269,22 +10269,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -10331,12 +10331,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -10376,22 +10376,22 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -10436,17 +10436,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -10493,17 +10493,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -10540,27 +10540,27 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -10618,12 +10618,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -10677,22 +10677,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -10770,12 +10770,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -10821,17 +10821,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -10878,32 +10878,32 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -10950,32 +10950,32 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11023,22 +11023,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11082,12 +11082,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11132,22 +11132,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11200,22 +11200,22 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11276,7 +11276,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -11334,12 +11334,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11386,12 +11386,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11437,12 +11437,12 @@
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11493,12 +11493,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -11541,22 +11541,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11613,17 +11613,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -11666,7 +11666,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -11714,7 +11714,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -11772,22 +11772,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -11824,7 +11824,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -11864,7 +11864,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -11916,27 +11916,27 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -11982,17 +11982,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -12060,12 +12060,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -12100,12 +12100,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -12147,22 +12147,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -12212,17 +12212,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -12263,17 +12263,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -12323,12 +12323,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -12365,17 +12365,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -12440,12 +12440,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -12520,7 +12520,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -12569,17 +12569,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -12617,17 +12617,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -12672,12 +12672,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -12728,7 +12728,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -12794,7 +12794,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -12830,7 +12830,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -12879,7 +12879,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -12932,22 +12932,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -12998,27 +12998,27 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13056,17 +13056,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -13140,17 +13140,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13200,22 +13200,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13250,22 +13250,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13303,22 +13303,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13368,7 +13368,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -13417,22 +13417,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -13514,12 +13514,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13576,7 +13576,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13630,7 +13630,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13682,7 +13682,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -13733,12 +13733,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13779,12 +13779,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -13821,27 +13821,27 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -13893,22 +13893,22 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -13957,22 +13957,22 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -14016,17 +14016,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -14075,17 +14075,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -14130,12 +14130,12 @@
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -14194,12 +14194,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -14247,17 +14247,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -14325,7 +14325,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -14362,22 +14362,22 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -14435,7 +14435,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -14473,12 +14473,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -14527,12 +14527,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -14588,17 +14588,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -14635,12 +14635,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -14693,7 +14693,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -14761,7 +14761,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -14805,7 +14805,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -14866,12 +14866,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -14940,27 +14940,27 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15006,7 +15006,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -15045,17 +15045,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15101,17 +15101,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -15152,17 +15152,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15209,7 +15209,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -15253,12 +15253,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -15332,22 +15332,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15386,12 +15386,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15437,12 +15437,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
@@ -15487,7 +15487,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": [
@@ -15546,12 +15546,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15598,17 +15598,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -15664,17 +15664,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15721,7 +15721,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -15776,17 +15776,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15834,17 +15834,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15911,12 +15911,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -15962,7 +15962,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -16000,17 +16000,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -16057,12 +16057,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -16113,17 +16113,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -16168,17 +16168,17 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -16233,12 +16233,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -16291,7 +16291,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -16357,7 +16357,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -16431,17 +16431,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -16493,17 +16493,17 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -16548,22 +16548,22 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -16641,7 +16641,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -16689,22 +16689,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -16776,17 +16776,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -16850,17 +16850,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -16920,17 +16920,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -16977,12 +16977,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -17031,7 +17031,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -17071,17 +17071,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -17125,17 +17125,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -17177,7 +17177,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -17257,22 +17257,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -17312,12 +17312,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -17363,12 +17363,12 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -17411,27 +17411,27 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -17474,7 +17474,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -17513,12 +17513,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -17575,17 +17575,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -17626,12 +17626,12 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -17670,27 +17670,27 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -17726,22 +17726,22 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -17789,17 +17789,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -17863,12 +17863,12 @@
       {
         "label": "warlock",
         "name": "Warlock",
-        "url": "classes/warlock"
+        "url": "character-classes/warlock"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -17933,7 +17933,7 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       }
     ],
     "subclass_associations": null,
@@ -18000,17 +18000,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -18052,7 +18052,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -18123,7 +18123,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -18163,17 +18163,17 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -18250,7 +18250,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -18287,7 +18287,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": [
@@ -18332,22 +18332,22 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -18398,22 +18398,22 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       },
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       }
     ],
     "subclass_associations": [
@@ -18471,12 +18471,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": [
@@ -18536,7 +18536,7 @@
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -18575,7 +18575,7 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       }
     ],
     "subclass_associations": null,
@@ -18640,12 +18640,12 @@
       {
         "label": "druid",
         "name": "Druid",
-        "url": "classes/druid"
+        "url": "character-classes/druid"
       },
       {
         "label": "ranger",
         "name": "Ranger",
-        "url": "classes/ranger"
+        "url": "character-classes/ranger"
       }
     ],
     "subclass_associations": [
@@ -18693,12 +18693,12 @@
       {
         "label": "sorcerer",
         "name": "Sorcerer",
-        "url": "classes/sorcerer"
+        "url": "character-classes/sorcerer"
       },
       {
         "label": "wizard",
         "name": "Wizard",
-        "url": "classes/wizard"
+        "url": "character-classes/wizard"
       }
     ],
     "subclass_associations": null,
@@ -18740,7 +18740,7 @@
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       }
     ],
     "subclass_associations": null,
@@ -18782,17 +18782,17 @@
       {
         "label": "bard",
         "name": "Bard",
-        "url": "classes/bard"
+        "url": "character-classes/bard"
       },
       {
         "label": "cleric",
         "name": "Cleric",
-        "url": "classes/cleric"
+        "url": "character-classes/cleric"
       },
       {
         "label": "paladin",
         "name": "Paladin",
-        "url": "classes/paladin"
+        "url": "character-classes/paladin"
       }
     ],
     "subclass_associations": [
