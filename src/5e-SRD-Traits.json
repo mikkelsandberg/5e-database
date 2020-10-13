@@ -38,6 +38,8 @@
     "desc": [
       "You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness, only shades of gray."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/darkvision"
   },
   {
@@ -54,6 +56,8 @@
     "desc": [
       "You have advantage on saving throws against poison, and you have resistance against poison damage."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/dwarven-resilience"
   },
   {
@@ -70,6 +74,29 @@
     "desc": [
       "You have proficiency with the battleaxe, handaxe, light hammer, and warhammer."
     ],
+    "proficiencies": [
+      {
+        "label": "battleaxes",
+        "name": "Battleaxes",
+        "url": "proficiencies/battleaxes"
+      },
+      {
+        "label": "handaxes",
+        "name": "Handaxes",
+        "url": "proficiencies/handaxes"
+      },
+      {
+        "label": "light-hammers",
+        "name": "Light hammers",
+        "url": "proficiencies/light-hammers"
+      },
+      {
+        "label": "warhammers",
+        "name": "Warhammers",
+        "url": "proficiencies/warhammers"
+      }
+    ],
+    "proficiency_choices": null,
     "url": "traits/dwarven-combat-training"
   },
   {
@@ -86,6 +113,28 @@
     "desc": [
       "You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools."
     ],
+    "proficiencies": null,
+    "proficiency_choices": {
+      "choose": 1,
+      "type": "proficiencies",
+      "from": [
+        {
+          "label": "smiths-tools",
+          "name": "Smith's tools",
+          "url": "proficiencies/smiths-tools"
+        },
+        {
+          "label": "brewers-supplies",
+          "name": "Brewer's supplies",
+          "url": "proficiencies/brewers-supplies"
+        },
+        {
+          "label": "masons-tools",
+          "name": "Mason's tools",
+          "url": "proficiencies/masons-tools"
+        }
+      ]
+    },
     "url": "traits/tool-proficiency"
   },
   {
@@ -102,6 +151,8 @@
     "desc": [
       "Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/stonecunning"
   },
   {
@@ -118,6 +169,8 @@
     "desc": [
       "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/dwarven-toughness"
   },
   {
@@ -134,6 +187,14 @@
     "desc": [
       "You have proficiency in the Perception skill."
     ],
+    "proficiencies": [
+      {
+        "label": "skill-perception",
+        "name": "Skill: Perception",
+        "url": "proficiencies/skill-perception"
+      }
+    ],
+    "proficiency_choices": null,
     "url": "traits/keen-senses"
   },
   {
@@ -155,6 +216,8 @@
     "desc": [
       "You have advantage on saving throws against being charmed, and magic cannot put you to sleep."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/fey-ancestry"
   },
   {
@@ -171,6 +234,8 @@
     "desc": [
       "Elves do not need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting this way, you gain the same benefit that a human does from 8 hours of sleep."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/trance"
   },
   {
@@ -187,6 +252,29 @@
     "desc": [
       "You have proficiency with the longsword, shortsword, shortbow, and longbow."
     ],
+    "proficiencies": [
+      {
+        "label": "longswords",
+        "name": "Longswords",
+        "url": "proficiencies/longswords"
+      },
+      {
+        "label": "shortswords",
+        "name": "Shortswords",
+        "url": "proficiencies/shortswords"
+      },
+      {
+        "label": "shortbows",
+        "name": "Shortbows",
+        "url": "proficiencies/shortbows"
+      },
+      {
+        "label": "longbows",
+        "name": "Longbows",
+        "url": "proficiencies/longbows"
+      }
+    ],
+    "proficiency_choices": null,
     "url": "traits/elf-weapon-training"
   },
   {
@@ -203,6 +291,8 @@
     "desc": [
       "You know one cantrip of your choice form the wizard spell list. Intelligence is your spellcasting ability for it."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/high-elf-cantrip"
   },
   {
@@ -219,6 +309,8 @@
     "desc": [
       "You can speak, read, and write one extra language of your choice."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/extra-language"
   },
   {
@@ -235,6 +327,8 @@
     "desc": [
       "When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/lucky"
   },
   {
@@ -251,6 +345,8 @@
     "desc": [
       "You have advantage on saving throw against being frightened."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/brave"
   },
   {
@@ -267,6 +363,8 @@
     "desc": [
       "You can move through the space of any creature that is of a size larger than yours."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/halfling-nimbleness"
   },
   {
@@ -283,6 +381,8 @@
     "desc": [
       "You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/naturally-stealthy"
   },
   {
@@ -299,6 +399,8 @@
     "desc": [
       "You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/draconic-ancestry"
   },
   {
@@ -317,6 +419,8 @@
       "When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 2d6 at 6th level, 3d6 at 11th level, and 5d6 at 16th level.",
       "After you use your breath weapon, you cannot use it again until you complete a short or long rest."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/breath-weapon"
   },
   {
@@ -333,6 +437,8 @@
     "desc": [
       "You have resistance to the damage type associated with your draconic ancestry."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/damage-resistance"
   },
   {
@@ -349,6 +455,8 @@
     "desc": [
       "You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/gnome-cunning"
   },
   {
@@ -365,6 +473,8 @@
     "desc": [
       "Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/artificers-lore"
   },
   {
@@ -385,6 +495,14 @@
       "Fire Starter: The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.",
       "Music Box: When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed."
     ],
+    "proficiencies": [
+      {
+        "label": "tinkers-tools",
+        "name": "Tinker's tools",
+        "url": "proficiencies/tinkers-tools"
+      }
+    ],
+    "proficiency_choices": null,
     "url": "traits/tinker"
   },
   {
@@ -401,6 +519,103 @@
     "desc": [
       "You gain proficiency in two skills of your choice."
     ],
+    "proficiencies": null,
+    "proficiency_choices": {
+      "choose": 2,
+      "type": "proficiencies",
+      "from": [
+        {
+          "label": "skill-acrobatics",
+          "name": "Skill: Acrobatics",
+          "url": "proficiencies/skill-acrobatics"
+        },
+        {
+          "label": "skill-animal-handling",
+          "name": "Skill: Animal Handling",
+          "url": "proficiencies/skill-animal-handling"
+        },
+        {
+          "label": "skill-arcana",
+          "name": "Skill: Arcana",
+          "url": "proficiencies/skill-arcana"
+        },
+        {
+          "label": "skill-athletics",
+          "name": "Skill: Athletics",
+          "url": "proficiencies/skill-athletics"
+        },
+        {
+          "label": "skill-deception",
+          "name": "Skill: Deception",
+          "url": "proficiencies/skill-deception"
+        },
+        {
+          "label": "skill-history",
+          "name": "Skill: History",
+          "url": "proficiencies/skill-history"
+        },
+        {
+          "label": "skill-insight",
+          "name": "Skill: Insight",
+          "url": "proficiencies/skill-insight"
+        },
+        {
+          "label": "skill-intimidation",
+          "name": "Skill: Intimidation",
+          "url": "proficiencies/skill-intimidation"
+        },
+        {
+          "label": "skill-investigation",
+          "name": "Skill: Investigation",
+          "url": "proficiencies/skill-investigation"
+        },
+        {
+          "label": "skill-medicine",
+          "name": "Skill: Medicine",
+          "url": "proficiencies/skill-medicine"
+        },
+        {
+          "label": "skill-nature",
+          "name": "Skill: Nature",
+          "url": "proficiencies/skill-nature"
+        },
+        {
+          "label": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "proficiencies/skill-perception"
+        },
+        {
+          "label": "skill-performance",
+          "name": "Skill: Performance",
+          "url": "proficiencies/skill-performance"
+        },
+        {
+          "label": "skill-persuasion",
+          "name": "Skill: Persuasion",
+          "url": "proficiencies/skill-persuasion"
+        },
+        {
+          "label": "skill-religion",
+          "name": "Skill: Religion",
+          "url": "proficiencies/skill-religion"
+        },
+        {
+          "label": "skill-sleight-of-hand",
+          "name": "Skill: Sleight of Hand",
+          "url": "proficiencies/skill-sleight-of-hand"
+        },
+        {
+          "label": "skill-stealth",
+          "name": "Skill: Stealth",
+          "url": "proficiencies/skill-stealth"
+        },
+        {
+          "label": "skill-survival",
+          "name": "Skill: Survival",
+          "url": "proficiencies/skill-survival"
+        }
+      ]
+    },
     "url": "traits/skill-versatility"
   },
   {
@@ -417,6 +632,14 @@
     "desc": [
       "You gain proficiency in the Intimidation skill."
     ],
+    "proficiencies": [
+      {
+        "label": "skill-intimidation",
+        "name": "Skill: Intimidation",
+        "url": "proficiencies/skill-intimidation"
+      }
+    ],
+    "proficiency_choices": null,
     "url": "traits/menacing"
   },
   {
@@ -433,6 +656,8 @@
     "desc": [
       "When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. you cannot use this feature again until you finish a long rest."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/relentless-endurance"
   },
   {
@@ -449,6 +674,8 @@
     "desc": [
       "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/savage-attacks"
   },
   {
@@ -465,6 +692,8 @@
     "desc": [
       "You have resistance to fire damage."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/hellish-resistance"
   },
   {
@@ -481,6 +710,8 @@
     "desc": [
       "You know the thaumaturgy cantrip. When you reach 3rd level, you can cast the hellish rebuke spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5h level, you can cast the darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
     ],
+    "proficiencies": null,
+    "proficiency_choices": null,
     "url": "traits/infernal-legacy"
   }
 ]

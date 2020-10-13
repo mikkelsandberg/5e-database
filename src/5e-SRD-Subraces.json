@@ -19,7 +19,6 @@
       }
     ],
     "starting_proficiencies": null,
-    "languages": null,
     "language_options": null,
     "racial_traits": [
       {
@@ -72,7 +71,6 @@
         "url": "proficiencies/longbows"
       }
     ],
-    "languages": null,
     "language_options": {
       "choose": 1,
       "from": [
@@ -149,7 +147,13 @@
       ],
       "type": "language"
     },
-    "racial_traits": null,
+    "racial_traits": [
+      {
+        "label": "elf-weapon-training",
+        "name": "Elf Weapon Training",
+        "url": "traits/elf-weapon-training"
+      }
+    ],
     "racial_trait_options": {
       "choose": 1,
       "from": [
@@ -238,7 +242,6 @@
       }
     ],
     "starting_proficiencies": null,
-    "languages": null,
     "language_options": null,
     "racial_traits": [
       {
@@ -267,17 +270,11 @@
         "url": "ability-scores/con"
       }
     ],
-    "starting_proficiencies": null,
-    "languages": [
+    "starting_proficiencies": [
       {
-        "label": "common",
-        "name": "Common",
-        "url": "languages/common"
-      },
-      {
-        "label": "gnomish",
-        "name": "Gnomish",
-        "url": "languages/gnomish"
+        "label": "tinkers-tools",
+        "name": "Tinker's tools",
+        "url": "proficiencies/tinkers-tools"
       }
     ],
     "language_options": null,

@@ -602,7 +602,102 @@
     "size": "Medium",
     "size_description": "Half-elves are about the same size as humans, ranging from 5 to 6 feet tall. Your size is Medium.",
     "starting_proficiencies": null,
-    "starting_proficiency_options": null,
+    "starting_proficiency_options": {
+      "choose": 2,
+      "type": "proficiencies",
+      "from": [
+        {
+          "label": "skill-acrobatics",
+          "name": "Skill: Acrobatics",
+          "url": "proficiencies/skill-acrobatics"
+        },
+        {
+          "label": "skill-animal-handling",
+          "name": "Skill: Animal Handling",
+          "url": "proficiencies/skill-animal-handling"
+        },
+        {
+          "label": "skill-arcana",
+          "name": "Skill: Arcana",
+          "url": "proficiencies/skill-arcana"
+        },
+        {
+          "label": "skill-athletics",
+          "name": "Skill: Athletics",
+          "url": "proficiencies/skill-athletics"
+        },
+        {
+          "label": "skill-deception",
+          "name": "Skill: Deception",
+          "url": "proficiencies/skill-deception"
+        },
+        {
+          "label": "skill-history",
+          "name": "Skill: History",
+          "url": "proficiencies/skill-history"
+        },
+        {
+          "label": "skill-insight",
+          "name": "Skill: Insight",
+          "url": "proficiencies/skill-insight"
+        },
+        {
+          "label": "skill-intimidation",
+          "name": "Skill: Intimidation",
+          "url": "proficiencies/skill-intimidation"
+        },
+        {
+          "label": "skill-investigation",
+          "name": "Skill: Investigation",
+          "url": "proficiencies/skill-investigation"
+        },
+        {
+          "label": "skill-medicine",
+          "name": "Skill: Medicine",
+          "url": "proficiencies/skill-medicine"
+        },
+        {
+          "label": "skill-nature",
+          "name": "Skill: Nature",
+          "url": "proficiencies/skill-nature"
+        },
+        {
+          "label": "skill-perception",
+          "name": "Skill: Perception",
+          "url": "proficiencies/skill-perception"
+        },
+        {
+          "label": "skill-performance",
+          "name": "Skill: Performance",
+          "url": "proficiencies/skill-performance"
+        },
+        {
+          "label": "skill-persuasion",
+          "name": "Skill: Persuasion",
+          "url": "proficiencies/skill-persuasion"
+        },
+        {
+          "label": "skill-religion",
+          "name": "Skill: Religion",
+          "url": "proficiencies/skill-religion"
+        },
+        {
+          "label": "skill-sleight-of-hand",
+          "name": "Skill: Sleight of Hand",
+          "url": "proficiencies/skill-sleight-of-hand"
+        },
+        {
+          "label": "skill-stealth",
+          "name": "Skill: Stealth",
+          "url": "proficiencies/skill-stealth"
+        },
+        {
+          "label": "skill-survival",
+          "name": "Skill: Survival",
+          "url": "proficiencies/skill-survival"
+        }
+      ]
+    },
     "languages": [
       {
         "label": "common",

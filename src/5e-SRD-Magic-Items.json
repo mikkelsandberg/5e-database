@@ -136,7 +136,7 @@
     "name": "Armor of Invulnerability",
     "equipment_category": {
       "label": "armor",
-      "name": "Armor",
+      "name": "armor",
       "url": "equipment-types/armor"
     },
     "desc": [

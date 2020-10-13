@@ -6970,51 +6970,99 @@
     },
     "contents": [
       {
-        "item_url": "equipment-items/backpack",
+        "item": {
+          "label": "backpack",
+          "name": "Backpack",
+          "url": "equipment-items/backpack"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/ball-bearings-bag-of-1000",
+        "item": {
+          "label": "ball-bearings-bag-of-1000",
+          "name": "Ball bearings (bag of 1,000)",
+          "url": "equipment-items/ball-bearings-bag-of-1000"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/candle",
+        "item": {
+          "label": "candle",
+          "name": "Candle",
+          "url": "equipment-items/candle"
+        },
         "quantity": 5
       },
       {
-        "item_url": "equipment-items/crowbar",
+        "item": {
+          "label": "crowbar",
+          "name": "Crowbar",
+          "url": "equipment-items/crowbar"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/hammer",
+        "item": {
+          "label": "hammer",
+          "name": "Hammer",
+          "url": "equipment-items/hammer"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/piton",
+        "item": {
+          "label": "piton",
+          "name": "Piton",
+          "url": "equipment-items/piton"
+        },
         "quantity": 10
       },
       {
-        "item_url": "equipment-items/lantern-hooded",
+        "item": {
+          "label": "lantern-hooded",
+          "name": "Lantern, hooded",
+          "url": "equipment-items/lantern-hooded"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/oil-flask",
+        "item": {
+          "label": "oil-flask",
+          "name": "Oil (flask)",
+          "url": "equipment-items/oil-flask"
+        },
         "quantity": 2
       },
       {
-        "item_url": "equipment-items/rations-1-day",
+        "item": {
+          "label": "rations-1-day",
+          "name": "Rations (1 day)",
+          "url": "equipment-items/rations-1-day"
+        },
         "quantity": 5
       },
       {
-        "item_url": "equipment-items/tinderbox",
+        "item": {
+          "label": "tinderbox",
+          "name": "Tinderbox",
+          "url": "equipment-items/tinderbox"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/waterskin",
+        "item": {
+          "label": "waterskin",
+          "name": "Waterskin",
+          "url": "equipment-items/waterskin"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/rope-hempen-50-feet",
+        "item": {
+          "label": "rope-hempen-50-feet",
+          "name": "Rope, hempen (50 feet)",
+          "url": "equipment-items/rope-hempen-50-feet"
+        },
         "quantity": 1
       }
     ],
@@ -7058,47 +7106,91 @@
     },
     "contents": [
       {
-        "item_url": "equipment-items/chest",
+        "item": {
+          "label": "chest",
+          "name": "Chest",
+          "url": "equipment-items/chest"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/case-map-or-scroll",
+        "item": {
+          "label": "case-map-or-scroll",
+          "name": "Case, map or scroll",
+          "url": "equipment-items/case-map-or-scroll"
+        },
         "quantity": 2
       },
       {
-        "item_url": "equipment-items/clothes-fine",
+        "item": {
+          "label": "clothes-fine",
+          "name": "Clothes, fine",
+          "url": "equipment-items/clothes-fine"
+        },
         "quantity": 5
       },
       {
-        "item_url": "equipment-items/ink-1-ounce-bottle",
+        "item": {
+          "label": "ink-1-ounce-bottle",
+          "name": "Ink (1 ounce bottle)",
+          "url": "equipment-items/ink-1-ounce-bottle"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/ink-pen",
+        "item": {
+          "label": "ink-pen",
+          "name": "Ink pen",
+          "url": "equipment-items/ink-pen"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/lamp",
+        "item": {
+          "label": "lamp",
+          "name": "Lamp",
+          "url": "equipment-items/lamp"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/oil-flask",
+        "item": {
+          "label": "oil-flask",
+          "name": "Oil (flask)",
+          "url": "equipment-items/oil-flask"
+        },
         "quantity": 2
       },
       {
-        "item_url": "equipment-items/paper-one-sheet",
+        "item": {
+          "label": "paper-one-sheet",
+          "name": "Paper (one sheet)",
+          "url": "equipment-items/paper-one-sheet"
+        },
         "quantity": 5
       },
       {
-        "item_url": "equipment-items/perfume-vial",
+        "item": {
+          "label": "perfume-vial",
+          "name": "Perfume (vial)",
+          "url": "equipment-items/perfume-vial"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/sealing-wax",
+        "item": {
+          "label": "sealing-wax",
+          "name": "Sealing wax",
+          "url": "equipment-items/sealing-wax"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/soap",
+        "item": {
+          "label": "soap",
+          "name": "Soap",
+          "url": "equipment-items/soap"
+        },
         "quantity": 1
       }
     ],
@@ -7143,35 +7235,67 @@
     },
     "contents": [
       {
-        "item_url": "equipment-items/backpack",
+        "item": {
+          "label": "backpack",
+          "name": "Backpack",
+          "url": "equipment-items/backpack"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/crowbar",
+        "item": {
+          "label": "crowbar",
+          "name": "Crowbar",
+          "url": "equipment-items/crowbar"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/hammer",
+        "item": {
+          "label": "hammer",
+          "name": "Hammer",
+          "url": "equipment-items/hammer"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/piton",
+        "item": {
+          "label": "piton",
+          "name": "Piton",
+          "url": "equipment-items/piton"
+        },
         "quantity": 10
       },
       {
-        "item_url": "equipment-items/torch",
+        "item": {
+          "label": "torch",
+          "name": "Torch",
+          "url": "equipment-items/torch"
+        },
         "quantity": 10
       },
       {
-        "item_url": "equipment-items/rations-1-day",
+        "item": {
+          "label": "rations-1-day",
+          "name": "Rations (1 day)",
+          "url": "equipment-items/rations-1-day"
+        },
         "quantity": 10
       },
       {
-        "item_url": "equipment-items/waterskin",
+        "item": {
+          "label": "waterskin",
+          "name": "Waterskin",
+          "url": "equipment-items/waterskin"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/rope-hempen-50-feet",
+        "item": {
+          "label": "rope-hempen-50-feet",
+          "name": "Rope, hempen (50 feet)",
+          "url": "equipment-items/rope-hempen-50-feet"
+        },
         "quantity": 1
       }
     ],
@@ -7215,31 +7339,59 @@
     },
     "contents": [
       {
-        "item_url": "equipment-items/backpack",
+        "item": {
+          "label": "backpack",
+          "name": "Backpack",
+          "url": "equipment-items/backpack"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/bedroll",
+        "item": {
+          "label": "bedroll",
+          "name": "Bedroll",
+          "url": "equipment-items/bedroll"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/clothes-costume",
+        "item": {
+          "label": "clothes-costume",
+          "name": "Clothes, costume",
+          "url": "equipment-items/clothes-costume"
+        },
         "quantity": 2
       },
       {
-        "item_url": "equipment-items/candle",
+        "item": {
+          "label": "candle",
+          "name": "Candle",
+          "url": "equipment-items/candle"
+        },
         "quantity": 5
       },
       {
-        "item_url": "equipment-items/rations-1-day",
+        "item": {
+          "label": "rations-1-day",
+          "name": "Rations (1 day)",
+          "url": "equipment-items/rations-1-day"
+        },
         "quantity": 5
       },
       {
-        "item_url": "equipment-items/waterskin",
+        "item": {
+          "label": "waterskin",
+          "name": "Waterskin",
+          "url": "equipment-items/waterskin"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/disguise-kit",
+        "item": {
+          "label": "disguise-kit",
+          "name": "Disguise Kit",
+          "url": "equipment-items/disguise-kit"
+        },
         "quantity": 1
       }
     ],
@@ -7283,35 +7435,67 @@
     },
     "contents": [
       {
-        "item_url": "equipment-items/backpack",
+        "item": {
+          "label": "backpack",
+          "name": "Backpack",
+          "url": "equipment-items/backpack"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/bedroll",
+        "item": {
+          "label": "bedroll",
+          "name": "Bedroll",
+          "url": "equipment-items/bedroll"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/mess-kit",
+        "item": {
+          "label": "mess-kit",
+          "name": "Mess Kit",
+          "url": "equipment-items/mess-kit"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/tinderbox",
+        "item": {
+          "label": "tinderbox",
+          "name": "Tinderbox",
+          "url": "equipment-items/tinderbox"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/torch",
+        "item": {
+          "label": "torch",
+          "name": "Torch",
+          "url": "equipment-items/torch"
+        },
         "quantity": 10
       },
       {
-        "item_url": "equipment-items/rations-1-day",
+        "item": {
+          "label": "rations-1-day",
+          "name": "Rations (1 day)",
+          "url": "equipment-items/rations-1-day"
+        },
         "quantity": 10
       },
       {
-        "item_url": "equipment-items/waterskin",
+        "item": {
+          "label": "waterskin",
+          "name": "Waterskin",
+          "url": "equipment-items/waterskin"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/disguise-kit",
+        "item": {
+          "label": "disguise-kit",
+          "name": "Disguise Kit",
+          "url": "equipment-items/disguise-kit"
+        },
         "quantity": 1
       }
     ],
@@ -7355,27 +7539,51 @@
     },
     "contents": [
       {
-        "item_url": "equipment-items/backpack",
+        "item": {
+          "label": "backpack",
+          "name": "Backpack",
+          "url": "equipment-items/backpack"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/blanket",
+        "item": {
+          "label": "blanket",
+          "name": "Blanket",
+          "url": "equipment-items/blanket"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/candle",
+        "item": {
+          "label": "candle",
+          "name": "Candle",
+          "url": "equipment-items/candle"
+        },
         "quantity": 10
       },
       {
-        "item_url": "equipment-items/tinderbox",
+        "item": {
+          "label": "tinderbox",
+          "name": "Tinderbox",
+          "url": "equipment-items/tinderbox"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/rations-1-day",
+        "item": {
+          "label": "rations-1-day",
+          "name": "Rations (1 day)",
+          "url": "equipment-items/rations-1-day"
+        },
         "quantity": 2
       },
       {
-        "item_url": "equipment-items/waterskin",
+        "item": {
+          "label": "waterskin",
+          "name": "Waterskin",
+          "url": "equipment-items/waterskin"
+        },
         "quantity": 1
       }
     ],
@@ -7419,23 +7627,43 @@
     },
     "contents": [
       {
-        "item_url": "equipment-items/backpack",
+        "item": {
+          "label": "backpack",
+          "name": "Backpack",
+          "url": "equipment-items/backpack"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/book",
+        "item": {
+          "label": "book",
+          "name": "Book",
+          "url": "equipment-items/book"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/ink-1-ounce-bottle",
+        "item": {
+          "label": "ink-1-ounce-bottle",
+          "name": "Ink (1 ounce bottle)",
+          "url": "equipment-items/ink-1-ounce-bottle"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/ink-pen",
+        "item": {
+          "label": "ink-pen",
+          "name": "Ink pen",
+          "url": "equipment-items/ink-pen"
+        },
         "quantity": 1
       },
       {
-        "item_url": "equipment-items/parchment-one-sheet",
+        "item": {
+          "label": "parchment-one-sheet",
+          "name": "Parchment (one sheet)",
+          "url": "equipment-items/parchment-one-sheet"
+        },
         "quantity": 10
       }
     ],
