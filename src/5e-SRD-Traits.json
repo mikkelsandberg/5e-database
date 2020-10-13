@@ -28,7 +28,7 @@
         "url": "races/half-orc"
       },
       {
-        "index": "tiefling",
+        "label": "tiefling",
         "name": "Tiefling",
         "url": "races/tiefling"
       }
@@ -73,10 +73,10 @@
     "url": "traits/dwarven-combat-training"
   },
   {
-    "index": "tool-proficiency",
+    "label": "tool-proficiency",
     "race_associations": [
       {
-        "index": "dwarf",
+        "label": "dwarf",
         "name": "Dwarf",
         "url": "races/dwarf"
       }
