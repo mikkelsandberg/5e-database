@@ -9,6 +9,7 @@
     "hit_points": 19,
     "hit_dice": "3d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -113,6 +114,7 @@
     "hit_points": 10,
     "hit_dice": "3d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -190,6 +192,7 @@
     "hit_points": 59,
     "hit_dice": "7d12",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -273,6 +276,7 @@
     "hit_points": 19,
     "hit_dice": "3d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -329,6 +333,7 @@
     "hit_points": 3,
     "hit_dice": "1d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -392,6 +397,7 @@
     "hit_points": 3,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "climb": null,
       "fly": null,
       "swim": null,
@@ -455,6 +461,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -524,6 +531,7 @@
     "hit_points": 19,
     "hit_dice": "3d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -627,6 +635,7 @@
     "hit_points": 22,
     "hit_dice": "4d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -714,6 +723,7 @@
     "hit_points": 7,
     "hit_dice": "2d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -790,6 +800,7 @@
     "hit_points": 11,
     "hit_dice": "2d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -876,6 +887,7 @@
     "hit_points": 34,
     "hit_dice": "4d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -986,6 +998,7 @@
     "hit_points": 15,
     "hit_dice": "2d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1042,6 +1055,7 @@
     "hit_points": 2,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -1118,6 +1132,7 @@
     "hit_points": 13,
     "hit_dice": "2d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1191,6 +1206,7 @@
     "hit_points": 2,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1261,6 +1277,7 @@
     "hit_points": 19,
     "hit_dice": "3d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1331,6 +1348,7 @@
     "hit_points": 39,
     "hit_dice": "6d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1425,6 +1443,7 @@
     "hit_points": 4,
     "hit_dice": "1d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1481,6 +1500,7 @@
     "hit_points": 37,
     "hit_dice": "5d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1563,6 +1583,7 @@
     "hit_points": 19,
     "hit_dice": "3d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1619,6 +1640,7 @@
     "hit_points": 3,
     "hit_dice": "1d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -1689,6 +1711,7 @@
     "hit_points": 76,
     "hit_dice": "8d12",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1769,6 +1792,7 @@
     "hit_points": 13,
     "hit_dice": "2d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1849,6 +1873,7 @@
     "hit_points": 5,
     "hit_dice": "2d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "walk": "30 ft.",
@@ -1920,6 +1945,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -1984,6 +2010,7 @@
     "hit_points": 157,
     "hit_dice": "15d12",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -2088,6 +2115,7 @@
     "hit_points": 13,
     "hit_dice": "2d8",
     "speed": {
+      "hover": false,
       "climb": null,
       "fly": null,
       "swim": null,
@@ -2191,6 +2219,7 @@
     "hit_points": 22,
     "hit_dice": "4d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -2260,6 +2289,7 @@
     "hit_points": 42,
     "hit_dice": "5d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -2336,6 +2366,7 @@
     "hit_points": 4,
     "hit_dice": "1d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -2392,6 +2423,7 @@
     "hit_points": 60,
     "hit_dice": "8d12",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -2472,6 +2504,7 @@
     "hit_points": 13,
     "hit_dice": "3d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -2542,6 +2575,7 @@
     "hit_points": 85,
     "hit_dice": "9d12",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -2652,6 +2686,7 @@
     "hit_points": 26,
     "hit_dice": "4d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -2762,6 +2797,7 @@
     "hit_points": 42,
     "hit_dice": "5d12",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -2849,6 +2885,7 @@
     "hit_points": 4,
     "hit_dice": "1d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -2912,6 +2949,7 @@
     "hit_points": 18,
     "hit_dice": "4d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3000,6 +3038,7 @@
     "hit_points": 19,
     "hit_dice": "3d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3069,6 +3108,7 @@
     "hit_points": 45,
     "hit_dice": "6d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3139,6 +3179,7 @@
     "hit_points": 19,
     "hit_dice": "3d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -3208,6 +3249,7 @@
     "hit_points": 52,
     "hit_dice": "8d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3309,6 +3351,7 @@
     "hit_points": 19,
     "hit_dice": "3d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -3391,6 +3434,7 @@
     "hit_points": 11,
     "hit_dice": "2d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3454,6 +3498,7 @@
     "hit_points": 7,
     "hit_dice": "2d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3523,6 +3568,7 @@
     "hit_points": 7,
     "hit_dice": "2d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3579,6 +3625,7 @@
     "hit_points": 52,
     "hit_dice": "7d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3675,6 +3722,7 @@
     "hit_points": 16,
     "hit_dice": "3d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3744,6 +3792,7 @@
     "hit_points": 126,
     "hit_dice": "11d12",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3820,6 +3869,7 @@
     "hit_points": 26,
     "hit_dice": "4d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -3914,6 +3964,7 @@
     "hit_points": 39,
     "hit_dice": "6d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -3997,6 +4048,7 @@
     "hit_points": 22,
     "hit_dice": "3d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -4113,6 +4165,7 @@
     "hit_points": 13,
     "hit_dice": "3d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "walk": "10 ft.",
@@ -4169,6 +4222,7 @@
     "hit_points": 9,
     "hit_dice": "2d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -4245,6 +4299,7 @@
     "hit_points": 11,
     "hit_dice": "2d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -4333,6 +4388,7 @@
     "hit_points": 4,
     "hit_dice": "1d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -4402,6 +4458,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -4472,6 +4529,7 @@
     "hit_points": 45,
     "hit_dice": "6d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -4548,6 +4606,7 @@
     "hit_points": 5,
     "hit_dice": "1d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -4618,6 +4677,7 @@
     "hit_points": 3,
     "hit_dice": "1d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -4694,6 +4754,7 @@
     "hit_points": 90,
     "hit_dice": "12d12",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -4776,6 +4837,7 @@
     "hit_points": 26,
     "hit_dice": "4d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -4887,6 +4949,7 @@
     "hit_points": 2,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -4943,6 +5006,7 @@
     "hit_points": 126,
     "hit_dice": "11d12",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -5023,6 +5087,7 @@
     "hit_points": 5,
     "hit_dice": "1d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -5093,6 +5158,7 @@
     "hit_points": 11,
     "hit_dice": "2d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -5162,6 +5228,7 @@
     "hit_points": 3,
     "hit_dice": "1d6",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -5264,6 +5331,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -5346,6 +5414,7 @@
     "hit_points": 13,
     "hit_dice": "3d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -5445,6 +5514,7 @@
     "hit_points": 32,
     "hit_dice": "5d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -5527,6 +5597,7 @@
     "hit_points": 2,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -5583,6 +5654,7 @@
     "hit_points": 42,
     "hit_dice": "5d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -5693,6 +5765,7 @@
     "hit_points": 11,
     "hit_dice": "2d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -5749,6 +5822,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -5818,6 +5892,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -5881,6 +5956,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -5951,6 +6027,7 @@
     "hit_points": 22,
     "hit_dice": "4d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -6027,6 +6104,7 @@
     "hit_points": 45,
     "hit_dice": "6d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -6090,6 +6168,7 @@
     "hit_points": 13,
     "hit_dice": "2d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -6146,6 +6225,7 @@
     "hit_points": 52,
     "hit_dice": "7d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -6245,6 +6325,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -6301,6 +6382,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -6346,6 +6428,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -6428,6 +6511,7 @@
     "hit_points": 22,
     "hit_dice": "5d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -6571,6 +6655,7 @@
     "hit_points": 22,
     "hit_dice": "5d8",
     "speed": {
+      "hover": false,
       "fly": null,
       "swim": null,
       "walk": "20 ft.",
@@ -6702,6 +6787,7 @@
     "hit_points": 22,
     "hit_dice": "5d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -6833,6 +6919,7 @@
     "hit_points": 22,
     "hit_dice": "5d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -6964,6 +7051,7 @@
     "hit_points": 36,
     "hit_dice": "8d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -7095,6 +7183,7 @@
     "hit_points": 28,
     "hit_dice": "8d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -7238,6 +7327,7 @@
     "hit_points": 24,
     "hit_dice": "7d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -7375,6 +7465,7 @@
     "hit_points": 24,
     "hit_dice": "7d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -7506,6 +7597,7 @@
     "hit_points": 22,
     "hit_dice": "5d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "fly": null,
       "swim": null,
@@ -7649,6 +7741,7 @@
     "hit_points": 22,
     "hit_dice": "5d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -7780,6 +7873,7 @@
     "hit_points": 37,
     "hit_dice": "5d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -7879,6 +7973,7 @@
     "hit_points": 5,
     "hit_dice": "1d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "swim": null,
@@ -7955,6 +8050,7 @@
     "hit_points": 19,
     "hit_dice": "3d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -8018,6 +8114,7 @@
     "hit_points": 1,
     "hit_dice": "1d4",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -8094,6 +8191,7 @@
     "hit_points": 75,
     "hit_dice": "10d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -8219,6 +8317,7 @@
     "hit_points": 11,
     "hit_dice": "2d8",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,
@@ -8301,6 +8400,7 @@
     "hit_points": 26,
     "hit_dice": "4d10",
     "speed": {
+      "hover": false,
       "burrow": null,
       "climb": null,
       "fly": null,

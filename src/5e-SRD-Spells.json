@@ -29,14 +29,14 @@
         "url": "damage-types/acid"
       },
       "damage_at_slot_level": {
-        "2": "4d4",
-        "3": "5d4",
-        "4": "6d4",
-        "5": "7d4",
-        "6": "8d4",
-        "7": "9d4",
-        "8": "10d4",
-        "9": "11d4"
+        "level_2": "4d4",
+        "level_3": "5d4",
+        "level_4": "6d4",
+        "level_5": "7d4",
+        "level_6": "8d4",
+        "level_7": "9d4",
+        "level_8": "10d4",
+        "level_9": "11d4"
       }
     },
     "school": {
@@ -93,10 +93,10 @@
         "url": "damage-types/acid"
       },
       "damage_at_character_level": {
-        "1": "1d6",
-        "5": "2d6",
-        "11": "3d6",
-        "17": "4d6"
+        "level_1": "1d6",
+        "level_5": "2d6",
+        "level_11": "3d6",
+        "level_17": "4d6"
       }
     },
     "dc": {
@@ -161,14 +161,14 @@
     "casting_time": "1 action",
     "level": 2,
     "heal_at_slot_level": {
-      "2": "5",
-      "3": "10",
-      "4": "15",
-      "5": "20",
-      "6": "25",
-      "7": "30",
-      "8": "35",
-      "9": "40"
+      "level_2": "5",
+      "level_3": "10",
+      "level_4": "15",
+      "level_5": "20",
+      "level_6": "25",
+      "level_7": "30",
+      "level_8": "35",
+      "level_9": "40"
     },
     "school": {
       "label": "abjuration",
@@ -911,7 +911,7 @@
         "url": "damage-types/force"
       },
       "damage_at_slot_level": {
-        "7": "3d10"
+        "level_7": "3d10"
       }
     },
     "school": {
@@ -1477,7 +1477,7 @@
         "url": "damage-types/bludgeoning"
       },
       "damage_at_slot_level": {
-        "4": "3d6"
+        "level_4": "3d6"
       }
     },
     "dc": {
@@ -1538,7 +1538,7 @@
         "url": "damage-types/slashing"
       },
       "damage_at_slot_level": {
-        "6": "6d10"
+        "level_6": "6d10"
       }
     },
     "dc": {
@@ -1659,12 +1659,12 @@
         "url": "damage-types/necrotic"
       },
       "damage_at_slot_level": {
-        "4": "8d8",
-        "5": "9d8",
-        "6": "10d8",
-        "7": "11d8",
-        "8": "12d8",
-        "9": "13d8"
+        "level_4": "8d8",
+        "level_5": "9d8",
+        "level_6": "10d8",
+        "level_7": "11d8",
+        "level_8": "12d8",
+        "level_9": "13d8"
       }
     },
     "dc": {
@@ -1965,15 +1965,15 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "1": "3d6",
-        "2": "4d6",
-        "3": "5d6",
-        "4": "6d6",
-        "5": "7d6",
-        "6": "8d6",
-        "7": "9d6",
-        "8": "10d6",
-        "9": "11d6"
+        "level_1": "3d6",
+        "level_2": "4d6",
+        "level_3": "5d6",
+        "level_4": "6d6",
+        "level_5": "7d6",
+        "level_6": "8d6",
+        "level_7": "9d6",
+        "level_8": "10d6",
+        "level_9": "11d6"
       }
     },
     "dc": {
@@ -2052,13 +2052,13 @@
         "url": "damage-types/lightning"
       },
       "damage_at_slot_level": {
-        "3": "3d10",
-        "4": "4d10",
-        "5": "5d10",
-        "6": "6d10",
-        "7": "7d10",
-        "8": "8d10",
-        "9": "9d10"
+        "level_3": "3d10",
+        "level_4": "4d10",
+        "level_5": "5d10",
+        "level_6": "6d10",
+        "level_7": "7d10",
+        "level_8": "8d10",
+        "level_9": "9d10"
       }
     },
     "area_of_effect": {
@@ -2186,7 +2186,7 @@
         "url": "damage-types/lightning"
       },
       "damage_at_slot_level": {
-        "6": "10d8"
+        "level_6": "10d8"
       }
     },
     "dc": {
@@ -2322,10 +2322,10 @@
         "url": "damage-types/necrotic"
       },
       "damage_at_character_level": {
-        "1": "1d8",
-        "5": "2d8",
-        "11": "3d8",
-        "17": "4d8"
+        "level_1": "1d8",
+        "level_5": "2d8",
+        "level_11": "3d8",
+        "level_17": "4d8"
       }
     },
     "school": {
@@ -2393,10 +2393,10 @@
         "url": "damage-types/necrotic"
       },
       "damage_at_slot_level": {
-        "6": "8d6",
-        "7": "10d6",
-        "8": "12d6",
-        "9": "14d6"
+        "level_6": "8d6",
+        "level_7": "10d6",
+        "level_8": "12d6",
+        "level_9": "14d6"
       }
     },
     "dc": {
@@ -2570,11 +2570,11 @@
         "url": "damage-types/poison"
       },
       "damage_at_slot_level": {
-        "5": "5d8",
-        "6": "6d8",
-        "7": "7d8",
-        "8": "8d8",
-        "9": "9d8"
+        "level_5": "5d8",
+        "level_6": "6d8",
+        "level_7": "7d8",
+        "level_8": "8d8",
+        "level_9": "9d8"
       }
     },
     "dc": {
@@ -2992,11 +2992,11 @@
         "url": "damage-types/cold"
       },
       "damage_at_slot_level": {
-        "5": "8d8",
-        "6": "9d8",
-        "7": "10d8",
-        "8": "11d8",
-        "9": "12d8"
+        "level_5": "8d8",
+        "level_6": "9d8",
+        "level_7": "10d8",
+        "level_8": "11d8",
+        "level_9": "12d8"
       }
     },
     "dc": {
@@ -3679,7 +3679,7 @@
         "url": "damage-types/bludgeoning"
       },
       "damage_at_slot_level": {
-        "4": "2d8"
+        "level_4": "2d8"
       }
     },
     "dc": {
@@ -4079,15 +4079,15 @@
     "casting_time": "1 action",
     "level": 1,
     "heal_at_slot_level": {
-      "1": "1d8 + MOD",
-      "2": "2d8 + MOD",
-      "3": "3d8 + MOD",
-      "4": "4d8 + MOD",
-      "5": "5d8 + MOD",
-      "6": "6d8 + MOD",
-      "7": "7d8 + MOD",
-      "8": "8d8 + MOD",
-      "9": "9d8 + MOD"
+      "level_1": "1d8 + MOD",
+      "level_2": "2d8 + MOD",
+      "level_3": "3d8 + MOD",
+      "level_4": "4d8 + MOD",
+      "level_5": "5d8 + MOD",
+      "level_6": "6d8 + MOD",
+      "level_7": "7d8 + MOD",
+      "level_8": "8d8 + MOD",
+      "level_9": "9d8 + MOD"
     },
     "school": {
       "label": "evocation",
@@ -4477,9 +4477,9 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "7": "12d6",
-        "8": "13d6",
-        "9": "14d6"
+        "level_7": "12d6",
+        "level_8": "13d6",
+        "level_9": "14d6"
       }
     },
     "dc": {
@@ -4839,7 +4839,7 @@
         "url": "damage-types/force"
       },
       "damage_at_slot_level": {
-        "4": "4d6"
+        "level_4": "4d6"
       }
     },
     "school": {
@@ -4966,7 +4966,7 @@
         "url": "damage-types/force"
       },
       "damage_at_slot_level": {
-        "6": "10d6 + 40"
+        "level_6": "10d6 + 40"
       }
     },
     "dc": {
@@ -5215,7 +5215,7 @@
         "url": "damage-types/radiant"
       },
       "damage_at_slot_level": {
-        "1": "1d4"
+        "level_1": "1d4"
       }
     },
     "school": {
@@ -5513,7 +5513,7 @@
         "url": "damage-types/psychic"
       },
       "damage_at_slot_level": {
-        "5": "3d6"
+        "level_5": "3d6"
       }
     },
     "dc": {
@@ -5687,10 +5687,10 @@
         "url": "damage-types/force"
       },
       "damage_at_character_level": {
-        "1": "1d10",
-        "5": "2d10",
-        "11": "3d10",
-        "17": "4d10"
+        "level_1": "1d10",
+        "level_5": "2d10",
+        "level_11": "3d10",
+        "level_17": "4d10"
       }
     },
     "school": {
@@ -6281,7 +6281,7 @@
         "url": "damage-types/piercing"
       },
       "damage_at_slot_level": {
-        "4": "4d8"
+        "level_4": "4d8"
       }
     },
     "school": {
@@ -6325,15 +6325,15 @@
     "casting_time": "1 action",
     "level": 1,
     "heal_at_slot_level": {
-      "1": "1d4 + 4",
-      "2": "1d4 + 9",
-      "3": "1d4 + 14",
-      "4": "1d4 + 19",
-      "5": "1d4 + 24",
-      "6": "1d4 + 29",
-      "7": "1d4 + 34",
-      "8": "1d4 + 39",
-      "9": "1d4 + 44"
+      "level_1": "1d4 + 4",
+      "level_2": "1d4 + 9",
+      "level_3": "1d4 + 14",
+      "level_4": "1d4 + 19",
+      "level_5": "1d4 + 24",
+      "level_6": "1d4 + 29",
+      "level_7": "1d4 + 34",
+      "level_8": "1d4 + 39",
+      "level_9": "1d4 + 44"
     },
     "school": {
       "label": "necromancy",
@@ -6522,7 +6522,7 @@
         "url": "damage-types/psychic"
       },
       "damage_at_slot_level": {
-        "8": "4d6"
+        "level_8": "4d6"
       }
     },
     "dc": {
@@ -6788,7 +6788,7 @@
         "url": "damage-types/necrotic"
       },
       "damage_at_slot_level": {
-        "7": "7d8 + 30"
+        "level_7": "7d8 + 30"
       }
     },
     "dc": {
@@ -6856,10 +6856,10 @@
         "url": "damage-types/fire"
       },
       "damage_at_character_level": {
-        "1": "1d10",
-        "5": "2d10",
-        "11": "3d10",
-        "17": "4d10"
+        "level_1": "1d10",
+        "level_5": "2d10",
+        "level_11": "3d10",
+        "level_17": "4d10"
       }
     },
     "school": {
@@ -6915,7 +6915,7 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "4": "2d8"
+        "level_4": "2d8"
       }
     },
     "area_of_effect": {
@@ -6972,7 +6972,7 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "7": "7d10"
+        "level_7": "7d10"
       }
     },
     "dc": {
@@ -7047,13 +7047,13 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "3": "8d6",
-        "4": "9d6",
-        "5": "10d6",
-        "6": "11d6",
-        "7": "12d6",
-        "8": "13d6",
-        "9": "14d6"
+        "level_3": "8d6",
+        "level_4": "9d6",
+        "level_5": "10d6",
+        "level_6": "11d6",
+        "level_7": "12d6",
+        "level_8": "13d6",
+        "level_9": "14d6"
       }
     },
     "dc": {
@@ -7188,11 +7188,11 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "5": "4d6 + 4d6",
-        "6": "4d6 + 5d6",
-        "7": "4d6 + 6d6",
-        "8": "4d6 + 7d6",
-        "9": "4d6 + 8d6"
+        "level_5": "4d6 + 4d6",
+        "level_6": "4d6 + 5d6",
+        "level_7": "4d6 + 6d6",
+        "level_8": "4d6 + 7d6",
+        "level_9": "4d6 + 8d6"
       }
     },
     "dc": {
@@ -7777,7 +7777,7 @@
         "url": "damage-types/cold"
       },
       "damage_at_slot_level": {
-        "6": "10d6"
+        "level_6": "10d6"
       }
     },
     "dc": {
@@ -8475,7 +8475,7 @@
         "url": "damage-types/radiant"
       },
       "damage_at_slot_level": {
-        "4": "20"
+        "level_4": "20"
       }
     },
     "dc": {
@@ -8656,15 +8656,15 @@
         "url": "damage-types/radiant"
       },
       "damage_at_slot_level": {
-        "1": "4d6",
-        "2": "5d6",
-        "3": "6d6",
-        "4": "7d6",
-        "5": "8d6",
-        "6": "9d6",
-        "7": "10d6",
-        "8": "11d6",
-        "9": "12d6"
+        "level_1": "4d6",
+        "level_2": "5d6",
+        "level_3": "6d6",
+        "level_4": "7d6",
+        "level_5": "8d6",
+        "level_6": "9d6",
+        "level_7": "10d6",
+        "level_8": "11d6",
+        "level_9": "12d6"
       }
     },
     "school": {
@@ -8927,7 +8927,7 @@
         "url": "damage-types/necrotic"
       },
       "damage_at_slot_level": {
-        "6": "14d6"
+        "level_6": "14d6"
       }
     },
     "dc": {
@@ -9035,10 +9035,10 @@
     "casting_time": "1 action",
     "level": 6,
     "heal_at_slot_level": {
-      "6": "70",
-      "7": "80",
-      "8": "90",
-      "9": "100"
+      "level_6": "70",
+      "level_7": "80",
+      "level_8": "90",
+      "level_9": "100"
     },
     "school": {
       "label": "evocation",
@@ -9084,15 +9084,15 @@
     "casting_time": "1 bonus action",
     "level": 1,
     "heal_at_slot_level": {
-      "1": "1d4 + MOD",
-      "2": "2d4 + MOD",
-      "3": "3d4 + MOD",
-      "4": "4d4 + MOD",
-      "5": "5d4 + MOD",
-      "6": "6d4 + MOD",
-      "7": "7d4 + MOD",
-      "8": "8d4 + MOD",
-      "9": "9d4 + MOD"
+      "level_1": "1d4 + MOD",
+      "level_2": "2d4 + MOD",
+      "level_3": "3d4 + MOD",
+      "level_4": "4d4 + MOD",
+      "level_5": "5d4 + MOD",
+      "level_6": "6d4 + MOD",
+      "level_7": "7d4 + MOD",
+      "level_8": "8d4 + MOD",
+      "level_9": "9d4 + MOD"
     },
     "school": {
       "label": "evocation",
@@ -9160,14 +9160,14 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "2": "2d8",
-        "3": "3d8",
-        "4": "4d8",
-        "5": "5d8",
-        "6": "6d8",
-        "7": "7d8",
-        "8": "8d8",
-        "9": "9d8"
+        "level_2": "2d8",
+        "level_3": "3d8",
+        "level_4": "4d8",
+        "level_5": "5d8",
+        "level_6": "6d8",
+        "level_7": "7d8",
+        "level_8": "8d8",
+        "level_9": "9d8"
       }
     },
     "dc": {
@@ -9234,7 +9234,7 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "1": "2d10"
+        "level_1": "2d10"
       }
     },
     "dc": {
@@ -9754,12 +9754,12 @@
         "url": "damage-types/bludgeoning"
       },
       "damage_at_slot_level": {
-        "4": "2d8 + 4d6",
-        "5": "3d8 + 4d6",
-        "6": "4d8 + 4d6",
-        "7": "5d8 + 4d6",
-        "8": "6d8 + 4d6",
-        "9": "7d8 + 4d6"
+        "level_4": "2d8 + 4d6",
+        "level_5": "3d8 + 4d6",
+        "level_6": "4d8 + 4d6",
+        "level_7": "5d8 + 4d6",
+        "level_8": "6d8 + 4d6",
+        "level_9": "7d8 + 4d6"
       }
     },
     "dc": {
@@ -10010,7 +10010,7 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "8": "10d8"
+        "level_8": "10d8"
       }
     },
     "dc": {
@@ -10078,15 +10078,15 @@
         "url": "damage-types/necrotic"
       },
       "damage_at_slot_level": {
-        "1": "3d10",
-        "2": "4d10",
-        "3": "5d10",
-        "4": "6d10",
-        "5": "7d10",
-        "6": "8d10",
-        "7": "9d10",
-        "8": "10d10",
-        "9": "11d10"
+        "level_1": "3d10",
+        "level_2": "4d10",
+        "level_3": "5d10",
+        "level_4": "6d10",
+        "level_5": "7d10",
+        "level_6": "8d10",
+        "level_7": "9d10",
+        "level_8": "10d10",
+        "level_9": "11d10"
       }
     },
     "school": {
@@ -10144,11 +10144,11 @@
         "url": "damage-types/piercing"
       },
       "damage_at_slot_level": {
-        "5": "4d10",
-        "6": "5d10",
-        "7": "6d10",
-        "8": "7d10",
-        "9": "8d10"
+        "level_5": "4d10",
+        "level_6": "5d10",
+        "level_7": "6d10",
+        "level_8": "7d10",
+        "level_9": "8d10"
       }
     },
     "dc": {
@@ -10739,13 +10739,13 @@
         "url": "damage-types/lightning"
       },
       "damage_at_slot_level": {
-        "3": "8d6",
-        "4": "9d6",
-        "5": "10d6",
-        "6": "11d6",
-        "7": "12d6",
-        "8": "13d6",
-        "9": "14d6"
+        "level_3": "8d6",
+        "level_4": "9d6",
+        "level_5": "10d6",
+        "level_6": "11d6",
+        "level_7": "12d6",
+        "level_8": "13d6",
+        "level_9": "14d6"
       }
     },
     "dc": {
@@ -11314,15 +11314,15 @@
         "url": "damage-types/force"
       },
       "damage_at_slot_level": {
-        "1": "1d4 + 1",
-        "2": "1d4 + 1",
-        "3": "1d4 + 1",
-        "4": "1d4 + 1",
-        "5": "1d4 + 1",
-        "6": "1d4 + 1",
-        "7": "1d4 + 1",
-        "8": "1d4 + 1",
-        "9": "1d4 + 1"
+        "level_1": "1d4 + 1",
+        "level_2": "1d4 + 1",
+        "level_3": "1d4 + 1",
+        "level_4": "1d4 + 1",
+        "level_5": "1d4 + 1",
+        "level_6": "1d4 + 1",
+        "level_7": "1d4 + 1",
+        "level_8": "1d4 + 1",
+        "level_9": "1d4 + 1"
       }
     },
     "school": {
@@ -11594,11 +11594,11 @@
     "level": 5,
     "attack_type": "ranged",
     "heal_at_slot_level": {
-      "5": "3d8 + MOD",
-      "6": "4d8 + MOD",
-      "7": "5d8 + MOD",
-      "8": "6d8 + MOD",
-      "9": "7d8 + MOD"
+      "level_5": "3d8 + MOD",
+      "level_6": "4d8 + MOD",
+      "level_7": "5d8 + MOD",
+      "level_8": "6d8 + MOD",
+      "level_9": "7d8 + MOD"
     },
     "area_of_effect": {
       "type": "sphere",
@@ -11655,7 +11655,7 @@
     "casting_time": "1 action",
     "level": 9,
     "heal_at_slot_level": {
-      "9": "700"
+      "level_9": "700"
     },
     "school": {
       "label": "conjuration",
@@ -11697,13 +11697,13 @@
     "casting_time": "1 bonus action",
     "level": 3,
     "heal_at_slot_level": {
-      "3": "1d4 + MOD",
-      "4": "2d4 + MOD",
-      "5": "3d4 + MOD",
-      "6": "4d4 + MOD",
-      "7": "5d4 + MOD",
-      "8": "6d4 + MOD",
-      "9": "7d4 + MOD"
+      "level_3": "1d4 + MOD",
+      "level_4": "2d4 + MOD",
+      "level_5": "3d4 + MOD",
+      "level_6": "4d4 + MOD",
+      "level_7": "5d4 + MOD",
+      "level_8": "6d4 + MOD",
+      "level_9": "7d4 + MOD"
     },
     "school": {
       "label": "evocation",
@@ -12035,7 +12035,7 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "9": "20d6 + 20d6"
+        "level_9": "20d6 + 20d6"
       }
     },
     "dc": {
@@ -12488,14 +12488,14 @@
         "url": "damage-types/radiant"
       },
       "damage_at_slot_level": {
-        "2": "2d10",
-        "3": "3d10",
-        "4": "4d10",
-        "5": "5d10",
-        "6": "6d10",
-        "7": "7d10",
-        "8": "8d10",
-        "9": "9d10"
+        "level_2": "2d10",
+        "level_3": "3d10",
+        "level_4": "4d10",
+        "level_5": "5d10",
+        "level_6": "6d10",
+        "level_7": "7d10",
+        "level_8": "8d10",
+        "level_9": "9d10"
       }
     },
     "dc": {
@@ -12773,7 +12773,7 @@
         "url": "damage-types/psychic"
       },
       "damage_at_slot_level": {
-        "4": "4d10"
+        "level_4": "4d10"
       }
     },
     "dc": {
@@ -13116,10 +13116,10 @@
         "url": "damage-types/poison"
       },
       "damage_at_character_level": {
-        "1": "1d12",
-        "5": "2d12",
-        "11": "3d12",
-        "17": "4d12"
+        "level_1": "1d12",
+        "level_5": "2d12",
+        "level_11": "3d12",
+        "level_17": "4d12"
       }
     },
     "dc": {
@@ -13350,14 +13350,14 @@
     "casting_time": "10 minutes",
     "level": 2,
     "heal_at_slot_level": {
-      "2": "2d8 + MOD",
-      "3": "3d8 + MOD",
-      "4": "4d8 + MOD",
-      "5": "5d8 + MOD",
-      "6": "6d8 + MOD",
-      "7": "7d8 + MOD",
-      "8": "8d8 + MOD",
-      "9": "9d8 + MOD"
+      "level_2": "2d8 + MOD",
+      "level_3": "3d8 + MOD",
+      "level_4": "4d8 + MOD",
+      "level_5": "5d8 + MOD",
+      "level_6": "6d8 + MOD",
+      "level_7": "7d8 + MOD",
+      "level_8": "8d8 + MOD",
+      "level_9": "9d8 + MOD"
     },
     "school": {
       "label": "evocation",
@@ -13487,7 +13487,7 @@
       "damage_at_character_level": null,
       "damage_type": null,
       "damage_at_slot_level": {
-        "7": "10d6"
+        "level_7": "10d6"
       }
     },
     "dc": {
@@ -13667,10 +13667,10 @@
         "url": "damage-types/fire"
       },
       "damage_at_character_level": {
-        "1": "1d8",
-        "5": "2d8",
-        "11": "3d8",
-        "17": "4d8"
+        "level_1": "1d8",
+        "level_5": "2d8",
+        "level_11": "3d8",
+        "level_17": "4d8"
       }
     },
     "school": {
@@ -14179,10 +14179,10 @@
         "url": "damage-types/cold"
       },
       "damage_at_character_level": {
-        "1": "1d8",
-        "5": "2d8",
-        "11": "3d8",
-        "17": "4d8"
+        "level_1": "1d8",
+        "level_5": "2d8",
+        "level_11": "3d8",
+        "level_17": "4d8"
       }
     },
     "school": {
@@ -14236,7 +14236,7 @@
     "casting_time": "1 minute",
     "level": 7,
     "heal_at_slot_level": {
-      "7": "4d8 + 15"
+      "level_7": "4d8 + 15"
     },
     "school": {
       "label": "transmutation",
@@ -14737,10 +14737,10 @@
         "url": "damage-types/radiant"
       },
       "damage_at_character_level": {
-        "1": "1d8",
-        "5": "2d8",
-        "11": "3d8",
-        "17": "4d8"
+        "level_1": "1d8",
+        "level_5": "2d8",
+        "level_11": "3d8",
+        "level_17": "4d8"
       }
     },
     "dc": {
@@ -15300,14 +15300,14 @@
         "url": "damage-types/thunder"
       },
       "damage_at_slot_level": {
-        "2": "3d8",
-        "3": "4d8",
-        "4": "5d8",
-        "5": "6d8",
-        "6": "7d8",
-        "7": "8d8",
-        "8": "9d8",
-        "9": "10d8"
+        "level_2": "3d8",
+        "level_3": "4d8",
+        "level_4": "5d8",
+        "level_5": "6d8",
+        "level_6": "7d8",
+        "level_7": "8d8",
+        "level_8": "9d8",
+        "level_9": "10d8"
       }
     },
     "dc": {
@@ -15531,10 +15531,10 @@
         "url": "damage-types/lightning"
       },
       "damage_at_character_level": {
-        "1": "1d8",
-        "5": "2d8",
-        "11": "3d8",
-        "17": "4d8"
+        "level_1": "1d8",
+        "level_5": "2d8",
+        "level_11": "3d8",
+        "level_17": "4d8"
       }
     },
     "school": {
@@ -15760,7 +15760,7 @@
       "damage_at_character_level": null,
       "damage_type": null,
       "damage_at_slot_level": {
-        "1": "5d8"
+        "level_1": "5d8"
       }
     },
     "area_of_effect": {
@@ -16338,14 +16338,14 @@
         "url": "damage-types/force"
       },
       "damage_at_slot_level": {
-        "2": "1d8 + MOD",
-        "3": "1d8 + MOD",
-        "4": "2d8 + MOD",
-        "5": "2d8 + MOD",
-        "6": "3d8 + MOD",
-        "7": "3d8 + MOD",
-        "8": "4d8 + MOD",
-        "9": "4d8 + MOD"
+        "level_2": "1d8 + MOD",
+        "level_3": "1d8 + MOD",
+        "level_4": "2d8 + MOD",
+        "level_5": "2d8 + MOD",
+        "level_6": "3d8 + MOD",
+        "level_7": "3d8 + MOD",
+        "level_8": "4d8 + MOD",
+        "level_9": "4d8 + MOD"
       }
     },
     "school": {
@@ -16614,7 +16614,7 @@
         "url": "damage-types/thunder"
       },
       "damage_at_slot_level": {
-        "9": "2d6"
+        "level_9": "2d6"
       }
     },
     "dc": {
@@ -16749,7 +16749,7 @@
         "url": "damage-types/radiant"
       },
       "damage_at_slot_level": {
-        "6": "6d8"
+        "level_6": "6d8"
       }
     },
     "dc": {
@@ -16823,7 +16823,7 @@
         "url": "damage-types/radiant"
       },
       "damage_at_slot_level": {
-        "8": "12d6"
+        "level_8": "12d6"
       }
     },
     "dc": {
@@ -17224,15 +17224,15 @@
         "url": "damage-types/thunder"
       },
       "damage_at_slot_level": {
-        "1": "2d8",
-        "2": "3d8",
-        "3": "4d8",
-        "4": "5d8",
-        "5": "6d8",
-        "6": "7d8",
-        "7": "8d8",
-        "8": "9d8",
-        "9": "10d8"
+        "level_1": "2d8",
+        "level_2": "3d8",
+        "level_3": "4d8",
+        "level_4": "5d8",
+        "level_5": "6d8",
+        "level_6": "7d8",
+        "level_7": "8d8",
+        "level_8": "9d8",
+        "level_9": "10d8"
       }
     },
     "dc": {
@@ -17845,13 +17845,13 @@
         "url": "damage-types/necrotic"
       },
       "damage_at_slot_level": {
-        "3": "3d6",
-        "4": "4d6",
-        "5": "5d6",
-        "6": "6d6",
-        "7": "7d6",
-        "8": "8d6",
-        "9": "9d6"
+        "level_3": "3d6",
+        "level_4": "4d6",
+        "level_5": "5d6",
+        "level_6": "6d6",
+        "level_7": "7d6",
+        "level_8": "8d6",
+        "level_9": "9d6"
       }
     },
     "school": {
@@ -17909,10 +17909,10 @@
         "url": "damage-types/psychic"
       },
       "damage_at_character_level": {
-        "1": "1d4",
-        "5": "2d4",
-        "11": "3d4",
-        "17": "4d4"
+        "level_1": "1d4",
+        "level_5": "2d4",
+        "level_11": "3d4",
+        "level_17": "4d4"
       }
     },
     "dc": {
@@ -17975,7 +17975,7 @@
         "url": "damage-types/fire"
       },
       "damage_at_slot_level": {
-        "4": "5d8"
+        "level_4": "5d8"
       }
     },
     "dc": {
@@ -18095,10 +18095,10 @@
         "url": "damage-types/cold"
       },
       "damage_at_slot_level": {
-        "6": "10d6",
-        "7": "12d6",
-        "8": "14d6",
-        "9": "16d6"
+        "level_6": "10d6",
+        "level_7": "12d6",
+        "level_8": "14d6",
+        "level_9": "16d6"
       }
     },
     "dc": {
@@ -18222,10 +18222,10 @@
         "url": "damage-types/piercing"
       },
       "damage_at_slot_level": {
-        "6": "7d8",
-        "7": "8d8",
-        "8": "9d8",
-        "9": "10d8"
+        "level_6": "7d8",
+        "level_7": "8d8",
+        "level_8": "9d8",
+        "level_9": "10d8"
       }
     },
     "dc": {
@@ -18615,7 +18615,7 @@
         "url": "damage-types/bludgeoning"
       },
       "damage_at_slot_level": {
-        "3": "3d8"
+        "level_3": "3d8"
       }
     },
     "dc": {

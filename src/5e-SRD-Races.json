@@ -95,7 +95,7 @@
         "url": "traits/dwarven-combat-training"
       },
       {
-        "index": "tool-proficiency",
+        "label": "tool-proficiency",
         "name": "Tool Proficiency",
         "url": "traits/tool-proficiency"
       }
