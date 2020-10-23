@@ -331,7 +331,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/acolyte"
+    "url": "monsters/acolyte"
   },
   {
     "label": "adult-black-dragon",
@@ -7000,7 +7000,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/ape"
+    "url": "monsters/ape"
   },
   {
     "label": "archmage",
@@ -7292,7 +7292,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/archmage"
+    "url": "monsters/archmage"
   },
   {
     "label": "assassin",
@@ -7474,7 +7474,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/assassin"
+    "url": "monsters/assassin"
   },
   {
     "label": "awakened-shrub",
@@ -7553,7 +7553,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/awakened-shrub"
+    "url": "monsters/awakened-shrub"
   },
   {
     "label": "awakened-tree",
@@ -7638,7 +7638,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/awakened-tree"
+    "url": "monsters/awakened-tree"
   },
   {
     "label": "axe-beak",
@@ -7696,7 +7696,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/axe-beak"
+    "url": "monsters/axe-beak"
   },
   {
     "label": "azer",
@@ -7895,7 +7895,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/baboon"
+    "url": "monsters/baboon"
   },
   {
     "label": "badger",
@@ -7960,7 +7960,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/badger"
+    "url": "monsters/badger"
   },
   {
     "label": "balor",
@@ -8296,7 +8296,7 @@
     ],
     "special_abilities": null,
     "reactions": null,
-    "url": "nonplayer-characters/bandit"
+    "url": "monsters/bandit"
   },
   {
     "label": "bandit-captain",
@@ -8431,7 +8431,7 @@
       }
     ],
     "special_abilities": null,
-    "url": "nonplayer-characters/bandit-captain"
+    "url": "monsters/bandit-captain"
   },
   {
     "label": "barbed-devil",
@@ -8836,7 +8836,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/bat"
+    "url": "monsters/bat"
   },
   {
     "label": "bearded-devil",
@@ -9258,7 +9258,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/berserker"
+    "url": "monsters/berserker"
   },
   {
     "label": "black-bear",
@@ -9363,7 +9363,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/black-bear"
+    "url": "monsters/black-bear"
   },
   {
     "label": "black-dragon-wyrmling",
@@ -9770,7 +9770,7 @@
         }
       }
     ],
-    "url": "misc-creatures/blink-dog"
+    "url": "monsters/blink-dog"
   },
   {
     "label": "blood-hawk",
@@ -9848,7 +9848,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/blood-hawk"
+    "url": "monsters/blood-hawk"
   },
   {
     "label": "blue-dragon-wyrmling",
@@ -10080,7 +10080,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/boar"
+    "url": "monsters/boar"
   },
   {
     "label": "bone-devil",
@@ -10717,7 +10717,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/brown-bear"
+    "url": "monsters/brown-bear"
   },
   {
     "label": "bugbear",
@@ -10961,7 +10961,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/camel"
+    "url": "monsters/camel"
   },
   {
     "label": "cat",
@@ -11039,7 +11039,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/cat"
+    "url": "monsters/cat"
   },
   {
     "label": "centaur",
@@ -12426,7 +12426,7 @@
     ],
     "special_abilities": null,
     "reactions": null,
-    "url": "nonplayer-characters/commoner"
+    "url": "monsters/commoner"
   },
   {
     "label": "constrictor-snake",
@@ -12501,7 +12501,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/constrictor-snake"
+    "url": "monsters/constrictor-snake"
   },
   {
     "label": "copper-dragon-wyrmling",
@@ -13017,7 +13017,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/crab"
+    "url": "monsters/crab"
   },
   {
     "label": "crocodile",
@@ -13089,7 +13089,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/crocodile"
+    "url": "monsters/crocodile"
   },
   {
     "label": "cult-fanatic",
@@ -13251,7 +13251,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/cult-fanatic"
+    "url": "monsters/cult-fanatic"
   },
   {
     "label": "cultist",
@@ -13321,7 +13321,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/cultist"
+    "url": "monsters/cultist"
   },
   {
     "label": "darkmantle",
@@ -13508,7 +13508,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/death-dog"
+    "url": "monsters/death-dog"
   },
   {
     "label": "deep-gnome-svirfneblin",
@@ -13729,7 +13729,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/deer"
+    "url": "monsters/deer"
   },
   {
     "label": "deva",
@@ -14049,7 +14049,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/dire-wolf"
+    "url": "monsters/dire-wolf"
   },
   {
     "label": "djinni",
@@ -14517,7 +14517,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/draft-horse"
+    "url": "monsters/draft-horse"
   },
   {
     "label": "dragon-turtle",
@@ -15423,7 +15423,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/druid"
+    "url": "monsters/druid"
   },
   {
     "label": "dryad",
@@ -15959,7 +15959,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/eagle"
+    "url": "monsters/eagle"
   },
   {
     "label": "earth-elemental",
@@ -16453,7 +16453,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/elephant"
+    "url": "monsters/elephant"
   },
   {
     "label": "elk",
@@ -16535,7 +16535,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/elk"
+    "url": "monsters/elk"
   },
   {
     "label": "erinyes",
@@ -17665,7 +17665,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/flying-snake"
+    "url": "monsters/flying-snake"
   },
   {
     "label": "flying-sword",
@@ -17868,7 +17868,7 @@
       }
     ],
     "actions": null,
-    "url": "misc-creatures/frog"
+    "url": "monsters/frog"
   },
   {
     "label": "frost-giant",
@@ -18834,7 +18834,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-ape"
+    "url": "monsters/giant-ape"
   },
   {
     "label": "giant-badger",
@@ -18939,7 +18939,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-badger"
+    "url": "monsters/giant-badger"
   },
   {
     "label": "giant-bat",
@@ -19010,7 +19010,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-bat"
+    "url": "monsters/giant-bat"
   },
   {
     "label": "giant-boar",
@@ -19088,7 +19088,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-boar"
+    "url": "monsters/giant-boar"
   },
   {
     "label": "giant-centipede",
@@ -19146,7 +19146,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-centipede"
+    "url": "monsters/giant-centipede"
   },
   {
     "label": "giant-constrictor-snake",
@@ -19228,7 +19228,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-constrictor-snake"
+    "url": "monsters/giant-constrictor-snake"
   },
   {
     "label": "giant-crab",
@@ -19300,7 +19300,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-crab"
+    "url": "monsters/giant-crab"
   },
   {
     "label": "giant-crocodile",
@@ -19412,7 +19412,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-crocodile"
+    "url": "monsters/giant-crocodile"
   },
   {
     "label": "giant-eagle",
@@ -19524,7 +19524,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-eagle"
+    "url": "monsters/giant-eagle"
   },
   {
     "label": "giant-elk",
@@ -19613,7 +19613,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-elk"
+    "url": "monsters/giant-elk"
   },
   {
     "label": "giant-fire-beetle",
@@ -19678,7 +19678,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-fire-beetle"
+    "url": "monsters/giant-fire-beetle"
   },
   {
     "label": "giant-frog",
@@ -19768,7 +19768,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-frog"
+    "url": "monsters/giant-frog"
   },
   {
     "label": "giant-goat",
@@ -19839,7 +19839,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-goat"
+    "url": "monsters/giant-goat"
   },
   {
     "label": "giant-hyena",
@@ -19911,7 +19911,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-hyena"
+    "url": "monsters/giant-hyena"
   },
   {
     "label": "giant-lizard",
@@ -19982,7 +19982,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-lizard"
+    "url": "monsters/giant-lizard"
   },
   {
     "label": "giant-octopus",
@@ -20085,7 +20085,7 @@
         }
       }
     ],
-    "url": "misc-creatures/giant-octopus"
+    "url": "monsters/giant-octopus"
   },
   {
     "label": "giant-owl",
@@ -20169,7 +20169,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-owl"
+    "url": "monsters/giant-owl"
   },
   {
     "label": "giant-poisonous-snake",
@@ -20234,7 +20234,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-poisonous-snake"
+    "url": "monsters/giant-poisonous-snake"
   },
   {
     "label": "giant-rat",
@@ -20305,7 +20305,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-rat"
+    "url": "monsters/giant-rat"
   },
   {
     "label": "giant-rat-diseased",
@@ -20363,7 +20363,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-rat-diseased"
+    "url": "monsters/giant-rat-diseased"
   },
   {
     "label": "giant-scorpion",
@@ -20461,7 +20461,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-scorpion"
+    "url": "monsters/giant-scorpion"
   },
   {
     "label": "giant-sea-horse",
@@ -20532,7 +20532,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-sea-horse"
+    "url": "monsters/giant-sea-horse"
   },
   {
     "label": "giant-shark",
@@ -20610,7 +20610,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-shark"
+    "url": "monsters/giant-shark"
   },
   {
     "label": "giant-spider",
@@ -20706,7 +20706,7 @@
         "attack_bonus": 5
       }
     ],
-    "url": "misc-creatures/giant-spider"
+    "url": "monsters/giant-spider"
   },
   {
     "label": "giant-toad",
@@ -20791,7 +20791,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-toad"
+    "url": "monsters/giant-toad"
   },
   {
     "label": "giant-vulture",
@@ -20909,7 +20909,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-vulture"
+    "url": "monsters/giant-vulture"
   },
   {
     "label": "giant-wasp",
@@ -20967,7 +20967,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-wasp"
+    "url": "monsters/giant-wasp"
   },
   {
     "label": "giant-weasel",
@@ -21045,7 +21045,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-weasel"
+    "url": "monsters/giant-weasel"
   },
   {
     "label": "giant-wolf-spider",
@@ -21135,7 +21135,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/giant-wolf-spider"
+    "url": "monsters/giant-wolf-spider"
   },
   {
     "label": "gibbering-mouther",
@@ -21737,7 +21737,7 @@
         "attack_bonus": 0
       }
     ],
-    "url": "nonplayer-characters/gladiator"
+    "url": "monsters/gladiator"
   },
   {
     "label": "gnoll",
@@ -21924,7 +21924,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/goat"
+    "url": "monsters/goat"
   },
   {
     "label": "goblin",
@@ -23212,7 +23212,7 @@
     ],
     "special_abilities": null,
     "reactions": null,
-    "url": "nonplayer-characters/guard"
+    "url": "monsters/guard"
   },
   {
     "label": "guardian-naga",
@@ -24078,7 +24078,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/hawk"
+    "url": "monsters/hawk"
   },
   {
     "label": "hell-hound",
@@ -25130,7 +25130,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/hunter-shark"
+    "url": "monsters/hunter-shark"
   },
   {
     "label": "hydra",
@@ -25313,7 +25313,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/hyena"
+    "url": "monsters/hyena"
   },
   {
     "label": "ice-devil",
@@ -26427,7 +26427,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/jackal"
+    "url": "monsters/jackal"
   },
   {
     "label": "killer-whale",
@@ -26511,7 +26511,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/killer-whale"
+    "url": "monsters/killer-whale"
   },
   {
     "label": "knight",
@@ -26636,7 +26636,7 @@
         ]
       }
     ],
-    "url": "nonplayer-characters/knight"
+    "url": "monsters/knight"
   },
   {
     "label": "kobold",
@@ -27863,7 +27863,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/lion"
+    "url": "monsters/lion"
   },
   {
     "label": "lizard",
@@ -27921,7 +27921,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/lizard"
+    "url": "monsters/lizard"
   },
   {
     "label": "lizardfolk",
@@ -28328,7 +28328,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/mage"
+    "url": "monsters/mage"
   },
   {
     "label": "magma-mephit",
@@ -28731,7 +28731,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/mammoth"
+    "url": "monsters/mammoth"
   },
   {
     "label": "manticore",
@@ -29160,7 +29160,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/mastiff"
+    "url": "monsters/mastiff"
   },
   {
     "label": "medusa",
@@ -29998,7 +29998,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/mule"
+    "url": "monsters/mule"
   },
   {
     "label": "mummy",
@@ -31223,7 +31223,7 @@
       }
     ],
     "special_abilities": null,
-    "url": "nonplayer-characters/noble"
+    "url": "monsters/noble"
   },
   {
     "label": "ochre-jelly",
@@ -31473,7 +31473,7 @@
         "attack_bonus": 0
       }
     ],
-    "url": "misc-creatures/octopus"
+    "url": "monsters/octopus"
   },
   {
     "label": "ogre",
@@ -32203,7 +32203,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/owl"
+    "url": "monsters/owl"
   },
   {
     "label": "owlbear",
@@ -32419,7 +32419,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/panther"
+    "url": "monsters/panther"
   },
   {
     "label": "pegasus",
@@ -32588,7 +32588,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/phase-spider"
+    "url": "monsters/phase-spider"
   },
   {
     "label": "pit-fiend",
@@ -33308,7 +33308,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/poisonous-snake"
+    "url": "monsters/poisonous-snake"
   },
   {
     "label": "polar-bear",
@@ -33420,7 +33420,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/polar-bear"
+    "url": "monsters/polar-bear"
   },
   {
     "label": "pony",
@@ -33478,7 +33478,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/pony"
+    "url": "monsters/pony"
   },
   {
     "label": "priest",
@@ -33633,7 +33633,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/priest"
+    "url": "monsters/priest"
   },
   {
     "label": "pseudodragon",
@@ -34112,7 +34112,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/quipper"
+    "url": "monsters/quipper"
   },
   {
     "label": "rakshasa",
@@ -34441,7 +34441,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/rat"
+    "url": "monsters/rat"
   },
   {
     "label": "raven",
@@ -34513,7 +34513,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/raven"
+    "url": "monsters/raven"
   },
   {
     "label": "red-dragon-wyrmling",
@@ -34735,7 +34735,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/reef-shark"
+    "url": "monsters/reef-shark"
   },
   {
     "label": "remorhaz",
@@ -34906,7 +34906,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/rhinoceros"
+    "url": "monsters/rhinoceros"
   },
   {
     "label": "riding-horse",
@@ -34964,7 +34964,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/riding-horse"
+    "url": "monsters/riding-horse"
   },
   {
     "label": "roc",
@@ -35543,7 +35543,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/saber-toothed-tiger"
+    "url": "monsters/saber-toothed-tiger"
   },
   {
     "label": "sahuagin",
@@ -36090,7 +36090,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/scorpion"
+    "url": "monsters/scorpion"
   },
   {
     "label": "scout",
@@ -36214,7 +36214,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/scout"
+    "url": "monsters/scout"
   },
   {
     "label": "sea-hag",
@@ -36374,7 +36374,7 @@
       }
     ],
     "actions": null,
-    "url": "misc-creatures/sea-horse"
+    "url": "monsters/sea-horse"
   },
   {
     "label": "shadow",
@@ -37855,7 +37855,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/spider"
+    "url": "monsters/spider"
   },
   {
     "label": "spirit-naga",
@@ -38308,7 +38308,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/spy"
+    "url": "monsters/spy"
   },
   {
     "label": "steam-mephit",
@@ -39483,7 +39483,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-bats"
+    "url": "monsters/swarm-of-bats"
   },
   {
     "label": "swarm-of-beetles",
@@ -39616,7 +39616,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-beetles"
+    "url": "monsters/swarm-of-beetles"
   },
   {
     "label": "swarm-of-centipedes",
@@ -39749,7 +39749,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-centipedes"
+    "url": "monsters/swarm-of-centipedes"
   },
   {
     "label": "swarm-of-insects",
@@ -39882,7 +39882,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-insects"
+    "url": "monsters/swarm-of-insects"
   },
   {
     "label": "swarm-of-poisonous-snakes",
@@ -40015,7 +40015,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-poisonous-snakes"
+    "url": "monsters/swarm-of-poisonous-snakes"
   },
   {
     "label": "swarm-of-quippers",
@@ -40160,7 +40160,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-quippers"
+    "url": "monsters/swarm-of-quippers"
   },
   {
     "label": "swarm-of-rats",
@@ -40299,7 +40299,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-rats"
+    "url": "monsters/swarm-of-rats"
   },
   {
     "label": "swarm-of-ravens",
@@ -40432,7 +40432,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-ravens"
+    "url": "monsters/swarm-of-ravens"
   },
   {
     "label": "swarm-of-spiders",
@@ -40577,7 +40577,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-spiders"
+    "url": "monsters/swarm-of-spiders"
   },
   {
     "label": "swarm-of-wasps",
@@ -40710,7 +40710,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/swarm-of-wasps"
+    "url": "monsters/swarm-of-wasps"
   },
   {
     "label": "tarrasque",
@@ -41137,7 +41137,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/thug"
+    "url": "monsters/thug"
   },
   {
     "label": "tiger",
@@ -41238,7 +41238,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/tiger"
+    "url": "monsters/tiger"
   },
   {
     "label": "treant",
@@ -41446,7 +41446,7 @@
       }
     ],
     "reactions": null,
-    "url": "nonplayer-characters/tribal-warrior"
+    "url": "monsters/tribal-warrior"
   },
   {
     "label": "triceratops",
@@ -42587,7 +42587,7 @@
     ],
     "special_abilities": null,
     "reactions": null,
-    "url": "nonplayer-characters/veteran"
+    "url": "monsters/veteran"
   },
   {
     "label": "violet-fungus",
@@ -42998,7 +42998,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/vulture"
+    "url": "monsters/vulture"
   },
   {
     "label": "warhorse",
@@ -43063,7 +43063,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/warhorse"
+    "url": "monsters/warhorse"
   },
   {
     "label": "warhorse-skeleton",
@@ -43438,7 +43438,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/weasel"
+    "url": "monsters/weasel"
   },
   {
     "label": "werebear",
@@ -44877,7 +44877,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/winter-wolf"
+    "url": "monsters/winter-wolf"
   },
   {
     "label": "wolf",
@@ -44961,7 +44961,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/wolf"
+    "url": "monsters/wolf"
   },
   {
     "label": "worg",
@@ -45033,7 +45033,7 @@
         ]
       }
     ],
-    "url": "misc-creatures/worg"
+    "url": "monsters/worg"
   },
   {
     "label": "wraith",
